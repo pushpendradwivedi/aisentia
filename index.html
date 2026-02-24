@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Sentia | Global Intelligence Hub</title>
+<link rel="icon" type="image/png" href="logo.png">
+
+<!-- Tailwind CSS for responsive design and utility-first styling -->
+<script src="https://cdn.tailwindcss.com"></script>
+
+<!-- Alpine.js for reactive UI without build step -->
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+<!-- Google Roboto font for professional appearance -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+
+<style>
+  /* Hide Alpine.js elements until initialized (prevents flashing) */
+  [x-cloak] { display: none !important; }
+  
+  /* Body styling: light gray background, Roboto font, dark text */
+  body { 
+    font-family: 'Roboto', sans-serif; 
+    background-color: #F8F9FA; 
+    color: #202124; 
+  }
+  
+  /* Card component: white background with subtle border and hover effect */
+  .google-card { 
+    background: #fff; 
+    border: 1px solid #DADCE0; 
+    border-radius: 12px; 
+    transition: all 0.2s; 
+  }
+  
+  /* Card hover: lift up with shadow for depth */
+  .google-card:hover { 
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+    transform: translateY(-2px); 
+  }
+  
+  /* Google-inspired blue color (matches Gemini branding) */
+  .g-blue { color: #1a73e8; }
+  .bg-g-blue { background-color: #1a73e8; }
+  
+  /* Search bar: pill-shaped with transition effects */
+  .search-bar { 
+    background: #f1f3f4; 
+    border-radius: 24px; 
+    transition: 0.2s all ease; 
+  }
+  
+  /* Search bar focused: white background with subtle shadow */
+  .search-bar:focus-within { 
+    background: #fff; 
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2); 
+  }
+  
+  /* Additional color utility */
+  .bg-info { 
+    background-color: #e8f0fe; 
+    color: #1967d2; 
+  }
+  
+  /* Loading animation: spinning gradient */
+  @keyframes spin-slow {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  .animate-spin-slow {
+    animation: spin-slow 3s linear infinite;
+  }
+  
+  /* Badge styling for metrics */
+  .badge {
+    display: inline-block;
+    background: #f0f0f0;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+  
+  /* Trending indicator */
+  .trending-badge {
+    background: #fff3cd;
+    color: #856404;
+  }
+  
+  /* Social link icon styling */
+  .search-bar { 
+    background: #f1f3f4; 
+    border-radius: 24px; 
+    transition: 0.2s all ease; 
+  }
+  
+  /* Search bar focused: white background with subtle shadow */
+  .search-bar:focus-within { 
+    background: #fff; 
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2); 
+  }
+</style>
+
+<!-- Consent Mode Default -->
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+
+gtag('consent', 'default', {
+  'analytics_storage': 'denied',
+  'ad_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied'
+});
+</script>
+
+<!-- Google tag -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4QDT9WQ0PW"></script>
+
+<script>
+gtag('js', new Date());
+gtag('config', 'G-4QDT9WQ0PW');
+</script>
+
+</head>
+
+<body x-data="app()" x-cloak class="flex flex-col min-h-screen">
+
+<!-- ============================================================
+     HEADER - Logo, Title, Search, Request Feature, Subscribe (ALL IN ONE LINE)
+     ============================================================ -->
+<header class="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+    <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between gap-4 flex-wrap">
+        
+        <!-- Logo + Title (left) -->
+        <div class="flex items-center gap-3 flex-shrink-0">
+            <img src="logo.png" alt="AI Sentia" class="w-10 h-10 object-contain rounded-lg shadow-sm">
+            
+            <div class="flex flex-col">
+                <h1 class="text-2xl font-medium text-gray-800 tracking-tight uppercase">AI <span class="font-black text-g-blue">Sentia</span></h1>
+                <span class="text-[9px] text-gray-400 font-bold uppercase tracking-widest mt-0.5 hidden md:inline">(sen-tee-uh • awareness)</span>
+            </div>
+        </div>
+
+        <!-- Search Bar (center, grows) -->
+        <div class="relative flex-grow min-w-xs md:min-w-0 md:max-w-sm">
+            <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-gray-400">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            </span>
+            <input type="text" 
+                    x-model="search"
+                    @input="debouncedSearch()"
+                    placeholder="Search news, tools, code..." 
+                    class="w-full pl-10 pr-4 py-2 bg-gray-50 border border-gray-200 rounded-full text-sm focus:ring-2 focus:ring-blue-500 outline-none transition">
+        </div>
+
+        <!-- Request Feature Link -->
+        <a href="https://tally.so/r/lbyYXX" target="_blank" rel="noopener noreferrer" 
+           class="flex items-center gap-1.5 text-xs font-bold text-gray-500 hover:text-g-blue transition whitespace-nowrap">
+            💡 Request Feature
+        </a>
+        
+        <!-- Subscribe Button -->
+        <a href="https://aiforanalyticsandads.substack.com/s/ai-daily-signal" target="_blank" rel="noopener noreferrer"
+          class="flex items-center gap-2 bg-[#FF6719] hover:bg-orange-600 text-white px-4 py-2 rounded-full text-xs font-bold transition shadow-sm whitespace-nowrap">
+            <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
+            Get Daily AI News
+        </a>
+
+        <!-- Last Sync Time (right) -->
+        <div class="text-right border-l border-gray-200 pl-4 flex-shrink-0 hidden lg:block">
+            <p class="text-[9px] text-gray-400 font-bold uppercase">Launch: Feb 20, 2026</p>
+            <p class="text-[10px] text-gray-500 font-bold">Sync: <strong x-text="refreshedAt" class="text-g-blue"></strong></p>
+        </div>
+    </div>
+</header>
+
+<!-- ============================================================
+     MAIN CONTENT
+     ============================================================ -->
+<main class="max-w-7xl mx-auto px-6 py-8 flex-grow">
+
+    <!-- System Status Info Box -->
+    <div class="mb-8 p-4 bg-info rounded-xl border border-blue-100 flex items-start gap-4">
+        <svg class="w-6 h-6 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z"></path></svg>
+        <div class="text-sm">
+            <p class="font-bold">System Status: Building History</p>
+            <p class="mt-0.5 opacity-90">Currently monitoring live signals. 90-day and 365-day filters will unlock automatically as the database accumulates data.</p>
+        </div>
+    </div>
+
+    <!-- Unified Filter Belt: Personas (left) + Timeframe (right) -->
+    <!-- Single row combining persona filters and timeframe selector -->
+    <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center bg-white p-5 rounded-xl border border-gray-200 mb-8 gap-6 shadow-sm">
+        
+        <!-- Persona Filter Buttons (left) -->
+        <!-- Dynamic buttons for each persona defined in Alpine.js app() function
+             Clicking filters items to show only those with matching persona -->
+        <div class="flex flex-wrap gap-2">
+            <!-- "All Signals" Button - shows items from all personas -->
+            <button
+                @click="filter='all'; trackPersona('all')"
+                :class="filter==='all' ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100'"
+                class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide"
+            >
+                📡 All Signals
+            </button>
+
+            <!-- Individual Persona Buttons - one for each persona -->
+            <!-- Template repeats for each persona in the personas array -->
+            <template x-for="p in personas" :key="p">
+                <button
+                    @click="filter=p; trackPersona(p)"
+                    :class="filter===p ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100'"
+                    class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide"
+                    x-text="p"
+                >
+                </button>
+            </template>
+        </div>
+
+        <!-- Timeframe Selector (right) -->
+        <!-- Dropdown to filter items by age: last 24h, 7d, 14d, 30d
+             90-day and 365-day options disabled until enough data accumulates -->
+        <div class="flex items-center gap-3 w-full lg:w-auto">
+            <span class="text-xs text-gray-500 font-bold uppercase tracking-wider">Timeframe:</span>
+            <select 
+                x-model="timeframe"
+                @change="trackTimeframe(timeframe)"
+                class="bg-gray-50 border border-gray-300 text-gray-900 text-sm font-bold rounded-full p-2.5 outline-none cursor-pointer"
+            >
+                <option value="24">Last 24 Hours</option>
+                <option value="168">Last 7 Days</option>
+                <option value="336">Last 14 Days</option>
+                <option value="720">Last 30 Days</option>
+                <option value="2160" disabled>90 Days (Building...)</option>
+                <option value="8760" disabled>365 Days (Building...)</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- Loading State -->
+    <div x-show="loading" class="text-center py-32">
+        <div class="inline-block w-10 h-10 border-4 border-gray-200 border-t-blue-600 rounded-full animate-spin"></div>
+    </div>
+
+    <!-- Items Grid -->
+    <template x-if="!loading && filteredItems.length > 0">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <template x-for="(item, index) in filteredItems" :key="index">
+                <div class="google-card p-6 flex flex-col h-full relative group">
+                    
+                    <!-- Trending Badge (top-right) -->
+                    <template x-if="item.is_rising">
+                        <div class="absolute -top-2 -right-2 bg-red-600 text-white text-[9px] font-black px-2 py-1 rounded shadow-lg uppercase tracking-wider">Trending</div>
+                    </template>
+
+                    <!-- Metrics Badge (top-left) -->
+                    <template x-if="item.metrics">
+                        <div class="absolute -top-3 left-6 bg-white border border-gray-200 px-3 py-1 rounded-full text-[10px] font-black text-gray-600 shadow-sm" x-text="item.metrics"></div>
+                    </template>
+
+                    <!-- Region + Source + Persona -->
+                    <div class="flex justify-between items-start mb-5 mt-2">
+                        <div class="flex flex-col">
+                            <span class="text-2xl" x-text="item.region || '🌍'"></span>
+                            <span class="text-[10px] font-black text-gray-400 uppercase tracking-widest mt-1" x-text="item.source"></span>
+                        </div>
+                        <span class="text-[9px] px-2 py-1 rounded font-black bg-blue-50 text-g-blue border border-blue-100 uppercase" x-text="item.persona"></span>
+                    </div>
+                    
+                    <!-- Title -->
+                    <h2 class="text-lg font-bold text-gray-900 mb-3 leading-snug group-hover:text-g-blue transition" x-text="item.title"></h2>
+                    
+                    <!-- Summary -->
+                    <p class="text-sm text-gray-600 mb-8 flex-grow leading-relaxed" x-text="item.summary"></p>
+                    
+                    <!-- Footer: Date + CTA Button -->
+                    <div class="mt-auto pt-4 border-t border-gray-100 flex justify-between items-center">
+                        <span class="text-[10px] text-gray-400 font-bold" x-text="formatDate(item.pub_date)"></span>
+                        <a :href="item.link" target="_blank" rel="noopener noreferrer" 
+                           class="text-[10px] font-black g-blue hover:underline uppercase tracking-tighter" 
+                           x-text="item.cta_text || 'Read Article'"></a>
+                    </div>
+                </div>
+            </template>
+        </div>
+    </template>
+
+    <!-- Empty State -->
+    <template x-if="!loading && filteredItems.length === 0">
+        <div class="text-center py-20">
+            <p class="text-gray-500 text-lg font-medium">🔍 No signals found.</p>
+            <p class="text-gray-400 text-sm mt-2">Try adjusting your search or timeframe filters.</p>
+        </div>
+    </template>
+
+</main>
+
+<!-- ============================================================
+     FOOTER
+     ============================================================ -->
+<footer class="bg-white border-t border-gray-200 mt-auto">
+    <div class="max-w-7xl mx-auto px-6 py-6 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div class="text-xs text-gray-500 font-medium">
+            &copy; 2026 AI Sentia. Aggregating global intelligence.
+        </div>
+        <div class="flex flex-wrap justify-center items-center gap-6 text-xs font-bold text-gray-400 uppercase tracking-wider">
+            <a href="legal.html" class="hover:text-g-blue transition">Privacy & Terms</a>
+            <a href="https://tally.so/r/lbyYXX" target="_blank" rel="noopener noreferrer" class="hover:text-g-blue transition">Submit Feedback</a>
+        </div>
+    </div>
+</footer>
+
+<!-- ============================================================
+     ALPINE.JS LOGIC - Reactive Data & Filtering
+     ============================================================ -->
+<script>
+/**
+ * Alpine.js application state and methods
+ * Handles data fetching, filtering, and UI reactivity
+ */
+function app() {
+  return {
+    // ===== STATE VARIABLES =====
+    
+    // Loading indicator while fetching database.json from server
+    loading: true,
+    
+    // All items from database.json (unfiltered raw data)
+    allItems: [],
+    
+    // Current persona filter ('all' or specific persona string)
+    filter: 'all',
+    
+    // Current timeframe filter in hours (24, 168, 336, 720, etc.)
+    timeframe: '24',
+    
+    // Current search query string (filters title, summary, source, persona)
+    search: '',
+    
+    // Last sync timestamp from database.json (e.g., "2025-02-21 10:30 UTC")
+    refreshedAt: 'Loading...',
+    
+    // List of all personas (must match daily_build.py PERSONAS array)
+    // Each persona represents a target audience type
+    personas: [
+      "💻 Developer",      // Software engineers, DevOps, backend teams
+      "💼 Enterprise",     // CTOs, VPs, enterprise decision-makers
+      "🔬 Research",       // Academics, researchers, paper reviewers
+      "🚀 Startup",        // Founders, product managers, entrepreneurs
+      "🎨 Creator",        // Designers, content creators, artists
+      "📚 Education",      // Teachers, instructors, students, educators
+      "🏥 Healthcare",     // Medical professionals, healthcare IT, biotech
+      "⚖️ Policy & Law"    // Lawyers, policy makers, compliance officers
+    ],
+
+    async init() {
+      await this.fetchData();
+    },
+
+    async fetchData() {
+      this.loading = true;
+      try {
+        const isDev = !['ai-sentia.pages.dev', 'aisentia.pages.dev','pushpendradwivedi.github.io'].includes(window.location.hostname);
+        const dbFile = isDev ? './data/dev_database.json' : './data/database.json';
+        const res = await fetch(`${dbFile}?v=${Date.now()}`);
+        if (res.ok) {
+          const data = await res.json();
+          this.allItems = data.items || [];
+          this.refreshedAt = data.refreshed_at || 'Syncing...';
+        }
+      } catch (e) {
+        console.error("Database fetch error:", e);
+        this.refreshedAt = 'Offline';
+      }
+      this.loading = false;
+    },
+
+    // AFTER:
+    get filteredItems() {
+      let results = [...this.allItems];
+      
+      // Use sync time as reference point, not current time
+      // "last 24 hours" means 24 hours before the last database sync
+      const syncTime = this.refreshedAt && this.refreshedAt !== 'Loading...' && this.refreshedAt !== 'Offline'
+        ? new Date(this.refreshedAt.replace(' UTC', 'Z').replace(' ', 'T'))
+        : new Date();
+      const hoursBack = parseInt(this.timeframe);
+      
+      // Filter by timeframe relative to sync time
+      results = results.filter(item => {
+        try {
+          const pub = new Date(item.pub_date);
+          return ((syncTime - pub) / (1000 * 60 * 60)) <= hoursBack;
+        } catch (e) {
+          return true;
+        }
+      });
+
+      // Filter by search
+      if (this.search) {
+        const s = this.search.toLowerCase();
+        results = results.filter(i => 
+          (i.title || '').toLowerCase().includes(s) || 
+          (i.summary || '').toLowerCase().includes(s) ||
+          (i.source || '').toLowerCase().includes(s) ||
+          (i.persona || '').toLowerCase().includes(s)
+        );
+      }
+
+      // Filter by persona
+      if (this.filter !== 'all') {
+        results = results.filter(i => {
+          const p = (i.persona || '').toLowerCase();
+          const searchStr = this.filter.toLowerCase().split(' ').pop();
+          return p.includes(searchStr);
+        });
+      }
+
+      // Sort by date (newest first)
+      results.sort((a, b) => {
+        try {
+          return new Date(b.pub_date) - new Date(a.pub_date);
+        } catch (e) {
+          return 0;
+        }
+      });
+
+      return results;
+    },
+
+    formatDate(iso) {
+      if (!iso) return 'Recent';
+      try {
+        return new Date(iso).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+      } catch (e) {
+        return 'Recent';
+      }
+    },
+    trackPersona(personaName) {
+      gtag('event', 'persona_selected', {
+        persona_name: personaName,
+        page_location: window.location.href
+      });
+    },
+    trackTimeframe(hours) {
+      gtag('event', 'timeframe_changed', {
+        hours_selected: hours,
+        page_location: window.location.href
+      });
+    },
+    
+    searchTimeout: null,
+
+    debouncedSearch() {
+      clearTimeout(this.searchTimeout);
+
+      this.searchTimeout = setTimeout(() => {
+        if (this.search.length >= 3) {
+          gtag('event', 'search_used', {
+            search_term: this.search,
+            page_location: window.location.href
+          });
+        }
+      }, 1000);
+    },
+
+  }
+}
+</script>
+
+<div id="cookie-banner" style="
+position:fixed;
+bottom:0;
+left:0;
+right:0;
+background:#111;
+color:white;
+padding:15px;
+display:none;
+justify-content:space-between;
+align-items:center;
+z-index:9999;
+font-family:Arial;
+">
+  <span>
+    We use analytics cookies to improve your experience.
+  </span>
+  <div>
+    <button onclick="acceptCookies()" style="margin-right:10px;">Accept</button>
+    <button onclick="rejectCookies()">Reject</button>
+  </div>
+</div>
+
+<script>
+function acceptCookies() {
+  gtag('consent', 'update', {
+    'analytics_storage': 'granted'
+  });
+  localStorage.setItem("cookieConsent", "accepted");
+  document.getElementById("cookie-banner").style.display = "none";
+}
+
+function rejectCookies() {
+  gtag('consent', 'update', {
+    'analytics_storage': 'denied'
+  });
+  localStorage.setItem("cookieConsent", "rejected");
+  document.getElementById("cookie-banner").style.display = "none";
+}
+
+window.onload = function() {
+  let consent = localStorage.getItem("cookieConsent");
+  
+  if (!consent) {
+    document.getElementById("cookie-banner").style.display = "flex";
+  } else if (consent === "accepted") {
+    gtag('consent', 'update', {
+      'analytics_storage': 'granted'
+    });
+  }
+};
+</script>
+
+<script>
+document.addEventListener("click", function(e) {
+
+  const link = e.target.closest("a");
+  if (!link) return;
+
+  const href = link.getAttribute("href");
+  if (!href || !href.startsWith("http")) return;
+
+  const linkText = link.innerText.trim() || "unknown-link";
+
+  e.preventDefault(); // stop immediate redirect
+
+  gtag('event', 'external_link_click', {
+    event_category: 'engagement',
+    event_label: linkText,
+    link_url: href,
+    page_location: window.location.href,
+    event_callback: function() {
+      if (link.target === "_blank") {
+        window.open(href, "_blank");
+      } else {
+        window.location.href = href;
+      }
+    }
+  });
+
+  // fallback in case GA is blocked
+  setTimeout(function() {
+    if (link.target === "_blank") {
+        window.open(href, "_blank");
+      } else {
+        window.location.href = href;
+      }
+  }, 300);
+
+});
+</script>
+
+</body>
+</html>
