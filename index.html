@@ -3,8 +3,70 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI Sentia | Global Intelligence Hub</title>
+<title>AI Sentia | Free Daily AI News Dashboard — 35+ Sources</title>
 <link rel="icon" type="image/png" href="logo.png">
+
+<!-- ============================================================
+     SEO META TAGS
+     ============================================================ -->
+<meta name="description" content="AI Sentia monitors 35+ global AI sources daily. Get the last 24 hours of AI news filtered by LLMs and routed to your audience — Developer, Research, Enterprise, Healthcare, Startup and more. Free. No login.">
+<meta name="keywords" content="AI news, artificial intelligence news, AI dashboard, daily AI updates, machine learning news, AI aggregator, OpenAI news, Anthropic news, ArXiv AI, AI tools">
+<meta name="author" content="Pushpendra Dwivedi">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://pushpendradwivedi.github.io/aisentia/">
+
+<!-- ============================================================
+     OPEN GRAPH (LinkedIn, Facebook, WhatsApp previews)
+     ============================================================ -->
+<meta property="og:title" content="AI Sentia — Free Daily AI News Dashboard">
+<meta property="og:description" content="35+ AI sources. Filtered daily using LLMs. Routed by audience. Free. No login needed.">
+<meta property="og:url" content="https://pushpendradwivedi.github.io/aisentia/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://pushpendradwivedi.github.io/aisentia/logo.png">
+<meta property="og:site_name" content="AI Sentia">
+
+<!-- ============================================================
+     TWITTER / X CARD
+     ============================================================ -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="AI Sentia — Free Daily AI News Dashboard">
+<meta name="twitter:description" content="35+ AI sources monitored daily. Filtered using LLMs. Free AI news dashboard.">
+<meta name="twitter:image" content="https://pushpendradwivedi.github.io/aisentia/logo.png">
+
+<!-- ============================================================
+     STRUCTURED DATA — JSON-LD (for Google AI Overviews, Perplexity, ChatGPT Search)
+     ============================================================ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "AI Sentia",
+  "alternateName": "AI Sentia — Global AI Intelligence Hub",
+  "description": "Free daily AI news dashboard monitoring 35+ global sources including OpenAI, Anthropic, Google DeepMind, ArXiv, MIT, GitHub Trending, YouTube creators and more. Filtered using LLMs. Routed by audience. Updates every 24 hours automatically.",
+  "url": "https://pushpendradwivedi.github.io/aisentia/",
+  "applicationCategory": "NewsApplication",
+  "operatingSystem": "Web",
+  "browserRequirements": "Requires JavaScript",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Pushpendra Dwivedi"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Pushpendra Dwivedi"
+  },
+  "keywords": "AI news, machine learning news, artificial intelligence dashboard, daily AI updates, ArXiv AI, OpenAI, Anthropic",
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "datePublished": "2026-02-20",
+  "dateModified": "2026-03-01"
+}
+</script>
 
 <!-- Tailwind CSS for responsive design and utility-first styling -->
 <script src="https://cdn.tailwindcss.com"></script>
@@ -364,7 +426,7 @@ function app() {
     async fetchData() {
       this.loading = true;
       try {
-        const isDev = !['ai-sentia.pages.dev', 'aisentia.pages.dev','pushpendradwivedi.github.io'].includes(window.location.hostname);
+        const isDev = !['ai-sentia.pages.dev', 'aisentia.pages.dev', 'pushpendradwivedi.github.io'].includes(window.location.hostname);
         const dbFile = isDev ? './data/dev_database.json' : './data/database.json';
         const res = await fetch(`${dbFile}?v=${Date.now()}`);
         if (res.ok) {
@@ -379,7 +441,6 @@ function app() {
       this.loading = false;
     },
 
-    // AFTER:
     get filteredItems() {
       let results = [...this.allItems];
       
