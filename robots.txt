@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block data files from being indexed directly
+Disallow: /data/
+
+Sitemap: https://pushpendradwivedi.github.io/aisentia/sitemap.xml
