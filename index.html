@@ -188,6 +188,19 @@ gtag('js', new Date());
 gtag('config', 'G-4QDT9WQ0PW');
 </script>
 
+<!-- ============================================================
+     ADDITION 1 OF 2: MICROSOFT CLARITY — cookieless heatmaps & session replay
+     Project ID: vqq5b80x7x
+     IMPORTANT: Go to Clarity dashboard → Settings → Privacy → Cookieless mode → ON ✅
+     ============================================================ -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "vqq5b80x7x");
+</script>
+
 </head>
 
 <body x-data="app()" x-cloak class="flex flex-col min-h-screen">
@@ -625,6 +638,156 @@ document.addEventListener("click", function(e) {
   }, 300);
 
 });
+</script>
+
+<!-- ============================================================
+     ADDITION 2 OF 2: COOKIELESS CUSTOM EVENT TRACKER
+     Sends to Cloudflare Worker via sendBeacon — no cookies, no PII
+     Tracks: page_view, scroll_depth, persona_click,
+             timeframe_change, cta_click
+     Works for ALL visitors regardless of cookie consent
+     Complements GA (which only tracks consented users)
+     ============================================================ -->
+<script>
+(function() {
+  "use strict";
+
+  // ── CONFIG ──────────────────────────────────────────────────────────────────
+  // DEV worker:  aisentia-analytics-dev (bound to AISENTIA_ANALYTICS_DEV KV)
+  // PROD worker: aisentia-analytics     (bound to AISENTIA_ANALYTICS KV)
+  // Create prod worker only after dev testing is confirmed working
+  const PROD_WORKER_URL = "https://aisentia-analytics.pushpendradwivedi21.workers.dev";
+  const DEV_WORKER_URL  = "https://aisentia-analytics-dev.pushpendradwivedi21.workers.dev";
+
+  // Matches the isDev logic in fetchData() above — single source of truth
+  const IS_DEV = !['ai-sentia.pages.dev', 'aisentia.pages.dev', 'pushpendradwivedi.github.io']
+                   .includes(window.location.hostname);
+  const WORKER_URL = IS_DEV ? DEV_WORKER_URL : PROD_WORKER_URL;
+
+  // ── CORE: fire-and-forget fetch, never blocks or breaks the page ────────────
+  // no-cors mode: no preflight fired, wildcard CORS works, worker receives fine
+  // keepalive: request survives page close (same benefit as sendBeacon)
+  // credentials omit: no cookies sent, fully anonymous
+  function track(event, value) {
+    const payload = JSON.stringify({
+      event: event,
+      value: String(value).slice(0, 100),
+      env: IS_DEV ? "dev" : "prod"
+    });
+    try {
+      fetch(WORKER_URL, {
+        method: "POST",
+        body: payload,
+        mode: "no-cors",
+        credentials: "omit",
+        keepalive: true
+      }).catch(() => {}); // silent fail — never break user experience
+    } catch(e) {
+      // Swallow all errors silently — analytics must never affect the site
+    }
+  }
+
+  // ── 1. PAGE VIEW ─────────────────────────────────────────────────────────────
+  // Fires once on load — pure counter, no user identifier
+  track("page_view", "/");
+
+  // ── 2. SCROLL DEPTH MILESTONES (25 / 50 / 75 / 100%) ────────────────────────
+  // IntersectionObserver: zero scroll listeners, no performance impact
+  // Sentinels repositioned after Alpine.js renders cards async (2s + 5s delays)
+  const firedMilestones = new Set(); // prevents duplicate fires per session
+
+  function setupScrollTracking() {
+    [25, 50, 75, 100].forEach(pct => {
+      const sentinel = document.createElement("div");
+      sentinel.style.cssText = "position:absolute;left:0;width:1px;height:1px;pointer-events:none;";
+
+      const setPos = () => {
+        const h = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight);
+        sentinel.style.top = Math.floor((h * pct) / 100) + "px";
+      };
+      setPos();
+      setTimeout(setPos, 2000); // re-check after Alpine cards render
+      setTimeout(setPos, 5000); // safety re-check
+
+      document.body.appendChild(sentinel);
+
+      new IntersectionObserver(entries => {
+        entries.forEach(e => {
+          if (e.isIntersecting && !firedMilestones.has(pct)) {
+            firedMilestones.add(pct);
+            track("scroll_depth", pct + "%");
+          }
+        });
+      }, { threshold: 0 }).observe(sentinel);
+    });
+  }
+
+  // ── 3. PERSONA FILTER CLICKS ─────────────────────────────────────────────────
+  // Event delegation on filter belt — waits for Alpine to render buttons
+  // MutationObserver watches for Alpine to finish rendering before attaching
+  function setupPersonaTracking() {
+    const mo = new MutationObserver(() => {
+      const belt = document.querySelector('.flex.flex-wrap.gap-2');
+      if (belt) {
+        mo.disconnect();
+        belt.addEventListener("click", e => {
+          const btn = e.target.closest("button");
+          if (btn) track("persona_click", btn.textContent.trim());
+        });
+      }
+    });
+    mo.observe(document.body, { childList: true, subtree: true });
+  }
+
+  // ── 4. TIMEFRAME SELECTOR CHANGES ────────────────────────────────────────────
+  // Waits for Alpine to render the select element before attaching listener
+  function setupTimeframeTracking() {
+    const mo = new MutationObserver(() => {
+      const sel = document.querySelector('select[x-model="timeframe"]');
+      if (sel) {
+        mo.disconnect();
+        sel.addEventListener("change", e => {
+          track("timeframe_change", e.target.options[e.target.selectedIndex].text);
+        });
+      }
+    });
+    mo.observe(document.body, { childList: true, subtree: true });
+  }
+
+  // ── 5. CARD CTA CLICKS ───────────────────────────────────────────────────────
+  // Complements the existing GA external_link_click handler above:
+  //   GA captures clicks for consented users (with demographics + session data)
+  //   This captures clicks for ALL users (cookieless, just a counter)
+  // Both fire on the same click — they serve different purposes
+  function setupCTATracking() {
+    document.addEventListener("click", e => {
+      const link = e.target.closest("a[href]");
+      if (!link) return;
+      const cta = link.textContent.trim().toUpperCase();
+      if (["READ ARTICLE", "WATCH VIDEO", "VIEW CODE", "READ PAPER"].includes(cta)) {
+        try {
+          const domain = new URL(link.href).hostname.replace("www.", "");
+          track("cta_click", cta + " | " + domain);
+        } catch {
+          track("cta_click", cta);
+        }
+      }
+    });
+  }
+
+  // ── INIT — wait for DOM ready then set up all trackers ───────────────────────
+  function init() {
+    setupScrollTracking();
+    setupPersonaTracking();
+    setupTimeframeTracking();
+    setupCTATracking();
+  }
+
+  document.readyState === "loading"
+    ? document.addEventListener("DOMContentLoaded", init)
+    : init();
+
+})();
 </script>
 
 </body>
