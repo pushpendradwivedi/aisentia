@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI Sentia | Free Daily AI News Dashboard — 35+ Sources</title>
+<title>AI Sentia DEV | Enhanced Multi-Filter Dashboard</title>
 <link rel="icon" type="image/png" href="logo.png">
 
 <!-- ============================================================
@@ -72,6 +72,9 @@
 
 <!-- Tailwind CSS for responsive design and utility-first styling -->
 <script src="https://cdn.tailwindcss.com"></script>
+
+<!-- Alpine.js Collapse Plugin for accordion animations -->
+<script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js"></script>
 
 <!-- Alpine.js for reactive UI without build step -->
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
@@ -268,53 +271,273 @@ gtag('config', 'G-4QDT9WQ0PW');
         </div>
     </div>
 
-    <!-- Unified Filter Belt: Personas (left) + Timeframe (right) -->
-    <!-- Single row combining persona filters and timeframe selector -->
-    <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center bg-white p-5 rounded-xl border border-gray-200 mb-8 gap-6 shadow-sm">
+    <!-- NEW FEATURE BANNER: Advanced Filtering Transition Notice -->
+    <div class="mb-8 p-4 bg-blue-50 rounded-xl border border-blue-200 flex items-start gap-4">
+        <svg class="w-6 h-6 flex-shrink-0 text-g-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"></path>
+        </svg>
+        <div class="text-sm">
+            <p class="font-bold text-g-blue">🎉 New Feature: Advanced Filtering</p>
+            <p class="mt-0.5 text-gray-700">Filter AI news by industry, company, job title, and location! <strong>Note:</strong> New filters apply to articles from March 7, 2026 onwards. Use "By Persona" to browse our full archive. <a href="https://tally.so/r/lbyYXX" target="_blank" class="underline hover:text-g-blue">Learn More</a></p>
+        </div>
+    </div>
+
+    <!-- ============================================================
+         LEVELS.FYI-STYLE FILTER BAR (NEW)
+         ============================================================ -->
+    <div class="bg-white p-5 rounded-xl border border-gray-200 mb-8 shadow-sm">
         
-        <!-- Persona Filter Buttons (left) -->
-        <!-- Dynamic buttons for each persona defined in Alpine.js app() function
-             Clicking filters items to show only those with matching persona -->
-        <div class="flex flex-wrap gap-2">
-            <!-- "All Signals" Button - shows items from all personas -->
+        <!-- Filter Bar: All buttons in one row -->
+        <div class="flex flex-wrap items-center gap-3">
+            
+            <!-- All Signals Button (Reset Filter) -->
             <button
-                @click="filter='all'; trackPersona('all')"
-                :class="filter==='all' ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100'"
+                @click="resetAllFilters(); trackPersona('all')"
+                :class="selectedPersonas.length === 0 && selectedIndustries.length === 0 && selectedCompanies.length === 0 && selectedTitles.length === 0 && selectedLocations.length === 0 ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100 border border-gray-200'"
                 class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide"
             >
                 📡 All Signals
             </button>
 
-            <!-- Individual Persona Buttons - one for each persona -->
-            <!-- Template repeats for each persona in the personas array -->
-            <template x-for="p in personas" :key="p">
+            <!-- Persona Dropdown -->
+            <div class="relative" @click.away="openDropdown === 'persona' && closeDropdown()">
                 <button
-                    @click="filter=p; trackPersona(p)"
-                    :class="filter===p ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100'"
-                    class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide"
-                    x-text="p"
+                    @click="toggleDropdown('persona')"
+                    :class="selectedPersonas.length > 0 ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100 border border-gray-200'"
+                    class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide inline-flex items-center gap-2"
                 >
+                    🎭 Persona
+                    <span x-show="selectedPersonas.length > 0" class="px-1.5 py-0.5 bg-white text-g-blue rounded-full text-[9px]" x-text="selectedPersonas.length"></span>
+                    <svg class="w-3 h-3" :class="openDropdown === 'persona' ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
                 </button>
-            </template>
-        </div>
 
-        <!-- Timeframe Selector (right) -->
-        <!-- Dropdown to filter items by age: last 24h, 7d, 14d, 30d
-             90-day and 365-day options disabled until enough data accumulates -->
-        <div class="flex items-center gap-3 w-full lg:w-auto">
-            <span class="text-xs text-gray-500 font-bold uppercase tracking-wider">Timeframe:</span>
-            <select 
-                x-model="timeframe"
-                @change="trackTimeframe(timeframe)"
-                class="bg-gray-50 border border-gray-300 text-gray-900 text-sm font-bold rounded-full p-2.5 outline-none cursor-pointer"
-            >
-                <option value="24">Last 24 Hours</option>
-                <option value="168">Last 7 Days</option>
-                <option value="336">Last 14 Days</option>
-                <option value="720">Last 30 Days</option>
-                <option value="2160" disabled>90 Days (Building...)</option>
-                <option value="8760" disabled>365 Days (Building...)</option>
-            </select>
+                <!-- Dropdown Panel -->
+                <div x-show="openDropdown === 'persona'" x-transition class="absolute top-full left-0 mt-2 w-72 bg-white rounded-lg shadow-xl border border-gray-200 z-50 max-h-96 overflow-hidden flex flex-col">
+                    <!-- Search Input -->
+                    <div class="p-3 border-b border-gray-200">
+                        <input 
+                            type="text" 
+                            x-model="dropdownSearchPersona"
+                            placeholder="Search personas..." 
+                            class="w-full px-3 py-2 text-xs border border-gray-300 rounded-lg focus:ring-2 focus:ring-g-blue focus:border-transparent outline-none"
+                        >
+                    </div>
+                    
+                    <!-- Action Buttons -->
+                    <div class="p-2 border-b border-gray-200 flex gap-2">
+                        <button @click="selectAllPersonas()" class="flex-1 text-[10px] font-bold text-g-blue hover:bg-gray-50 py-1.5 rounded uppercase">Select All</button>
+                        <button @click="clearAllPersonas()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
+                    </div>
+                    
+                    <!-- Checkbox List -->
+                    <div class="overflow-y-auto flex-1">
+                        <template x-for="persona in filteredPersonaOptions" :key="persona">
+                            <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                                <input 
+                                    type="checkbox" 
+                                    :checked="selectedPersonas.includes(persona)"
+                                    @change="togglePersona(persona)"
+                                    class="rounded border-gray-300 text-g-blue focus:ring-g-blue"
+                                >
+                                <span class="text-xs text-gray-700" x-text="persona"></span>
+                            </label>
+                        </template>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Industry Dropdown -->
+            <div class="relative" @click.away="openDropdown === 'industry' && closeDropdown()">
+                <button
+                    @click="toggleDropdown('industry')"
+                    :class="selectedIndustries.length > 0 ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100 border border-gray-200'"
+                    class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide inline-flex items-center gap-2"
+                >
+                    🏢 Industry
+                    <span x-show="selectedIndustries.length > 0" class="px-1.5 py-0.5 bg-white text-g-blue rounded-full text-[9px]" x-text="selectedIndustries.length"></span>
+                    <svg class="w-3 h-3" :class="openDropdown === 'industry' ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+
+                <!-- Dropdown Panel -->
+                <div x-show="openDropdown === 'industry'" x-transition class="absolute top-full left-0 mt-2 w-72 bg-white rounded-lg shadow-xl border border-gray-200 z-50 max-h-96 overflow-hidden flex flex-col">
+                    <div class="p-3 border-b border-gray-200">
+                        <input 
+                            type="text" 
+                            x-model="dropdownSearchIndustry"
+                            placeholder="Search industries..." 
+                            class="w-full px-3 py-2 text-xs border border-gray-300 rounded-lg focus:ring-2 focus:ring-g-blue focus:border-transparent outline-none"
+                        >
+                    </div>
+                    <div class="p-2 border-b border-gray-200 flex gap-2">
+                        <button @click="selectAllIndustries()" class="flex-1 text-[10px] font-bold text-g-blue hover:bg-gray-50 py-1.5 rounded uppercase">Select All</button>
+                        <button @click="clearAllIndustries()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
+                    </div>
+                    <div class="overflow-y-auto flex-1">
+                        <template x-for="industry in filteredIndustryOptions" :key="industry">
+                            <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                                <input 
+                                    type="checkbox" 
+                                    :checked="selectedIndustries.includes(industry)"
+                                    @change="toggleIndustry(industry)"
+                                    class="rounded border-gray-300 text-g-blue focus:ring-g-blue"
+                                >
+                                <span class="text-xs text-gray-700" x-text="industry"></span>
+                            </label>
+                        </template>
+                        <p x-show="availableIndustries.length === 0" class="text-xs text-gray-400 italic p-3">No industries tagged yet</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Company Dropdown -->
+            <div class="relative" @click.away="openDropdown === 'company' && closeDropdown()">
+                <button
+                    @click="toggleDropdown('company')"
+                    :class="selectedCompanies.length > 0 ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100 border border-gray-200'"
+                    class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide inline-flex items-center gap-2"
+                >
+                    🏪 Company
+                    <span x-show="selectedCompanies.length > 0" class="px-1.5 py-0.5 bg-white text-g-blue rounded-full text-[9px]" x-text="selectedCompanies.length"></span>
+                    <svg class="w-3 h-3" :class="openDropdown === 'company' ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+
+                <!-- Dropdown Panel -->
+                <div x-show="openDropdown === 'company'" x-transition class="absolute top-full left-0 mt-2 w-72 bg-white rounded-lg shadow-xl border border-gray-200 z-50 max-h-96 overflow-hidden flex flex-col">
+                    <div class="p-3 border-b border-gray-200">
+                        <input 
+                            type="text" 
+                            x-model="dropdownSearchCompany"
+                            placeholder="Search companies..." 
+                            class="w-full px-3 py-2 text-xs border border-gray-300 rounded-lg focus:ring-2 focus:ring-g-blue focus:border-transparent outline-none"
+                        >
+                    </div>
+                    <div class="p-2 border-b border-gray-200 flex gap-2">
+                        <button @click="selectAllCompanies()" class="flex-1 text-[10px] font-bold text-g-blue hover:bg-gray-50 py-1.5 rounded uppercase">Select All</button>
+                        <button @click="clearAllCompanies()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
+                    </div>
+                    <div class="overflow-y-auto flex-1">
+                        <template x-for="company in filteredCompanyOptions" :key="company">
+                            <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                                <input 
+                                    type="checkbox" 
+                                    :checked="selectedCompanies.includes(company)"
+                                    @change="toggleCompany(company)"
+                                    class="rounded border-gray-300 text-g-blue focus:ring-g-blue"
+                                >
+                                <span class="text-xs text-gray-700" x-text="company"></span>
+                            </label>
+                        </template>
+                        <p x-show="availableCompanies.length === 0" class="text-xs text-gray-400 italic p-3">No companies tagged yet</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Job Title Dropdown -->
+            <div class="relative" @click.away="openDropdown === 'title' && closeDropdown()">
+                <button
+                    @click="toggleDropdown('title')"
+                    :class="selectedTitles.length > 0 ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100 border border-gray-200'"
+                    class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide inline-flex items-center gap-2"
+                >
+                    💼 Job Title
+                    <span x-show="selectedTitles.length > 0" class="px-1.5 py-0.5 bg-white text-g-blue rounded-full text-[9px]" x-text="selectedTitles.length"></span>
+                    <svg class="w-3 h-3" :class="openDropdown === 'title' ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+
+                <!-- Dropdown Panel -->
+                <div x-show="openDropdown === 'title'" x-transition class="absolute top-full left-0 mt-2 w-72 bg-white rounded-lg shadow-xl border border-gray-200 z-50 max-h-96 overflow-hidden flex flex-col">
+                    <div class="p-3 border-b border-gray-200">
+                        <input 
+                            type="text" 
+                            x-model="dropdownSearchTitle"
+                            placeholder="Search job titles..." 
+                            class="w-full px-3 py-2 text-xs border border-gray-300 rounded-lg focus:ring-2 focus:ring-g-blue focus:border-transparent outline-none"
+                        >
+                    </div>
+                    <div class="p-2 border-b border-gray-200 flex gap-2">
+                        <button @click="selectAllTitles()" class="flex-1 text-[10px] font-bold text-g-blue hover:bg-gray-50 py-1.5 rounded uppercase">Select All</button>
+                        <button @click="clearAllTitles()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
+                    </div>
+                    <div class="overflow-y-auto flex-1">
+                        <template x-for="title in filteredTitleOptions" :key="title">
+                            <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                                <input 
+                                    type="checkbox" 
+                                    :checked="selectedTitles.includes(title)"
+                                    @change="toggleTitle(title)"
+                                    class="rounded border-gray-300 text-g-blue focus:ring-g-blue"
+                                >
+                                <span class="text-xs text-gray-700" x-text="title"></span>
+                            </label>
+                        </template>
+                        <p x-show="availableTitles.length === 0" class="text-xs text-gray-400 italic p-3">No titles tagged yet</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Location Dropdown -->
+            <div class="relative" @click.away="openDropdown === 'location' && closeDropdown()">
+                <button
+                    @click="toggleDropdown('location')"
+                    :class="selectedLocations.length > 0 ? 'bg-g-blue text-white shadow' : 'text-gray-600 hover:bg-gray-100 border border-gray-200'"
+                    class="px-5 py-2 rounded-full text-xs font-bold transition uppercase tracking-wide inline-flex items-center gap-2"
+                >
+                    🌍 Location
+                    <span x-show="selectedLocations.length > 0" class="px-1.5 py-0.5 bg-white text-g-blue rounded-full text-[9px]" x-text="selectedLocations.length"></span>
+                    <svg class="w-3 h-3" :class="openDropdown === 'location' ? 'rotate-180' : ''" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                </button>
+
+                <!-- Dropdown Panel -->
+                <div x-show="openDropdown === 'location'" x-transition class="absolute top-full left-0 mt-2 w-72 bg-white rounded-lg shadow-xl border border-gray-200 z-50 max-h-96 overflow-hidden flex flex-col">
+                    <div class="p-3 border-b border-gray-200">
+                        <input 
+                            type="text" 
+                            x-model="dropdownSearchLocation"
+                            placeholder="Search locations..." 
+                            class="w-full px-3 py-2 text-xs border border-gray-300 rounded-lg focus:ring-2 focus:ring-g-blue focus:border-transparent outline-none"
+                        >
+                    </div>
+                    <div class="p-2 border-b border-gray-200 flex gap-2">
+                        <button @click="selectAllLocations()" class="flex-1 text-[10px] font-bold text-g-blue hover:bg-gray-50 py-1.5 rounded uppercase">Select All</button>
+                        <button @click="clearAllLocations()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
+                    </div>
+                    <div class="overflow-y-auto flex-1">
+                        <template x-for="location in filteredLocationOptions" :key="location">
+                            <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                                <input 
+                                    type="checkbox" 
+                                    :checked="selectedLocations.includes(location)"
+                                    @change="toggleLocation(location)"
+                                    class="rounded border-gray-300 text-g-blue focus:ring-g-blue"
+                                >
+                                <span class="text-xs text-gray-700" x-text="location"></span>
+                            </label>
+                        </template>
+                        <p x-show="availableLocations.length === 0" class="text-xs text-gray-400 italic p-3">No locations tagged yet</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Divider -->
+            <div class="hidden lg:block h-8 w-px bg-gray-300"></div>
+
+            <!-- Timeframe Selector -->
+            <div class="flex items-center gap-2">
+                <span class="text-[10px] text-gray-500 font-bold uppercase tracking-wider">Timeframe:</span>
+                <select 
+                    x-model="timeframe"
+                    @change="trackTimeframe(timeframe)"
+                    class="bg-gray-50 border border-gray-300 text-gray-900 text-xs font-bold rounded-full px-4 py-2 outline-none cursor-pointer hover:bg-gray-100 transition"
+                >
+                    <option value="24">Last 24 Hours</option>
+                    <option value="168">Last 7 Days</option>
+                    <option value="336">Last 14 Days</option>
+                    <option value="720">Last 30 Days</option>
+                    <option value="2160" disabled>90 Days (Building...)</option>
+                    <option value="8760" disabled>365 Days (Building...)</option>
+                </select>
+            </div>
+
         </div>
     </div>
 
@@ -352,7 +575,47 @@ gtag('config', 'G-4QDT9WQ0PW');
                     <h2 class="text-lg font-bold text-gray-900 mb-3 leading-snug group-hover:text-g-blue transition" x-text="item.title"></h2>
                     
                     <!-- Summary -->
-                    <p class="text-sm text-gray-600 mb-8 flex-grow leading-relaxed" x-text="item.summary"></p>
+                    <p class="text-sm text-gray-600 mb-4 flex-grow leading-relaxed" x-text="item.summary"></p>
+                    
+                    <!-- Multi-Tag Metadata (Only for NEW articles with enriched tags) -->
+                    <!-- OLD articles: Show only persona badge (already displayed above)
+                         NEW articles: Show persona + multi-tag badges -->
+                    <template x-if="item.industries || item.companies || item.job_titles || item.locations">
+                        <div class="mb-4 space-y-2">
+                            <!-- Industries -->
+                            <template x-if="item.industries && item.industries.length > 0">
+                                <div class="flex flex-wrap gap-1">
+                                    <template x-for="industry in item.industries" :key="industry">
+                                        <span class="text-[9px] px-2 py-0.5 rounded bg-purple-50 text-purple-700 font-bold border border-purple-100" x-text="industry"></span>
+                                    </template>
+                                </div>
+                            </template>
+                            <!-- Companies -->
+                            <template x-if="item.companies && item.companies.length > 0">
+                                <div class="flex flex-wrap gap-1">
+                                    <template x-for="company in item.companies" :key="company">
+                                        <span class="text-[9px] px-2 py-0.5 rounded bg-green-50 text-green-700 font-bold border border-green-100" x-text="company"></span>
+                                    </template>
+                                </div>
+                            </template>
+                            <!-- Job Titles -->
+                            <template x-if="item.job_titles && item.job_titles.length > 0">
+                                <div class="flex flex-wrap gap-1">
+                                    <template x-for="title in item.job_titles" :key="title">
+                                        <span class="text-[9px] px-2 py-0.5 rounded bg-amber-50 text-amber-700 font-bold border border-amber-100" x-text="title"></span>
+                                    </template>
+                                </div>
+                            </template>
+                            <!-- Locations -->
+                            <template x-if="item.locations && item.locations.length > 0">
+                                <div class="flex flex-wrap gap-1">
+                                    <template x-for="location in item.locations" :key="location">
+                                        <span class="text-[9px] px-2 py-0.5 rounded bg-cyan-50 text-cyan-700 font-bold border border-cyan-100" x-text="location"></span>
+                                    </template>
+                                </div>
+                            </template>
+                        </div>
+                    </template>
                     
                     <!-- Footer: Date + CTA Button -->
                     <div class="mt-auto pt-4 border-t border-gray-100 flex justify-between items-center">
@@ -397,20 +660,18 @@ gtag('config', 'G-4QDT9WQ0PW');
 <script>
 /**
  * Alpine.js application state and methods
+ * ENHANCED: Multi-dimensional filtering with localStorage persistence
  * Handles data fetching, filtering, and UI reactivity
  */
 function app() {
   return {
-    // ===== STATE VARIABLES =====
+    // ===== CORE STATE VARIABLES =====
     
     // Loading indicator while fetching database.json from server
     loading: true,
     
     // All items from database.json (unfiltered raw data)
     allItems: [],
-    
-    // Current persona filter ('all' or specific persona string)
-    filter: 'all',
     
     // Current timeframe filter in hours (24, 168, 336, 720, etc.)
     timeframe: '24',
@@ -422,27 +683,104 @@ function app() {
     refreshedAt: 'Loading...',
     
     // List of all personas (must match daily_build.py PERSONAS array)
-    // Each persona represents a target audience type
     personas: [
-      "💻 Developer",      // Software engineers, DevOps, backend teams
-      "💼 Enterprise",     // CTOs, VPs, enterprise decision-makers
-      "🔬 Research",       // Academics, researchers, paper reviewers
-      "🚀 Startup",        // Founders, product managers, entrepreneurs
-      "🎨 Creator",        // Designers, content creators, artists
-      "📚 Education",      // Teachers, instructors, students, educators
-      "🏥 Healthcare",     // Medical professionals, healthcare IT, biotech
-      "⚖️ Policy & Law"    // Lawyers, policy makers, compliance officers
+      "💻 Developer",      
+      "💼 Enterprise",     
+      "🔬 Research",       
+      "🚀 Startup",        
+      "🎨 Creator",        
+      "📚 Education",      
+      "🏥 Healthcare",     
+      "⚖️ Policy & Law"    
     ],
 
+    // ===== MULTI-SELECT FILTER STATE =====
+    
+    // Selected filters (arrays of selected values)
+    selectedPersonas: [],
+    selectedIndustries: [],
+    selectedCompanies: [],
+    selectedTitles: [],
+    selectedLocations: [],
+    
+    // Available options (populated from data)
+    availableIndustries: [],
+    availableCompanies: [],
+    availableTitles: [],
+    availableLocations: [],
+    
+    // ===== DROPDOWN UI STATE =====
+    
+    // Currently open dropdown ('persona' | 'industry' | 'company' | 'title' | 'location' | null)
+    openDropdown: null,
+    
+    // Search queries within each dropdown
+    dropdownSearchPersona: '',
+    dropdownSearchIndustry: '',
+    dropdownSearchCompany: '',
+    dropdownSearchTitle: '',
+    dropdownSearchLocation: '',
+
     async init() {
+      this.loadPreferences();
       await this.fetchData();
+      this.extractAvailableFilters();
     },
 
+    // ===== LOCALSTORAGE PERSISTENCE =====
+    
+    loadPreferences() {
+      try {
+        const saved = localStorage.getItem('aiSentiaFilters');
+        if (saved) {
+          const prefs = JSON.parse(saved);
+          this.selectedPersonas = prefs.personas || [];
+          this.selectedIndustries = prefs.industries || [];
+          this.selectedCompanies = prefs.companies || [];
+          this.selectedTitles = prefs.titles || [];
+          this.selectedLocations = prefs.locations || [];
+          this.timeframe = prefs.timeframe || '24';
+        }
+      } catch (e) {
+        console.warn('Could not load preferences:', e);
+      }
+    },
+    
+    savePreferences() {
+      try {
+        const prefs = {
+          personas: this.selectedPersonas,
+          industries: this.selectedIndustries,
+          companies: this.selectedCompanies,
+          titles: this.selectedTitles,
+          locations: this.selectedLocations,
+          timeframe: this.timeframe
+        };
+        localStorage.setItem('aiSentiaFilters', JSON.stringify(prefs));
+      } catch (e) {
+        console.warn('Could not save preferences:', e);
+      }
+    },
+    
+    resetAllFilters() {
+      this.selectedPersonas = [];
+      this.selectedIndustries = [];
+      this.selectedCompanies = [];
+      this.selectedTitles = [];
+      this.selectedLocations = [];
+      this.timeframe = '24';
+      this.search = '';
+      this.openDropdown = null;
+      this.savePreferences();
+    },
+
+    // ===== DATA FETCHING =====
+    
     async fetchData() {
       this.loading = true;
       try {
-        const isDev = !['ai-sentia.pages.dev', 'aisentia.pages.dev', 'pushpendradwivedi.github.io'].includes(window.location.hostname);
-        const dbFile = isDev ? './data/dev_database.json' : './data/database.json';
+        // DEV VERSION: Always load dev_database.json
+        const dbFile = './data/dev_database.json';
         const res = await fetch(`${dbFile}?v=${Date.now()}`);
         if (res.ok) {
           const data = await res.json();
@@ -455,18 +793,190 @@ function app() {
       }
       this.loading = false;
     },
+    
+    // ===== EXTRACT AVAILABLE FILTER OPTIONS =====
+    
+    extractAvailableFilters() {
+      const industries = new Set();
+      const companies = new Set();
+      const titles = new Set();
+      const locations = new Set();
+      
+      this.allItems.forEach(item => {
+        (item.industries || []).forEach(i => industries.add(i));
+        (item.companies || []).forEach(c => companies.add(c));
+        (item.job_titles || []).forEach(t => titles.add(t));
+        (item.locations || []).forEach(l => locations.add(l));
+      });
+      
+      this.availableIndustries = Array.from(industries).sort();
+      this.availableCompanies = Array.from(companies).sort();
+      this.availableTitles = Array.from(titles).sort();
+      this.availableLocations = Array.from(locations).sort();
+    },
 
+    // ===== MULTI-SELECT TOGGLE METHODS =====
+    
+    togglePersona(persona) {
+      const idx = this.selectedPersonas.indexOf(persona);
+      if (idx > -1) {
+        this.selectedPersonas.splice(idx, 1);
+      } else {
+        this.selectedPersonas.push(persona);
+      }
+      this.savePreferences();
+    },
+    
+    toggleIndustry(industry) {
+      const idx = this.selectedIndustries.indexOf(industry);
+      if (idx > -1) {
+        this.selectedIndustries.splice(idx, 1);
+      } else {
+        this.selectedIndustries.push(industry);
+      }
+      this.savePreferences();
+    },
+    
+    toggleCompany(company) {
+      const idx = this.selectedCompanies.indexOf(company);
+      if (idx > -1) {
+        this.selectedCompanies.splice(idx, 1);
+      } else {
+        this.selectedCompanies.push(company);
+      }
+      this.savePreferences();
+    },
+    
+    toggleTitle(title) {
+      const idx = this.selectedTitles.indexOf(title);
+      if (idx > -1) {
+        this.selectedTitles.splice(idx, 1);
+      } else {
+        this.selectedTitles.push(title);
+      }
+      this.savePreferences();
+    },
+    
+    toggleLocation(location) {
+      const idx = this.selectedLocations.indexOf(location);
+      if (idx > -1) {
+        this.selectedLocations.splice(idx, 1);
+      } else {
+        this.selectedLocations.push(location);
+      }
+      this.savePreferences();
+    },
+    
+    // ===== DROPDOWN CONTROL METHODS =====
+    
+    toggleDropdown(name) {
+      this.openDropdown = this.openDropdown === name ? null : name;
+    },
+    
+    closeDropdown() {
+      this.openDropdown = null;
+    },
+    
+    // ===== SELECT/CLEAR ALL METHODS =====
+    
+    selectAllPersonas() {
+      this.selectedPersonas = [...this.personas];
+      this.savePreferences();
+    },
+    
+    clearAllPersonas() {
+      this.selectedPersonas = [];
+      this.savePreferences();
+    },
+    
+    selectAllIndustries() {
+      this.selectedIndustries = [...this.availableIndustries];
+      this.savePreferences();
+    },
+    
+    clearAllIndustries() {
+      this.selectedIndustries = [];
+      this.savePreferences();
+    },
+    
+    selectAllCompanies() {
+      this.selectedCompanies = [...this.availableCompanies];
+      this.savePreferences();
+    },
+    
+    clearAllCompanies() {
+      this.selectedCompanies = [];
+      this.savePreferences();
+    },
+    
+    selectAllTitles() {
+      this.selectedTitles = [...this.availableTitles];
+      this.savePreferences();
+    },
+    
+    clearAllTitles() {
+      this.selectedTitles = [];
+      this.savePreferences();
+    },
+    
+    selectAllLocations() {
+      this.selectedLocations = [...this.availableLocations];
+      this.savePreferences();
+    },
+    
+    clearAllLocations() {
+      this.selectedLocations = [];
+      this.savePreferences();
+    },
+    
+    // ===== FILTERED OPTIONS (WITH SEARCH) =====
+    
+    get filteredPersonaOptions() {
+      if (!this.dropdownSearchPersona) return this.personas;
+      return this.personas.filter(p => 
+        p.toLowerCase().includes(this.dropdownSearchPersona.toLowerCase())
+      );
+    },
+    
+    get filteredIndustryOptions() {
+      if (!this.dropdownSearchIndustry) return this.availableIndustries;
+      return this.availableIndustries.filter(i => 
+        i.toLowerCase().includes(this.dropdownSearchIndustry.toLowerCase())
+      );
+    },
+    
+    get filteredCompanyOptions() {
+      if (!this.dropdownSearchCompany) return this.availableCompanies;
+      return this.availableCompanies.filter(c => 
+        c.toLowerCase().includes(this.dropdownSearchCompany.toLowerCase())
+      );
+    },
+    
+    get filteredTitleOptions() {
+      if (!this.dropdownSearchTitle) return this.availableTitles;
+      return this.availableTitles.filter(t => 
+        t.toLowerCase().includes(this.dropdownSearchTitle.toLowerCase())
+      );
+    },
+    
+    get filteredLocationOptions() {
+      if (!this.dropdownSearchLocation) return this.availableLocations;
+      return this.availableLocations.filter(l => 
+        l.toLowerCase().includes(this.dropdownSearchLocation.toLowerCase())
+      );
+    },
+
+    // ===== ENHANCED FILTERING LOGIC =====
+    
     get filteredItems() {
       let results = [...this.allItems];
       
-      // Use sync time as reference point, not current time
-      // "last 24 hours" means 24 hours before the last database sync
+      // Filter by timeframe
       const syncTime = this.refreshedAt && this.refreshedAt !== 'Loading...' && this.refreshedAt !== 'Offline'
         ? new Date(this.refreshedAt.replace(' UTC', 'Z').replace(' ', 'T'))
         : new Date();
       const hoursBack = parseInt(this.timeframe);
       
-      // Filter by timeframe relative to sync time
       results = results.filter(item => {
         try {
           const pub = new Date(item.pub_date);
@@ -476,23 +986,64 @@ function app() {
         }
       });
 
-      // Filter by search
+      // Filter by search (comprehensive - search all fields including tags)
       if (this.search) {
         const s = this.search.toLowerCase();
-        results = results.filter(i => 
-          (i.title || '').toLowerCase().includes(s) || 
-          (i.summary || '').toLowerCase().includes(s) ||
-          (i.source || '').toLowerCase().includes(s) ||
-          (i.persona || '').toLowerCase().includes(s)
-        );
-      }
-
-      // Filter by persona
-      if (this.filter !== 'all') {
         results = results.filter(i => {
-          const p = (i.persona || '').toLowerCase();
-          const searchStr = this.filter.toLowerCase().split(' ').pop();
-          return p.includes(searchStr);
+          // Search in basic fields
+          const matchesBasic = 
+            (i.title || '').toLowerCase().includes(s) || 
+            (i.summary || '').toLowerCase().includes(s) ||
+            (i.source || '').toLowerCase().includes(s) ||
+            (i.persona || '').toLowerCase().includes(s);
+          
+          // Search in tag arrays (industries, companies, job_titles, locations)
+          const matchesIndustries = (i.industries || []).some(val => val.toLowerCase().includes(s));
+          const matchesCompanies = (i.companies || []).some(val => val.toLowerCase().includes(s));
+          const matchesTitles = (i.job_titles || []).some(val => val.toLowerCase().includes(s));
+          const matchesLocations = (i.locations || []).some(val => val.toLowerCase().includes(s));
+          
+          return matchesBasic || matchesIndustries || matchesCompanies || matchesTitles || matchesLocations;
+        });
+      }
+      
+      // Filter by personas (multi-select OR logic)
+      if (this.selectedPersonas.length > 0) {
+        results = results.filter(item => {
+          const itemPersona = item.persona || '';
+          return this.selectedPersonas.some(selected => itemPersona.includes(selected));
+        });
+      }
+      
+      // Filter by industries (multi-select OR logic)
+      if (this.selectedIndustries.length > 0) {
+        results = results.filter(item => {
+          const itemIndustries = item.industries || [];
+          return this.selectedIndustries.some(selected => itemIndustries.includes(selected));
+        });
+      }
+      
+      // Filter by companies (multi-select OR logic)
+      if (this.selectedCompanies.length > 0) {
+        results = results.filter(item => {
+          const itemCompanies = item.companies || [];
+          return this.selectedCompanies.some(selected => itemCompanies.includes(selected));
+        });
+      }
+       
+      // Filter by job titles (multi-select OR logic)
+      if (this.selectedTitles.length > 0) {
+        results = results.filter(item => {
+          const itemTitles = item.job_titles || [];
+          return this.selectedTitles.some(selected => itemTitles.includes(selected));
+        });
+      }
+      
+      // Filter by locations (multi-select OR logic)
+      if (this.selectedLocations.length > 0) {
+        results = results.filter(item => {
+          const itemLocations = item.locations || [];
+          return this.selectedLocations.some(selected => itemLocations.includes(selected));
         });
       }
 
@@ -507,7 +1058,17 @@ function app() {
 
       return results;
     },
+    
+    get activeFilterCount() {
+      return this.selectedPersonas.length +
+             this.selectedIndustries.length + 
+             this.selectedCompanies.length + 
+             this.selectedTitles.length + 
+             this.selectedLocations.length;
+    },
 
+    // ===== UTILITY METHODS =====
+    
     formatDate(iso) {
       if (!iso) return 'Recent';
       try {
@@ -516,13 +1077,17 @@ function app() {
         return 'Recent';
       }
     },
+    
     trackPersona(personaName) {
+      this.savePreferences();
       gtag('event', 'persona_selected', {
         persona_name: personaName,
         page_location: window.location.href
       });
     },
+    
     trackTimeframe(hours) {
+      this.savePreferences();
       gtag('event', 'timeframe_changed', {
         hours_selected: hours,
         page_location: window.location.href
@@ -653,16 +1218,9 @@ document.addEventListener("click", function(e) {
   "use strict";
 
   // ── CONFIG ──────────────────────────────────────────────────────────────────
-  // DEV worker:  aisentia-analytics-dev (bound to AISENTIA_ANALYTICS_DEV KV)
-  // PROD worker: aisentia-analytics     (bound to AISENTIA_ANALYTICS KV)
-  // Create prod worker only after dev testing is confirmed working
-  const PROD_WORKER_URL = "https://aisentia-analytics.pushpendradwivedi21.workers.dev";
+  // DEV VERSION: Always use dev worker for dev_index.html
   const DEV_WORKER_URL  = "https://aisentia-analytics-dev.pushpendradwivedi21.workers.dev";
-
-  // Matches the isDev logic in fetchData() above — single source of truth
-  const IS_DEV = !['ai-sentia.pages.dev', 'aisentia.pages.dev', 'pushpendradwivedi.github.io']
-                   .includes(window.location.hostname);
-  const WORKER_URL = IS_DEV ? DEV_WORKER_URL : PROD_WORKER_URL;
+  const WORKER_URL = DEV_WORKER_URL;  // Always dev for this file
 
   // ── CORE: fire-and-forget fetch, never blocks or breaks the page ────────────
   // no-cors mode: no preflight fired, wildcard CORS works, worker receives fine
@@ -672,7 +1230,7 @@ document.addEventListener("click", function(e) {
     const payload = JSON.stringify({
       event: event,
       value: String(value).slice(0, 100),
-      env: IS_DEV ? "dev" : "prod"
+      env: "dev"  // Always dev for this file
     });
     try {
       fetch(WORKER_URL, {
