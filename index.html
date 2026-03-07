@@ -780,7 +780,8 @@ function app() {
       this.loading = true;
       try {
         // DEV VERSION: Always load dev_database.json
-        const dbFile = './data/dev_database.json';
+        const isProd = ['pushpendradwivedi.github.io', 'aisentia.pages.dev', 'ai-sentia.pages.dev'].includes(window.location.hostname);
+        const dbFile = isProd ? './data/database.json' : './data/dev_database.json';
         const res = await fetch(`${dbFile}?v=${Date.now()}`);
         if (res.ok) {
           const data = await res.json();
