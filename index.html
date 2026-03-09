@@ -862,6 +862,14 @@ document.addEventListener("click", function(e) {
   const IS_DEV = !['pushpendradwivedi.github.io', 'aisentia.pages.dev', 'ai-sentia.pages.dev']
                    .includes(window.location.hostname);
   const WORKER_URL = IS_DEV ? DEV_WORKER_URL : PROD_WORKER_URL;
+  
+  // 🐛 DEBUG: Remove after verifying correct routing
+  console.log('[AI Sentia Analytics]', {
+    hostname: window.location.hostname,
+    IS_DEV: IS_DEV,
+    WORKER_URL: WORKER_URL,
+    env: IS_DEV ? 'dev' : 'prod'
+  });
 
   // ── CORE TRACKER ─────────────────────────────────────────────────────────────
   // no-cors: no preflight fired, wildcard CORS works fine
@@ -873,6 +881,10 @@ document.addEventListener("click", function(e) {
       value: String(value).slice(0, 100),
       env: IS_DEV ? "dev" : "prod"
     });
+    
+    // 🐛 DEBUG: Remove after verifying correct routing
+    console.log('[KV Track]', event, '→', value, '| Sending to:', WORKER_URL);
+    
     try {
       fetch(WORKER_URL, {
         method: "POST",
