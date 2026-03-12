@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Methodology | How AI Sentia Works</title>
+    <meta name="description" content="Learn how AI Sentia curates AI news: automated crawling, LLM-powered enrichment, smart filtering, and persona-based categorization. Transparent and open-source.">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Roboto', sans-serif; background-color: #F8F9FA; color: #202124; }
+    </style>
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pushpendradwivedi.github.io/aisentia/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "How It Works",
+            "item": "https://pushpendradwivedi.github.io/aisentia/methodology.html"
+            }
+        ]
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+            "@type": "Question",
+            "name": "How does AI Sentia curate AI news?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "AI Sentia uses automated crawling via GitHub Actions to fetch RSS feeds and API data from 35+ sources every 24 hours. Each article is analyzed by Google Gemini AI to generate summaries, assign personas, and extract metadata like industries, companies, and locations."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "How accurate are AI-generated summaries?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Summaries are generated using Google Gemini 2.5 Flash with a multi-model fallback chain. We achieve ~95% success rate for AI enrichment. All summaries are original content created by our AI, not copied from source articles."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "What makes AI Sentia different from other news aggregators?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "AI Sentia uses LLM-powered intelligence to categorize content by persona (Developer, Research, Enterprise) and extract structured metadata. We monitor 35+ specialized AI sources and detect trending content using a Hacker News-style algorithm."
+            }
+            },
+            {
+            "@type": "Question",
+            "name": "How often is the database updated?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The database updates automatically every 24 hours at midnight UTC via GitHub Actions. New articles are crawled, deduplicated, enriched with AI summaries, and published within 5-10 minutes."
+            }
+            }
+        ]
+        }
+    </script>
+</head>
+<body>
+
+    <header class="bg-white border-b border-gray-200">
+        <div class="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between flex-wrap gap-4">
+            <a href="index.html" class="flex items-center gap-2 text-gray-700 hover:text-blue-600 transition">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                <span class="font-bold">Dashboard</span>
+            </a>
+            
+            <nav class="flex items-center gap-6 text-xs font-bold text-gray-500">
+                <a href="about.html" class="hover:text-blue-600 transition">About</a>
+                <a href="sources.html" class="hover:text-blue-600 transition">Sources</a>
+                <a href="methodology.html" class="text-blue-600">How It Works</a>
+                <a href="legal.html" class="hover:text-blue-600 transition">Privacy</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-6 py-12">
+        
+        <div class="text-center mb-12">
+            <h1 class="text-5xl font-black text-gray-900 mb-4">Our Methodology</h1>
+            <p class="text-xl text-gray-600">How we turn 35+ sources into actionable intelligence</p>
+        </div>
+
+        <!-- STEP 1 -->
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <div class="flex items-start gap-4 mb-4">
+                <div class="flex-shrink-0 w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-black text-2xl">1</div>
+                <div>
+                    <h2 class="text-2xl font-bold text-gray-900 mb-2">Automated Source Crawling</h2>
+                    <p class="text-gray-600">Every 24 hours at 00:00 UTC</p>
+                </div>
+            </div>
+            
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p><strong>GitHub Actions workflow triggers our Python crawler</strong> to fetch RSS feeds, API data, and public sources from 35+ global publishers:</p>
+                
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>RSS Feeds:</strong> Standard XML parsing with feedparser library</li>
+                    <li><strong>GitHub API:</strong> Real-time trending repos filtered by AI topics</li>
+                    <li><strong>YouTube Data API:</strong> Latest videos from curated creators</li>
+                    <li><strong>Fallback Strategy:</strong> If primary RSS fails, query Google News for that source</li>
+                </ul>
+
+                <p><strong>Rate Limits:</strong> We respect all API limits. GitHub: 5,000/hour. YouTube: 10,000 units/day. All within free tier quotas.</p>
+                
+                <p><strong>User-Agent Spoofing:</strong> We use Chrome headers to bypass CloudFlare/Akamai blocking, ensuring reliable 24/7 uptime.</p>
+            </div>
+        </div>
+
+        <!-- STEP 2 -->
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <div class="flex items-start gap-4 mb-4">
+                <div class="flex-shrink-0 w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-black text-2xl">2</div>
+                <div>
+                    <h2 class="text-2xl font-bold text-gray-900 mb-2">Deduplication & Quality Filtering</h2>
+                    <p class="text-gray-600">Remove noise before AI enrichment</p>
+                </div>
+            </div>
+            
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p><strong>URL-Based Deduplication:</strong> Each link is checked against existing database. If URL already exists, skip.</p>
+                
+                <p><strong>Title Similarity Matching:</strong> Use SequenceMatcher (>85% threshold) to catch near-duplicates like:</p>
+                <ul class="list-disc pl-6 space-y-1">
+                    <li>"OpenAI Releases GPT-5" vs "GPT-5 Released by OpenAI"</li>
+                    <li>"Google Announces Gemini 2.0" vs "Gemini 2.0 Unveiled"</li>
+                </ul>
+
+                <p><strong>Content Filtering (Moderate):</strong> We filter entertainment/events but keep edge cases:</p>
+                <ul class="list-disc pl-6 space-y-1">
+                    <li>✅ <strong>Keep:</strong> "AI startup raises $50M", "OpenAI releases API", "ArXiv paper on reasoning"</li>
+                    <li>❌ <strong>Filter:</strong> "Toy Story AI movie", "Chocolate AI marketing", "TechCrunch Disrupt registration"</li>
+                </ul>
+
+                <p><strong>Result:</strong> ~40% reduction in volume, focusing on signal vs noise.</p>
+            </div>
+        </div>
+
+        <!-- STEP 3 -->
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <div class="flex items-start gap-4 mb-4">
+                <div class="flex-shrink-0 w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-black text-2xl">3</div>
+                <div>
+                    <h2 class="text-2xl font-bold text-gray-900 mb-2">AI-Powered Enrichment</h2>
+                    <p class="text-gray-600">Google Gemini analyzes each article</p>
+                </div>
+            </div>
+            
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p><strong>Multi-Model Fallback Chain:</strong></p>
+                <ol class="list-decimal pl-6 space-y-2">
+                    <li><strong>Gemini 2.5 Flash Lite</strong> (fastest, highest free quota) - Primary</li>
+                    <li><strong>Gemini 2.5 Flash</strong> (balanced) - Fallback 1</li>
+                    <li><strong>Gemini 2.0 Flash</strong> (proven stability) - Fallback 2</li>
+                    <li><strong>Gemma 3 27B</strong> (open model, separate quota pool) - Fallback 3</li>
+                </ol>
+
+                <p><strong>What AI Extracts:</strong></p>
+                <ul class="list-disc pl-6 space-y-2">
+                    <li><strong>Summary:</strong> 10-15 word concise description (not copied from article)</li>
+                    <li><strong>Persona:</strong> One of 8 categories (Developer, Enterprise, Research, Startup, Creator, Education, Healthcare, Policy & Law)</li>
+                    <li><strong>Industries:</strong> Tags from fixed whitelist (Tech, Healthcare, Finance, etc.) - prevents hallucinations</li>
+                    <li><strong>Companies:</strong> Mentioned organizations (e.g., OpenAI, Microsoft, Mayo Clinic)</li>
+                    <li><strong>Job Titles:</strong> Relevant professional roles (e.g., CTO, ML Engineer, Data Scientist)</li>
+                    <li><strong>Locations:</strong> Geographic regions (countries only, no cities)</li>
+                    <li><strong>Importance Score:</strong> 1-10 scale where 9-10 = major launches, 5-6 = notable news, 1-2 = minor updates</li>
+                    <li><strong>AI Relevance:</strong> Boolean flag - is this genuinely about AI/ML, or just keyword spam?</li>
+                </ul>
+
+                <p><strong>Batch Processing:</strong> 20 items per API call, 4-second pause between batches to stay under 15 RPM limit across 3 API keys.</p>
+
+                <p><strong>Quality Validation:</strong> After AI enrichment, we canonicalize values:</p>
+                <ul class="list-disc pl-6 space-y-1">
+                    <li><strong>Companies:</strong> "MSFT" → "Microsoft", "OpenAI Inc" → "OpenAI"</li>
+                    <li><strong>Locations:</strong> "SF" → "San Francisco, United States" → "United States" (country only)</li>
+                    <li><strong>Job Titles:</strong> Fuzzy match to known titles database (grows over time)</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- STEP 4 -->
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <div class="flex items-start gap-4 mb-4">
+                <div class="flex-shrink-0 w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-black text-2xl">4</div>
+                <div>
+                    <h2 class="text-2xl font-bold text-gray-900 mb-2">Metric Extraction & Trending Detection</h2>
+                    <p class="text-gray-600">Real-time engagement scores</p>
+                </div>
+            </div>
+            
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p><strong>Engagement Metrics (when available):</strong></p>
+                <ul class="list-disc pl-6 space-y-1">
+                    <li><strong>GitHub:</strong> Star count via GitHub API</li>
+                    <li><strong>YouTube:</strong> View count via YouTube Data API</li>
+                    <li><strong>Others:</strong> Base score of 10 (neutral)</li>
+                </ul>
+
+                <p><strong>Trending Algorithm (Hacker News Formula):</strong></p>
+                <pre class="bg-gray-100 p-4 rounded text-sm overflow-x-auto">gravity = (metrics + 10) / (age_hours + 2)^1.5
+
+If gravity > 1.5 → Mark as TRENDING 🔥</pre>
+
+                <p><strong>Example:</strong></p>
+                <ul class="list-disc pl-6 space-y-1">
+                    <li>New repo (1 hour old) with 50 stars: gravity = 60 / 3^1.5 = 11.5 ✅ TRENDING</li>
+                    <li>Old repo (72 hours old) with 50 stars: gravity = 60 / 74^1.5 = 0.09 ❌ NOT TRENDING</li>
+                </ul>
+
+                <p><strong>Result:</strong> Fresh, high-engagement content bubbles to the top.</p>
+            </div>
+        </div>
+
+        <!-- STEP 5 -->
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <div class="flex items-start gap-4 mb-4">
+                <div class="flex-shrink-0 w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-black text-2xl">5</div>
+                <div>
+                    <h2 class="text-2xl font-bold text-gray-900 mb-2">Database Publishing</h2>
+                    <p class="text-gray-600">Static JSON for instant loading</p>
+                </div>
+            </div>
+            
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p><strong>Hot Database:</strong> <code>database.json</code> contains items from last 365 days (max 1M items)</p>
+                
+                <p><strong>Cold Archive:</strong> <code>archive.json</code> stores items older than 365 days for historical analysis</p>
+                
+                <p><strong>Raw Signals:</strong> <code>raw_signals.json</code> captures pre-AI data for debugging/compliance</p>
+
+                <p><strong>File Size:</strong> Typical daily database: ~500KB compressed, loads in <1s on 3G.</p>
+
+                <p><strong>Update Frequency:</strong> Every 24 hours at 00:00 UTC. Users see "Refreshed at: YYYY-MM-DD HH:MM UTC"</p>
+            </div>
+        </div>
+
+        <!-- STEP 6 -->
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <div class="flex items-start gap-4 mb-4">
+                <div class="flex-shrink-0 w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-black text-2xl">6</div>
+                <div>
+                    <h2 class="text-2xl font-bold text-gray-900 mb-2">Frontend Filtering & Presentation</h2>
+                    <p class="text-gray-600">Client-side performance</p>
+                </div>
+            </div>
+            
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p><strong>Alpine.js reactive UI:</strong> All filtering happens in browser (no backend queries)</p>
+                
+                <p><strong>Multi-Dimensional Filters:</strong></p>
+                <ul class="list-disc pl-6 space-y-1">
+                    <li><strong>By Persona:</strong> Developer, Enterprise, Research, Startup, etc. (OR logic)</li>
+                    <li><strong>By Industry:</strong> Tech, Healthcare, Finance, etc. (OR logic)</li>
+                    <li><strong>By Company:</strong> OpenAI, Anthropic, Google, etc. (OR logic)</li>
+                    <li><strong>By Job Title:</strong> CTO, ML Engineer, Data Scientist, etc. (OR logic)</li>
+                    <li><strong>By Location:</strong> Countries only (OR logic)</li>
+                    <li><strong>By Timeframe:</strong> Last 24h / 7 days / 14 days / 30 days</li>
+                    <li><strong>By Search:</strong> Full-text search across title, summary, source, and all tags</li>
+                </ul>
+
+                <p><strong>Performance:</strong> Filtering 1,000 items takes ~10ms. LocalStorage saves preferences.</p>
+
+                <p><strong>Sort Order:</strong> Importance score DESC → Trending first → Newest first</p>
+            </div>
+        </div>
+
+        <!-- TRANSPARENCY -->
+        <div class="bg-blue-50 rounded-xl border border-blue-200 p-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">🔍 Transparency & Open Source</h2>
+            <div class="space-y-3 text-gray-700 text-sm">
+                <p>✅ <strong>All code is open source</strong> on <a href="https://github.com/pushpendradwivedi/aisentia" class="text-blue-600 hover:underline font-bold">GitHub</a></p>
+                <p>✅ <strong>No editorial bias</strong> - AI categorizes content, not humans</p>
+                <p>✅ <strong>Always link to originals</strong> - We never copy full articles</p>
+                <p>✅ <strong>No data sales</strong> - We don't sell or license aggregated data</p>
+                <p>✅ <strong>Privacy-first analytics</strong> - Cookieless tracking, no PII collected</p>
+                <p>✅ <strong>Fair use summaries</strong> - AI-generated, transformative content</p>
+            </div>
+        </div>
+
+        <div class="mt-12 text-center">
+            <a href="index.html" 
+               class="inline-block bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full font-bold transition shadow-md">
+                Explore the Dashboard →
+            </a>
+        </div>
+
+    </main>
+
+    <footer class="bg-white border-t border-gray-200 mt-16">
+        <div class="max-w-4xl mx-auto px-6 py-6 text-center text-sm text-gray-500">
+            <p>&copy; 2026 AI Sentia. Transparent, open-source, community-driven.</p>
+        </div>
+    </footer>
+
+</body>
+</html>

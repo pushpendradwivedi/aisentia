@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About AI Sentia | Our Story & Mission</title>
+    <meta name="description" content="Learn about AI Sentia - a free, open-source AI news aggregator monitoring 35+ global sources daily. Discover our mission, methodology, and the team behind the dashboard.">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Roboto', sans-serif; background-color: #F8F9FA; color: #202124; }
+        .g-blue { color: #1a73e8; }
+    </style>
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "AI Sentia",
+        "alternateName": "AI Pulse Dashboard",
+        "url": "https://pushpendradwivedi.github.io/aisentia/",
+        "description": "Intelligent AI news aggregator monitoring 35+ sources with LLM-powered summaries, persona filters, and trending detection",
+        "publisher": {
+            "@type": "Organization",
+            "name": "AI Sentia",
+            "logo": {
+            "@type": "ImageObject",
+            "url": "https://pushpendradwivedi.github.io/aisentia/logo.png"
+            }
+        },
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://pushpendradwivedi.github.io/aisentia/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://pushpendradwivedi.github.io/aisentia/"
+            },
+            {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "About AI Sentia",
+            "item": "https://pushpendradwivedi.github.io/aisentia/about.html"
+            }
+        ]
+        }
+    </script>
+</head>
+<body>
+
+    <header class="bg-white border-b border-gray-200">
+        <div class="max-w-4xl mx-auto px-6 py-4 flex items-center justify-between flex-wrap gap-4">
+            <a href="index.html" class="flex items-center gap-2 text-gray-700 hover:text-blue-600 transition">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path></svg>
+                <span class="font-bold">Dashboard</span>
+            </a>
+            
+            <nav class="flex items-center gap-6 text-xs font-bold text-gray-500">
+                <a href="about.html" class="text-blue-600">About</a>
+                <a href="sources.html" class="hover:text-blue-600 transition">Sources</a>
+                <a href="methodology.html" class="hover:text-blue-600 transition">How It Works</a>
+                <a href="legal.html" class="hover:text-blue-600 transition">Privacy</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="max-w-4xl mx-auto px-6 py-12">
+        
+        <div class="text-center mb-12">
+            <h1 class="text-5xl font-black text-gray-900 mb-4">About AI Sentia</h1>
+            <p class="text-xl text-gray-600">(sen-tee-uh • Latin for "awareness")</p>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">The Problem We're Solving</h2>
+            <p class="text-gray-700 leading-relaxed mb-4">
+                The AI industry moves at breakneck speed. Every day, there are dozens of new research papers, 
+                model releases, funding announcements, and policy changes across 35+ different sources. 
+                Keeping up with it all is overwhelming.
+            </p>
+            <p class="text-gray-700 leading-relaxed mb-4">
+                Developers need to know about new GitHub repositories and framework updates. 
+                Researchers need to track ArXiv papers and academic breakthroughs. 
+                Enterprise leaders need policy updates and industry trends. 
+                Healthcare professionals need clinical AI validation studies.
+            </p>
+            <p class="text-gray-700 leading-relaxed">
+                <strong>AI Sentia exists to solve this information overload problem.</strong> 
+                We aggregate, filter, and categorize AI news from 35+ global sources, 
+                then route it to the right audience using LLM-powered intelligence.
+            </p>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">Our Mission</h2>
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p><strong class="text-blue-600">🎯 Make AI news accessible to everyone</strong> - No paywalls, no login required, completely free.</p>
+                <p><strong class="text-blue-600">🤖 Use AI to fight information overload</strong> - LLMs categorize and summarize news so you can scan 100 articles in 5 minutes.</p>
+                <p><strong class="text-blue-600">🌍 Connect global AI communities</strong> - From Silicon Valley to Bangalore, from healthcare to policy, we bridge ecosystems.</p>
+                <p><strong class="text-blue-600">📖 Stay open source</strong> - Our code is public on GitHub so anyone can learn, contribute, or build their own aggregator.</p>
+            </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">How It Works</h2>
+            <div class="space-y-6">
+                <div class="flex gap-4">
+                    <div class="flex-shrink-0 w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-bold text-lg">1</div>
+                    <div>
+                        <h3 class="font-bold text-gray-900 mb-2">Automated Crawling</h3>
+                        <p class="text-gray-600 text-sm">Every 24 hours, our GitHub Actions workflow crawls 35+ sources: OpenAI, Anthropic, Google DeepMind, ArXiv, MIT, Stanford, GitHub Trending, YouTube creators, and more.</p>
+                    </div>
+                </div>
+                <div class="flex gap-4">
+                    <div class="flex-shrink-0 w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-bold text-lg">2</div>
+                    <div>
+                        <h3 class="font-bold text-gray-900 mb-2">AI-Powered Enrichment</h3>
+                        <p class="text-gray-600 text-sm">Google Gemini models analyze each article, generate concise summaries, assign personas (Developer, Research, Enterprise, etc.), and extract metadata like industries, companies, and locations.</p>
+                    </div>
+                </div>
+                <div class="flex gap-4">
+                    <div class="flex-shrink-0 w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-bold text-lg">3</div>
+                    <div>
+                        <h3 class="font-bold text-gray-900 mb-2">Smart Filtering</h3>
+                        <p class="text-gray-600 text-sm">We detect trending content using a Hacker News-style algorithm, extract GitHub star counts and YouTube view counts, and deduplicate similar stories from multiple sources.</p>
+                    </div>
+                </div>
+                <div class="flex gap-4">
+                    <div class="flex-shrink-0 w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-bold text-lg">4</div>
+                    <div>
+                        <h3 class="font-bold text-gray-900 mb-2">Instant Dashboard</h3>
+                        <p class="text-gray-600 text-sm">Results are published to a fast, mobile-responsive dashboard with real-time filtering by persona, industry, company, job title, and location. No backend required - everything runs on static JSON.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">Technology Stack</h2>
+            <div class="grid md:grid-cols-2 gap-6">
+                <div>
+                    <h3 class="font-bold text-gray-900 mb-2">Backend</h3>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• <strong>Python</strong> - Data collection & processing</li>
+                        <li>• <strong>feedparser</strong> - RSS/Atom parsing</li>
+                        <li>• <strong>Google Gemini API</strong> - AI summarization</li>
+                        <li>• <strong>GitHub Actions</strong> - Automated builds</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-bold text-gray-900 mb-2">Frontend</h3>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• <strong>Alpine.js</strong> - Reactive UI</li>
+                        <li>• <strong>Tailwind CSS</strong> - Styling</li>
+                        <li>• <strong>GitHub Pages</strong> - Hosting</li>
+                        <li>• <strong>Cloudflare</strong> - Analytics (cookieless)</li>
+                    </ul>
+                </div>
+            </div>
+            <p class="text-sm text-gray-500 mt-4">
+                <strong>Total cost:</strong> £0/month (100% free tier services)
+            </p>
+        </div>
+
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">About the Creator</h2>
+            <p class="text-gray-700 leading-relaxed mb-4">
+                AI Sentia was created by <strong>Pushpendra Dwivedi</strong>, an Analyst and AI enthusiast 
+                passionate about making AI research accessible to everyone. After spending hours each week 
+                manually checking dozens of sources, Pushpendra built AI Sentia to automate the process 
+                and share it with the community.
+            </p>
+            <p class="text-gray-700 leading-relaxed">
+                This project is open source and maintained by volunteers. If you'd like to contribute, 
+                check out our <a href="https://github.com/pushpendradwivedi/aisentia" class="text-blue-600 hover:underline font-bold">GitHub repository</a>.
+            </p>
+        </div>
+
+        <div class="bg-blue-50 rounded-xl border border-blue-200 p-8 text-center">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">Join the Community</h2>
+            <p class="text-gray-700 mb-6">Stay updated with daily AI news delivered to your inbox</p>
+            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                <a href="https://aiforanalyticsandads.substack.com/s/ai-daily-signal" 
+                   target="_blank" 
+                   class="bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-full font-bold transition shadow-md">
+                    📧 Subscribe to Newsletter
+                </a>
+                <a href="https://github.com/pushpendradwivedi/aisentia" 
+                   target="_blank" 
+                   class="bg-gray-800 hover:bg-gray-900 text-white px-6 py-3 rounded-full font-bold transition shadow-md">
+                    ⭐ Star on GitHub
+                </a>
+            </div>
+        </div>
+
+        <div class="mt-12 text-center">
+            <a href="index.html" 
+               class="inline-block bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full font-bold transition shadow-md">
+                Explore the Dashboard →
+            </a>
+        </div>
+
+    </main>
+
+    <footer class="bg-white border-t border-gray-200 mt-16">
+        <div class="max-w-4xl mx-auto px-6 py-6 text-center text-sm text-gray-500">
+            <p>&copy; 2026 AI Sentia. Open source and free forever.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
