@@ -11,6 +11,40 @@
         body { font-family: 'Roboto', sans-serif; background-color: #F8F9FA; color: #202124; }
         .g-blue { color: #1a73e8; }
     </style>
+
+    <!-- Consent Mode Default -->
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied'
+    });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4QDT9WQ0PW"></script>
+    <script>
+    gtag('js', new Date());
+    gtag('config', 'G-4QDT9WQ0PW');
+    </script>
+
+    <!-- Core Web Vitals Tracking -->
+    <script type="module">
+    import {onCLS, onINP, onLCP} from 'https://unpkg.com/web-vitals@4?module';
+    onCLS(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'CLS', value: Math.round(m.value * 1000), non_interaction: true}));
+    onINP(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'INP', value: Math.round(m.value), non_interaction: true}));
+    onLCP(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'LCP', value: Math.round(m.value), non_interaction: true}));
+    </script>
+
+    <!-- Microsoft Clarity — cookieless heatmaps & session replay -->
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "vqq5b80x7x");
+    </script>
     <script type="application/ld+json">
         {
         "@context": "https://schema.org",
@@ -144,6 +178,62 @@
             </div>
         </div>
 
+        <!-- DEV ONLY: Multilanguage Support Section -->
+        <div class="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl shadow-sm border border-purple-200 p-8 mb-8">
+            <div class="flex items-center gap-3 mb-4">
+                <svg class="w-8 h-8 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129"></path>
+                </svg>
+                <h2 class="text-2xl font-bold text-gray-900">🌍 Multilanguage Support (Beta)</h2>
+            </div>
+            <div class="space-y-4 text-gray-700 leading-relaxed">
+                <p>
+                    <strong class="text-purple-700">Breaking language barriers in AI news.</strong> 
+                    AI Sentia now supports multiple languages to make AI intelligence accessible 
+                    to a global audience.
+                </p>
+                <div class="grid md:grid-cols-2 gap-6 mt-6">
+                    <div>
+                        <h3 class="font-bold text-gray-900 mb-2 flex items-center gap-2">
+                            <span class="text-xl">🇮🇳</span> Indian Languages
+                        </h3>
+                        <p class="text-sm text-gray-600 mb-2">Powered by <strong>Sarvam AI</strong></p>
+                        <div class="text-sm text-gray-600 space-y-1">
+                            <div>• Hindi (हिंदी)</div>
+                            <div class="text-xs text-gray-500 italic">More Indian languages coming soon...</div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="font-bold text-gray-900 mb-2 flex items-center gap-2">
+                            <span class="text-xl">🌐</span> International Languages
+                        </h3>
+                        <p class="text-sm text-gray-600 mb-2">Powered by <strong>Google Gemini</strong></p>
+                        <div class="text-sm text-gray-600 space-y-1">
+                            <div>• Spanish (Español)</div>
+                            <div>• Arabic (العربية)</div>
+                            <div>• Chinese (中文)</div>
+                            <div class="text-xs text-gray-500 italic">15+ more languages under development...</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mt-6 p-4 bg-white rounded-lg border border-purple-200">
+                    <h4 class="font-bold text-sm text-gray-900 mb-2">How It Works:</h4>
+                    <ol class="text-sm text-gray-600 space-y-2 list-decimal list-inside">
+                        <li><strong>Automated Translation:</strong> Daily news is automatically translated into 5+ languages</li>
+                        <li><strong>Smart Fallback:</strong> If a translation isn't available, content falls back to English</li>
+                        <li><strong>Quality Assurance:</strong> We continuously monitor and improve translation accuracy</li>
+                    </ol>
+                </div>
+                <p class="text-sm text-purple-700 bg-purple-100 p-3 rounded-lg mt-4">
+                    <strong>⚠️ Beta Notice:</strong> Translation is currently in beta. 
+                    While we strive for accuracy, technical AI terms may not translate perfectly. 
+                    When precision matters, refer to the <a href="index.html" class="underline hover:text-purple-900">English version</a> 
+                    or the original source article. <a href="legal.html" class="underline hover:text-purple-900">Read full disclaimer</a>.
+                </p>
+            </div>
+        </div>
+        <!-- END DEV ONLY -->
+
         <div class="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
             <h2 class="text-2xl font-bold text-gray-900 mb-4">Technology Stack</h2>
             <div class="grid md:grid-cols-2 gap-6">
@@ -216,6 +306,56 @@
             <p>&copy; 2026 AI Sentia. Open source and free forever.</p>
         </div>
     </footer>
+
+    <!-- Cloudflare KV Tracking (Cookieless) -->
+    <script>
+    (function() {
+      "use strict";
+      const PROD_WORKER_URL = "https://aisentia-analytics.pushpendradwivedi21.workers.dev";
+      const DEV_WORKER_URL  = "https://aisentia-analytics-dev.pushpendradwivedi21.workers.dev";
+      const IS_DEV = !['pushpendradwivedi.github.io', 'aisentia.pages.dev', 'ai-sentia.pages.dev']
+                         .includes(window.location.hostname);
+      const WORKER_URL = IS_DEV ? DEV_WORKER_URL : PROD_WORKER_URL;
+      
+      function track(event, value) {
+        const payload = JSON.stringify({
+          event: event,
+          value: String(value).slice(0, 100),
+          env: IS_DEV ? "dev" : "prod"
+        });
+        try {
+          fetch(WORKER_URL, {
+            method: "POST",
+            body: payload,
+            mode: "no-cors",
+            credentials: "omit",
+            keepalive: true
+          }).catch(() => {});
+        } catch(e) {}
+      }
+      
+      window.trackKV = track;
+      
+      // Track page view with language preference
+      let currentLang = 'en';
+      try {
+        const prefs = JSON.parse(localStorage.getItem('aiSentiaFilters') || '{}');
+        currentLang = prefs.language || 'en';
+      } catch(e) {}
+      track("page_view", window.location.pathname || "/");
+      track("page_view_language", `about_${currentLang}`);
+      
+      // Track external link clicks
+      document.addEventListener("click", e => {
+        const link = e.target.closest("a[href]");
+        if (!link) return;
+        const href = link.getAttribute("href");
+        if (href && href.startsWith("http")) {
+          track("external_link", new URL(href).hostname.replace("www.", ""));
+        }
+      });
+    })();
+    </script>
 
 </body>
 </html>

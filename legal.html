@@ -10,6 +10,40 @@
         body { font-family: 'Roboto', sans-serif; background-color: #F8F9FA; color: #202124; }
         .g-blue { color: #1a73e8; }
     </style>
+
+    <!-- Google Analytics 4 -->
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied'
+    });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4QDT9WQ0PW"></script>
+    <script>
+    gtag('js', new Date());
+    gtag('config', 'G-4QDT9WQ0PW');
+    </script>
+
+    <!-- Core Web Vitals Tracking -->
+    <script type="module">
+    import {onCLS, onINP, onLCP} from 'https://unpkg.com/web-vitals@4?module';
+    onCLS(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'CLS', value: Math.round(m.value * 1000), non_interaction: true}));
+    onINP(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'INP', value: Math.round(m.value), non_interaction: true}));
+    onLCP(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'LCP', value: Math.round(m.value), non_interaction: true}));
+    </script>
+
+    <!-- Microsoft Clarity — cookieless heatmaps & session replay -->
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "vqq5b80x7x");
+    </script>
 </head>
 <body>
 
@@ -21,7 +55,7 @@
 
     <main class="max-w-3xl mx-auto px-6 py-12">
         <h1 class="text-4xl font-black text-gray-900 mb-2">Privacy & Terms</h1>
-        <p class="text-sm text-gray-500 mb-12">Last Updated: March 04, 2026</p>
+        <p class="text-sm text-gray-500 mb-12">Last Updated: March 15, 2026</p>
 
         <!-- ================= TERMS OF SERVICE ================= -->
 
@@ -36,6 +70,19 @@
                     <strong>1. Content Aggregation:</strong> AI Sentia is a news aggregation and intelligence dashboard.
                     We do not host, own, or claim copyright over the articles, repositories, or videos displayed.
                     All content is sourced from publicly available RSS feeds, APIs, and public data sources.
+                </p>
+                
+                <p>
+                    <strong>Fair Use & Copyright:</strong> Our use of article headlines, brief summaries, and metadata 
+                    falls under fair use principles (UK Copyright Act 1988, US 17 U.S.C. § 107) as:<br>
+                    • <em>Transformative use:</em> We generate AI-powered summaries rather than republishing original text<br>
+                    • <em>Non-commercial educational purpose:</em> Free public service for tech community awareness<br>
+                    • <em>Minimal excerpts:</em> Brief headlines/metadata only, with prominent attribution and direct links<br>
+                    • <em>No market substitution:</em> We drive traffic to original publishers via "Read Article" links<br><br>
+                    
+                    <strong>Original publishers retain all rights.</strong> Content owners may request removal by contacting 
+                    <strong>pushpendrahub[at]gmail.com</strong>. We will promptly comply with legitimate DMCA takedown requests 
+                    or UK copyright complaints within 48 hours.
                 </p>
 
                 <p>
@@ -185,6 +232,136 @@
             </div>
         </section>
 
+        <!-- ================= TRANSLATION DISCLAIMER ================= -->
+
+        <section class="mt-12 bg-white p-8 rounded-xl border border-gray-200 shadow-sm">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4 border-b border-gray-100 pb-2">
+                Machine Translation Disclaimer
+            </h2>
+
+            <div class="space-y-4 text-sm text-gray-600 leading-relaxed">
+
+                <p>
+                    <strong>1. Automated Translation:</strong> As of March 7, 2026, AI Sentia offers multilingual support 
+                    in 20 languages through automated machine translation powered by Sarvam AI (for Hindi) 
+                    and Google Gemini 2.5 Flash (for 19 international languages). While we strive for high accuracy, 
+                    automated translations may contain errors, inaccuracies, or context loss.
+                </p>
+
+                <p>
+                    <strong>2. English as Source Language:</strong> All news articles are originally 
+                    collected and processed in English. Translations are generated from the English 
+                    summaries and titles using AI language models. For critical information, we recommend referring to the 
+                    original English content or the source article via the "Read Article" link.
+                </p>
+
+                <p>
+                    <strong>3. Technical & Domain-Specific Content:</strong> AI and technology news 
+                    often contains specialized terminology, product names, brand names, and technical jargon. 
+                    These may not translate accurately in all languages. Acronyms (e.g., "LLM", "API", "GPU") 
+                    are typically preserved in their original form. When in doubt, refer to 
+                    the original source material in English.
+                </p>
+
+                <p>
+                    <strong>4. Translation Quality & Feedback:</strong> We continuously monitor and improve translation quality 
+                    based on user feedback and automated quality checks. Average translation accuracy ranges from 
+                    80-95% depending on language and content complexity. For detailed quality metrics and methodology, 
+                    see our <a href="translation-quality.html" class="text-blue-600 underline hover:text-blue-800">Translation Quality page</a>. 
+                    If you notice significant translation errors, please report them via our 
+                    <a href="https://tally.so/r/lbyYXX" target="_blank" class="text-blue-600 underline hover:text-blue-800">
+                        feedback form
+                    </a>.
+                </p>
+
+                <p>
+                    <strong>5. No Liability for Translation Errors:</strong> We do not guarantee the accuracy, completeness, 
+                    or reliability of machine-translated content. AI Sentia disclaims all liability for:
+                </p>
+                
+                <ul class="list-disc pl-5 space-y-1">
+                    <li>
+                        <strong>Translation inaccuracies:</strong> Errors, omissions, misrepresentations, or context loss 
+                        in translated headlines, summaries, or article titles
+                    </li>
+                    <li>
+                        <strong>Third-party content:</strong> We aggregate publicly available news from third-party sources. 
+                        We are not responsible for the accuracy, legality, or content of original articles authored by 
+                        external publishers (OpenAI, Anthropic, ArXiv, news organizations, etc.)
+                    </li>
+                    <li>
+                        <strong>Direct or indirect damages:</strong> Any decisions, actions, or consequences arising from 
+                        reliance on machine-translated content, including but not limited to professional, business, legal, 
+                        medical, or financial decisions
+                    </li>
+                    <li>
+                        <strong>Reputational harm:</strong> Misrepresentation of facts, company names, product descriptions, 
+                        or technical specifications due to translation errors
+                    </li>
+                </ul>
+                
+                <p>
+                    <strong>Users must verify critical information</strong> by clicking through to the original English 
+                    article or the source material linked in each card. Translated content is provided "as-is" for 
+                    informational and educational purposes only. We provide prominent links to original sources and 
+                    maintain English as authoritative source language for all content.
+                </p>
+
+                <p>
+                    <strong>6. Supported Languages (Phase 1 + Phase 2 + Phase 3 - March 2026):</strong> Current multilingual support includes 
+                    20 languages covering approximately 4.85 billion speakers (95% of global internet users):
+                </p>
+                
+                <ul class="list-disc pl-5 space-y-1">
+                    <li><strong>English</strong> — Original source language</li>
+                    <li><strong>Hindi (हिंदी)</strong> — Powered by Sarvam AI (95% accuracy)</li>
+                    <li><strong>Spanish (Español)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Arabic (العربية)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Chinese (中文)</strong> — Powered by Google Gemini</li>
+                    <li><strong>French (Français)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Portuguese (Português)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Bengali (বাংলা)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Russian (Русский)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Japanese (日本語)</strong> — Powered by Google Gemini</li>
+                    <li><strong>German (Deutsch)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Urdu (اردو)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Indonesian (Bahasa Indonesia)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Italian (Italiano)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Turkish (Türkçe)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Vietnamese (Tiếng Việt)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Korean (한국어)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Tamil (தமிழ்)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Malay (Bahasa Melayu)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Thai (ไทย)</strong> — Powered by Google Gemini</li>
+                    <li><strong>Polish (Polski)</strong> — Powered by Google Gemini</li>
+                </ul>
+
+                <p class="text-xs italic">
+                    Additional languages may be added in future phases based on user demand, translation quality benchmarks, 
+                    and regional market coverage analysis. See our <a href="translation-quality.html" class="text-blue-600 underline">Translation Quality page</a> 
+                    for our roadmap and expansion plans.
+                </p>
+
+                <p>
+                    <strong>7. Content Removal Requests (GDPR Article 17):</strong> If you are mentioned in a translated 
+                    article and wish to request removal under GDPR's "Right to be Forgotten" or similar data protection laws, 
+                    please contact us at <strong>pushpendrahub[at]gmail.com</strong> with the article URL and reason for removal. 
+                    We will review legitimate requests within 30 days. Note that we aggregate publicly available information 
+                    and do not create original content — removal requests should also be directed to the original source publishers.
+                </p>
+
+                <p>
+                    <strong>8. Geographic Availability:</strong> AI Sentia operates from the United Kingdom and complies with 
+                    UK GDPR, EU General Data Protection Regulation (GDPR), and EU AI Act requirements for limited-risk AI systems. 
+                    Our service is available globally. Translations are generated using AI models hosted by third-party providers 
+                    (Sarvam AI in India, Google Cloud globally) in compliance with their respective data protection frameworks.
+                </p>
+
+            </div>
+        </section>
+
+        <!-- ================= END TRANSLATION SECTION ================= -->
+
         <div class="mt-12 text-center">
             <a href="index.html" 
                class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full font-bold transition shadow-md">
@@ -192,6 +369,82 @@
             </a>
         </div>
     </main>
+
+    <!-- GA4 external link click tracker -->
+    <script>
+    document.addEventListener("click", function(e) {
+      const link = e.target.closest("a");
+      if (!link) return;
+      const href = link.getAttribute("href");
+      if (!href || !href.startsWith("http")) return;
+      const linkText = link.innerText.trim() || "unknown-link";
+      e.preventDefault();
+      gtag('event', 'external_link_click', {
+        event_category: 'engagement',
+        event_label: linkText,
+        link_url: href,
+        page_location: window.location.href,
+        event_callback: function() {
+          if (link.target === "_blank") { window.open(href, "_blank"); }
+          else { window.location.href = href; }
+        }
+      });
+      setTimeout(function() {
+        if (link.target === "_blank") { window.open(href, "_blank"); }
+        else { window.location.href = href; }
+      }, 300);
+    });
+    </script>
+
+    <!-- Cloudflare KV Tracking (Cookieless) -->
+    <script>
+    (function() {
+      "use strict";
+      const PROD_WORKER_URL = "https://aisentia-analytics.pushpendradwivedi21.workers.dev";
+      const DEV_WORKER_URL  = "https://aisentia-analytics-dev.pushpendradwivedi21.workers.dev";
+      const IS_DEV = !['pushpendradwivedi.github.io', 'aisentia.pages.dev', 'ai-sentia.pages.dev']
+                         .includes(window.location.hostname);
+      const WORKER_URL = IS_DEV ? DEV_WORKER_URL : PROD_WORKER_URL;
+      
+      function track(event, value) {
+        const payload = JSON.stringify({
+          event: event,
+          value: String(value).slice(0, 100),
+          env: IS_DEV ? "dev" : "prod"
+        });
+        try {
+          fetch(WORKER_URL, {
+            method: "POST",
+            body: payload,
+            mode: "no-cors",
+            credentials: "omit",
+            keepalive: true
+          }).catch(() => {});
+        } catch(e) {}
+      }
+      
+      window.trackKV = track;
+      
+      // Track page view with language preference
+      let currentLang = 'en';
+      try {
+        const prefs = JSON.parse(localStorage.getItem('aiSentiaFilters') || '{}');
+        currentLang = prefs.language || 'en';
+      } catch(e) {}
+      track("page_view", window.location.pathname || "/");
+      track("page_view_language", `legal_${currentLang}`);
+      
+      // Track external link clicks
+      document.addEventListener("click", e => {
+        const link = e.target.closest("a[href]");
+        if (!link) return;
+        const href = link.getAttribute("href");
+        if (href && href.startsWith("http")) {
+          track("external_link", new URL(href).hostname.replace("www.", ""));
+        }
+      });
+    })();
+    </script>
 
 </body>
 </html>

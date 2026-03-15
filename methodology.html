@@ -10,6 +10,40 @@
     <style>
         body { font-family: 'Roboto', sans-serif; background-color: #F8F9FA; color: #202124; }
     </style>
+
+    <!-- Consent Mode Default -->
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      'analytics_storage': 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied'
+    });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4QDT9WQ0PW"></script>
+    <script>
+    gtag('js', new Date());
+    gtag('config', 'G-4QDT9WQ0PW');
+    </script>
+
+    <!-- Core Web Vitals Tracking -->
+    <script type="module">
+    import {onCLS, onINP, onLCP} from 'https://unpkg.com/web-vitals@4?module';
+    onCLS(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'CLS', value: Math.round(m.value * 1000), non_interaction: true}));
+    onINP(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'INP', value: Math.round(m.value), non_interaction: true}));
+    onLCP(m => gtag('event', 'web_vitals', {event_category: 'Web Vitals', event_label: 'LCP', value: Math.round(m.value), non_interaction: true}));
+    </script>
+
+    <!-- Microsoft Clarity — cookieless heatmaps & session replay -->
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){
+            c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+            t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+            y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+        })(window, document, "clarity", "script", "vqq5b80x7x");
+    </script>
     <script type="application/ld+json">
         {
         "@context": "https://schema.org",
@@ -306,6 +340,56 @@ If gravity > 1.5 → Mark as TRENDING 🔥</pre>
             <p>&copy; 2026 AI Sentia. Transparent, open-source, community-driven.</p>
         </div>
     </footer>
+
+    <!-- Cloudflare KV Tracking (Cookieless) -->
+    <script>
+    (function() {
+      "use strict";
+      const PROD_WORKER_URL = "https://aisentia-analytics.pushpendradwivedi21.workers.dev";
+      const DEV_WORKER_URL  = "https://aisentia-analytics-dev.pushpendradwivedi21.workers.dev";
+      const IS_DEV = !['pushpendradwivedi.github.io', 'aisentia.pages.dev', 'ai-sentia.pages.dev']
+                         .includes(window.location.hostname);
+      const WORKER_URL = IS_DEV ? DEV_WORKER_URL : PROD_WORKER_URL;
+      
+      function track(event, value) {
+        const payload = JSON.stringify({
+          event: event,
+          value: String(value).slice(0, 100),
+          env: IS_DEV ? "dev" : "prod"
+        });
+        try {
+          fetch(WORKER_URL, {
+            method: "POST",
+            body: payload,
+            mode: "no-cors",
+            credentials: "omit",
+            keepalive: true
+          }).catch(() => {});
+        } catch(e) {}
+      }
+      
+      window.trackKV = track;
+      
+      // Track page view with language preference
+      let currentLang = 'en';
+      try {
+        const prefs = JSON.parse(localStorage.getItem('aiSentiaFilters') || '{}');
+        currentLang = prefs.language || 'en';
+      } catch(e) {}
+      track("page_view", window.location.pathname || "/");
+      track("page_view_language", `methodology_${currentLang}`);
+      
+      // Track external link clicks
+      document.addEventListener("click", e => {
+        const link = e.target.closest("a[href]");
+        if (!link) return;
+        const href = link.getAttribute("href");
+        if (href && href.startsWith("http")) {
+          track("external_link", new URL(href).hostname.replace("www.", ""));
+        }
+      });
+    })();
+    </script>
 
 </body>
 </html>
