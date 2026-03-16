@@ -16,6 +16,37 @@
 <link rel="canonical" href="https://pushpendradwivedi.github.io/aisentia/">
 
 <!-- ============================================================
+     MULTILINGUAL SEO — HREFLANG TAGS (Critical for Google International Ranking)
+     ============================================================ -->
+<!-- English (Default) -->
+<link rel="alternate" hreflang="en" href="https://pushpendradwivedi.github.io/aisentia/" />
+<link rel="alternate" hreflang="x-default" href="https://pushpendradwivedi.github.io/aisentia/" />
+
+<!-- 20 Language Translations (Tier 1: Top 10 Languages by Speakers) -->
+<link rel="alternate" hreflang="zh" href="https://pushpendradwivedi.github.io/aisentia/?lang=zh" />
+<link rel="alternate" hreflang="hi" href="https://pushpendradwivedi.github.io/aisentia/?lang=hi" />
+<link rel="alternate" hreflang="es" href="https://pushpendradwivedi.github.io/aisentia/?lang=es" />
+<link rel="alternate" hreflang="ar" href="https://pushpendradwivedi.github.io/aisentia/?lang=ar" />
+<link rel="alternate" hreflang="bn" href="https://pushpendradwivedi.github.io/aisentia/?lang=bn" />
+<link rel="alternate" hreflang="pt" href="https://pushpendradwivedi.github.io/aisentia/?lang=pt" />
+<link rel="alternate" hreflang="ru" href="https://pushpendradwivedi.github.io/aisentia/?lang=ru" />
+<link rel="alternate" hreflang="ja" href="https://pushpendradwivedi.github.io/aisentia/?lang=ja" />
+<link rel="alternate" hreflang="de" href="https://pushpendradwivedi.github.io/aisentia/?lang=de" />
+<link rel="alternate" hreflang="ko" href="https://pushpendradwivedi.github.io/aisentia/?lang=ko" />
+
+<!-- Tier 2: Emerging Markets & Southeast Asia -->
+<link rel="alternate" hreflang="fr" href="https://pushpendradwivedi.github.io/aisentia/?lang=fr" />
+<link rel="alternate" hreflang="tr" href="https://pushpendradwivedi.github.io/aisentia/?lang=tr" />
+<link rel="alternate" hreflang="it" href="https://pushpendradwivedi.github.io/aisentia/?lang=it" />
+<link rel="alternate" hreflang="pl" href="https://pushpendradwivedi.github.io/aisentia/?lang=pl" />
+<link rel="alternate" hreflang="ur" href="https://pushpendradwivedi.github.io/aisentia/?lang=ur" />
+<link rel="alternate" hreflang="vi" href="https://pushpendradwivedi.github.io/aisentia/?lang=vi" />
+<link rel="alternate" hreflang="th" href="https://pushpendradwivedi.github.io/aisentia/?lang=th" />
+<link rel="alternate" hreflang="id" href="https://pushpendradwivedi.github.io/aisentia/?lang=id" />
+<link rel="alternate" hreflang="ms" href="https://pushpendradwivedi.github.io/aisentia/?lang=ms" />
+<link rel="alternate" hreflang="ta" href="https://pushpendradwivedi.github.io/aisentia/?lang=ta" />
+
+<!-- ============================================================
      OPEN GRAPH (LinkedIn, Facebook, WhatsApp previews)
      ============================================================ -->
 
@@ -53,13 +84,124 @@
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
   "author": { "@type": "Person", "name": "Pushpendra Dwivedi" },
   "publisher": { "@type": "Person", "name": "Pushpendra Dwivedi" },
-  "keywords": "AI news, machine learning news, artificial intelligence dashboard, daily AI updates, ArXiv AI, OpenAI, Anthropic",
-  "inLanguage": "en",
+  "keywords": "AI news, machine learning news, artificial intelligence dashboard, daily AI updates, ArXiv AI, OpenAI, Anthropic, multilingual AI news, international AI news",
+  "inLanguage": ["en", "zh", "hi", "es", "ar", "bn", "pt", "ru", "ja", "de", "ko", "fr", "tr", "it", "pl", "ur", "vi", "th", "id", "ms", "ta"],
+  "availableLanguage": [
+    {"@type": "Language", "name": "English", "alternateName": "en"},
+    {"@type": "Language", "name": "Chinese", "alternateName": "zh"},
+    {"@type": "Language", "name": "Hindi", "alternateName": "hi"},
+    {"@type": "Language", "name": "Spanish", "alternateName": "es"},
+    {"@type": "Language", "name": "Arabic", "alternateName": "ar"},
+    {"@type": "Language", "name": "Bengali", "alternateName": "bn"},
+    {"@type": "Language", "name": "Portuguese", "alternateName": "pt"},
+    {"@type": "Language", "name": "Russian", "alternateName": "ru"},
+    {"@type": "Language", "name": "Japanese", "alternateName": "ja"},
+    {"@type": "Language", "name": "German", "alternateName": "de"},
+    {"@type": "Language", "name": "Korean", "alternateName": "ko"},
+    {"@type": "Language", "name": "French", "alternateName": "fr"},
+    {"@type": "Language", "name": "Turkish", "alternateName": "tr"},
+    {"@type": "Language", "name": "Italian", "alternateName": "it"},
+    {"@type": "Language", "name": "Polish", "alternateName": "pl"},
+    {"@type": "Language", "name": "Urdu", "alternateName": "ur"},
+    {"@type": "Language", "name": "Vietnamese", "alternateName": "vi"},
+    {"@type": "Language", "name": "Thai", "alternateName": "th"},
+    {"@type": "Language", "name": "Indonesian", "alternateName": "id"},
+    {"@type": "Language", "name": "Malay", "alternateName": "ms"},
+    {"@type": "Language", "name": "Tamil", "alternateName": "ta"}
+  ],
   "isAccessibleForFree": true,
   "datePublished": "2026-02-20",
-  "dateModified": "2026-03-01"
+  "dateModified": "2026-03-16"
 }
 </script>
+
+<!-- ============================================================
+     DYNAMIC SEO FOR MULTILINGUAL PAGES
+     Updates meta tags based on ?lang= parameter for better SEO
+     ============================================================ -->
+<script>
+(async function() {
+  // Get language from URL parameter
+  const urlParams = new URLSearchParams(window.location.search);
+  const lang = urlParams.get('lang') || 'en';
+  
+  // Only update if not English (default tags are English)
+  if (lang === 'en') return;
+  
+  try {
+    // Fetch SEO translations
+    const response = await fetch('data/seo-translations.json');
+    const translations = await response.json();
+    
+    if (!translations[lang]) {
+      console.warn(`SEO translations not found for language: ${lang}`);
+      return;
+    }
+    
+    const seo = translations[lang];
+    
+    // Update page title
+    if (seo.meta_title) {
+      document.title = seo.meta_title;
+    }
+    
+    // Update meta description
+    const metaDesc = document.querySelector('meta[name="description"]');
+    if (metaDesc && seo.meta_description) {
+      metaDesc.setAttribute('content', seo.meta_description);
+    }
+    
+    // Update Open Graph title
+    const ogTitle = document.querySelector('meta[property="og:title"]');
+    if (ogTitle && seo.og_title) {
+      ogTitle.setAttribute('content', seo.og_title);
+    }
+    
+    // Update Open Graph description
+    const ogDesc = document.querySelector('meta[property="og:description"]');
+    if (ogDesc && seo.og_description) {
+      ogDesc.setAttribute('content', seo.og_description);
+    }
+    
+    // Update Twitter title
+    const twitterTitle = document.querySelector('meta[name="twitter:title"]');
+    if (twitterTitle && seo.og_title) {
+      twitterTitle.setAttribute('content', seo.og_title);
+    }
+    
+    // Update Twitter description
+    const twitterDesc = document.querySelector('meta[name="twitter:description"]');
+    if (twitterDesc && seo.og_description) {
+      twitterDesc.setAttribute('content', seo.og_description);
+    }
+    
+    // Update canonical URL to include language parameter
+    const canonical = document.querySelector('link[rel="canonical"]');
+    if (canonical) {
+      canonical.setAttribute('href', `https://pushpendradwivedi.github.io/aisentia/?lang=${lang}`);
+    }
+    
+    // Update Open Graph URL
+    const ogUrl = document.querySelector('meta[property="og:url"]');
+    if (ogUrl) {
+      ogUrl.setAttribute('content', `https://pushpendradwivedi.github.io/aisentia/?lang=${lang}`);
+    }
+    
+    // Update html lang attribute for accessibility and SEO
+    document.documentElement.setAttribute('lang', lang);
+    
+    // Set RTL direction for Arabic and Urdu
+    if (lang === 'ar' || lang === 'ur') {
+      document.documentElement.setAttribute('dir', 'rtl');
+    }
+    
+    console.log(`✅ SEO meta tags updated for language: ${lang}`);
+  } catch (error) {
+    console.error('Failed to load SEO translations:', error);
+  }
+})();
+</script>
+
 <script src="https://cdn.tailwindcss.com"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.x.x/dist/cdn.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
