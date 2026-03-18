@@ -318,27 +318,39 @@
       const IS_DEV = !['pushpendradwivedi.github.io', 'aisentia.pages.dev', 'ai-sentia.pages.dev']
                          .includes(window.location.hostname);
       const WORKER_URL = IS_DEV ? DEV_WORKER_URL : PROD_WORKER_URL;
-      
+
+      // Session ID: fingerprint-lite, resets daily, never stored, not PII
+      let sessionId = Math.random().toString(36).slice(2);
+      (async () => {
+        try {
+          const seed = [screen.width, screen.colorDepth, navigator.language, new Date().toDateString()].join('|');
+          const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(seed));
+          sessionId = Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2,'0')).join('').slice(0, 16);
+        } catch(e) {}
+      })();
+
+      // Event accumulator — zero network calls during browsing
+      const sessionEvents = [];
       function track(event, value) {
-        const payload = JSON.stringify({
-          event: event,
-          value: String(value).slice(0, 100),
-          env: IS_DEV ? "dev" : "prod"
-        });
+        sessionEvents.push({ e: event, v: String(value).slice(0, 100), t: Date.now() });
+      }
+      window.trackKV = track;
+
+      // Flush on session end (tab close / navigate away)
+      window.addEventListener('pagehide', () => {
+        if (sessionEvents.length === 0) return;
         try {
           fetch(WORKER_URL, {
-            method: "POST",
-            body: payload,
-            mode: "no-cors",
-            credentials: "omit",
+            method: 'POST',
+            body: JSON.stringify({ session_id: sessionId, env: IS_DEV ? 'dev' : 'prod', batch: sessionEvents }),
+            mode: 'no-cors',
+            credentials: 'omit',
             keepalive: true
           }).catch(() => {});
         } catch(e) {}
-      }
-      
-      window.trackKV = track;
-      
-      // Track page view with language preference
+      });
+
+      // Track page view
       let currentLang = 'en';
       try {
         const prefs = JSON.parse(localStorage.getItem('aiSentiaFilters') || '{}');
@@ -346,7 +358,7 @@
       } catch(e) {}
       track("page_view", window.location.pathname || "/");
       track("page_view_language", `about_${currentLang}`);
-      
+
       // Track external link clicks
       document.addEventListener("click", e => {
         const link = e.target.closest("a[href]");
