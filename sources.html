@@ -441,9 +441,11 @@
       }
       window.trackKV = track;
 
-      // Flush on session end (tab close / navigate away)
-      window.addEventListener('pagehide', () => {
-        if (sessionEvents.length === 0) return;
+      // Flush on session end — pagehide (desktop) + visibilitychange (iOS Safari)
+      let flushed = false;
+      function flushEvents() {
+        if (flushed || sessionEvents.length === 0) return;
+        flushed = true;
         try {
           fetch(WORKER_URL, {
             method: 'POST',
@@ -453,6 +455,10 @@
             keepalive: true
           }).catch(() => {});
         } catch(e) {}
+      }
+      window.addEventListener('pagehide', flushEvents);
+      document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'hidden') flushEvents();
       });
 
       // Track page view

@@ -1418,8 +1418,11 @@ document.addEventListener("click", function(e) {
   // ── FLUSH ON SESSION END ──────────────────────────────────────────────────────
   // keepalive: true ensures fetch completes even as the page unloads.
   // One network call per session instead of one per event.
-  window.addEventListener('pagehide', () => {
-    if (sessionEvents.length === 0) return;
+  // flushed guard prevents double-send when both events fire (common on mobile).
+  let flushed = false;
+  function flushEvents() {
+    if (flushed || sessionEvents.length === 0) return;
+    flushed = true;
     try {
       fetch(WORKER_URL, {
         method: 'POST',
@@ -1429,6 +1432,12 @@ document.addEventListener("click", function(e) {
         keepalive: true
       }).catch(() => {});
     } catch(e) {}
+  }
+  // pagehide: reliable on Chrome/Firefox/desktop Safari
+  window.addEventListener('pagehide', flushEvents);
+  // visibilitychange: catches iOS Safari tab switches and app backgrounds
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'hidden') flushEvents();
   });
 
   // ── 1. PAGE VIEW ──────────────────────────────────────────────────────────────
