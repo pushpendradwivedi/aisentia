@@ -1,6 +1,1244 @@
 {
-  "refreshed_at": "2026-03-18 19:55 UTC",
+  "refreshed_at": "2026-03-19 01:17 UTC",
   "items": [
+    {
+      "title": "ابدأ تجارب تخصيص Nova باستخدام Nova Forge SDK",
+      "link": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T16:16:24Z",
+      "summary": "أطلقت أمازون Nova Forge SDK لتسهيل تجارب تخصيص نماذج Nova.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4e2a85a29965",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "نقدم Nova Forge SDK، طريقة سلسة لتخصيص نماذج Nova للذكاء الاصطناعي المؤسسي",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T16:06:21Z",
+      "summary": "تُمكّن حزمة تطوير البرمجيات (SDK) الجديدة مطوري المؤسسات من تخصيص نماذج Nova لتطبيقات ذكاء اصطناعي محددة.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a0ef36c52d42",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "تقييم وكلاء الذكاء الاصطناعي للإنتاج: دليل عملي لـ Strands Evals",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T15:54:09Z",
+      "summary": "يوضح الدليل طرق تقييم أداء وكلاء الذكاء الاصطناعي في بيئات الإنتاج باستخدام Strands Evals.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "40e5b5044e8d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "بناء محرك اختبار A/B مدعوم بالذكاء الاصطناعي باستخدام Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-a-b-testing-engine-using-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T15:31:40Z",
+      "summary": "برنامج تعليمي حول إنشاء نظام اختبار A/B آلي يستفيد من منصة Amazon Bedrock.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7b62ff468dbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "كيف تعاونت Bark.com و AWS لبناء حل قابل للتوسع لتوليد الفيديو",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-bark-com-and-aws-collaborated-to-build-a-scalable-video-generation-solution/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T15:24:13Z",
+      "summary": "استخدمت Bark.com خدمات AWS لهيكلة حل قابل للتوسع لتوليد الفيديو المدعوم بالذكاء الاصطناعي.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3c40adb42b85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Bark.com"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "KineVLA: نحو نماذج رؤية-لغة-حركة واعية بالحركية مع تفكيك الحركة ثنائي المستوى",
+      "link": "https://arxiv.org/abs/2603.17524v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T09:28:49Z",
+      "summary": "تعمل البنية الجديدة على تحسين تخطيط حركة الروبوت من خلال تكامل الرؤية واللغة الواعي بالحركية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cbd1f1b1bbee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "كشف الآلة: معيار شامل لكاشفات النصوص المولدة بالذكاء الاصطناعي عبر البنى والمجالات والظروف العدائية",
+      "link": "https://arxiv.org/abs/2603.17522v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T09:27:27Z",
+      "summary": "تقييم معياري لأداء كشف نصوص الذكاء الاصطناعي عبر بنى متنوعة وإعدادات عدائية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cdaa15dfd3df",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "QuantFL: تعلم اتحادي مستدام لإنترنت الأشياء المتطور عبر تكميم النماذج المدربة مسبقاً",
+      "link": "https://arxiv.org/abs/2603.17507v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T09:08:28Z",
+      "summary": "تقنية QuantFL المقترحة تعمل على تحسين التعلم الاتحادي لأجهزة إنترنت الأشياء المتطورة باستخدام تكميم النماذج.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "60dffae11da3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Auto-Unrolled Proximal Gradient Descent: نهج AutoML لتحسين شكل الموجة القابل للتفسير",
+      "link": "https://arxiv.org/abs/2603.17478v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T08:33:25Z",
+      "summary": "يستخدم AutoML لتحسين قابلية التفسير والأداء في مهام تحسين شكل الموجة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a18d79dd85a9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "UniSAFE: معيار شامل لتقييم سلامة النماذج متعددة الوسائط الموحدة",
+      "link": "https://arxiv.org/abs/2603.17476v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T08:30:31Z",
+      "summary": "يقدم إطار عمل تقييم موحد لقياس السلامة في نماذج الذكاء الاصطناعي متعددة الوسائط.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c826cf191fba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "إعادة النظر في آليات الانتباه المتقاطع: الاستفادة من الضوضاء المفيدة للتعلم التكيفي مع المجال",
+      "link": "https://arxiv.org/abs/2603.17474v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T08:28:14Z",
+      "summary": "يوضح البحث كيف تسهل الضوضاء في آليات الانتباه المتقاطع تحسين التكيف مع المجال.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4723e17f8041",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "VirPro: تعلم التلقين الاحتمالي المشار إليه بصرياً للكشف أحادي العين تحت إشراف ضعيف",
+      "link": "https://arxiv.org/abs/2603.17470v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T08:23:55Z",
+      "summary": "طريقة تعلم تلقين جديدة تعزز دقة كشف الكائنات ثلاثية الأبعاد بإشراف ضعيف.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2e11e873acdc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "VLM2Rec: حل انهيار الوسائط في مُضمنات نماذج الرؤية واللغة للتوصية التسلسلية متعددة الوسائط",
+      "link": "https://arxiv.org/abs/2603.17450v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:46:30Z",
+      "summary": "طريقة جديدة تحسن أنظمة التوصية متعددة الوسائط من خلال تخفيف انهيار الوسائط في المُضمنات.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bf9c09260375",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "عندما يبقى النص النهائي فقط: تتبع التنفيذ الضمني لإسناد الوكلاء المتعددين",
+      "link": "https://arxiv.org/abs/2603.17445v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:34:51Z",
+      "summary": "يقترح طريقة لإسناد الإجراءات في أنظمة الوكلاء المتعددين عبر تتبع التنفيذ الضمني.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f703da877d6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AdaZoom-GUI: تأريض واجهة المستخدم القائم على التكبير التكيفي مع تحسين التعليمات",
+      "link": "https://arxiv.org/abs/2603.17441v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:26:18Z",
+      "summary": "يسمح بالتفاعل الدقيق مع عناصر واجهة المستخدم من خلال التكبير التكيفي والتحسين القائم على التعليمات.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "47671cee357e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Baguan-TS: نموذج تعلم داخل السياق أصلي التسلسل للتنبؤ بالسلاسل الزمنية مع المتغيرات المشتركة",
+      "link": "https://arxiv.org/abs/2603.17439v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:24:19Z",
+      "summary": "نموذج تعلم داخل السياق جديد يحسن دقة التنبؤ بالسلاسل الزمنية باستخدام المعالجة الأصلية للتسلسل.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "791138aeda1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "TimeAPN: تطبيع عدم الاستقرار في السعة والطور التكيفي للتنبؤ بالسلاسل الزمنية",
+      "link": "https://arxiv.org/abs/2603.17436v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:21:24Z",
+      "summary": "طريقة تطبيع للسلاسل الزمنية غير المستقرة لتحسين أداء ودقة التنبؤ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4db13b5e8164",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "محول Phasor: حل اختناقات الانتباه على دائرة الوحدة",
+      "link": "https://arxiv.org/abs/2603.17433v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:18:41Z",
+      "summary": "يقدم بنية محول جديدة تستخدم الانتباه القائم على Phasor لمعالجة اختناقات الأداء.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f0c2473c8f84",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "استقصاء المعرفة الاستباقي في حوار الطبيب والمريض: الاستخراج القائم على الحالة، وتحديث المعتقدات، وتخطيط العمل الواعي بالمسار",
+      "link": "https://arxiv.org/abs/2603.17425v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:03:50Z",
+      "summary": "إطار عمل ذكاء اصطناعي لاستخراج المعلومات القائم على الحالة والتخطيط الاستباقي في المحادثات الطبية.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8dcce7eaf81d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "من التوائم الرقمية إلى نماذج العالم: الفرص والتحديات والتطبيقات للذكاء العام في الحافة المتنقلة",
+      "link": "https://arxiv.org/abs/2603.17420v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T06:54:49Z",
+      "summary": "يستكشف الانتقال من التوائم الرقمية إلى نماذج العالم لذكاء الحوسبة المتطورة المتنقلة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6b92ffbb6046",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "حبس الوكلاء: بنية أمنية انعدام الثقة للذكاء الاصطناعي المستقل في الرعاية الصحية",
+      "link": "https://arxiv.org/abs/2603.17419v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T06:54:47Z",
+      "summary": "يقترح إطار عمل أمني لانعدام الثقة مخصص لإدارة وكلاء الذكاء الاصطناعي المستقلين في الرعاية الصحية.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "905f1092d6fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "دقة فائقة عشوائية النطاق واعية بالتدهور لضغط الصور المتطرف بمعدل متغير",
+      "link": "https://arxiv.org/abs/2603.17408v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T06:35:53Z",
+      "summary": "طريقة لدقة الصور الفائقة تعالج التدهور في سيناريوهات الضغط المتطرف.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d7a777d65327",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تقرير تقني لمعاينة CRE-T1: ما وراء التعلم التبايني للاسترجاع المكثف للاستدلال",
+      "link": "https://arxiv.org/abs/2603.17387v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T06:08:59Z",
+      "summary": "تقرير تقني حول تحسين الاسترجاع لمهام الاستدلال باستخدام طرق تتجاوز التعلم التبايني.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "32b21dd97965",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SCALE: نقل نقطة النهاية على مستوى الأطلس القابل للتوسع للتنبؤ باضطراب الخلايا الافتراضية",
+      "link": "https://arxiv.org/abs/2603.17380v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T05:51:08Z",
+      "summary": "نموذج قابل للتوسع للتنبؤ باضطرابات الخلايا الافتراضية باستخدام نقل نقطة النهاية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "535a6b0d7cc6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "استكشاف فعال على نطاق واسع",
+      "link": "https://arxiv.org/abs/2603.17378v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T05:47:59Z",
+      "summary": "تقنيات جديدة لتوسيع كفاءة الاستكشاف في وكلاء التعلم التعزيزي.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ce71dfb3f75d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "فهم والدفاع ضد كسر قيود نماذج الرؤية واللغة (VLM) عبر تحول التمثيل المتعلق بكسر القيود",
+      "link": "https://arxiv.org/abs/2603.17372v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T05:31:29Z",
+      "summary": "يحلل تحولات التمثيل للكشف عن محاولات كسر القيود في نماذج الرؤية واللغة والتخفيف منها.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "41c0b3810969",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "نحو نماذج استدلال كبيرة أكثر أماناً من خلال تعزيز اتخاذ قرارات السلامة قبل توليد سلسلة الأفكار",
+      "link": "https://arxiv.org/abs/2603.17368v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T05:21:12Z",
+      "summary": "يقترح فحوصات سلامة ما قبل التوليد لتعزيز موثوقية نماذج الاستدلال الكبيرة.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6dcbf3213337",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "الملف الشخصي العام مهم: نهج متكامل قابل للتوسع للتوصية بالاقتباسات في الميدان",
+      "link": "https://arxiv.org/abs/2603.17361v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T04:52:42Z",
+      "summary": "نظام توصية اقتباسات قابل للتوسع يستفيد من ملفات تعريف المستخدمين العامة.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f38bdd77be6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "WebPII: قياس أداء كشف معلومات التعريف الشخصية (PII) المرئية لوكلاء استخدام الكمبيوتر",
+      "link": "https://arxiv.org/abs/2603.17357v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T04:41:16Z",
+      "summary": "يقدم معياراً لتقييم كشف معلومات التعريف الشخصية بواسطة وكلاء الذكاء الاصطناعي الذين يتصفحون الويب.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "94a6e316483d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تعلم توزيعات التبديل عبر الانتشار المنعكس على الرتب",
+      "link": "https://arxiv.org/abs/2603.17353v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T04:28:24Z",
+      "summary": "طريقة تستخدم الانتشار المنعكس على الرتب لتعلم توزيعات التبديل.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a16588c8e075",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "إطار عمل متوافق بصرياً ومنطقياً تدريجياً للفصل في نزاعات خدمات النقل",
+      "link": "https://arxiv.org/abs/2603.17328v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:46:30Z",
+      "summary": "إطار عمل يوفق بين البيانات المرئية والمنطقية لحل نزاعات خدمات النقل آلياً.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b955e27a0138",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ShuttleEnv: بيئة تعلم تعزيزي تفاعلية قائمة على البيانات لنمذجة استراتيجية كرة الريشة",
+      "link": "https://arxiv.org/abs/2603.17324v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:37:39Z",
+      "summary": "بيئة تعلم تعزيزي قائمة على البيانات مصممة لنمذجة استراتيجيات كرة الريشة.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bbb3528cdb34",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "التعلم التعزيزي غير المتصل المستنير بالفيزياء يقضي على هدر الوقود الكارثي في النقل البحري",
+      "link": "https://arxiv.org/abs/2603.17319v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:28:10Z",
+      "summary": "يطبق التعلم التعزيزي المستنير بالفيزياء لتحسين كفاءة النقل البحري وتقليل استهلاك الوقود.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0f4b825bf698",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "الاستدلال المتكرر مع نماذج الرؤية واللغة لتقدير تقدم المهام الروبوتية طويلة المدى",
+      "link": "https://arxiv.org/abs/2603.17312v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:13:29Z",
+      "summary": "يستخدم الاستدلال المتكرر في نماذج الرؤية واللغة لتتبع التقدم في المهام الروبوتية طويلة المدى.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d2a9121cd93f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "InfoDensity: مكافأة المسارات الكثيفة بالمعلومات للاستدلال الفعال",
+      "link": "https://arxiv.org/abs/2603.17310v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:11:36Z",
+      "summary": "يقترح إشارة مكافأة تعتمد على كثافة المعلومات لتحسين مسارات استدلال النماذج اللغوية الكبيرة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7a34489e3931",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReLMXEL: وحدة تحكم في الذاكرة تكيفية قائمة على التعلم التعزيزي مع تحسين قابل للتفسير للطاقة وزمن الوصول",
+      "link": "https://arxiv.org/abs/2603.17309v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:07:54Z",
+      "summary": "وحدة تحكم تعلم تعزيزي قابلة للتفسير تعمل على تحسين أداء طاقة الذاكرة وزمن الوصول.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "52ca728269cf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Symphony: نظام وكلاء متعدد مستوحى معرفياً لفهم الفيديوهات الطويلة",
+      "link": "https://arxiv.org/abs/2603.17307v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:04:49Z",
+      "summary": "إطار عمل وكلاء متعدد لتحليل وفهم تسلسلات الفيديو الطويلة من خلال الاستدلال المستوحى معرفياً.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3a30ada5be7b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "مواءمة الاستدلال التبايني: التعلم التعزيزي من التمثيلات المخفية",
+      "link": "https://arxiv.org/abs/2603.17305v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:00:42Z",
+      "summary": "طريقة مواءمة جديدة تحسن قدرات الاستدلال عبر التعلم التعزيزي المطبق على تمثيلات النماذج الكامنة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5c2fd09009b1",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "من الكلمات إلى العوالم: قياس الفهم الثقافي عبر الثقافات في الترجمة الآلية",
+      "link": "https://arxiv.org/abs/2603.17303v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T02:59:44Z",
+      "summary": "معيار تقييم لتقييم الفهم عبر الثقافات داخل أنظمة الترجمة الآلية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f34b75cb3ec8",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GUIDE: وحدات الذكاء الاصطناعي التوليدي في تعليم التصميم الرقمي",
+      "link": "https://arxiv.org/abs/2603.17296v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T02:43:47Z",
+      "summary": "إطار عمل لدمج وحدات الذكاء الاصطناعي التوليدي في مناهج التصميم الرقمي على المستوى الجامعي.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f4c351852a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Educator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "توجيه السرد: طريقة ضبط دقيق للتحكم في التماسك والأسلوب في توليد القصص",
+      "link": "https://arxiv.org/abs/2603.17295v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T02:43:02Z",
+      "summary": "تقنية ضبط دقيق لتعزيز التماسك السردي والاتساق الأسلوبي في توليد القصص آلياً.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9b9bbb964067",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DANCE: تقليم الشبكات العصبية التلافيفية ثلاثية الأبعاد الديناميكي: تكيف الإطار والقناة والميزة المشترك لكفاءة الطاقة على الحافة",
+      "link": "https://arxiv.org/abs/2603.17275v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T01:57:21Z",
+      "summary": "طريقة لتحسين الشبكات العصبية التلافيفية ثلاثية الأبعاد لتعزيز كفاءة الطاقة للاستدلال على الأجهزة الطرفية.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a274618aff4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ذاكرة الوكيل: بناء وكلاء واعين بالذاكرة - DeepLearning.AI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkdraThvazIzNVpNUlpLa0ptLVJqaXRsaWd4YUkyYWdNd3RqeUh4bmpIbkMyYXNrV3pLc3EyWUVWOXZ3bVJoUUFKZEtZTHdCcWtxaldvZzk1VHp2dF92YWtmN0RLb2t3dVU3aFlxOV8wcE8xX3p0MDEyRUhDUno0UW5YTHc0c2o0TzI1RA?oc=5",
+      "source": "DeepLearning.AI",
+      "region": "📚",
+      "pub_date": "2026-03-18T23:30:11Z",
+      "summary": "دليل تعليمي حول تنفيذ أنظمة الذاكرة لوكلاء الذكاء الاصطناعي الأذكياء.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "849d1444fb10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepLearning.AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ميتا تواجه مشكلة مع وكلاء الذكاء الاصطناعي المارقين",
+      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T23:42:46Z",
+      "summary": "تقارير ميتا عن تحديات تقنية في إدارة وكلاء الذكاء الاصطناعي المستقلين الذين يظهرون سلوكيات غير متوقعة.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "402e28f800df",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "شكر سام ألتمان للمبرمجين يثير الميمات",
+      "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T23:12:58Z",
+      "summary": "أثار الامتنان العام من سام ألتمان، الرئيس التنفيذي لشركة OpenAI، تجاه المبرمجين سخرية واسعة على وسائل التواصل الاجتماعي.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e243f7194275",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "كارل باي، الرئيس التنفيذي لشركة Nothing، يقول إن تطبيقات الهواتف الذكية ستختفي مع حلول وكلاء الذكاء الاصطناعي محلها",
+      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T20:30:52Z",
+      "summary": "يتوقع كارل باي أن يحل وكلاء الذكاء الاصطناعي في النهاية محل واجهات تطبيقات الهواتف الذكية التقليدية.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8af459e4138d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Nothing"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "إنفيديا تبني بهدوء عملاقاً بمليارات الدولارات لمنافسة أعمالها في مجال الرقائق",
+      "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T20:01:19Z",
+      "summary": "توسع إنفيديا قسم الشبكات الخاص بها للمنافسة مع نطاق أعمال الرقائق الخاص بها.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6d9ea0f2f905",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "جوجل تحاول جعل \"تصميم المشاعر\" واقعاً. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVRTd1J0SFoyR3g4bk52X0ktU0h5MDhza1hfVDczVGVodG55a0NrVVRvQU1JN0FDZnIwejJPeHlsR2xhcGZxcWJHYS1VTzlrN1o2OWNZdDB4QkJkRE9wSnA5cFl3alBFTm0tYVpGYktnNnQ4bVFXbTRfMFJib2Nzc2M3Qm9HTlk?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T18:47:07Z",
+      "summary": "تروج جوجل لفلسفة تصميم جديدة تركز على الجماليات والرنين العاطفي للمستخدم.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "944e40ee7de2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ChatGPT لم يعالج سرطان الكلب - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclEtZ2Y2S3lsWHBhUXROREdGN2ZJS1F2d1pGZFhNQzZPS0lLYnloS2ZOc2NWaDd5YU05QmVQOG9MTnVqT3huRFlUR3g0dkNxblhNa29BaHZfc3Z2a2xBbENVY1pHbkpJalJuX3JJUU9ya0tVVVdnbThGb05sVFRSaW1iUVRnb244UGJZQ252clFwV0t6RkE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T18:14:39Z",
+      "summary": "توضح التقارير أن ChatGPT فشل في تقديم علاج طبي لسرطان الكلاب.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "78fc777f4052",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
     {
       "title": "ما الذي يريده 81,000 شخص من الذكاء الاصطناعي - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hQVowejhZSzhEeThsX1BkOTdHVDY1UF9nQlpldWpOdUt4dmI1YVRUMWFSTnlMTTJTSkhOMlU1X0lLUGNJWEpFd0VWQUtqcDFNR1E?oc=5",

@@ -1,6 +1,1244 @@
 {
-  "refreshed_at": "2026-03-18 19:55 UTC",
+  "refreshed_at": "2026-03-19 01:17 UTC",
   "items": [
+    {
+      "title": "Nova Forge SDKを活用したNovaカスタマイズ実験の開始",
+      "link": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T16:16:24Z",
+      "summary": "Amazonは、Novaモデルのカスタマイズ実験を促進するためのNova Forge SDKを発表しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4e2a85a29965",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "エンタープライズAI向けNovaモデルカスタマイズのシームレスな手段、Nova Forge SDKを紹介",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T16:06:21Z",
+      "summary": "新しいSDKにより、エンタープライズ開発者は特定のAIアプリケーション向けにNovaモデルをカスタマイズできるようになります。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a0ef36c52d42",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "本番環境におけるAIエージェントの評価：Strands Evalsの実践ガイド",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T15:54:09Z",
+      "summary": "Strands Evalsを使用して本番環境でのAIエージェントのパフォーマンスを評価するための手法を詳述したガイド。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "40e5b5044e8d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Bedrockを使用したAI駆動型A/Bテストエンジンの構築",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-a-b-testing-engine-using-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T15:31:40Z",
+      "summary": "Amazon Bedrockプラットフォームを活用した自動A/Bテストシステム構築のチュートリアル。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7b62ff468dbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Bark.comとAWSが協力して構築したスケーラブルな動画生成ソリューション",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-bark-com-and-aws-collaborated-to-build-a-scalable-video-generation-solution/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-18T15:24:13Z",
+      "summary": "Bark.comはAWSサービスを利用し、AI駆動型の動画生成のためのスケーラブルなソリューションを設計しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3c40adb42b85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Bark.com"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "KineVLA：二段階アクション分解による運動学を考慮したVision-Language-Actionモデルに向けて",
+      "link": "https://arxiv.org/abs/2603.17524v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T09:28:49Z",
+      "summary": "運動学を考慮した視覚・言語統合により、ロボットのアクションプランニングを向上させる新しいアーキテクチャ。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cbd1f1b1bbee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "機械を検知する：アーキテクチャ、ドメイン、敵対的条件を横断したAI生成テキスト検出器の包括的ベンチマーク",
+      "link": "https://arxiv.org/abs/2603.17522v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T09:27:27Z",
+      "summary": "多様なアーキテクチャと敵対的設定におけるAIテキスト検出性能のベンチマーク評価。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cdaa15dfd3df",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "QuantFL：事前学習済みモデル量子化によるエッジIoT向けの持続可能な連合学習",
+      "link": "https://arxiv.org/abs/2603.17507v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T09:08:28Z",
+      "summary": "モデル量子化を用いてIoTエッジデバイス向けの連合学習を最適化するQuantFL手法を提案。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "60dffae11da3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Auto-Unrolled Proximal Gradient Descent：解釈可能な波形最適化へのAutoMLアプローチ",
+      "link": "https://arxiv.org/abs/2603.17478v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T08:33:25Z",
+      "summary": "AutoMLを活用し、波形最適化タスクにおける解釈可能性とパフォーマンスを向上させる手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a18d79dd85a9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "UniSAFE：統合マルチモーダルモデルの安全性評価のための包括的ベンチマーク",
+      "link": "https://arxiv.org/abs/2603.17476v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T08:30:31Z",
+      "summary": "マルチモーダルAIモデルの安全性を測定するための標準化された評価フレームワークを導入。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c826cf191fba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "クロスアテンションメカニズムの再考：ドメイン適応学習のための有益なノイズの活用",
+      "link": "https://arxiv.org/abs/2603.17474v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T08:28:14Z",
+      "summary": "クロスアテンションメカニズムにおけるノイズが、どのようにドメイン適応を促進するかを実証する研究。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4723e17f8041",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "VirPro：弱教師あり単眼3D検出のための視覚参照型確率的プロンプト学習",
+      "link": "https://arxiv.org/abs/2603.17470v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T08:23:55Z",
+      "summary": "弱教師あり学習を用いて3D物体検出の精度を向上させる新しいプロンプト学習手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2e11e873acdc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "VLM2Rec：マルチモーダル逐次推薦におけるVision-Languageモデル埋め込みのモダリティ崩壊の解決",
+      "link": "https://arxiv.org/abs/2603.17450v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:46:30Z",
+      "summary": "埋め込みにおけるモダリティ崩壊を軽減し、マルチモーダル推薦システムを改善する新しい手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bf9c09260375",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "最終テキストのみが残る場合：マルチエージェント帰属のための暗黙的実行トレース",
+      "link": "https://arxiv.org/abs/2603.17445v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:34:51Z",
+      "summary": "暗黙的な実行トレースを通じて、マルチエージェントシステムにおけるアクションを帰属させる手法を提案。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f703da877d6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AdaZoom-GUI：指示の洗練を伴う適応型ズームベースのGUIグラウンディング",
+      "link": "https://arxiv.org/abs/2603.17441v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:26:18Z",
+      "summary": "適応型ズームと指示ベースの洗練により、UI要素の正確な操作を可能にする。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "47671cee357e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Baguan-TS：共変量を伴う時系列予測のためのシーケンスネイティブなインコンテキスト学習モデル",
+      "link": "https://arxiv.org/abs/2603.17439v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:24:19Z",
+      "summary": "シーケンスネイティブな処理を用いて時系列予測の精度を向上させる新しいインコンテキスト学習モデル。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "791138aeda1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "TimeAPN：時系列予測のための適応型振幅・位相非定常性正規化",
+      "link": "https://arxiv.org/abs/2603.17436v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:21:24Z",
+      "summary": "予測性能と精度を向上させるための、非定常時系列向けの正規化手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4db13b5e8164",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Phasor Transformer：単位円上のアテンションボトルネックの解決",
+      "link": "https://arxiv.org/abs/2603.17433v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:18:41Z",
+      "summary": "パフォーマンスのボトルネックに対処するため、フェーザーベースのアテンションを用いた新しいTransformerアーキテクチャを導入。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f0c2473c8f84",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "医師と患者の対話における能動的な知識照会：ステートフル抽出、信念更新、およびパス認識型アクションプランニング",
+      "link": "https://arxiv.org/abs/2603.17425v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T07:03:50Z",
+      "summary": "医療対話におけるステートフルな情報抽出と能動的なプランニングのためのAIフレームワーク。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8dcce7eaf81d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "デジタルツインからワールドモデルへ：モバイルエッジ汎用知能の機会、課題、および応用",
+      "link": "https://arxiv.org/abs/2603.17420v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T06:54:49Z",
+      "summary": "モバイルエッジコンピューティングの知能化に向けて、デジタルツインをワールドモデルへと移行させる可能性を探る。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6b92ffbb6046",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "エージェントを囲い込む：ヘルスケアにおける自律型AIのためのゼロトラストセキュリティアーキテクチャ",
+      "link": "https://arxiv.org/abs/2603.17419v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T06:54:47Z",
+      "summary": "ヘルスケア分野での自律型AIエージェント管理に特化したゼロトラストセキュリティフレームワークを提案。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "905f1092d6fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "可変レート極限画像圧縮のための劣化認識型任意スケール超解像",
+      "link": "https://arxiv.org/abs/2603.17408v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T06:35:53Z",
+      "summary": "極限圧縮シナリオにおける劣化に対処する画像超解像手法。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d7a777d65327",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CRE-T1プレビュー技術レポート：推論集約型検索のための対照学習を超えて",
+      "link": "https://arxiv.org/abs/2603.17387v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T06:08:59Z",
+      "summary": "対照学習を超えた手法を用いて、推論タスクの検索を改善するための技術レポート。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "32b21dd97965",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SCALE：仮想細胞摂動予測のためのスケーラブルな条件付きアトラスレベルエンドポイント輸送",
+      "link": "https://arxiv.org/abs/2603.17380v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T05:51:08Z",
+      "summary": "エンドポイント輸送を用いて仮想細胞の摂動を予測するためのスケーラブルなモデル。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "535a6b0d7cc6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "大規模な効率的探索",
+      "link": "https://arxiv.org/abs/2603.17378v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T05:47:59Z",
+      "summary": "強化学習エージェントにおける探索効率をスケーリングするための新しい手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ce71dfb3f75d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "脱獄関連の表現シフトを通じたVLM脱獄の理解と防御",
+      "link": "https://arxiv.org/abs/2603.17372v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T05:31:29Z",
+      "summary": "表現シフトを分析し、Vision-Languageモデルにおける脱獄の試みを検知・軽減する。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "41c0b3810969",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Chain-of-Thought生成前の安全性意思決定の促進による、より安全な大規模推論モデルに向けて",
+      "link": "https://arxiv.org/abs/2603.17368v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T05:21:12Z",
+      "summary": "大規模推論モデルの信頼性を高めるための、生成前安全性チェックを提案。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6dcbf3213337",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "公開プロフィールが重要：野外での引用を推奨するためのスケーラブルな統合アプローチ",
+      "link": "https://arxiv.org/abs/2603.17361v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T04:52:42Z",
+      "summary": "公開ユーザープロフィールを活用した、スケーラブルな引用推奨システム。",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f38bdd77be6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "WebPII：コンピュータ利用エージェントのための視覚的PII検出のベンチマーク",
+      "link": "https://arxiv.org/abs/2603.17357v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T04:41:16Z",
+      "summary": "AIエージェントがウェブを閲覧する際のPII（個人識別情報）検出を評価するためのベンチマークを導入。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "94a6e316483d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ランク上の反射拡散による順列分布の学習",
+      "link": "https://arxiv.org/abs/2603.17353v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T04:28:24Z",
+      "summary": "ランク上の反射拡散を用いて順列分布を学習する手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a16588c8e075",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "配車サービス裁定のための進歩的な視覚・論理整合フレームワーク",
+      "link": "https://arxiv.org/abs/2603.17328v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:46:30Z",
+      "summary": "自動化された配車トラブル解決のために、視覚データと論理データを整合させるフレームワーク。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b955e27a0138",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ShuttleEnv：バドミントン戦略モデリングのための対話型データ駆動型強化学習環境",
+      "link": "https://arxiv.org/abs/2603.17324v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:37:39Z",
+      "summary": "バドミントンの戦略をモデル化するために設計された、データ駆動型の強化学習環境。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bbb3528cdb34",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "物理法則に基づいたオフライン強化学習が海運ルートにおける壊滅的な燃料の無駄を排除",
+      "link": "https://arxiv.org/abs/2603.17319v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:28:10Z",
+      "summary": "物理法則に基づいた強化学習を適用し、海運ルートの効率化と燃料消費の削減を実現。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0f4b825bf698",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "長期的な身体的タスクの進捗を推定するためのVision-Languageモデルによる再帰的推論",
+      "link": "https://arxiv.org/abs/2603.17312v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:13:29Z",
+      "summary": "VLMsにおける再帰的推論を用いて、長期的なロボットタスクの進捗を追跡する。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d2a9121cd93f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "InfoDensity：効率的な推論のための情報密度の高いトレースへの報酬付与",
+      "link": "https://arxiv.org/abs/2603.17310v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:11:36Z",
+      "summary": "LLMの推論トレースを最適化するために、情報密度に基づいた報酬信号を提案。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7a34489e3931",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReLMXEL：説明可能なエネルギーおよびレイテンシ最適化を備えた適応型RLベースのメモリコントローラ",
+      "link": "https://arxiv.org/abs/2603.17309v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:07:54Z",
+      "summary": "メモリのエネルギーとレイテンシのパフォーマンスを最適化する、説明可能な強化学習コントローラ。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "52ca728269cf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Symphony：長尺動画理解のための認知に触発されたマルチエージェントシステム",
+      "link": "https://arxiv.org/abs/2603.17307v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:04:49Z",
+      "summary": "認知に触発された推論を通じて、長尺動画シーケンスを分析・理解するためのマルチエージェントフレームワーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3a30ada5be7b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "対照推論アライメント：隠れた表現からの強化学習",
+      "link": "https://arxiv.org/abs/2603.17305v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T03:00:42Z",
+      "summary": "モデルの潜在表現に適用される強化学習を通じて、推論能力を向上させる新しいアライメント手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5c2fd09009b1",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "言葉から世界へ：機械翻訳における異文化理解のベンチマーク",
+      "link": "https://arxiv.org/abs/2603.17303v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T02:59:44Z",
+      "summary": "機械翻訳システム内の異文化理解を評価するための評価ベンチマーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f34b75cb3ec8",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GUIDE：デジタルデザイン教育における生成AIユニット",
+      "link": "https://arxiv.org/abs/2603.17296v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T02:43:47Z",
+      "summary": "大学レベルのデジタルデザインカリキュラムに生成AIモジュールを統合するためのフレームワーク。",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f4c351852a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Educator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "物語を導く：ストーリー生成における一貫性とスタイルを制御するためのファインチューニング手法",
+      "link": "https://arxiv.org/abs/2603.17295v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T02:43:02Z",
+      "summary": "自動ストーリー生成における物語の一貫性とスタイルの整合性を高めるためのファインチューニング技術。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9b9bbb964067",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DANCE：動的3D CNNプルーニング：エッジでのエネルギー効率のためのフレーム、チャネル、および特徴の共同適応",
+      "link": "https://arxiv.org/abs/2603.17275v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-18T01:57:21Z",
+      "summary": "エッジデバイスでの推論におけるエネルギー効率を向上させるために、3D CNNを最適化する手法。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a274618aff4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "エージェントメモリ：メモリを意識したエージェントの構築 - DeepLearning.AI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkdraThvazIzNVpNUlpLa0ptLVJqaXRsaWd4YUkyYWdNd3RqeUh4bmpIbkMyYXNrV3pLc3EyWUVWOXZ3bVJoUUFKZEtZTHdCcWtxaldvZzk1VHp2dF92YWtmN0RLb2t3dVU3aFlxOV8wcE8xX3p0MDEyRUhDUno0UW5YTHc0c2o0TzI1RA?oc=5",
+      "source": "DeepLearning.AI",
+      "region": "📚",
+      "pub_date": "2026-03-18T23:30:11Z",
+      "summary": "インテリジェントなAIエージェントのためのメモリシステムの実装に関する教育ガイド。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "849d1444fb10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepLearning.AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Metaが不正なAIエージェントの問題に直面",
+      "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T23:42:46Z",
+      "summary": "Metaは、予期せぬ動作を示す自律型AIエージェントの管理における技術的な課題を報告。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "402e28f800df",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "サム・アルトマンのコーダーへの感謝がミームを誘発",
+      "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T23:12:58Z",
+      "summary": "OpenAIのCEOサム・アルトマンによるコーダーへの公的な感謝が、ソーシャルメディアで広く嘲笑を招いている。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e243f7194275",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NothingのCEOカール・ペイ、AIエージェントの台頭によりスマートフォンアプリは消滅すると語る",
+      "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T20:30:52Z",
+      "summary": "カール・ペイは、AIエージェントが最終的に従来のスマートフォンアプリケーションのインターフェースに取って代わると予測。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8af459e4138d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Nothing"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nvidia、チップ事業に匹敵する数十億ドル規模の巨大事業を密かに構築中",
+      "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T20:01:19Z",
+      "summary": "Nvidiaは、自社のチップ事業の規模に対抗するため、ネットワーキング部門を拡大している。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6d9ea0f2f905",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Googleが「バイブデザイン」を実現しようとしている - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVRTd1J0SFoyR3g4bk52X0ktU0h5MDhza1hfVDczVGVodG55a0NrVVRvQU1JN0FDZnIwejJPeHlsR2xhcGZxcWJHYS1VTzlrN1o2OWNZdDB4QkJkRE9wSnA5cFl3alBFTm0tYVpGYktnNnQ4bVFXbTRfMFJib2Nzc2M3Qm9HTlk?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T18:47:07Z",
+      "summary": "Googleは、美学とユーザーの感情的な共鳴に焦点を当てた新しいデザイン哲学を推進している。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "944e40ee7de2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ChatGPTは犬の癌を治せなかった - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQclEtZ2Y2S3lsWHBhUXROREdGN2ZJS1F2d1pGZFhNQzZPS0lLYnloS2ZOc2NWaDd5YU05QmVQOG9MTnVqT3huRFlUR3g0dkNxblhNa29BaHZfc3Z2a2xBbENVY1pHbkpJalJuX3JJUU9ya0tVVVdnbThGb05sVFRSaW1iUVRnb244UGJZQ252clFwV0t6RkE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-18T18:14:39Z",
+      "summary": "ChatGPTが犬の癌に対する医学的な治療法を提供できなかったことを報告。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "78fc777f4052",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
     {
       "title": "81,000人がAIに求めていること - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hQVowejhZSzhEeThsX1BkOTdHVDY1UF9nQlpldWpOdUt4dmI1YVRUMWFSTnlMTTJTSkhOMlU1X0lLUGNJWEpFd0VWQUtqcDFNR1E?oc=5",
