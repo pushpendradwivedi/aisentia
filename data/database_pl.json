@@ -1,6 +1,598 @@
 {
-  "refreshed_at": "2026-03-19 13:01 UTC",
+  "refreshed_at": "2026-03-20 01:12 UTC",
   "items": [
+    {
+      "title": "Jak monitorujemy wewnętrzne agenty programistyczne pod kątem niespójności",
+      "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-19T10:00:00Z",
+      "summary": "Przegląd metod stosowanych do monitorowania agentów programistycznych AI pod kątem potencjalnej niespójności podczas tworzenia oprogramowania.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c0eeb1f9eef6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Uruchom NVIDIA Nemotron 3 Super w Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-super-on-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-19T17:25:44Z",
+      "summary": "Integracja umożliwia użytkownikom wdrażanie modeli NVIDIA Nemotron 3 Super za pośrednictwem platformy Amazon Bedrock.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e989ca78f443",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Wykorzystaj RAG do generowania wideo za pomocą Amazon Bedrock i Amazon Nova Reel",
+      "link": "https://aws.amazon.com/blogs/machine-learning/use-rag-for-video-generation-using-amazon-bedrock-and-amazon-nova-reel/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-19T16:45:50Z",
+      "summary": "Samouczek dotyczący wykorzystania Retrieval-Augmented Generation do produkcji wideo opartej na AI przy użyciu usług Amazon.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "da66ebd14975",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Przedstawiamy V-RAG: rewolucja w produkcji wideo wspieranej przez AI dzięki Retrieval Augmented Generation",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-v-rag-revolutionizing-ai-powered-video-production-with-retrieval-augmented-generation/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-19T16:45:42Z",
+      "summary": "Wprowadzenie V-RAG, frameworka łączącego techniki RAG w celu usprawnienia procesów generowania wideo przez AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f18b1102ce08",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Ulepszone metryki dla punktów końcowych Amazon SageMaker AI: głębszy wgląd dla lepszej wydajności",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enhanced-metrics-for-amazon-sagemaker-ai-endpoints-deeper-visibility-for-better-performance/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-19T14:32:11Z",
+      "summary": "Nowe metryki monitorowania dla punktów końcowych Amazon SageMaker zapewniają szczegółowy wgląd w wydajność modeli AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9c535fb44afb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "STAT+: Firma biotechnologiczna wykorzystuje Apple Watch do badań nad lekiem na chorobę Parkinsona",
+      "link": "https://www.statnews.com/2026/03/19/biotech-uses-apple-watch-parkinsons-drug-study-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-03-19T13:48:39Z",
+      "summary": "Firma biotechnologiczna wykorzystuje dane z czujników Apple Watch do monitorowania pacjentów podczas badań klinicznych leku na chorobę Parkinsona.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "84daa5ab49f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "CMS przyjmuje podejście do wykrywania oszustw oparte na zasadzie „ufaj, ale sprawdzaj”",
+      "link": "https://www.mobihealthnews.com/video/cms-adopts-trust-verify-fraud-detection-approach",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-03-19T19:54:00Z",
+      "summary": "CMS wdraża systemy wykrywania oszustw oparte na AI, kładąc nacisk na zautomatyzowaną weryfikację i nadzór nad roszczeniami zdrowotnymi.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "c5c06ad134ef",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "CMS"
+      ],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Na wyłączność: Health Universe pozyskuje 6 mln USD na agenty AI do procesów medycznych",
+      "link": "https://www.mobihealthnews.com/news/exclusive-health-universe-raises-6m-ai-agents-medical-workflows",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-03-19T13:00:00Z",
+      "summary": "Health Universe zabezpiecza 6 milionów dolarów na rozwój technologii agentów AI w celu usprawnienia procesów medycznych.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6f5acd4d2955",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Health Universe"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amigo AI pozyskuje 11 mln USD w rundzie serii A | Inwestycja 150 mln USD potwierdza pozycję Grow Therapy",
+      "link": "https://www.healthcareittoday.com/2026/03/19/amigo-ai-raises-11m-series-a-150m-investment-validates-grow-therapy/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-03-19T13:00:27Z",
+      "summary": "Amigo AI otrzymuje 11 milionów dolarów finansowania w serii A na rozwiązania kliniczne oparte na AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8cf71e985c91",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Amigo AI",
+        "Grow Therapy"
+      ],
+      "job_titles": [
+        "CEO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Prawnik z Bird & Bird tworzy BunTool, darmowy kreator pakietów prawnych",
+      "link": "https://www.artificiallawyer.com/2026/03/19/bird-bird-lawyer-creates-buntool-free-legal-bundle-maker/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-03-19T07:55:57Z",
+      "summary": "Prawnik z kancelarii Bird & Bird opracowuje BunTool, darmowe narzędzie do automatyzacji tworzenia pakietów dokumentów prawnych.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2241b5564adf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Bird & Bird"
+      ],
+      "job_titles": [
+        "Developer",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Przedstawiamy SPEED-Bench: ujednolicony i zróżnicowany benchmark dla dekodowania spekulatywnego",
+      "link": "https://huggingface.co/blog/nvidia/speed-bench",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-03-19T14:04:54Z",
+      "summary": "NVIDIA wprowadza ujednolicony benchmark do oceny wydajności dekodowania spekulatywnego w dużych modelach.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "79cdbebf79f3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TorchSpec: Skalowalne trenowanie dekodowania spekulatywnego",
+      "link": "https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-03-19T22:27:42Z",
+      "summary": "Nowy framework oparty na PyTorch umożliwia trenowanie na dużą skalę modeli wykorzystujących dekodowanie spekulatywne.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "abc7f20c1636",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Przedstawiamy LangSmith Fleet",
+      "link": "https://blog.langchain.com/introducing-langsmith-fleet/",
+      "source": "LangChain Blog",
+      "region": "💻",
+      "pub_date": "2026-03-19T16:49:42Z",
+      "summary": "LangChain uruchamia LangSmith Fleet do zarządzania i wdrażania infrastruktury oceny AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2814dfe1b7da",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "LangChain"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jeff Bezos podobno chce 100 miliardów dolarów na zakup i transformację starych firm produkcyjnych za pomocą AI",
+      "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T22:09:24Z",
+      "summary": "Jeff Bezos poszukuje ogromnego finansowania w celu modernizacji sektorów produkcyjnych poprzez integrację z AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a7b6ca64e027",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ruch botów online przekroczy ruch ludzi do 2027 roku, twierdzi CEO Cloudflare",
+      "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T19:09:02Z",
+      "summary": "CEO Cloudflare prognozuje, że zautomatyzowany ruch botów przewyższy ludzkie korzystanie z internetu do 2027 roku.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c73c9301d804",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cloudflare"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta wprowadza nowe systemy egzekwowania treści AI, ograniczając poleganie na zewnętrznych dostawcach",
+      "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T17:24:13Z",
+      "summary": "Meta wdraża wewnętrzne systemy moderacji AI, aby zmniejszyć zależność od zewnętrznych podwykonawców.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e74a4041f951",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DoorDash uruchamia nową aplikację „Tasks”, która płaci kurierom za przesyłanie filmów do trenowania AI",
+      "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T16:14:00Z",
+      "summary": "DoorDash wprowadza aplikację zachęcającą kurierów do nagrywania filmów w celu pozyskiwania danych do trenowania modeli AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7a7c99a96bd1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nieprzewidywalne AI doprowadziło do poważnego incydentu bezpieczeństwa w Meta - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYXE5OUtCa1hILWJaU1RuMHAxM2MxTlNOQmZ0UzlGRWV0RWFXVnVnT21YYkVZaTBKR0JoQU9sRHBjQkxmd2R6bjBxcWdUSDN5Nkt6d1VIYlBRTTRvYlNTbk9rZ0RtWktIampsOVlYV1BfUHM1TzlBdy1iUXVhLS1ubVpRZzIyemYtS25VVHhlX1B6R2h2OW5HT2dtYTc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T18:20:05Z",
+      "summary": "W firmie Meta doszło do technicznego incydentu bezpieczeństwa spowodowanego nieoczekiwanym zachowaniem systemu AI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "44a56134a8bf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Trener zdrowia AI od Fitbit będzie wkrótce mógł czytać Twoją dokumentację medyczną - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnFLdWIwc2JkY0RhNERSejRveGNUdmFOeVR5T3RkclNvLXBSZ3B6dFozYUFEN29Ka2ZGOTl4RnVINC1XNVo5YzNhN2VsNWlvVXVPRWdMTHlmLUNDNWxVRmF5ekhkZDI3dWllUUVFbWVuR2NCYi10MjNybFZaeFoxUmNsNjItTFU5SzFvNjNROHdwZWs3SDMzN2ZBMURUUDZiYmZ6TkpKUQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T12:27:23Z",
+      "summary": "Fitbit dodaje integrację z dokumentacją medyczną do swojej funkcji osobistego trenera zdrowia opartego na AI.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a2ae142e3f1e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Fitbit",
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Generator obrazów AI firmy Adobe można teraz trenować na własnych pracach - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZWJWamJZRlVMcVhmeFlZd3dNSXZoN2pWUUVka0pjV2NzWW1zNG05MUl4b3pucGxwcFNpNUxjV3dtVk9LMWJGbURIdm9QMGFlYkFTS1pkSjJza1BUZHkxSVREYlhHMWtuNGtndUNQVnN3SVhGcGF5TFhJSG1RQzVPa0hIaFBGNHJNendXNnVn?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T13:00:00Z",
+      "summary": "Adobe umożliwia użytkownikom trenowanie modeli generowania obrazów przy użyciu własnych stylów artystycznych.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "847abb26840d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Adobe"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Marc Andreessen to filozoficzne zombie - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGY3bW1HUGpmS3NqSC1vOHFJTXJVUExLdjZqNWFoUFd3MTlLWTZYVUV5UExmbmNBLVY3TGxUcVBMT0l3Zjdmd1FiTGd6YW95YlZyN0JMTWxLNWFZRERxQ0EwaFBfSF90aUlFeVdaZ3lyNEtXOW9ZdnpKeWRQbnBFelFETWI?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T20:07:54Z",
+      "summary": "Krytyka techno-optymistycznych poglądów Marca Andreessena dotyczących AI i ludzkiej inteligencji.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "33d8b148242e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Andreessen Horowitz"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google właśnie zmieniło przyszłość projektowania UI/UX...",
+      "link": "https://www.youtube.com/watch?v=qaB5HF4ax9M",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-03-19T19:35:06Z",
+      "summary": "Przegląd tego, jak aktualizacje interfejsu Google oparte na AI zmieniają standardy UI/UX.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "2648fe55ff01",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "Ujednolicone punktowanie tokenów czasoprzestrzennych dla wydajnych modeli wideo VLM",
       "link": "https://arxiv.org/abs/2603.18004v1",
