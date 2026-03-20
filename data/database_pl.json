@@ -1,6 +1,1438 @@
 {
-  "refreshed_at": "2026-03-20 01:12 UTC",
+  "refreshed_at": "2026-03-20 12:57 UTC",
   "items": [
+    {
+      "title": "Egzekwowanie rezydencji danych dzięki rozszerzeniom Amazon Quick dla Microsoft Teams",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-19T14:20:04Z",
+      "summary": "Nowe rozszerzenia Amazon Quick umożliwiają zgodność z wymogami rezydencji danych w środowiskach Microsoft Teams.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2ed3f630166a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NavTrust: Benchmarking wiarygodności w nawigacji ucieleśnionej",
+      "link": "https://arxiv.org/abs/2603.19229v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:59:51Z",
+      "summary": "Wprowadzenie benchmarku NavTrust do oceny bezpieczeństwa i niezawodności w ucieleśnionych systemach nawigacji AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "25d41b90b777",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "FinTradeBench: Benchmark wnioskowania finansowego dla LLM",
+      "link": "https://arxiv.org/abs/2603.19225v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:59:41Z",
+      "summary": "Specjalistyczny benchmark zaprojektowany do oceny zdolności wnioskowania finansowego w dużych modelach językowych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e92abca2eab6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "F2LLM-v2: Inkluzywne, wydajne i efektywne embeddingi dla wielojęzycznego świata",
+      "link": "https://arxiv.org/abs/2603.19223v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:59:21Z",
+      "summary": "F2LLM-v2 wprowadza wysokowydajne i efektywne modele embeddingów zaprojektowane do wielojęzycznych zadań językowych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7f42638c4bb5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nemotron-Cascade 2: Post-trening LLM z wykorzystaniem Cascade RL i destylacji on-policy dla wielu domen",
+      "link": "https://arxiv.org/abs/2603.19220v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:58:52Z",
+      "summary": "Metodologia ulepszania modeli LLM przy użyciu kaskadowego uczenia przez wzmacnianie oraz technik destylacji on-policy.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "626e9d97e414",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DreamPartGen: Semantycznie ugruntowane generowanie części 3D poprzez wspólne odszumianie utajone",
+      "link": "https://arxiv.org/abs/2603.19216v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:58:11Z",
+      "summary": "Nowy framework do generowania semantycznie dokładnych części 3D przy użyciu technik wspólnego odszumiania utajonego.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ce71e1545494",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OS-Themis: Skalowalny framework krytyczny dla nagród w ogólnych interfejsach GUI",
+      "link": "https://arxiv.org/abs/2603.19191v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:47:47Z",
+      "summary": "OS-Themis zapewnia skalowalny framework do trenowania modeli nagród w zadaniach automatyzacji GUI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d016142aaf73",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Box Maze: Architektura kontroli procesów dla niezawodnego wnioskowania LLM",
+      "link": "https://arxiv.org/abs/2603.19182v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:41:18Z",
+      "summary": "Box Maze wprowadza architekturę kontrolną w celu zwiększenia niezawodności zadań wnioskowania opartych na LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fe1fe7035384",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SOL-ExecBench: Benchmarking prędkości światła dla rzeczywistych kerneli GPU względem limitów sprzętowych",
+      "link": "https://arxiv.org/abs/2603.19173v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:30:02Z",
+      "summary": "Narzędzie do mierzenia wydajności kerneli GPU w odniesieniu do teoretycznych limitów wydajności sprzętowej.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eab430c4296f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ARIADNE: Framework synergii percepcji i wnioskowania dla wiarygodnej analizy angiografii wieńcowej",
+      "link": "https://arxiv.org/abs/2603.19169v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:25:19Z",
+      "summary": "Framework AI do analizy angiografii wieńcowej wykorzystujący zintegrowane modele percepcji i wnioskowania.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a47427188044",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Znaczenia i pomiary: Wieloagentowe ugruntowanie probabilistyczne dla nawigacji wizualno-językowej",
+      "link": "https://arxiv.org/abs/2603.19166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:20:56Z",
+      "summary": "Badania nad wykorzystaniem systemów wieloagentowych do poprawy nawigacji wizualno-językowej poprzez ugruntowanie probabilistyczne.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1290d011416a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "cuGenOpt: Przyspieszony przez GPU ogólny framework metaheurystyczny dla optymalizacji kombinatorycznej",
+      "link": "https://arxiv.org/abs/2603.19163v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:19:21Z",
+      "summary": "Wysokowydajny framework GPU do rozwiązywania złożonych problemów optymalizacji kombinatorycznej za pomocą metaheurystyk.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9a9cf82b5db7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VEPO: Optymalizacja polityki zmiennej entropii dla modeli językowych o niskich zasobach",
+      "link": "https://arxiv.org/abs/2603.19152v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:10:29Z",
+      "summary": "Nowa metoda optymalizacji służąca do ulepszania modeli bazowych w warunkach języków o niskich zasobach.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0e9c69044c50",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "D5P4: Partycjonowany wyznacznikowy proces punktowy dla różnorodności w równoległym dyskretnym dekodowaniu dyfuzyjnym",
+      "link": "https://arxiv.org/abs/2603.19146v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:02:08Z",
+      "summary": "Metoda zwiększania różnorodności wyników w równoległych dyskretnych modelach dyfuzyjnych przy użyciu wyznacznikowych procesów punktowych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e5947ffaca1b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UGID: Zunifikowany izomorfizm grafów do usuwania uprzedzeń w dużych modelach językowych",
+      "link": "https://arxiv.org/abs/2603.19144v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:59:37Z",
+      "summary": "Framework wykorzystujący izomorfizm grafów do identyfikacji i redukcji uprzedzeń w dużych modelach językowych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1b25f8ab3c0c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ukryte wzorce w analizie binarnej opartej na LLM",
+      "link": "https://arxiv.org/abs/2603.19138v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:56:56Z",
+      "summary": "Eksploracja wzorców wykrywanych przez modele LLM podczas analizy kodu binarnego w celach bezpieczeństwa.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3cb2a3c21837",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Adaptacyjne przewidywanie cen akcji z uwzględnieniem reżimu przy użyciu transformatorów z bramkowaniem autoenkodera i kontrolą uczenia przez wzmacnianie",
+      "link": "https://arxiv.org/abs/2603.19136v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:55:33Z",
+      "summary": "Hybrydowa architektura modelu łącząca transformatory i uczenie przez wzmacnianie do przewidywania rynku akcji.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3d98304166ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CustomTex: Teksturowanie scen wewnętrznych o wysokiej wierności poprzez dostosowywanie wieloreferencyjne",
+      "link": "https://arxiv.org/abs/2603.19121v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:44:08Z",
+      "summary": "Nowatorski framework do generowania wysokiej jakości tekstur scen wewnętrznych przy użyciu wielu obrazów referencyjnych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "87f61a8f1e5e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Computer Vision Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jak szacowanie niepewności skaluje się wraz z próbkowaniem w modelach wnioskujących",
+      "link": "https://arxiv.org/abs/2603.19118v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:42:05Z",
+      "summary": "Analiza korelacji między gęstością próbkowania a kwantyfikacją niepewności w złożonych modelach językowych wnioskujących.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7f5ca899628b",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "FedTrident: Odporna klasyfikacja stanu dróg przeciwko atakom typu poisoning w uczeniu federacyjnym",
+      "link": "https://arxiv.org/abs/2603.19101v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:26:13Z",
+      "summary": "Solidny framework uczenia federacyjnego zaprojektowany w celu łagodzenia zatruwania danych w autonomicznym monitorowaniu dróg.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "02add3436c5e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LuMamba: Latentny zunifikowany Mamba dla niezmiennego topologicznie i wydajnego modelowania EEG",
+      "link": "https://arxiv.org/abs/2603.19100v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:26:11Z",
+      "summary": "Wydajna architektura oparta na Mamba do przetwarzania danych EEG niezależnie od konkretnych konfiguracji elektrod.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "85dcaf07bd02",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DaPT: Framework dwuścieżkowy dla wielojęzycznego wieloetapowego odpowiadania na pytania",
+      "link": "https://arxiv.org/abs/2603.19097v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:23:04Z",
+      "summary": "Nowy dwuścieżkowy framework poprawiający dokładność w wielojęzycznych, wieloetapowych zadaniach odpowiadania na pytania.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8c73895caa26",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SAVeS: Sterowanie ocenami bezpieczeństwa w modelach wizualno-językowych za pomocą wskazówek semantycznych",
+      "link": "https://arxiv.org/abs/2603.19092v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:18:00Z",
+      "summary": "Metoda kontrolowania zachowań związanych z bezpieczeństwem w modelach wizualno-językowych przy użyciu semantycznych wskazówek sterujących.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7dbd357e6a64",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Serendipity by Design: Ocena wpływu mapowań między domenami na kreatywność ludzi i LLM",
+      "link": "https://arxiv.org/abs/2603.19087v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:12:05Z",
+      "summary": "Badanie porównawcze oceniające wyniki kreatywne ludzi i modeli LLM przy użyciu mapowania między domenami.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b78718a9bad9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CAMO: Warunkowy solwer neuronowy dla wieloobiektywowego problemu wielu komiwojażerów",
+      "link": "https://arxiv.org/abs/2603.19074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:59:45Z",
+      "summary": "Solwer neuronowy rozwiązujący złożoną wieloobiektywową wersję problemu komiwojażera.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aa335f759b09",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Równoległoboki kontratakują: LLM generują lepsze analogie niż ludzie",
+      "link": "https://arxiv.org/abs/2603.19066v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:56:24Z",
+      "summary": "Analiza empiryczna wykazująca, że modele językowe przewyższają ludzi w generowaniu złożonych analogii logicznych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f36438806c10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Em-Garde: Framework propozycji-dopasowania dla proaktywnego rozumienia strumieniowego wideo",
+      "link": "https://arxiv.org/abs/2603.19054v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:47:50Z",
+      "summary": "Framework do analizy wideo w czasie rzeczywistym przy użyciu proaktywnej strategii dopasowywania propozycji.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e308c658abe7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Człowiek i maszyna: sztuczna inteligencja a podejmowanie decyzji sądowych",
+      "link": "https://arxiv.org/abs/2603.19042v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:38:50Z",
+      "summary": "Eksploracja implikacji integracji AI w procesach prawnych i sądowych procesach decyzyjnych.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "76af47fa8c4f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Lawyer",
+        "Policy Maker"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SEM: Modulacja rzadkich embeddingów do usuwania uprzedzeń post-hoc w modelach wizualno-językowych",
+      "link": "https://arxiv.org/abs/2603.19028v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:28:08Z",
+      "summary": "Technika redukcji uprzedzeń modelu w architekturach wizualno-językowych poprzez modulację rzadkich embeddingów.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d1caf9d2467",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Behawioralne odciski palców dla stabilności i tożsamości punktów końcowych LLM",
+      "link": "https://arxiv.org/abs/2603.19022v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:23:23Z",
+      "summary": "Propozycja wykorzystania wzorców behawioralnych do śledzenia tożsamości i stabilności punktów końcowych modeli językowych.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7e3a0ea3a960",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Co naprawdę kontroluje wnioskowanie czasowe w dużych modelach językowych: tokenizacja czy reprezentacja czasu?",
+      "link": "https://arxiv.org/abs/2603.19017v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:22:03Z",
+      "summary": "Badanie podstawowych mechanizmów napędzających zdolności wnioskowania czasowego w modelach LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7e78e4bc8490",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Świadomość bezpieczeństwa w agentach LLM: przypadek strefy NDAI",
+      "link": "https://arxiv.org/abs/2603.19011v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:18:23Z",
+      "summary": "Studium przypadku dotyczące wyzwań związanych z bezpieczeństwem i świadomością w określonych środowiskach agentów LLM.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1df7d53844a1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Przepisywanie zapytań uwarunkowane hipotezą dla wyszukiwania użytecznego w procesie decyzyjnym",
+      "link": "https://arxiv.org/abs/2603.19008v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:15:58Z",
+      "summary": "Nowa metoda poprawiająca wyszukiwanie informacji poprzez uzależnienie przepisywania zapytań od konkretnych stwierdzeń hipotez.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fa3c93f681ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Raport techniczny AgentDS: Benchmarking przyszłości współpracy człowiek-AI w dziedzinowej nauce o danych",
+      "link": "https://arxiv.org/abs/2603.19005v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:11:13Z",
+      "summary": "Raport porównujący współpracę człowieka z AI w dziedzinowych przepływach pracy w nauce o danych.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fbae72a6aa7f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Granice żalu dla konkurencyjnej alokacji zasobów z kosztami endogenicznymi",
+      "link": "https://arxiv.org/abs/2603.18999v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:04:50Z",
+      "summary": "Analiza matematyczna granic żalu w problemach alokacji zasobów z uwzględnieniem kosztów endogenicznych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c9144ea49f94",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ocena trudności gry w układance Tetris Block",
+      "link": "https://arxiv.org/abs/2603.18994v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:00:28Z",
+      "summary": "Formalna ocena poziomów trudności obliczeniowej w mechanice gry logicznej Tetris.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "15f76b5e6474",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Podstawy mostów Schrödingera dla modelowania generatywnego",
+      "link": "https://arxiv.org/abs/2603.18992v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:59:56Z",
+      "summary": "Teoretyczne podstawy wykorzystania mostów Schrödingera w ramach frameworków modelowania generatywnego.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c780a86d9693",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Odsłanianie uprzedzeń algorytmicznych w predykcyjnym patrolowaniu: framework symulacyjny oparty na GAN z analizą czasową dla wielu miast",
+      "link": "https://arxiv.org/abs/2603.18987v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:55:32Z",
+      "summary": "Propozycja frameworku opartego na GAN do analizy i kwantyfikacji uprzedzeń algorytmicznych w systemach predykcyjnego patrolowania.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6d65eb6d71ea",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PRIOR: Uczenie percepcyjne dla lokomocji humanoidalnej z referencyjnymi priorytetami chodu",
+      "link": "https://arxiv.org/abs/2603.18979v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:42:07Z",
+      "summary": "Wprowadzenie podejścia uczenia dla robotów humanoidalnych przy użyciu referencyjnych priorytetów chodu w celu poprawy lokomocji.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ba96cdc8c590",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ocena ustrukturyzowanego promptowania 5W3H dla dopasowania intencji w interakcji człowiek-AI",
+      "link": "https://arxiv.org/abs/2603.18976v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:41:06Z",
+      "summary": "Ocena technik ustrukturyzowanego promptowania 5W3H w celu zwiększenia dopasowania intencji w interakcjach AI-człowiek.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f7bd2736eadc",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Wnioskowanie teleologiczne w strukturalnych modelach przyczynowych poprzez celowe interwencje",
+      "link": "https://arxiv.org/abs/2603.18968v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:33:46Z",
+      "summary": "Eksploracja wnioskowania teleologicznego w strukturalnych modelach przyczynowych przy użyciu celowych interwencji.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "13c057720e53",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Poprawa rozwiązań tensora momentu w warunkach niepewności struktury Ziemi za pomocą wnioskowania opartego na symulacji",
+      "link": "https://arxiv.org/abs/2603.18925v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:04:17Z",
+      "summary": "Zastosowanie wnioskowania opartego na symulacji do udoskonalenia rozwiązań sejsmicznego tensora momentu pomimo niepewności strukturalnych Ziemi.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6b040e0e5d27",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Agentowe zarządzanie procesami biznesowymi: Manifest badawczy",
+      "link": "https://arxiv.org/abs/2603.18916v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:52:17Z",
+      "summary": "Zarys agendy badawczej dotyczącej integracji autonomicznych agentów AI w zarządzaniu procesami biznesowymi.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "98a40dafe373",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bezpieczeństwo, prywatność i agentowa AI w ujęciu regulacyjnym: Od definicji i rozróżnień po przepisy i refleksje",
+      "link": "https://arxiv.org/abs/2603.18914v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:50:52Z",
+      "summary": "Omówienie perspektyw regulacyjnych oraz wyzwań związanych z bezpieczeństwem i prywatnością w odniesieniu do systemów agentowej AI.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e37372dee664",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Progresywne trenowanie dla wyjaśnialnego dialogu opartego na cytatach: Redukcja halucynacji do zera w modelach LLM angielsko-hinduskich",
+      "link": "https://arxiv.org/abs/2603.18911v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:48:19Z",
+      "summary": "Prezentacja metody treningowej eliminującej halucynacje w modelach LLM angielsko-hinduskich poprzez dialog oparty na cytatach.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0dafaeaeea78",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bezpieczne wyrównywanie liniowe dużych modeli językowych",
+      "link": "https://arxiv.org/abs/2603.18908v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:43:32Z",
+      "summary": "Szczegółowy opis bezpiecznej metody liniowego wyrównywania modeli LLM do pożądanych standardów wydajności lub bezpieczeństwa.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6362706ac15b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Działaj podczas myślenia: Przyspieszanie agentów LLM poprzez spekulatywne wykonywanie narzędzi świadome wzorców",
+      "link": "https://arxiv.org/abs/2603.18897v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:36:50Z",
+      "summary": "Przyspieszenie wydajności agentów LLM poprzez implementację spekulatywnego wykonywania narzędzi świadomego wzorców podczas procesów myślowych.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "529ea8ba8a83",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tłumaczenie MRI na PET poprzez warunkowe modele dyfuzyjne ze zwiększoną świadomością patologiczną",
+      "link": "https://arxiv.org/abs/2603.18896v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:36:19Z",
+      "summary": "Wykorzystanie warunkowych modeli dyfuzyjnych do syntezy obrazów PET z danych MRI w celu lepszej identyfikacji patologii.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4bb4567b8615",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Od dokładności do gotowości: Metryki i benchmarki dla podejmowania decyzji człowiek-AI",
+      "link": "https://arxiv.org/abs/2603.18895v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:35:29Z",
+      "summary": "Propozycja nowych metryk do oceny gotowości i skuteczności systemów decyzyjnych opartych na współpracy człowiek-AI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "53e459ad6e10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nie mogę uwierzyć, że to korupcja: Ocena korupcji w wieloagentowych systemach zarządzania",
+      "link": "https://arxiv.org/abs/2603.18894v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:34:54Z",
+      "summary": "Analiza podatności na korupcję w autonomicznych systemach wieloagentowych zaprojektowanych do zarządzania organizacyjnego.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "88bc42d318c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MIT i Hasso Plattner Institute tworzą centrum współpracy dla AI i kreatywności",
+      "link": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-03-20T12:45:00Z",
+      "summary": "MIT i HPI uruchamiają wspólne centrum badawcze koncentrujące się na AI w dziedzinach kreatywnych.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c0b69aafae3a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Hasso Plattner Institute",
+        "MIT"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "CMS zaprasza partnerów z sektora prywatnego do tworzenia aplikacji dla pacjentów Medicare",
+      "link": "https://www.mobihealthnews.com/video/cms-invites-private-sector-partners-create-medicare-patient-apps",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-03-19T14:40:10Z",
+      "summary": "CMS zachęca sektor prywatny do tworzenia aplikacji mobilnych dla pacjentów korzystających z usług Medicare.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "12dea48f5c92",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "CMS"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Przestańcie czekać na mandaty: CMS wzywa branżę IT w zdrowiu do działania już teraz",
+      "link": "https://www.healthcareittoday.com/2026/03/19/stop-waiting-on-mandates-cms-challenges-health-it-to-act-now/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-03-19T16:00:20Z",
+      "summary": "CMS wzywa sektor technologii zdrowotnych do proaktywnego wdrażania rozwiązań interoperacyjności bez presji regulacyjnej.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b87aea909583",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "CMS"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Szok promptów prawnych Claude, recenzja LegalOn GPT 5.4, Legal Innovators +",
+      "link": "https://www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-03-20T08:26:12Z",
+      "summary": "Analiza promptów Claude dla zadań prawnych oraz recenzja oprogramowania LegalOn GPT 5.4.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4bb1919fc403",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Anthropic",
+        "LegalOn"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Najlepsza inwestycja w AI może leżeć w technologiach energetycznych",
+      "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-20T12:00:00Z",
+      "summary": "Zapotrzebowanie infrastruktury AI kieruje zainteresowanie inwestycyjne w stronę rozwiązań technologii energetycznych.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "70f677c47bc1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Investor"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Te urządzenia do notowania AI mogą pomóc w nagrywaniu i transkrypcji spotkań",
+      "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-20T11:31:38Z",
+      "summary": "Urządzenia sprzętowe wykorzystujące AI do transkrypcji spotkań w czasie rzeczywistym i zarządzania notatkami.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "55ec6aa80c16",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nominacje do TechCrunch Startup Battlefield 200 są nadal otwarte",
+      "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T15:00:00Z",
+      "summary": "Wezwanie do zgłaszania nominacji startupów do corocznego konkursu TechCrunch Battlefield.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e6e631befba9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "TechCrunch"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI planuje desktopowy „superapp” - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjg5Z3BPaGRMZm5FenFsX3ZQMGRVdEZLS0k0ZzJsSlFBd3FZQmtQZGoxUV90dTVBVXhBbktwc29LS3dHNHE1SFJOVjdXSUIwV29FSWRJLU5XUVpQcVhHZzVma1g0bmNvV3FleFZ0QUNNZVEyYXBkTEduZXJXM1p1cjUtVjJoamROazk0VUR1X19KUi1TUHdPU0Y5OUN6WUZtQWpQUw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-20T00:09:00Z",
+      "summary": "OpenAI rzekomo rozwija zunifikowaną aplikację desktopową w celu zwiększenia dostępności usług.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c34270f7077c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Microsoft wprowadził drugą generację swojego modelu obrazów AI. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFhzbkdPME5ITFdHUW1FWmVXYncyd0xDeHVjY2NlT0hjcEJPQjFZTVIzdzVsQ3VXYlZRa2F6U0VGTUMxZF81cVJYXzhGajhDZHhKREFNS29FR3c4aTdTcXFRbng0UXZaTkQ5OHQ1MlFDOFZkNVM1cnd6UUxTTkNNUXpvWG5xUUtwU3N6cmlMSkxYdW85cktqTk9RT2tWUmo3eDZqV1p3SUQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T21:08:47Z",
+      "summary": "Microsoft wydaje zaktualizowany model generowania obrazów AI drugiej generacji.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "20ca717f54ab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Jak monitorujemy wewnętrzne agenty programistyczne pod kątem niespójności",
       "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",

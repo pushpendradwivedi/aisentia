@@ -1,6 +1,1438 @@
 {
-  "refreshed_at": "2026-03-20 01:12 UTC",
+  "refreshed_at": "2026-03-20 12:57 UTC",
   "items": [
+    {
+      "title": "Menegakkan residensi data dengan ekstensi Amazon Quick untuk Microsoft Teams",
+      "link": "https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-19T14:20:04Z",
+      "summary": "Ekstensi Amazon Quick baru memungkinkan kepatuhan residensi data dalam lingkungan Microsoft Teams.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2ed3f630166a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NavTrust: Tolok Ukur Kepercayaan untuk Navigasi Berwujud (Embodied Navigation)",
+      "link": "https://arxiv.org/abs/2603.19229v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:59:51Z",
+      "summary": "Pengenalan tolok ukur NavTrust untuk mengevaluasi keamanan dan keandalan dalam sistem navigasi AI berwujud.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "25d41b90b777",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "FinTradeBench: Tolok Ukur Penalaran Keuangan untuk LLM",
+      "link": "https://arxiv.org/abs/2603.19225v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:59:41Z",
+      "summary": "Tolok ukur khusus yang dirancang untuk menilai kemampuan penalaran keuangan dalam model bahasa besar (LLM).",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e92abca2eab6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "F2LLM-v2: Embedding yang Inklusif, Berkinerja Tinggi, dan Efisien untuk Dunia Multibahasa",
+      "link": "https://arxiv.org/abs/2603.19223v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:59:21Z",
+      "summary": "F2LLM-v2 memperkenalkan model embedding yang efisien dan berkinerja tinggi yang dirancang untuk tugas bahasa multibahasa.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7f42638c4bb5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nemotron-Cascade 2: Pasca-Pelatihan LLM dengan Cascade RL dan Distilasi On-Policy Multi-Domain",
+      "link": "https://arxiv.org/abs/2603.19220v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:58:52Z",
+      "summary": "Metodologi untuk meningkatkan LLM menggunakan pembelajaran penguatan (reinforcement learning) kaskade dan teknik distilasi on-policy.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "626e9d97e414",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DreamPartGen: Pembuatan 3D Tingkat Bagian yang Berlandaskan Semantik melalui Denoising Laten Kolaboratif",
+      "link": "https://arxiv.org/abs/2603.19216v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:58:11Z",
+      "summary": "Kerangka kerja baru untuk menghasilkan bagian 3D yang akurat secara semantik menggunakan teknik denoising laten kolaboratif.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ce71e1545494",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OS-Themis: Kerangka Kerja Kritik yang Dapat Diskalakan untuk Imbalan GUI Generalis",
+      "link": "https://arxiv.org/abs/2603.19191v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:47:47Z",
+      "summary": "OS-Themis menyediakan kerangka kerja yang dapat diskalakan untuk melatih model imbalan dalam tugas otomatisasi GUI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d016142aaf73",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Box Maze: Arsitektur Kontrol Proses untuk Penalaran LLM yang Andal",
+      "link": "https://arxiv.org/abs/2603.19182v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:41:18Z",
+      "summary": "Box Maze memperkenalkan arsitektur kontrol untuk meningkatkan keandalan dalam tugas penalaran berbasis LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fe1fe7035384",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SOL-ExecBench: Tolok Ukur Kecepatan Cahaya untuk Kernel GPU Dunia Nyata Terhadap Batas Perangkat Keras",
+      "link": "https://arxiv.org/abs/2603.19173v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:30:02Z",
+      "summary": "Alat untuk mengukur efisiensi kernel GPU terhadap batas kinerja perangkat keras teoretis.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eab430c4296f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ARIADNE: Kerangka Kerja Sinergi Persepsi-Penalaran untuk Analisis Angiografi Koroner yang Tepercaya",
+      "link": "https://arxiv.org/abs/2603.19169v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:25:19Z",
+      "summary": "Kerangka kerja AI untuk menganalisis angiografi koroner menggunakan model persepsi dan penalaran terintegrasi.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a47427188044",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Makna dan Pengukuran: Grounding Probabilistik Multi-Agen untuk Navigasi Visi-Bahasa",
+      "link": "https://arxiv.org/abs/2603.19166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:20:56Z",
+      "summary": "Penelitian tentang penggunaan sistem multi-agen untuk meningkatkan navigasi visi-bahasa melalui grounding probabilistik.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1290d011416a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "cuGenOpt: Kerangka Kerja Metaheuristik Tujuan Umum yang Diakselerasi GPU untuk Optimasi Kombinatorial",
+      "link": "https://arxiv.org/abs/2603.19163v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:19:21Z",
+      "summary": "Kerangka kerja GPU berkinerja tinggi untuk memecahkan masalah optimasi kombinatorial yang kompleks melalui metaheuristik.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9a9cf82b5db7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VEPO: Optimasi Kebijakan Entropi Variabel untuk Model Fondasi Bahasa Sumber Daya Rendah",
+      "link": "https://arxiv.org/abs/2603.19152v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:10:29Z",
+      "summary": "Metode optimasi baru untuk meningkatkan model fondasi dalam pengaturan bahasa dengan sumber daya rendah.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0e9c69044c50",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "D5P4: Proses Titik Determinan Partisi untuk Keberagaman dalam Decoding Difusi Diskrit Paralel",
+      "link": "https://arxiv.org/abs/2603.19146v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T17:02:08Z",
+      "summary": "Metode untuk meningkatkan keberagaman output dalam model difusi diskrit paralel menggunakan proses titik determinan.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e5947ffaca1b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UGID: Isomorfisme Grafik Terpadu untuk Menghilangkan Bias pada Model Bahasa Besar",
+      "link": "https://arxiv.org/abs/2603.19144v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:59:37Z",
+      "summary": "Kerangka kerja yang memanfaatkan isomorfisme grafik untuk mengidentifikasi dan mengurangi bias dalam model bahasa besar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1b25f8ab3c0c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Pola Implisit dalam Analisis Biner Berbasis LLM",
+      "link": "https://arxiv.org/abs/2603.19138v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:56:56Z",
+      "summary": "Eksplorasi pola yang dideteksi oleh LLM saat menganalisis kode biner untuk tujuan keamanan.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3cb2a3c21837",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Prediksi Harga Saham Sadar-Rezim Adaptif Menggunakan Autoencoder-Gated Dual Node Transformers dengan Kontrol Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2603.19136v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:55:33Z",
+      "summary": "Arsitektur model hibrida yang menggabungkan transformer dan reinforcement learning untuk prediksi pasar saham.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3d98304166ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CustomTex: Tekstur Adegan Dalam Ruangan dengan Kesetiaan Tinggi melalui Kustomisasi Multi-Referensi",
+      "link": "https://arxiv.org/abs/2603.19121v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:44:08Z",
+      "summary": "Kerangka kerja baru untuk menghasilkan tekstur adegan dalam ruangan berkualitas tinggi menggunakan beberapa gambar referensi.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "87f61a8f1e5e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Computer Vision Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bagaimana Estimasi Ketidakpastian Berskala dengan Pengambilan Sampel dalam Model Penalaran",
+      "link": "https://arxiv.org/abs/2603.19118v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:42:05Z",
+      "summary": "Analisis tentang bagaimana kepadatan pengambilan sampel berkorelasi dengan kuantifikasi ketidakpastian dalam model bahasa penalaran kompleks.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7f5ca899628b",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "FedTrident: Klasifikasi Kondisi Jalan yang Tangguh Terhadap Serangan Peracunan dalam Pembelajaran Federasi",
+      "link": "https://arxiv.org/abs/2603.19101v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:26:13Z",
+      "summary": "Kerangka kerja pembelajaran federasi yang tangguh dirancang untuk memitigasi peracunan data dalam pemantauan jalan otonom.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "02add3436c5e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LuMamba: Latent Unified Mamba untuk Pemodelan EEG yang Efisien dan Invarian Topologi Elektroda",
+      "link": "https://arxiv.org/abs/2603.19100v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:26:11Z",
+      "summary": "Arsitektur berbasis Mamba yang efisien untuk memproses data EEG terlepas dari konfigurasi elektroda tertentu.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "85dcaf07bd02",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DaPT: Kerangka Kerja Jalur Ganda untuk Tanya Jawab Multibahasa Multi-Lompatan",
+      "link": "https://arxiv.org/abs/2603.19097v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:23:04Z",
+      "summary": "Kerangka kerja jalur ganda baru yang meningkatkan akurasi dalam tugas tanya jawab multibahasa dan multi-langkah.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8c73895caa26",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SAVeS: Mengarahkan Penilaian Keamanan dalam Model Visi-Bahasa melalui Isyarat Semantik",
+      "link": "https://arxiv.org/abs/2603.19092v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:18:00Z",
+      "summary": "Metode untuk mengontrol perilaku keamanan dalam model visi-bahasa menggunakan isyarat panduan semantik.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7dbd357e6a64",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Serendipitas Berdasarkan Desain: Mengevaluasi Dampak Pemetaan Lintas Domain pada Kreativitas Manusia dan LLM",
+      "link": "https://arxiv.org/abs/2603.19087v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T16:12:05Z",
+      "summary": "Studi komparatif yang mengevaluasi kinerja kreatif antara manusia dan LLM menggunakan pemetaan lintas domain.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b78718a9bad9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CAMO: Pemecah Neural Bersyarat untuk Masalah Multi-Tujuan Multiple Traveling Salesman",
+      "link": "https://arxiv.org/abs/2603.19074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:59:45Z",
+      "summary": "Pemecah neural yang menangani versi multi-tujuan yang kompleks dari Masalah Traveling Salesman.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aa335f759b09",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Parallelograms Strike Back: LLM Menghasilkan Analogi yang Lebih Baik daripada Manusia",
+      "link": "https://arxiv.org/abs/2603.19066v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:56:24Z",
+      "summary": "Analisis empiris yang menunjukkan model bahasa mengungguli manusia dalam menghasilkan analogi logis yang kompleks.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f36438806c10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Em-Garde: Kerangka Kerja Propose-Match untuk Pemahaman Video Streaming Proaktif",
+      "link": "https://arxiv.org/abs/2603.19054v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:47:50Z",
+      "summary": "Kerangka kerja untuk analisis video waktu nyata menggunakan strategi pencocokan proposal proaktif.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e308c658abe7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Manusia dan mesin: kecerdasan buatan dan pengambilan keputusan yudisial",
+      "link": "https://arxiv.org/abs/2603.19042v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:38:50Z",
+      "summary": "Eksplorasi implikasi integrasi AI dalam proses pengambilan keputusan hukum dan yudisial.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "76af47fa8c4f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Lawyer",
+        "Policy Maker"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SEM: Modulasi Embedding Jarang untuk Penghilangan Bias Post-Hoc pada Model Visi-Bahasa",
+      "link": "https://arxiv.org/abs/2603.19028v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:28:08Z",
+      "summary": "Teknik untuk mengurangi bias model dalam arsitektur visi-bahasa melalui modulasi embedding jarang.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d1caf9d2467",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sidik Jari Perilaku untuk Stabilitas dan Identitas Endpoint LLM",
+      "link": "https://arxiv.org/abs/2603.19022v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:23:23Z",
+      "summary": "Mengusulkan penggunaan pola perilaku untuk melacak identitas dan stabilitas endpoint model bahasa.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7e3a0ea3a960",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apa yang Sebenarnya Mengontrol Penalaran Temporal dalam Model Bahasa Besar: Tokenisasi atau Representasi Waktu?",
+      "link": "https://arxiv.org/abs/2603.19017v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:22:03Z",
+      "summary": "Investigasi ke dalam mekanisme mendasar yang mendorong kemampuan penalaran temporal dalam LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7e78e4bc8490",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kesadaran keamanan pada agen LLM: kasus zona NDAI",
+      "link": "https://arxiv.org/abs/2603.19011v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:18:23Z",
+      "summary": "Studi kasus mengenai tantangan keamanan dan kesadaran dalam lingkungan agen LLM tertentu.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1df7d53844a1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Penulisan Ulang Kueri yang Dikondisikan Hipotesis untuk Pengambilan yang Berguna bagi Keputusan",
+      "link": "https://arxiv.org/abs/2603.19008v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:15:58Z",
+      "summary": "Metode baru yang meningkatkan pengambilan informasi dengan mengondisikan penulisan ulang kueri pada pernyataan hipotesis tertentu.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fa3c93f681ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Laporan Teknis AgentDS: Tolok Ukur Masa Depan Kolaborasi Manusia-AI dalam Ilmu Data Spesifik Domain",
+      "link": "https://arxiv.org/abs/2603.19005v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:11:13Z",
+      "summary": "Laporan yang mengukur kolaborasi manusia yang dibantu AI dalam alur kerja ilmu data spesifik domain.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fbae72a6aa7f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Batas Penyesalan untuk Alokasi Sumber Daya Kompetitif dengan Biaya Endogen",
+      "link": "https://arxiv.org/abs/2603.18999v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:04:50Z",
+      "summary": "Analisis matematis batas penyesalan dalam masalah alokasi sumber daya dengan mempertimbangkan biaya endogen.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c9144ea49f94",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mengevaluasi Kesulitan Permainan dalam Teka-teki Balok Tetris",
+      "link": "https://arxiv.org/abs/2603.18994v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T15:00:28Z",
+      "summary": "Evaluasi formal tingkat kesulitan komputasi dalam mekanika permainan teka-teki Tetris.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "15f76b5e6474",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Fondasi Jembatan Schrödinger untuk Pemodelan Generatif",
+      "link": "https://arxiv.org/abs/2603.18992v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:59:56Z",
+      "summary": "Fondasi teoretis untuk menggunakan Jembatan Schrödinger dalam kerangka kerja pemodelan generatif.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c780a86d9693",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Membongkar Bias Algoritmik dalam Pemolisian Prediktif: Kerangka Kerja Simulasi Berbasis GAN dengan Analisis Temporal Multi-Kota",
+      "link": "https://arxiv.org/abs/2603.18987v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:55:32Z",
+      "summary": "Mengusulkan kerangka kerja berbasis GAN untuk menganalisis dan mengukur bias algoritmik dalam sistem pemolisian prediktif.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6d65eb6d71ea",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PRIOR: Pembelajaran Perseptif untuk Lokomosi Humanoid dengan Prior Gaya Berjalan Referensi",
+      "link": "https://arxiv.org/abs/2603.18979v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:42:07Z",
+      "summary": "Memperkenalkan pendekatan pembelajaran untuk robot humanoid menggunakan prior gaya berjalan referensi untuk meningkatkan lokomosi.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ba96cdc8c590",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mengevaluasi Prompting Terstruktur 5W3H untuk Penyelarasan Niat dalam Interaksi Manusia-AI",
+      "link": "https://arxiv.org/abs/2603.18976v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:41:06Z",
+      "summary": "Menilai teknik prompting terstruktur 5W3H untuk meningkatkan penyelarasan niat dalam interaksi AI-manusia.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f7bd2736eadc",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Inferensi Teleologis dalam Model Kausal Struktural melalui Intervensi yang Disengaja",
+      "link": "https://arxiv.org/abs/2603.18968v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:33:46Z",
+      "summary": "Mengeksplorasi inferensi teleologis dalam model kausal struktural menggunakan intervensi yang disengaja.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "13c057720e53",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meningkatkan solusi tensor momen di bawah ketidakpastian struktur Bumi dengan inferensi berbasis simulasi",
+      "link": "https://arxiv.org/abs/2603.18925v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T14:04:17Z",
+      "summary": "Menerapkan inferensi berbasis simulasi untuk menyempurnakan solusi tensor momen seismik meskipun terdapat ketidakpastian struktural Bumi.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6b040e0e5d27",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Manajemen Proses Bisnis Agen: Manifesto Penelitian",
+      "link": "https://arxiv.org/abs/2603.18916v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:52:17Z",
+      "summary": "Menguraikan agenda penelitian untuk mengintegrasikan agen AI otonom ke dalam manajemen proses bisnis.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "98a40dafe373",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Keamanan, privasi, dan AI agen dalam pandangan regulasi: Dari definisi dan perbedaan hingga ketentuan dan refleksi",
+      "link": "https://arxiv.org/abs/2603.18914v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:50:52Z",
+      "summary": "Membahas perspektif regulasi, keamanan, dan tantangan privasi mengenai sistem AI agen.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e37372dee664",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Pelatihan Progresif untuk Dialog Berbasis Kutipan yang Dapat Dijelaskan: Mengurangi Halusinasi hingga Nol dalam LLM Inggris-Hindi",
+      "link": "https://arxiv.org/abs/2603.18911v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:48:19Z",
+      "summary": "Menyajikan metode pelatihan untuk menghilangkan halusinasi dalam LLM Inggris-Hindi melalui dialog berbasis kutipan.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0dafaeaeea78",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Penyelarasan Linear Aman dari Model Bahasa Besar",
+      "link": "https://arxiv.org/abs/2603.18908v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:43:32Z",
+      "summary": "Merinci metode aman untuk menyelaraskan LLM secara linear ke standar kinerja atau keamanan yang diinginkan.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6362706ac15b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bertindak Sambil Berpikir: Mempercepat Agen LLM melalui Eksekusi Alat Spekulatif yang Sadar Pola",
+      "link": "https://arxiv.org/abs/2603.18897v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:36:50Z",
+      "summary": "Mempercepat kinerja agen LLM dengan menerapkan eksekusi alat spekulatif yang sadar pola selama proses berpikir.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "529ea8ba8a83",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Menerjemahkan MRI ke PET melalui Model Difusi Bersyarat dengan Kesadaran Patologi yang Ditingkatkan",
+      "link": "https://arxiv.org/abs/2603.18896v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:36:19Z",
+      "summary": "Menggunakan model difusi bersyarat untuk mensintesis gambar PET dari data MRI untuk identifikasi patologi yang lebih baik.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4bb4567b8615",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dari Akurasi ke Kesiapan: Metrik dan Tolok Ukur untuk Pengambilan Keputusan Manusia-AI",
+      "link": "https://arxiv.org/abs/2603.18895v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:35:29Z",
+      "summary": "Mengusulkan metrik baru untuk mengevaluasi kesiapan dan efektivitas sistem pengambilan keputusan kolaboratif manusia-AI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "53e459ad6e10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Saya Tidak Percaya Ini Korup: Mengevaluasi Korupsi dalam Sistem Tata Kelola Multi-Agen",
+      "link": "https://arxiv.org/abs/2603.18894v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-03-19T13:34:54Z",
+      "summary": "Menganalisis kerentanan terhadap korupsi dalam sistem multi-agen otonom yang dirancang untuk tata kelola organisasi.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "88bc42d318c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MIT dan Hasso Plattner Institute mendirikan pusat kolaboratif untuk AI dan kreativitas",
+      "link": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-03-20T12:45:00Z",
+      "summary": "MIT dan HPI meluncurkan pusat penelitian bersama yang berfokus pada AI di bidang kreatif.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c0b69aafae3a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Hasso Plattner Institute",
+        "MIT"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "CMS mengundang mitra sektor swasta untuk membuat aplikasi pasien Medicare",
+      "link": "https://www.mobihealthnews.com/video/cms-invites-private-sector-partners-create-medicare-patient-apps",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-03-19T14:40:10Z",
+      "summary": "CMS meminta pengembangan sektor swasta untuk aplikasi seluler yang berorientasi pada pasien untuk layanan Medicare.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "12dea48f5c92",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "CMS"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Berhenti Menunggu Mandat: CMS Menantang TI Kesehatan untuk Bertindak Sekarang",
+      "link": "https://www.healthcareittoday.com/2026/03/19/stop-waiting-on-mandates-cms-challenges-health-it-to-act-now/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-03-19T16:00:20Z",
+      "summary": "CMS mendesak sektor teknologi kesehatan untuk secara proaktif menerapkan solusi interoperabilitas tanpa tekanan regulasi.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b87aea909583",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "CMS"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kejutan Prompt Hukum Claude, Ulasan LegalOn GPT 5.4, Legal Innovators +",
+      "link": "https://www.artificiallawyer.com/2026/03/20/claude-legal-prompt-shock-legalon-gpt-5-4-review-legal-innovators/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-03-20T08:26:12Z",
+      "summary": "Analisis prompt Claude untuk tugas hukum dan ulasan perangkat lunak LegalOn GPT 5.4.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4bb1919fc403",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Anthropic",
+        "LegalOn"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Investasi AI terbaik mungkin ada pada teknologi energi",
+      "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-20T12:00:00Z",
+      "summary": "Permintaan infrastruktur AI mendorong minat investasi kritis terhadap solusi teknologi energi.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "70f677c47bc1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Investor"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Perangkat pencatat AI ini dapat membantu Anda merekam dan mentranskripsikan rapat Anda",
+      "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-20T11:31:38Z",
+      "summary": "Perangkat keras yang memanfaatkan AI untuk transkripsi rapat waktu nyata dan manajemen catatan.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "55ec6aa80c16",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nominasi TechCrunch Startup Battlefield 200 masih dibuka",
+      "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T15:00:00Z",
+      "summary": "Panggilan untuk nominasi startup untuk kompetisi tahunan TechCrunch Battlefield.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e6e631befba9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "TechCrunch"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI merencanakan 'superapp' desktop - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjg5Z3BPaGRMZm5FenFsX3ZQMGRVdEZLS0k0ZzJsSlFBd3FZQmtQZGoxUV90dTVBVXhBbktwc29LS3dHNHE1SFJOVjdXSUIwV29FSWRJLU5XUVpQcVhHZzVma1g0bmNvV3FleFZ0QUNNZVEyYXBkTEduZXJXM1p1cjUtVjJoamROazk0VUR1X19KUi1TUHdPU0Y5OUN6WUZtQWpQUw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-20T00:09:00Z",
+      "summary": "OpenAI dilaporkan sedang mengembangkan aplikasi desktop terpadu untuk memperluas aksesibilitas layanan.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c34270f7077c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Microsoft meluncurkan versi generasi kedua dari model gambar AI-nya. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMFhzbkdPME5ITFdHUW1FWmVXYncyd0xDeHVjY2NlT0hjcEJPQjFZTVIzdzVsQ3VXYlZRa2F6U0VGTUMxZF81cVJYXzhGajhDZHhKREFNS29FR3c4aTdTcXFRbng0UXZaTkQ5OHQ1MlFDOFZkNVM1cnd6UUxTTkNNUXpvWG5xUUtwU3N6cmlMSkxYdW85cktqTk9RT2tWUmo3eDZqV1p3SUQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-19T21:08:47Z",
+      "summary": "Microsoft merilis model pembuatan gambar AI generasi kedua yang diperbarui.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "20ca717f54ab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Bagaimana kami memantau agen pengodean internal untuk ketidakselarasan",
       "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
