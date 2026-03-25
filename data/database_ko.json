@@ -1,6 +1,982 @@
 {
-  "refreshed_at": "2026-03-24 13:09 UTC",
+  "refreshed_at": "2026-03-25 01:17 UTC",
   "items": [
+    {
+      "title": "개발자가 청소년을 위한 더 안전한 AI 경험을 구축하도록 돕기",
+      "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-24T11:00:00Z",
+      "summary": "OpenAI는 개발자가 미성년자를 위해 더 안전한 AI 애플리케이션을 만들 수 있도록 지원하는 도구와 정책을 도입합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8da73ea93b53",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI 재단 업데이트",
+      "link": "https://openai.com/index/update-on-the-openai-foundation",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-24T09:00:00Z",
+      "summary": "OpenAI가 OpenAI 재단의 구조 및 운영 상태에 관한 업데이트를 제공합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "20bbe0533c96",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ChatGPT의 제품 탐색 기능 강화",
+      "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-24T09:00:00Z",
+      "summary": "ChatGPT가 이제 고급 기능을 활용하여 제품 탐색 기능을 향상하고 강화합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0b5ae9549728",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic 경제 지수 보고서: 학습 곡선 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xNEVmM1BNeG5KVkptWkE2ekgyR0hWMmJGYTFpNjhiLWNUVEZiMUhRUGpvZ3ZicGN5UDdQd1JzbU1DQW1lWFV6VmVVa3RHWElLai1WRjhUSURsWkZ4Zkx5ZERTR2ZFd29Xb1pmVVhQOThlSnNZVEE?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-24T09:37:39Z",
+      "summary": "Anthropic의 경제 지수 보고서는 경제적 맥락에서의 학습 곡선 개념을 탐구합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "70d088a7424a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "장기 실행 애플리케이션 개발을 위한 하네스 설계 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qTVhZVkFSR3BSeURxci1ESVA3MzNFQzlNRDY1YTV1ZFh6ZElYWEtRcllsN0ZVZk9HOTNCQ2drdWFzWV9RTm9IZVNWajJmSmw1c0t1LXJTZGpWOEZBYkFQS3ctVFJfRnJrWlJHNTZyV2dvRk5Bblp3RjBR?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-24T16:43:36Z",
+      "summary": "Anthropic이 강력하고 장기적으로 실행되는 애플리케이션 개발을 위한 하네스 설계 원칙을 논의합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "908bca09b5a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "학습 계획을 사용하여 설정된 GPU 용량으로 SageMaker AI 추론 엔드포인트 배포",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-24T20:27:49Z",
+      "summary": "학습 계획을 통해 지정된 GPU 용량으로 SageMaker AI 추론 엔드포인트를 배포하는 방법에 대한 가이드입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e006ae3d18a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock에서 Claude 도구 사용을 통한 사용자 지정 엔티티 인식 가속화",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-03-24T17:56:00Z",
+      "summary": "Amazon Bedrock에서 Claude의 도구 사용 기능을 활용하여 사용자 지정 엔티티 인식 작업을 가속화합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "781ffd68693c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: 딥페이크 X-레이를 구별할 수 있습니까? 방사선 전문의도 마찬가지입니다",
+      "link": "https://www.statnews.com/2026/03/24/radiologists-cant-detect-deepfake-xrays/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-03-24T14:00:00Z",
+      "summary": "방사선 전문의가 정교한 딥페이크 의료 영상을 탐지하는 데 취약하다는 분석입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "90e47a0592be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Healthcare IT Professional"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: 주목받는 AI 의사 스타트업, 자금 조달 및 FDA 미팅 예정",
+      "link": "https://www.statnews.com/2026/03/24/ai-doctor-startup-raises-funds-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-03-24T13:30:40Z",
+      "summary": "의료 AI 스타트업이 새로운 자금을 확보하고 FDA와의 규제 논의를 준비합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2031f278b0aa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI, 업무량 줄이고 의사가 '더 인간다워지도록' 돕는다",
+      "link": "https://www.mobihealthnews.com/video/ai-lessens-workloads-helps-physicians-be-more-human",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-03-24T19:34:59Z",
+      "summary": "AI 도구가 의사의 행정적 부담을 줄여 환자 진료를 개선하는 방법에 대한 보고서입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "ebc98665bbfa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Healthcare IT Professional"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Viz.ai와 Alnylam Pharmaceuticals, 심장 아밀로이드증 탐지 등을 위한 파트너십 체결 및 기타 디지털 헬스 뉴스",
+      "link": "https://www.mobihealthnews.com/news/vizai-alnylam-pharmaceuticals-partner-cardiac-amyloidosis-detection-and-more-digital-health",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-03-24T17:41:30Z",
+      "summary": "Viz.ai와 Alnylam이 파트너십을 맺고 AI를 활용하여 질병 탐지 및 진단을 개선합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f8b2dad88c4e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical",
+        "Tech"
+      ],
+      "companies": [
+        "Alnylam",
+        "Viz.ai"
+      ],
+      "job_titles": [
+        "CTO",
+        "Healthcare IT Professional"
+      ],
+      "locations": []
+    },
+    {
+      "title": "백악관 국가 AI 정책 프레임워크에 대한 이해관계자들의 반응",
+      "link": "https://www.mobihealthnews.com/news/stakeholders-react-white-house-national-ai-policy-framework",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-03-24T16:01:26Z",
+      "summary": "새로운 백악관 국가 AI 정책 가이드라인에 대한 업계의 피드백 및 분석입니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3f989ab27e2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Policy Advisor"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "기고: 다음 AI 투자는 도구가 아닌 사람이 되어야 합니다",
+      "link": "https://www.mobihealthnews.com/news/contributed-your-next-ai-investment-should-not-be-tool-it-should-be-person",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-03-24T15:26:04Z",
+      "summary": "AI 도구 도입 전략과 함께 인간의 전문성과 역할을 우선시해야 한다는 주장입니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bb14d6f80776",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Eudia, 전문가 디지털 트윈 출시 및 ServiceNow와 파트너십 체결",
+      "link": "https://www.artificiallawyer.com/2026/03/24/eudia-launches-expert-digital-twins-partners-with-servicenow/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-03-24T17:45:00Z",
+      "summary": "Eudia가 고급 디지털 트윈 기술을 도입하고 통합을 위해 ServiceNow와 협력합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "38cd51528b38",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Eudia",
+        "ServiceNow"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Legalweek 2026: 홈 베이스, 에이전트 AI, 그리고 변호사의 데스크톱을 차지하기 위한 경쟁",
+      "link": "https://www.abajournal.com/columns/article/legalweek-2026-home-bases-agentic-ai-and-the-race-to-own-the-lawyers-desktop/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-03-25T01:13:39.008729+00:00Z",
+      "summary": "에이전트 AI가 법률 데스크톱 및 전문 소프트웨어 환경을 어떻게 변화시키고 있는지 탐구합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5b73e345c5b2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Moda가 Deep Agents로 프로덕션급 AI 디자인 에이전트를 구축하는 방법",
+      "link": "https://blog.langchain.com/how-moda-builds-production-grade-ai-design-agents-with-deep-agents/",
+      "source": "LangChain Blog",
+      "region": "💻",
+      "pub_date": "2026-03-24T17:07:54Z",
+      "summary": "Moda는 Deep Agents를 활용하여 프로덕션 준비가 완료된 AI 디자인 자동화 워크플로우를 배포합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7aaaffa6be9e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "LangChain",
+        "Moda"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "35억 달러의 신규 자본으로 AI에 올인하는 Kleiner Perkins",
+      "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-25T00:47:20Z",
+      "summary": "Kleiner Perkins가 인공지능 스타트업에 공격적으로 투자하기 위해 35억 달러를 확보했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9a9029b5ae89",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking"
+      ],
+      "companies": [
+        "Kleiner Perkins"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI의 Sora는 휴대폰에서 가장 소름 끼치는 앱이었지만 이제 종료됩니다",
+      "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T23:57:55Z",
+      "summary": "OpenAI가 Sora 애플리케이션 프로젝트를 중단합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9b9139cc9f94",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "켄터키주 여성, 농장을 데이터 센터로 바꾸라는 2,600만 달러 제안 거절",
+      "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T22:22:57Z",
+      "summary": "켄터키주의 한 토지 소유자가 데이터 센터 개발을 위한 2,600만 달러의 제안을 거절했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4a3f9e7e09db",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Real Estate"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Anthropic, Claude Code에 더 많은 제어 권한을 부여하되 안전장치는 유지",
+      "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T21:00:30Z",
+      "summary": "Anthropic이 안전 가드레일을 유지하면서 확장된 제어 기능을 갖춘 Claude Code를 업데이트합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e10571cbf55b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Spotify, AI 저품질 콘텐츠가 실제 아티스트의 것으로 귀속되는 것을 막기 위한 새 도구 테스트",
+      "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T20:56:25Z",
+      "summary": "Spotify가 사람이 만든 음악과 AI 생성 콘텐츠를 구별하기 위한 새로운 기술을 구현합니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fa092ffb21ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Spotify"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Databricks, 새로운 AI 보안 제품의 기반을 마련하기 위해 두 개의 스타트업 인수",
+      "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T20:40:56Z",
+      "summary": "Databricks가 새로운 AI 보안 기능 개발을 지원하기 위해 두 개의 스타트업을 인수했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "08835092f853",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Antimatter",
+        "Databricks",
+        "Lakewatch"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Arm, 35년 역사상 최초의 자체 칩 출시",
+      "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T19:48:54Z",
+      "summary": "Arm이 운영 35년 만에 처음으로 자체 설계한 프로세서 칩을 선보입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e3e29b9dd4eb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors"
+      ],
+      "companies": [
+        "Arm"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ChatGPT를 Amazon처럼 만들려는 OpenAI의 계획이 순탄치 않음",
+      "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T19:27:56Z",
+      "summary": "OpenAI가 ChatGPT 전략을 Amazon과 유사한 모델로 전환하는 과정에서 어려움을 겪고 있습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f3c0b6d1f18b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google TV의 새로운 Gemini 기능, 스포츠 팀 등에 대한 최신 정보 제공",
+      "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T19:12:11Z",
+      "summary": "Google TV가 Gemini AI를 통합하여 향상된 스포츠 업데이트와 콘텐츠 통찰력을 제공합니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b3e2aab39f9a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, 개발자가 청소년 안전을 위해 구축하도록 돕는 오픈 소스 도구 추가",
+      "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T18:41:34Z",
+      "summary": "OpenAI가 개발자가 청소년 안전을 우선시하도록 돕기 위해 오픈 소스 리소스를 공개합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a6c384b8289c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Talat의 AI 회의 노트, 클라우드가 아닌 기기에 저장",
+      "link": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T18:41:33Z",
+      "summary": "Talat이 회의 내용을 기록하고 요약하기 위한 로컬 중심의 개인정보 보호 AI 소프트웨어를 도입합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b6b3e43c415e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Talat"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Doss, ERP에 연결되는 AI 재고 관리 솔루션으로 5,500만 달러 투자 유치",
+      "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T17:18:29Z",
+      "summary": "Doss가 ERP 시스템과 통합되는 AI 기반 재고 관리 플랫폼을 위해 5,500만 달러를 확보했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "87225f83cfd5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Accounting"
+      ],
+      "companies": [
+        "Doss"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Hark에서 새로운 AI 인터페이스를 구축 중인 전 Apple 디자이너를 만나보세요",
+      "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T16:00:00Z",
+      "summary": "전 Apple 디자이너가 스타트업 Hark에서 새로운 AI 인터페이스 개발을 이끌고 있습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "81cc4b8b9599",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple",
+        "Hark"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, Sora와 수십억 달러 규모의 Disney 계약 포기 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbVVkUWxBSy1ycXp3NHpJenQ0OFNDTnJVcFhFWnEzcFctV05UX29iVWhOTkpiM0pqRk5PSXozU1NaZmZGZnRGN3dWNElULWFqa0ptRnp4QzZ5X0YwUGFjaTZWc3VVRmoyUW12S1N6MExRamlUTmNLVWk5MnpmaHotWE1oZ01NMWZK?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T21:08:10Z",
+      "summary": "OpenAI가 Sora 개발과 관련된 Disney와의 주요 파트너십을 종료합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0ed48fee65b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Disney",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic의 Claude Code와 Cowork, 컴퓨터 제어 가능 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObERMNHlWRERoX0dwUGxOdU15S3JGZTJ2a0hGSlc3eGdjck8wcTRFOVVrUzdCRnVDUUZLUVVNcHRaM0VEekoyNG9qcU1GeTk5Y2djQlZ6WjJJWkJKNU0zZjZIN1JRVDYtTjM1dUQ2bTN0X043WU03R2ZrVl9jbmw3bnBCeFlIaUFmVE5FN3h3TWpBNXpkMUNueVJhQ1dUd3J4ZlVnOEFreS0xbE0?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T13:32:23Z",
+      "summary": "Anthropic이 사용자의 컴퓨터를 제어하여 작업을 수행할 수 있는 새로운 에이전트를 도입합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0aeaa864fe3b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Arm의 첫 CPU, 올해 말 Meta의 AI 데이터 센터에 탑재 예정 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3VNME1tdEZmVldoZmZFM1FsRUVTTUNzZHpzVUEzS2xKMFlCOFRhSmV0aWMweWFram9WNXI4TjFEamFnTzhIcEhrLUJPX2E3X1VEZU45akJLTlV3SUNZT2gxNnY0X3lHSmI3Zm5LZUlGZzczTFBTVmJ3T080cTJqdg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T20:43:14Z",
+      "summary": "AI 워크로드를 위해 설계된 Arm의 초기 CPU가 올해 Meta의 데이터 센터에 통합될 예정입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "60e7e1385cb5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Arm",
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ChatGPT와 Gemini, 쇼핑을 돕는 AI 봇이 되기 위해 경쟁 중 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlN6U0FWb0lwREhSZDZlNUtiSnBYZ3BiMGVoY1I1UUNkbm83cHRZbm11TjNKMjdlQWRfTzJ5NzB4em5BaW1iR0g1Y0hzbVc3b09PWWhmTkZfR2IzbDU0OHdrZU4yZzV2SGZTcjlHbmtTMldQbzhOeWVhV19sUE9RZnlHSnZHeGtvZUluRF94SkFTQ2t0RS1XZTBxbzBuc25TM1E?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T17:13:00Z",
+      "summary": "ChatGPT와 Gemini 같은 AI 챗봇이 온라인 쇼핑과 판매를 지원하기 위해 진화하고 있습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3a4386006679",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Marketing Manager",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple, AI 플레이리스트와 구매 공유 기능 등을 갖춘 iOS 26.4 출시 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObE5zYlJPYlRpT3ViNlZiQ2xaVlh1Z0x3LUVCWGRiYmloMHpWbHZseTN6WUZzRkhhMnlMSG5aUUoxUlVBbUwyd2d1ZU9VRE94Y0ZQcHR0MVhhR1J5d0NQYXVacGFkN3QwaWN6N3h3Z2pMOGl3V3oxM09id2M3dDB4ZUpoZUZyX0pibDZKRER4NVM?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T19:22:29Z",
+      "summary": "iOS 업데이트를 통해 AI 기반 플레이리스트, 향상된 구매 공유 및 기타 새로운 기능이 도입되었습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4d8f5a6feacb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple, 개편된 Siri를 위한 독립형 앱 테스트 중 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa2JaQnFKakhWU0RZM2xaLUFUQ2hHemxvdl9aTjYzclA2T3M3Rnh1cDRXb0NvZ0t1MTNyelpUeUJIRkgxQWM1VU1LX3lacVhCUzd6NWl1WWc4YWUxNWlUUEhMNWc4R21IUDZieHhPakczbVVrV1ljR3JiaXBNVWhtSjJwVThCeVFpRlFJLU9PcnVRUGxtRWlYSjFlWQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T20:41:24Z",
+      "summary": "Apple이 개선된 Siri 가상 비서를 탑재하기 위한 별도의 애플리케이션을 개발 중인 것으로 알려졌습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "295d2f09e813",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google의 Android Automotive, 대시보드에서 자동차의 '두뇌'로 이동 중 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXhUZWVoNUZQbHZobmlNbzB5YTRqZC1tSzBwZlFPbzFySHlXV0JQNUtaclNQVFh0cmNFRExfc050R0REWXhYbWlBbnRMVHhabEhGX0UwcENwSmh4bmUzVy1sOUI2bEdqeEpSaV9xZWpGZjE4TWlHcFZvMUJIanJnTFU1ZDZnR2tKSkVkNjZRQ0llMkJN?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-03-24T16:00:00Z",
+      "summary": "Android Automotive가 대시보드를 넘어 자동차의 핵심 기능을 제어하는 방향으로 진화하고 있습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0d86b1989f9c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepSeek, AI의 가장 큰 문제 중 하나를 해결하다",
+      "link": "https://www.youtube.com/watch?v=DmtoVnTkQnM",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-03-24T15:17:49Z",
+      "summary": "AI 모델의 확장성과 효율성 문제를 해결한 DeepSeek의 기술적 진보에 대한 탐구입니다.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "9919a3e5e258",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepSeek"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "테크 업계가 전쟁을 최적화했고… 효과가 나타나고 있다",
+      "link": "https://www.youtube.com/watch?v=nxwkn9Dt9-I",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-03-24T18:22:27Z",
+      "summary": "현대 군사 분쟁에서 AI 기반 최적화 통합에 대한 논의입니다.",
+      "persona": "⚖️ Policy & Law",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "90a409382116",
+      "is_ai_relevant": true,
+      "industries": [
+        "Defense",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
     {
       "title": "과학 컴퓨팅을 위한 장기 실행 Claude - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qVHdwODZzd291WGF2emtGbDRMTk9KSWlKbVRVMWR6THZMaFJlRlJOeTE2MWEtYU1RdU9rYnA4RUp6Y2ZPaWoyMGVpMV9qRjRmODlKMDlleFhYWEw4WUdwaXJ6Yks?oc=5",
