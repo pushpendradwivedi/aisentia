@@ -1,6 +1,1411 @@
 {
-  "refreshed_at": "2026-04-02 01:19 UTC",
+  "refreshed_at": "2026-04-02 13:12 UTC",
   "items": [
+    {
+      "title": "Rocket Close, Amazon Bedrock ve Amazon Textract ile mortgage belgesi işleme süreçlerini dönüştürüyor",
+      "link": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-02T12:59:31Z",
+      "summary": "Rocket Close, mortgage belgesi işleme süreçlerini otomatikleştirmek ve hızlandırmak için AWS üretken yapay zeka araçlarını kullanıyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "61897eeaf72c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Rocket Close"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dosya sistemi yapılandırması ile oturum durumunu kalıcı hale getirme ve kabuk komutlarını yürütme",
+      "link": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-02T12:52:07Z",
+      "summary": "AWS ML ortamları için dosya sistemi kalıcılığını ve kabuk komutu yürütmeyi yapılandırmaya yönelik teknik kılavuz.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bcbc1ea20014",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HippoCamp: Kişisel Bilgisayarlarda Bağlamsal Ajanların Kıyaslanması",
+      "link": "https://arxiv.org/abs/2604.01221v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:58:33Z",
+      "summary": "Yerel kişisel bilgisayarlarda çalışan bağlamsal yapay zeka ajanlarını değerlendirmek için bir kıyaslama çerçevesi sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "932736dfc155",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kısa zaman dizilerinden SHallow REcurrent Decoders (LAPIS-SHRED) kullanarak LAtent Phase Çıkarımı",
+      "link": "https://arxiv.org/abs/2604.01216v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:55:10Z",
+      "summary": "Kısa zaman dizileri üzerinde sığ tekrarlayan kod çözücüler kullanarak gizli faz çıkarımı için yeni bir yöntem.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8f9f21cc2c5f",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mutfaktan Çok Tarif Önemlidir: Yapay Zeka Hava Durumu Tahmin Hattının Matematiksel Temelleri",
+      "link": "https://arxiv.org/abs/2604.01215v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:53:51Z",
+      "summary": "Yapay zeka destekli hava durumu tahmin sistemleri için matematiksel temelleri ve optimizasyon stratejilerini inceler.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "04158fd18de9",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "$\\texttt{YC-Bench}$: Uzun Vadeli Planlama ve Tutarlı Yürütme için Yapay Zeka Ajanlarının Kıyaslanması",
+      "link": "https://arxiv.org/abs/2604.01212v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:52:19Z",
+      "summary": "Uzun vadeli planlama ve görev yürütmede ajan performansını ölçmek için bir kıyaslama sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c9d92f8848fc",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CliffSearch: Bilimsel Algoritma Keşfi için Teori ve Kod Üzerinde Yapılandırılmış Ajanik Birlikte Evrim",
+      "link": "https://arxiv.org/abs/2604.01210v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:51:26Z",
+      "summary": "Yeni bilimsel algoritmaların keşfini otomatikleştirmek için birlikte evrimsel bir ajanik çerçeveyi tanımlar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1b6c3799c613",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yüksek Kaliteli İlkel Tabanlı Sinirsel Yeniden Yapılandırma için Sinirsel Harmonik Dokular",
+      "link": "https://arxiv.org/abs/2604.01204v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:48:22Z",
+      "summary": "İlkel tabanlı 3D sahne yeniden yapılandırmasını iyileştirmek için sinirsel harmonik dokular kullanan bir yöntem önerir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0288b8ac9e55",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Öyleyse varım. Düşünüyorum",
+      "link": "https://arxiv.org/abs/2604.01202v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:46:23Z",
+      "summary": "Büyük ölçekli yapay zeka modellerindeki bilişsel temsilleri ve akıl yürütme yapılarını araştırır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "42d13d2ef9ee",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ORBIT: Kısıtlı Bütçeyle Arama Ajanları için Ölçeklenebilir ve Doğrulanabilir Veri Üretimi",
+      "link": "https://arxiv.org/abs/2604.01195v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:42:41Z",
+      "summary": "Yapay zeka arama ajanları için uygun maliyetli, doğrulanabilir eğitim verisi oluşturma metodolojisi.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f9cce300696",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Florence-2 için ROS 2 Wrapper: Robotik Sistemler için Çok Modlu Yerel Vizyon-Dil Çıkarımı",
+      "link": "https://arxiv.org/abs/2604.01179v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:29:59Z",
+      "summary": "Florence-2 vizyon-dil modellerini robotik platformlarda dağıtmak için bir ROS 2 entegrasyonu sağlar.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4abf28f89afb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tarama Yeterlidir",
+      "link": "https://arxiv.org/abs/2604.01178v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:29:08Z",
+      "summary": "Yapay zeka modeli performansını ve güvenliğini artırmak için tarama protokollerinin yeterliliğini inceler.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "56d67dc213cf",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Çevrimiçi Akıl Yürütme Kalibrasyonu: Test Zamanı Eğitimi, Genelleştirilebilir Uyumlu LLM Akıl Yürütmesini Etkinleştirir",
+      "link": "https://arxiv.org/abs/2604.01170v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:21:50Z",
+      "summary": "LLM'lerin tutarlılığını ve akıl yürütme yeteneklerini geliştirmek için test zamanı eğitimi tekniklerini tanıtır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cc576cdcb9ce",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AdaLoRA-QAT: Uyarlanabilir Düşük Dereceli ve Nicemleme Farkındalıklı Segmentasyon",
+      "link": "https://arxiv.org/abs/2604.01167v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:18:46Z",
+      "summary": "Verimli görüntü segmentasyonu için uyarlanabilir düşük dereceli adaptasyonu, nicemleme farkındalıklı eğitimle birleştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "82319741bd70",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Brainstacks: Sürekli LLM Öğrenimi için Dondurulmuş MoE-LoRA Yığınları ile Alanlar Arası Bilişsel Yetenekler",
+      "link": "https://arxiv.org/abs/2604.01152v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:08:25Z",
+      "summary": "LLM'lerde sürekli öğrenmeyi sağlamak için MoE-LoRA yığınlarını kullanan modüler bir mimari önerir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "485a1c7bb01f",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Çok Ajanlı Yorumlanabilirlik Yoluyla Çok Ajanlı Gizli Anlaşmanın Tespiti",
+      "link": "https://arxiv.org/abs/2604.01151v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:08:05Z",
+      "summary": "Çok ajanlı yapay zeka sistemlerinde gizli anlaşma davranışlarını belirlemek için yorumlanabilirlik tekniklerini kullanan bir çerçeve.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a6c3a5f6ecb2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Doğrusal Olmayan Ayrıştırma ile Bir Piksele Bakış -- Üretken Bir Yaklaşım",
+      "link": "https://arxiv.org/abs/2604.01141v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:58:05Z",
+      "summary": "Hiper-spektral piksel verilerinin doğrusal olmayan ayrıştırılması için üretken modelleri kullanır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d93e84c8926",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Makale Yeniden Yapılandırma Değerlendirmesi: Yapay Zeka Tarafından Yazılan Makalelerde Sunum ve Halüsinasyonun Değerlendirilmesi",
+      "link": "https://arxiv.org/abs/2604.01128v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:48:04Z",
+      "summary": "Yapay zeka tarafından oluşturulan akademik makalelerin yapısal bütünlüğünü ve halüsinasyon oranlarını değerlendirmek için metrikler geliştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2891c3b01736",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Monoküler Derinlik Tahmini için Hafif İstem Kılavuzlu CLIP Adaptasyonu",
+      "link": "https://arxiv.org/abs/2604.01118v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:41:04Z",
+      "summary": "Bilgisayarlı görüde monoküler derinlik tahmini performansını artırmak için verimli CLIP adaptasyon yöntemlerini tanıtır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "05f90dc60135",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Eğitimde Yapay Zekaya Güven ve Bağlılık: Moderatör Olarak Yapay Zeka Okuryazarlığı ve Biliş İhtiyacı",
+      "link": "https://arxiv.org/abs/2604.01114v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:38:47Z",
+      "summary": "Yapay zeka okuryazarlığının ve bilişsel ihtiyaçların, öğrencilerin eğitimsel yapay zeka araçlarına olan güvenini nasıl etkilediğini inceler.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e7ea9c5fb596",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Büyük Dil Modellerinin Çekişmeli Ahlaki Stres Testi",
+      "link": "https://arxiv.org/abs/2604.01108v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:34:20Z",
+      "summary": "Büyük dil modellerinin etik sınırlarını ve güvenliğini test etmek için bir çerçeve sunar.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f6dcf67af384",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Karma Hashing ve Rastgeleleştirme Yoluyla Stokastik Çok Amaçlı Optimizasyonda Pareto Sınırlarının Yakınsaması",
+      "link": "https://arxiv.org/abs/2604.01098v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:24:13Z",
+      "summary": "Hashing ve rastgeleleştirme tekniklerini kullanarak çok amaçlı problemleri optimize etmek için yeni bir yaklaşım geliştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c7a76cd360c9",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bağlam İçi Öğrenmede Zamansal Bağımlılıklar: İndüksiyon Başlıklarının Rolü",
+      "link": "https://arxiv.org/abs/2604.01094v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:21:38Z",
+      "summary": "İndüksiyon başlıklarının, LLM'lerin bağlam içi öğrenme sürecinde zamansal bağımlılıkları nasıl yönettiğini analiz eder.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d6ee5d8147a5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE: Konuşma Temel Modellerinin Gömme Yörünge Analizi Yoluyla Eğitim Gerektirmeyen Kısmi Sesli Deepfake Tespiti",
+      "link": "https://arxiv.org/abs/2604.01083v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:12:31Z",
+      "summary": "Konuşma modeli gömme yörüngelerini analiz ederek sesli deepfake'leri tespit etmek için eğitim gerektirmeyen bir yöntem önerir.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e80535cf4e96",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VibeGuard: Yapay Zeka Tarafından Oluşturulan Kodlar için Bir Güvenlik Kapısı Çerçevesi",
+      "link": "https://arxiv.org/abs/2604.01052v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:57:01Z",
+      "summary": "Yapay zeka tarafından oluşturulan yazılım kodlarını korumak ve doğrulamak için tasarlanmış bir güvenlik çerçevesi sunar.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bc49e0c9b1d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yapay Zeka Destekli RAN Dilimlemede Çekişmeli Saldırılar: SLA İhlalleri ve Kurtarma",
+      "link": "https://arxiv.org/abs/2604.01049v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:54:06Z",
+      "summary": "Yapay zeka tabanlı RAN dilimlemeye yönelik çekişmeli riskleri ve hizmet düzeyi anlaşması (SLA) kurtarma yöntemlerini inceler.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d043076d132",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kodlama Saldırılarına Karşı LLM Sistem Talimatlarını Değerlendirmek ve Güçlendirmek için Otomatik Çerçeve",
+      "link": "https://arxiv.org/abs/2604.01039v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:45:56Z",
+      "summary": "Kötü niyetli istem kodlama tekniklerine karşı LLM direncini artırmak için otomatik bir sistem önerir.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e4605ce863d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Önerilerin Kullanıcı Popülerlik Tercihleriyle Uyumlaştırılması",
+      "link": "https://arxiv.org/abs/2604.01036v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:45:24Z",
+      "summary": "Öneri sistemi çıktılarını kullanıcıya özel popülerlik tercihlerine uyacak şekilde kalibre etmek için metodolojileri araştırır.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4d9f4164c4a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Revizyon mu Yeniden Çözme mi? Çoklu LLM Hatlarında İkinci Geçiş Kazanımlarının Ayrıştırılması",
+      "link": "https://arxiv.org/abs/2604.01029v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:39:40Z",
+      "summary": "Çoklu LLM hatlarının sonuçları açık bir revizyonla mı yoksa gereksiz yeniden çözme süreçleriyle mi iyileştirdiğini analiz eder.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e2ced8ed899b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Eğitim Aşamasındaki LLM'lerin Alt Akış Performanslarının Hızlı ve Doğru Bir Şekilde İncelenmesi",
+      "link": "https://arxiv.org/abs/2604.01025v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:32:56Z",
+      "summary": "Aktif eğitim sırasında modellerin alt akış performansını verimli bir şekilde tahmin etmek için bir yöntem sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7fbe0d3a6b32",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Parametrik olmayan Bayes ağları için transfer öğrenimi",
+      "link": "https://arxiv.org/abs/2604.01021v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:25:46Z",
+      "summary": "Parametrik olmayan Bayes ağı modelleri bağlamında transfer öğrenimi uygulamalarını araştırır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "211a9b608d73",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OrgAgent: Çok Ajanlı Sisteminizi Bir Şirket Gibi Organize Edin",
+      "link": "https://arxiv.org/abs/2604.01020v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:21:14Z",
+      "summary": "Kurumsal yönetim hiyerarşilerinden esinlenen çok ajanlı yapay zeka sistemlerini yapılandırmak için bir çerçeve sunar.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ecf2f32029d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OmniMem: Yaşam Boyu Çok Modlu Ajan Hafızasının Otomatik Araştırma Destekli Keşfi",
+      "link": "https://arxiv.org/abs/2604.01007v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:06:23Z",
+      "summary": "Çok modlu ajanlar için sürekli öğrenmeye ve otonom araştırmaya izin veren bir hafıza sistemi geliştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e29e1e35c40b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MLLM Tabanlı Uzun Formlu Video Anlama için Sorgu Koşullu Kanıtlayıcı Ana Kare Örneklemesi",
+      "link": "https://arxiv.org/abs/2604.01002v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:02:50Z",
+      "summary": "Sorgu kılavuzlu ana kare örnekleme stratejileri aracılığıyla çok modlu modellerde uzun formlu video anlamayı geliştirir.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "19bfad40846c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "EgoSim: Bedenlenmiş Etkileşim Üretimi için Egosantrik Dünya Simülatörü",
+      "link": "https://arxiv.org/abs/2604.01001v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:00:46Z",
+      "summary": "Bedenlenmiş yapay zeka eğitimi için egosantrik etkileşim verileri üretmek üzere bir simülatör sağlar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a4c85f664a60",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "YouTube Shorts'ta İsrail-Hamas Savaşı ile İlgili Devlet Destekli Haber Yayınlarının Çok Modlu Analizi",
+      "link": "https://arxiv.org/abs/2604.00994v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:55:58Z",
+      "summary": "YouTube platformlarında çok modlu yapay zeka tekniklerini kullanarak devlet destekli haber medyası içeriğini analiz eder.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "288e3c99c1e5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Government"
+      ],
+      "companies": [
+        "YouTube"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Yapılandırılmış Bilgi ve Veriyi Köprülemek: Finans Uygulamalarıyla Birleşik Bir Çerçeve",
+      "link": "https://arxiv.org/abs/2604.00987v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:51:08Z",
+      "summary": "Yapılandırılmış bilgiyi veri analiziyle bütünleştirir, özellikle finans sektörü uygulamaları için uyarlanmıştır.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "861545fac249",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Telefon Kullanım Ajanları Gizliliğinize Saygı Duyuyor mu?",
+      "link": "https://arxiv.org/abs/2604.00986v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:50:50Z",
+      "summary": "Otonom telefon tabanlı yapay zeka ajanlarıyla ilişkili gizlilik ve veri güvenliği risklerini değerlendirir.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "40a60430eebc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dual Optimal: LLM'inizi Onurla Eş Düzey Hale Getirin",
+      "link": "https://arxiv.org/abs/2604.00979v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:48:44Z",
+      "summary": "Etkileşim sırasında LLM konuşma davranışını ve algılanan statüyü geliştirmek için ikili bir optimizasyon çerçevesi önerir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e96ba69314e",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yörünge Optimizasyonunda Dağılımsal Pekiştirmeli Öğrenme ile Akış Tabanlı Politika",
+      "link": "https://arxiv.org/abs/2604.00977v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:47:41Z",
+      "summary": "Yörünge optimizasyonu görevlerinde verimliliği artırmak için akış tabanlı politikaları dağılımsal RL ile bütünleştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "726a6b979d58",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "WARP: NLP Transformer'larının Garantili İç Katman Onarımı",
+      "link": "https://arxiv.org/abs/2604.00938v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:12:49Z",
+      "summary": "NLP modellerindeki dahili transformer katmanlarını yamamak ve onarmak için bir yöntem tanıtır.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "295786fc049a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PsychAgent: Kendi Kendini Geliştiren Psikolojik Danışman için Deneyim Odaklı Yaşam Boyu Öğrenen Ajan",
+      "link": "https://arxiv.org/abs/2604.00931v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:08:49Z",
+      "summary": "Psikolojik danışmanlık uygulamalarında sürekli öğrenme için tasarlanmış uyarlanabilir bir yapay zeka ajanı sunar.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "09eb38c7b0ca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dans Parmak İzi için Nicemlenmiş Yapı Koruyucu Hareket Temsillerini Öğrenme",
+      "link": "https://arxiv.org/abs/2604.00927v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:06:59Z",
+      "summary": "Parmak izi ve analiz için karmaşık dans hareketlerini temsil etmek üzere bir nicemleme yöntemi geliştirir.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1a05f4ce994a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Kanonik Korelasyon Analizi Kullanarak Model Arası Mutabakat ile Temsil Seçimi",
+      "link": "https://arxiv.org/abs/2604.00921v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:01:41Z",
+      "summary": "Model arası mutabakatı ölçerek en uygun temsilleri değerlendirmek ve seçmek için CCA kullanır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a831916e92e4",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Otonom Ajan Katkılarını Doğada İncelemek: Zaman İçinde Aktivite Modelleri ve Kod Değişikliği",
+      "link": "https://arxiv.org/abs/2604.00917v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:58:30Z",
+      "summary": "Otonom yapay zeka ajanlarının gerçek dünyadaki aktivite modellerini ve kod değiştirme davranışlarını analiz eder.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0fff655504b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bir Pusula Olarak Deneyim: Gelişen Orkestrasyon ve Ajan İstemleri ile Çok Ajanlı RAG",
+      "link": "https://arxiv.org/abs/2604.00901v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:45:52Z",
+      "summary": "Orkestrasyon ve istem stratejilerini dinamik olarak geliştiren çok ajanlı bir RAG mimarisi önerir.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d6e4309866cc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sembolik Çözümün Ötesinde: Büyük Dil Modellerinde Geometrik Akıl Yürütme için Çoklu Düşünce Zinciri Oylaması",
+      "link": "https://arxiv.org/abs/2604.00890v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:37:06Z",
+      "summary": "Çoklu düşünce zinciri oylama mekanizmaları aracılığıyla LLM'lerde geometrik akıl yürütmeyi geliştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "87778f3667aa",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PixelPrune: Tahmin Kodlaması Yoluyla Piksel Düzeyinde Uyarlanabilir Görsel Belirteç Azaltma",
+      "link": "https://arxiv.org/abs/2604.00886v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:33:27Z",
+      "summary": "Tahmin kodlama tekniklerini kullanarak piksel düzeyinde uyarlanabilir budama uygulayarak görsel belirteçleri azaltır.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d16c3532f527",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "StanceNakba Paylaşılan Görevinde KUET: StanceMoE: Duruş Tespiti için Uzmanlar Karışımı Mimarisi",
+      "link": "https://arxiv.org/abs/2604.00878v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:24:03Z",
+      "summary": "Paylaşılan görevlerde duruş tespiti performansını artırmak için bir Uzmanlar Karışımı (MoE) mimarisi kullanır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6ac96c0c39d9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Otonom sistemlerin etiğini değerlendirmek",
+      "link": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-04-02T04:00:00Z",
+      "summary": "MIT araştırmacıları, otonom sistemlerin davranışlarını değerlendirmek için etik çerçeveleri araştırıyor.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0f4464fe2120",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Automotive"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: Tespitin ötesinde: Klinik yapay zeka çağında, FDA 'çığır açan' tıbbi cihaz olarak ne sayılır?",
+      "link": "https://www.statnews.com/2026/04/02/how-fda-stance-breakthrough-ai-medical-device-evolving/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-04-02T08:30:00Z",
+      "summary": "Yapay zeka destekli tıbbi cihazlar için FDA düzenleyici kriterlerinin ve bunların çığır açan statüsünün analizi.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "91a35cb71934",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "FDA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Regulatory Affairs"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Beceri seti genişletme, sağlık bilişimi kariyerinizi güçlendirebilir",
+      "link": "https://www.mobihealthnews.com/video/skill-set-expansion-can-boost-your-healthcare-it-career",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-01T20:15:34Z",
+      "summary": "Modern sağlık hizmeti sunumunda BT becerilerinin önemini vurgulayan kariyer tavsiyesi.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "727325f04a15",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Specialist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Health Universe 6 Milyon Dolar Topladı | Verily 300 Milyon Dolarlık Yatırım Sağladı",
+      "link": "https://www.healthcareittoday.com/2026/04/02/health-universe-raises-6m-verily-secures-300-million-investment/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-02T13:00:03Z",
+      "summary": "Sağlık teknolojisi platformları için önemli sermaye girişlerini vurgulayan finansman haberleri.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "18da8017f4ca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Health Universe",
+        "Verily"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kültürel Adaptasyon: Teknik EHR Uygulaması Neden Savaşın Sadece Yarısıdır",
+      "link": "https://www.healthcareittoday.com/2026/04/01/cultural-adaptation-why-technical-ehr-implementation-is-only-half-the-battle/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-01T14:00:23Z",
+      "summary": "Elektronik sağlık kaydı sistemi uygulamaları sırasında karşılaşılan kurumsal kültür zorluklarının incelenmesi.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "eb06e8c40752",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CIO",
+        "HR Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Büyük Hukuk Ar-Ge'si üzerine Crosby, Legora 100, TR + HotShot, Legal Innovators +",
+      "link": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-02T07:54:59Z",
+      "summary": "Hukuk sektörü inovasyonu, araştırma gelişmeleri ve sektöre özel yazılım güncellemelerinin gözden geçirilmesi.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ac0a174f4cac",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "HotShot",
+        "Legal Innovators",
+        "Thomson Reuters"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Hindistan için Neden Yerel Hukuki Yapay Zeka Gereklidir",
+      "link": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-02T06:40:24Z",
+      "summary": "Hindistan'ın kendine özgü hukuk sistemine hizmet etmek için yerelleştirilmiş, uzmanlaşmış yapay zeka araçları için argüman.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "153f8968b619",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Lawyer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Bir aydan kısa süre: StrictlyVC San Francisco, TDK Ventures, Replit ve daha fazlasından liderleri bir araya getiriyor",
+      "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-01T14:00:00Z",
+      "summary": "San Francisco'daki yaklaşan StrictlyVC etkinliği, Replit ve TDK Ventures'tan teknoloji liderlerini ağırlıyor.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9dce3146b9de",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Replit",
+        "TDK Ventures"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Google'ın AI Pro planı depolama yükseltmesi aldı. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQam13N0xKMmVza3V1WURWMkd3WHBLQ3I2cGlhSVFvWmpjdTBOc1FreUx3UVdZUTd3UHhTWmc4empYRTZmX2xtLWN6WjBWUlpQX1BiSjFjMVJkX0E5cDZ6YktCTHBLLUNldkhjTllnSUZSZE5UM05LUlY3Y0FOeDVFLUhNWEdhWTlWcUs0?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-01T22:09:45Z",
+      "summary": "Google, Gemini AI Pro hizmetine abone olan kullanıcılar için depolama kapasitesini artırdı.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "77240e147690",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "1 Nisan 2026: ChatGPT tarafından yazılan, Suno tarafından desteklenen Bass Magazine. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXItT3BjVlcxbldlem01OGYzcEt1S0J2Vjl0Z1BndXJKb2ZFUG5PMjBpTjY4U0xnRUI0bURORFBNalRvbjdQMFRncU52dEpfTWhQV2NoSUNHTUZMTmEwSENjWkdFYWV2cjRPOEtBWENJNVBhS2QzdENNRWI3VWYzQ3I4aldyb1FPYi1DMnVJcG1qU2dlNkgyaFdTN21pT0c1S0tfSHp0YW04dzJlX3dpZmNWNA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-01T17:48:13Z",
+      "summary": "Bass Magazine, yapay zeka tarafından oluşturulan bir 1 Nisan içerik projesi için ChatGPT ve Suno'yu kullandı.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5625ccc8928b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI",
+        "Suno"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "Brezilya'nın ormanlarını korumaya yardımcı olmak için yeni bir uydu görüntüleme haritası oluşturuyoruz.",
       "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",

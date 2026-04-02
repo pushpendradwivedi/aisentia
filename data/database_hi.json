@@ -1,6 +1,1411 @@
 {
-  "refreshed_at": "2026-04-02 01:19 UTC",
+  "refreshed_at": "2026-04-02 13:12 UTC",
   "items": [
+    {
+      "title": "Rocket Close ने Amazon Bedrock और Amazon Textract के साथ मॉर्गेज दस्तावेज़ प्रसंस्करण को बदला",
+      "link": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-02T12:59:31Z",
+      "summary": "Rocket Close मॉर्गेज दस्तावेज़ प्रसंस्करण को स्वचालित और सुव्यवस्थित करने के लिए AWS जेनरेटिव AI टूल का उपयोग करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "61897eeaf72c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Rocket Close"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "फ़ाइलसिस्टम कॉन्फ़िगरेशन के साथ सत्र स्थिति को बनाए रखें और शेल कमांड निष्पादित करें",
+      "link": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-02T12:52:07Z",
+      "summary": "AWS ML वातावरण के लिए फ़ाइलसिस्टम पर्सिस्टेंस और शेल कमांड निष्पादन को कॉन्फ़िगर करने पर तकनीकी गाइड।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bcbc1ea20014",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HippoCamp: पर्सनल कंप्यूटर पर कॉन्टेक्स्टुअल एजेंट्स की बेंचमार्किंग",
+      "link": "https://arxiv.org/abs/2604.01221v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:58:33Z",
+      "summary": "स्थानीय पर्सनल कंप्यूटर पर काम करने वाले कॉन्टेक्स्टुअल AI एजेंट्स के मूल्यांकन के लिए एक बेंचमार्किंग फ्रेमवर्क प्रस्तुत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "932736dfc155",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SHallow REcurrent Decoders (LAPIS-SHRED) का उपयोग करके लघु समय अनुक्रमों से LAtent Phase अनुमान",
+      "link": "https://arxiv.org/abs/2604.01216v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:55:10Z",
+      "summary": "लघु समय अनुक्रमों पर शैलो रिकरेंट डिकोडर्स का उपयोग करके लेटेंट फेज अनुमान के लिए नई विधि।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8f9f21cc2c5f",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "रसोई से ज्यादा रेसिपी मायने रखती है: AI मौसम पूर्वानुमान पाइपलाइन की गणितीय नींव",
+      "link": "https://arxiv.org/abs/2604.01215v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:53:51Z",
+      "summary": "AI-संचालित मौसम पूर्वानुमान प्रणालियों के लिए गणितीय नींव और अनुकूलन रणनीतियों की पड़ताल करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "04158fd18de9",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "$\\texttt{YC-Bench}$: दीर्घकालिक योजना और सुसंगत निष्पादन के लिए AI एजेंट्स की बेंचमार्किंग",
+      "link": "https://arxiv.org/abs/2604.01212v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:52:19Z",
+      "summary": "दीर्घकालिक योजना और कार्य निष्पादन में एजेंटिक प्रदर्शन को मापने के लिए एक बेंचमार्क प्रस्तुत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c9d92f8848fc",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CliffSearch: वैज्ञानिक एल्गोरिदम खोज के लिए सिद्धांत और कोड पर संरचित एजेंटिक सह-विकास",
+      "link": "https://arxiv.org/abs/2604.01210v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:51:26Z",
+      "summary": "नए वैज्ञानिक एल्गोरिदम की खोज को स्वचालित करने के लिए एक सह-विकासवादी एजेंटिक फ्रेमवर्क का वर्णन करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1b6c3799c613",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "उच्च-गुणवत्ता वाले प्रिमिटिव-आधारित न्यूरल पुनर्निर्माण के लिए न्यूरल हार्मोनिक टेक्सचर",
+      "link": "https://arxiv.org/abs/2604.01204v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:48:22Z",
+      "summary": "बेहतर प्रिमिटिव-आधारित 3D दृश्य पुनर्निर्माण के लिए न्यूरल हार्मोनिक टेक्सचर का उपयोग करने वाली एक विधि प्रस्तावित करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0288b8ac9e55",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "इसलिए मैं हूँ। मैं सोचता हूँ",
+      "link": "https://arxiv.org/abs/2604.01202v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:46:23Z",
+      "summary": "बड़े पैमाने के आर्टिफिशियल इंटेलिजेंस मॉडल के भीतर संज्ञानात्मक अभ्यावेदन और तर्क संरचनाओं की जांच करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "42d13d2ef9ee",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ORBIT: कम बजट में सर्च एजेंट्स के लिए स्केलेबल और सत्यापन योग्य डेटा जनरेशन",
+      "link": "https://arxiv.org/abs/2604.01195v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:42:41Z",
+      "summary": "AI सर्च एजेंट्स के लिए लागत-प्रभावी, सत्यापन योग्य प्रशिक्षण डेटा जनरेशन के लिए कार्यप्रणाली।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f9cce300696",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Florence-2 के लिए एक ROS 2 रैपर: रोबोटिक सिस्टम के लिए मल्टी-मोड लोकल विजन-लैंग्वेज इन्फरेंस",
+      "link": "https://arxiv.org/abs/2604.01179v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:29:59Z",
+      "summary": "रोबोटिक प्लेटफॉर्म पर Florence-2 विजन-लैंग्वेज मॉडल को तैनात करने के लिए ROS 2 एकीकरण प्रदान करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4abf28f89afb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "स्क्रीनिंग काफी है",
+      "link": "https://arxiv.org/abs/2604.01178v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:29:08Z",
+      "summary": "AI मॉडल के प्रदर्शन और सुरक्षा को बेहतर बनाने के लिए स्क्रीनिंग प्रोटोकॉल की पर्याप्तता की जांच करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "56d67dc213cf",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ऑनलाइन रीजनिंग कैलिब्रेशन: टेस्ट-टाइम ट्रेनिंग सामान्यीकृत कन्फॉर्मल LLM रीजनिंग को सक्षम बनाती है",
+      "link": "https://arxiv.org/abs/2604.01170v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:21:50Z",
+      "summary": "LLM की निरंतरता और तर्क क्षमताओं को बेहतर बनाने के लिए टेस्ट-टाइम ट्रेनिंग तकनीक पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cc576cdcb9ce",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AdaLoRA-QAT: एडेप्टिव लो-रैंक और क्वांटाइजेशन-अवेयर सेगमेंटेशन",
+      "link": "https://arxiv.org/abs/2604.01167v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:18:46Z",
+      "summary": "कुशल इमेज सेगमेंटेशन के लिए एडेप्टिव लो-रैंक एडेप्टेशन को क्वांटाइजेशन-अवेयर ट्रेनिंग के साथ जोड़ता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "82319741bd70",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Brainstacks: निरंतर LLM लर्निंग के लिए फ्रोजन MoE-LoRA स्टैक के माध्यम से क्रॉस-डोमेन संज्ञानात्मक क्षमताएं",
+      "link": "https://arxiv.org/abs/2604.01152v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:08:25Z",
+      "summary": "LLM में निरंतर सीखने के लिए MoE-LoRA स्टैक का उपयोग करने वाला एक मॉड्यूलर आर्किटेक्चर प्रस्तावित करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "485a1c7bb01f",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मल्टी-एजेंट इंटरप्रिटेबिलिटी के माध्यम से मल्टी-एजेंट मिलीभगत का पता लगाना",
+      "link": "https://arxiv.org/abs/2604.01151v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T17:08:05Z",
+      "summary": "मल्टी-एजेंट AI सिस्टम में मिलीभगत वाले व्यवहार की पहचान करने के लिए इंटरप्रिटेबिलिटी तकनीकों का उपयोग करने वाला फ्रेमवर्क।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a6c3a5f6ecb2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "नॉन-लीनियर अनमिक्सिंग द्वारा पिक्सेल में देखना -- एक जेनरेटिव दृष्टिकोण",
+      "link": "https://arxiv.org/abs/2604.01141v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:58:05Z",
+      "summary": "हाइपरस्पेक्ट्रल पिक्सेल डेटा की नॉन-लीनियर अनमिक्सिंग के लिए जेनरेटिव मॉडल का उपयोग करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d93e84c8926",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "पेपर पुनर्निर्माण मूल्यांकन: AI-लिखित पेपरों में प्रस्तुति और मतिभ्रम (Hallucination) का मूल्यांकन",
+      "link": "https://arxiv.org/abs/2604.01128v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:48:04Z",
+      "summary": "AI-जनरेटेड अकादमिक पेपरों की संरचनात्मक अखंडता और मतिभ्रम दरों का मूल्यांकन करने के लिए मेट्रिक्स विकसित करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2891c3b01736",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मोनोक्युलर डेप्थ एस्टिमेशन के लिए लाइटवेट प्रॉम्प्ट-गाइडेड CLIP एडेप्टेशन",
+      "link": "https://arxiv.org/abs/2604.01118v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:41:04Z",
+      "summary": "कंप्यूटर विजन में मोनोक्युलर डेप्थ एस्टिमेशन प्रदर्शन को बढ़ाने के लिए कुशल CLIP एडेप्टेशन विधियों को पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "05f90dc60135",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "शिक्षा में AI पर विश्वास और निर्भरता: मॉडरेटर के रूप में AI साक्षरता और संज्ञान की आवश्यकता",
+      "link": "https://arxiv.org/abs/2604.01114v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:38:47Z",
+      "summary": "जांच करता है कि कैसे AI साक्षरता और संज्ञानात्मक आवश्यकताएं शैक्षिक AI टूल में छात्रों के विश्वास को प्रभावित करती हैं।",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e7ea9c5fb596",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "लार्ज लैंग्वेज मॉडल्स का एडवर्सरियल मोरल स्ट्रेस टेस्टिंग",
+      "link": "https://arxiv.org/abs/2604.01108v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:34:20Z",
+      "summary": "लार्ज लैंग्वेज मॉडल्स की नैतिक सीमाओं और सुरक्षा का परीक्षण करने के लिए एक फ्रेमवर्क प्रस्तुत करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f6dcf67af384",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "हैशिंग और रैंडमाइजेशन के माध्यम से स्टोकेस्टिक मल्टी-ऑब्जेक्टिव ऑप्टिमाइज़ेशन में पेरेटो फ्रंटियर्स का अनुमान",
+      "link": "https://arxiv.org/abs/2604.01098v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:24:13Z",
+      "summary": "हैशिंग और रैंडमाइजेशन तकनीकों का उपयोग करके मल्टी-ऑब्जेक्टिव समस्याओं को अनुकूलित करने के लिए एक नया दृष्टिकोण विकसित करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c7a76cd360c9",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "इन-कॉन्टेक्स्ट लर्निंग में टेम्पोरल डिपेंडेंसी: इंडक्शन हेड्स की भूमिका",
+      "link": "https://arxiv.org/abs/2604.01094v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:21:38Z",
+      "summary": "विश्लेषण करता है कि कैसे इंडक्शन हेड्स LLM की इन-कॉन्टेक्स्ट लर्निंग प्रक्रिया के दौरान टेम्पोरल डिपेंडेंसी का प्रबंधन करते हैं।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d6ee5d8147a5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE: स्पीच फाउंडेशन मॉडल के एम्बेडिंग प्रक्षेपवक्र विश्लेषण के माध्यम से ट्रेनिंग-फ्री आंशिक ऑडियो डीपफेक डिटेक्शन",
+      "link": "https://arxiv.org/abs/2604.01083v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T16:12:31Z",
+      "summary": "स्पीच मॉडल एम्बेडिंग प्रक्षेपवक्र का विश्लेषण करके ऑडियो डीपफेक का पता लगाने के लिए एक ट्रेनिंग-फ्री विधि प्रस्तावित करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e80535cf4e96",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VibeGuard: AI-जनरेटेड कोड के लिए एक सुरक्षा गेट फ्रेमवर्क",
+      "link": "https://arxiv.org/abs/2604.01052v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:57:01Z",
+      "summary": "AI-जनरेटेड सॉफ़्टवेयर कोड की सुरक्षा और सत्यापन के लिए डिज़ाइन किया गया एक सुरक्षा फ्रेमवर्क पेश करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bc49e0c9b1d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI-संचालित RAN स्लाइसिंग में एडवर्सरियल हमले: SLA उल्लंघन और रिकवरी",
+      "link": "https://arxiv.org/abs/2604.01049v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:54:06Z",
+      "summary": "AI-आधारित RAN स्लाइसिंग के लिए एडवर्सरियल जोखिमों और सर्विस लेवल एग्रीमेंट रिकवरी के तरीकों का अध्ययन करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d043076d132",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "एनकोडिंग हमलों के खिलाफ LLM सिस्टम निर्देशों का मूल्यांकन और सुदृढ़ीकरण करने के लिए स्वचालित फ्रेमवर्क",
+      "link": "https://arxiv.org/abs/2604.01039v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:45:56Z",
+      "summary": "दुर्भावनापूर्ण प्रॉम्प्ट एनकोडिंग तकनीकों के खिलाफ LLM लचीलेपन को बेहतर बनाने के लिए एक स्वचालित प्रणाली प्रस्तावित करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e4605ce863d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "उपयोगकर्ता की लोकप्रियता प्राथमिकताओं के साथ अनुशंसाओं को संरेखित करना",
+      "link": "https://arxiv.org/abs/2604.01036v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:45:24Z",
+      "summary": "उपयोगकर्ता-विशिष्ट लोकप्रियता प्राथमिकताओं से मेल खाने के लिए अनुशंसा प्रणाली आउटपुट को कैलिब्रेट करने की कार्यप्रणाली की पड़ताल करता है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4d9f4164c4a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "संशोधन या पुन: समाधान? मल्टी-LLM पाइपलाइनों में सेकंड-पास लाभों का विघटन",
+      "link": "https://arxiv.org/abs/2604.01029v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:39:40Z",
+      "summary": "विश्लेषण करता है कि क्या मल्टी-LLM पाइपलाइन स्पष्ट संशोधन या अनावश्यक पुन: समाधान प्रक्रियाओं के माध्यम से परिणामों में सुधार करती हैं।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e2ced8ed899b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ट्रेनिंग के दौरान LLM के डाउनस्ट्रीम प्रदर्शन की तेज़ और सटीक जांच",
+      "link": "https://arxiv.org/abs/2604.01025v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:32:56Z",
+      "summary": "सक्रिय प्रशिक्षण के दौरान मॉडल के डाउनस्ट्रीम प्रदर्शन का कुशलतापूर्वक अनुमान लगाने के लिए एक विधि प्रस्तुत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7fbe0d3a6b32",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "नॉनपैरामेट्रिक बेयसियन नेटवर्क के लिए ट्रांसफर लर्निंग",
+      "link": "https://arxiv.org/abs/2604.01021v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:25:46Z",
+      "summary": "नॉनपैरामेट्रिक बेयसियन नेटवर्क मॉडल के संदर्भ में ट्रांसफर लर्निंग अनुप्रयोगों की जांच करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "211a9b608d73",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OrgAgent: अपने मल्टी-एजेंट सिस्टम को एक कंपनी की तरह व्यवस्थित करें",
+      "link": "https://arxiv.org/abs/2604.01020v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:21:14Z",
+      "summary": "संगठनात्मक प्रबंधन पदानुक्रमों से प्रेरित मल्टी-एजेंट AI सिस्टम को संरचित करने के लिए एक फ्रेमवर्क पेश करता है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ecf2f32029d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OmniMem: आजीवन मल्टीमॉडल एजेंट मेमोरी की ऑटो-रिसर्च-गाइडेड खोज",
+      "link": "https://arxiv.org/abs/2604.01007v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:06:23Z",
+      "summary": "मल्टीमॉडल एजेंट्स के लिए एक मेमोरी सिस्टम विकसित करता है जो निरंतर सीखने और स्वायत्त अनुसंधान की अनुमति देता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e29e1e35c40b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MLLM-आधारित लॉन्ग-फॉर्म वीडियो समझ के लिए क्वेरी-कंडीशंड एविडेंशियल कीफ्रेम सैंपलिंग",
+      "link": "https://arxiv.org/abs/2604.01002v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:02:50Z",
+      "summary": "क्वेरी-गाइडेड कीफ्रेम सैंपलिंग रणनीतियों के माध्यम से मल्टीमॉडल मॉडल में लॉन्ग-फॉर्म वीडियो समझ को बढ़ाता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "19bfad40846c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "EgoSim: एम्बॉडीड इंटरैक्शन जनरेशन के लिए ईगोसेंट्रिक वर्ल्ड सिम्युलेटर",
+      "link": "https://arxiv.org/abs/2604.01001v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T15:00:46Z",
+      "summary": "एम्बॉडीड AI प्रशिक्षण के लिए ईगोसेंट्रिक इंटरैक्शन डेटा उत्पन्न करने के लिए एक सिम्युलेटर प्रदान करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a4c85f664a60",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "YouTube Shorts पर इज़राइल-हमास युद्ध के राज्य-वित्त पोषित समाचार कवरेज का मल्टीमॉडल विश्लेषण",
+      "link": "https://arxiv.org/abs/2604.00994v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:55:58Z",
+      "summary": "YouTube प्लेटफॉर्म पर मल्टीमॉडल AI तकनीकों का उपयोग करके राज्य-वित्त पोषित समाचार मीडिया सामग्री का विश्लेषण करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "288e3c99c1e5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Government"
+      ],
+      "companies": [
+        "YouTube"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "संरचित ज्ञान और डेटा को जोड़ना: वित्त अनुप्रयोगों के साथ एक एकीकृत फ्रेमवर्क",
+      "link": "https://arxiv.org/abs/2604.00987v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:51:08Z",
+      "summary": "विशेष रूप से वित्त उद्योग अनुप्रयोगों के लिए तैयार, डेटा विश्लेषण के साथ संरचित ज्ञान को एकीकृत करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "861545fac249",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "क्या फोन-उपयोग एजेंट आपकी गोपनीयता का सम्मान करते हैं?",
+      "link": "https://arxiv.org/abs/2604.00986v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:50:50Z",
+      "summary": "स्वायत्त फोन-आधारित AI एजेंट्स से जुड़े गोपनीयता और डेटा सुरक्षा जोखिमों का मूल्यांकन करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "40a60430eebc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "डुअल ऑप्टिमल: अपने LLM को गरिमा के साथ सहकर्मी जैसा बनाएं",
+      "link": "https://arxiv.org/abs/2604.00979v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:48:44Z",
+      "summary": "इंटरैक्शन के दौरान LLM के संवादात्मक व्यवहार और कथित स्थिति को बढ़ाने के लिए एक डुअल-ऑप्टिमाइज़ेशन फ्रेमवर्क प्रस्तावित करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e96ba69314e",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "प्रक्षेपवक्र अनुकूलन में डिस्ट्रिब्यूशनल रीइन्फोर्समेंट लर्निंग के साथ फ्लो-आधारित नीति",
+      "link": "https://arxiv.org/abs/2604.00977v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:47:41Z",
+      "summary": "प्रक्षेपवक्र अनुकूलन कार्यों में दक्षता में सुधार के लिए डिस्ट्रिब्यूशनल RL के साथ फ्लो-आधारित नीतियों को एकीकृत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "726a6b979d58",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "WARP: NLP ट्रांसफॉर्मर्स की गारंटीकृत इनर-लेयर मरम्मत",
+      "link": "https://arxiv.org/abs/2604.00938v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:12:49Z",
+      "summary": "NLP मॉडल में आंतरिक ट्रांसफॉर्मर लेयर्स को पैच और मरम्मत करने के लिए एक विधि पेश करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "295786fc049a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PsychAgent: स्व-विकसित मनोवैज्ञानिक परामर्शदाता के लिए अनुभव-संचालित आजीवन सीखने वाला एजेंट",
+      "link": "https://arxiv.org/abs/2604.00931v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:08:49Z",
+      "summary": "मनोवैज्ञानिक परामर्श अनुप्रयोगों में निरंतर सीखने के लिए डिज़ाइन किया गया एक एडेप्टिव AI एजेंट प्रस्तुत करता है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "09eb38c7b0ca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "डांस फिंगरप्रिंटिंग के लिए क्वांटाइज्ड स्ट्रक्चर-प्रिजर्विंग मोशन रिप्रेजेंटेशन सीखना",
+      "link": "https://arxiv.org/abs/2604.00927v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:06:59Z",
+      "summary": "फिंगरप्रिंटिंग और विश्लेषण के लिए जटिल डांस मोशन का प्रतिनिधित्व करने के लिए एक क्वांटाइजेशन विधि विकसित करता है।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1a05f4ce994a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "कैनोनिकल कोरिलेशन एनालिसिस का उपयोग करके क्रॉस-मॉडल एग्रीमेंट के माध्यम से रिप्रेजेंटेशन चयन",
+      "link": "https://arxiv.org/abs/2604.00921v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T14:01:41Z",
+      "summary": "क्रॉस-मॉडल एग्रीमेंट को मापकर इष्टतम अभ्यावेदन का मूल्यांकन और चयन करने के लिए CCA का उपयोग करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a831916e92e4",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "जंगली में स्वायत्त एजेंट योगदान की जांच: समय के साथ गतिविधि पैटर्न और कोड परिवर्तन",
+      "link": "https://arxiv.org/abs/2604.00917v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:58:30Z",
+      "summary": "स्वायत्त AI एजेंट्स के वास्तविक दुनिया के गतिविधि पैटर्न और कोड संशोधन व्यवहारों का विश्लेषण करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0fff655504b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "अनुभव एक दिशा-सूचक यंत्र के रूप में: विकसित ऑर्केस्ट्रेशन और एजेंट प्रॉम्प्ट के साथ मल्टी-एजेंट RAG",
+      "link": "https://arxiv.org/abs/2604.00901v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:45:52Z",
+      "summary": "एक मल्टी-एजेंट RAG आर्किटेक्चर प्रस्तावित करता है जो ऑर्केस्ट्रेशन और प्रॉम्प्ट रणनीतियों को गतिशील रूप से विकसित करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d6e4309866cc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "प्रतीकात्मक समाधान से परे: लार्ज लैंग्वेज मॉडल्स में ज्यामितीय तर्क के लिए मल्टी चेन-ऑफ-थॉट वोटिंग",
+      "link": "https://arxiv.org/abs/2604.00890v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:37:06Z",
+      "summary": "मल्टी-चेन-ऑफ-थॉट वोटिंग तंत्र के माध्यम से LLM में ज्यामितीय तर्क को बढ़ाता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "87778f3667aa",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PixelPrune: प्रेडिक्टिव कोडिंग के माध्यम से पिक्सेल-स्तरीय एडेप्टिव विज़ुअल टोकन रिडक्शन",
+      "link": "https://arxiv.org/abs/2604.00886v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:33:27Z",
+      "summary": "प्रेडिक्टिव कोडिंग तकनीकों का उपयोग करके पिक्सेल-स्तरीय एडेप्टिव प्रूनिंग लागू करके विज़ुअल टोकन को कम करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d16c3532f527",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "StanceNakba साझा कार्य में KUET: StanceMoE: स्टेंस डिटेक्शन के लिए मिक्सचर-ऑफ-एक्सपर्ट्स आर्किटेक्चर",
+      "link": "https://arxiv.org/abs/2604.00878v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-01T13:24:03Z",
+      "summary": "साझा कार्यों में स्टेंस डिटेक्शन प्रदर्शन को बेहतर बनाने के लिए मिक्सचर-ऑफ-एक्सपर्ट्स (MoE) आर्किटेक्चर का उपयोग करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6ac96c0c39d9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "स्वायत्त प्रणालियों की नैतिकता का मूल्यांकन",
+      "link": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-04-02T04:00:00Z",
+      "summary": "MIT शोधकर्ता स्वायत्त प्रणालियों के व्यवहार का मूल्यांकन करने के लिए नैतिक फ्रेमवर्क की खोज कर रहे हैं।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0f4464fe2120",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Automotive"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: डिटेक्शन से परे: क्लिनिकल AI के युग में, FDA 'ब्रेकथ्रू' मेडिकल डिवाइस के रूप में क्या गिना जाता है?",
+      "link": "https://www.statnews.com/2026/04/02/how-fda-stance-breakthrough-ai-medical-device-evolving/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-04-02T08:30:00Z",
+      "summary": "AI-संचालित मेडिकल डिवाइस और उनके ब्रेकथ्रू पदनाम के लिए FDA नियामक मानदंडों का विश्लेषण।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "91a35cb71934",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "FDA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Regulatory Affairs"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "कौशल सेट का विस्तार आपके हेल्थकेयर IT करियर को बढ़ावा दे सकता है",
+      "link": "https://www.mobihealthnews.com/video/skill-set-expansion-can-boost-your-healthcare-it-career",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-01T20:15:34Z",
+      "summary": "आधुनिक स्वास्थ्य सेवा वितरण में IT कौशल के महत्व पर जोर देने वाली करियर सलाह।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "727325f04a15",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Specialist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Health Universe ने $6M जुटाए | Verily ने $300 मिलियन का निवेश हासिल किया",
+      "link": "https://www.healthcareittoday.com/2026/04/02/health-universe-raises-6m-verily-secures-300-million-investment/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-02T13:00:03Z",
+      "summary": "हेल्थकेयर टेक्नोलॉजी प्लेटफॉर्म के लिए महत्वपूर्ण पूंजी निवेश को उजागर करने वाली फंडिंग समाचार।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "18da8017f4ca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Health Universe",
+        "Verily"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "सांस्कृतिक अनुकूलन: तकनीकी EHR कार्यान्वयन केवल आधी लड़ाई क्यों है",
+      "link": "https://www.healthcareittoday.com/2026/04/01/cultural-adaptation-why-technical-ehr-implementation-is-only-half-the-battle/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-01T14:00:23Z",
+      "summary": "इलेक्ट्रॉनिक हेल्थ रिकॉर्ड सिस्टम कार्यान्वयन के दौरान संगठनात्मक संस्कृति की चुनौतियों की जांच।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "eb06e8c40752",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CIO",
+        "HR Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "बिग लॉ R&D पर क्रॉस्बी, Legora 100, TR + HotShot, लीगल इनोवेटर्स +",
+      "link": "https://www.artificiallawyer.com/2026/04/02/crosby-on-big-law-rd-legora-100-tr-hotshot-legal-innovators/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-02T07:54:59Z",
+      "summary": "कानूनी क्षेत्र में नवाचार, अनुसंधान विकास और उद्योग-विशिष्ट सॉफ़्टवेयर अपडेट की समीक्षा।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ac0a174f4cac",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "HotShot",
+        "Legal Innovators",
+        "Thomson Reuters"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "भारत के लिए नेटिव लीगल AI की आवश्यकता क्यों है",
+      "link": "https://www.artificiallawyer.com/2026/04/02/why-native-legal-ai-is-required-for-india/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-02T06:40:24Z",
+      "summary": "भारत की अनूठी कानूनी प्रणाली की सेवा के लिए स्थानीयकृत, विशेष आर्टिफिशियल इंटेलिजेंस टूल के लिए तर्क।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "153f8968b619",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Lawyer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "एक महीने से भी कम समय: StrictlyVC सैन फ्रांसिस्को TDK Ventures, Replit और अन्य के नेताओं को एक साथ लाता है",
+      "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-01T14:00:00Z",
+      "summary": "सैन फ्रांसिस्को में आगामी StrictlyVC कार्यक्रम में Replit और TDK Ventures के तकनीकी नेता शामिल होंगे।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9dce3146b9de",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Replit",
+        "TDK Ventures"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Google के AI Pro प्लान को अभी स्टोरेज अपग्रेड मिला है। - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQam13N0xKMmVza3V1WURWMkd3WHBLQ3I2cGlhSVFvWmpjdTBOc1FreUx3UVdZUTd3UHhTWmc4empYRTZmX2xtLWN6WjBWUlpQX1BiSjFjMVJkX0E5cDZ6YktCTHBLLUNldkhjTllnSUZSZE5UM05LUlY3Y0FOeDVFLUhNWEdhWTlWcUs0?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-01T22:09:45Z",
+      "summary": "Google ने Gemini AI Pro सेवा के सब्सक्राइबर्स के लिए स्टोरेज क्षमता बढ़ाई है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "77240e147690",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "अप्रैल फूल्स 2026: ChatGPT द्वारा लिखित, Suno द्वारा प्रायोजित Bass Magazine। - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNXItT3BjVlcxbldlem01OGYzcEt1S0J2Vjl0Z1BndXJKb2ZFUG5PMjBpTjY4U0xnRUI0bURORFBNalRvbjdQMFRncU52dEpfTWhQV2NoSUNHTUZMTmEwSENjWkdFYWV2cjRPOEtBWENJNVBhS2QzdENNRWI3VWYzQ3I4aldyb1FPYi1DMnVJcG1qU2dlNkgyaFdTN21pT0c1S0tfSHp0YW04dzJlX3dpZmNWNA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-01T17:48:13Z",
+      "summary": "Bass Magazine ने AI-जनरेटेड अप्रैल फूल्स कंटेंट प्रोजेक्ट के लिए ChatGPT और Suno का उपयोग किया।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5625ccc8928b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI",
+        "Suno"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "हम ब्राजील के जंगलों की सुरक्षा में मदद के लिए एक नया सैटेलाइट इमेजरी मैप बना रहे हैं।",
       "link": "https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/",
