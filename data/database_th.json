@@ -1,6 +1,566 @@
 {
-  "refreshed_at": "2026-04-06 13:07 UTC",
+  "refreshed_at": "2026-04-07 01:23 UTC",
   "items": [
+    {
+      "title": "ประกาศเปิดตัว OpenAI Safety Fellowship",
+      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T10:00:00Z",
+      "summary": "OpenAI เปิดตัวโครงการทุนวิจัยที่มุ่งเน้นการพัฒนาความปลอดภัยของ AI และการวิจัยด้านการปรับจูน AI ให้สอดคล้องกับเป้าหมาย",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f6c272c7f0d8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Anthropic ขยายความร่วมมือกับ Google และ Broadcom เพื่อรองรับพลังการประมวลผลระดับหลายกิกะวัตต์สำหรับเทคโนโลยีรุ่นถัดไป - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T21:55:36Z",
+      "summary": "Anthropic จับมือกับ Google และ Broadcom เพื่อจัดหาทรัพยากรการประมวลผลมหาศาลสำหรับการพัฒนา AI",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2210c3d5781a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Anthropic",
+        "Broadcom",
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "สร้างเอเจนต์สำหรับการรับพนักงานใหม่ด้วยพลัง AI ผ่าน Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T18:00:06Z",
+      "summary": "บทเรียนการสร้างเอเจนต์อัตโนมัติเพื่อช่วยในการรับพนักงานใหม่โดยใช้ Amazon Quick และเครื่องมือ AI",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b98fe22aac1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "เร่งประสิทธิภาพการเรียกใช้เครื่องมือแบบเอเจนต์ด้วยการปรับแต่งโมเดลแบบ Serverless ใน Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:54:00Z",
+      "summary": "ฟีเจอร์การปรับแต่งแบบ Serverless ใหม่ใน Amazon SageMaker ช่วยเพิ่มประสิทธิภาพการเรียกใช้เครื่องมือแบบเอเจนต์",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "436569577e4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "การสร้างระบบค้นหาอัจฉริยะด้วย Amazon Bedrock และ Amazon OpenSearch สำหรับโซลูชัน Hybrid RAG",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:49:32Z",
+      "summary": "คู่มือการใช้งานสถาปัตยกรรมการค้นหาแบบ Hybrid RAG โดยใช้ Amazon Bedrock และ OpenSearch",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a930c4d89f59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "จากการแจ้งเตือนแบบแยกส่วนสู่ความฉลาดเชิงบริบท: การวิเคราะห์ความผิดปกติทางทะเลแบบเอเจนต์ด้วย Generative AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:48:54Z",
+      "summary": "การใช้เอเจนต์ Generative AI เพื่อเปลี่ยนผ่านระบบทางทะเลจากการแจ้งเตือนทั่วไปไปสู่ความฉลาดเชิงบริบท",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d36b1c0f9109",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Defense"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "การเชื่อมต่อ MCP servers เข้ากับ Amazon Bedrock AgentCore Gateway โดยใช้ Authorization Code flow",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T14:41:46Z",
+      "summary": "เอกสารทางเทคนิคสำหรับการรักษาความปลอดภัยในการเชื่อมต่อ MCP server ภายใน Amazon Bedrock AgentCore",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4795e3c950af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Century Health เตรียมสร้างฐานข้อมูลโรคไขมันพอกตับ",
+      "link": "https://www.mobihealthnews.com/news/century-health-create-steatotic-liver-disease-database",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T20:51:54Z",
+      "summary": "Century Health กำลังเปิดตัวฐานข้อมูลเฉพาะทางสำหรับการวิจัยโรคไขมันพอกตับ",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "54f351d763ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [
+        "Century Health"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Acurion ระดมทุนได้ 4.3 ล้านดอลลาร์สำหรับแพลตฟอร์มการแพทย์แม่นยำด้านเนื้องอกวิทยา",
+      "link": "https://www.mobihealthnews.com/news/acurion-raises-43m-oncology-precision-medicine-platform",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T17:35:12Z",
+      "summary": "Acurion ได้รับเงินทุน 4.3 ล้านดอลลาร์เพื่อพัฒนาแพลตฟอร์มการแพทย์แม่นยำด้านเนื้องอกวิทยาที่ขับเคลื่อนด้วย AI",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2569db7ac48a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Acurion"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ในขณะที่ AI ทำให้ข้อมูลเข้าถึงได้ง่ายขึ้น ธรรมาภิบาลข้อมูลจึงมีความสำคัญอย่างยิ่ง",
+      "link": "https://www.mobihealthnews.com/video/ai-makes-data-more-accessible-governance-critical",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T13:48:26Z",
+      "summary": "อภิปรายถึงความจำเป็นของกรอบธรรมาภิบาลข้อมูลที่แข็งแกร่งท่ามกลางการเข้าถึง AI ที่เพิ่มขึ้นในอุตสาหกรรมสุขภาพ",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "aab10f11ed90",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ทำไม Schneider Electric ถึงเข้าร่วมงาน HIMSS26 (และทำไม CIO ถึงต้องให้ความสนใจ)",
+      "link": "https://www.healthcareittoday.com/2026/04/06/why-schneider-electric-was-at-himss26-and-why-cios-need-to-take-note/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-06T16:00:48Z",
+      "summary": "การปรากฏตัวเชิงกลยุทธ์ของ Schneider Electric ในงาน HIMSS26 เน้นย้ำถึงความต้องการโครงสร้างพื้นฐานที่สำคัญสำหรับระบบสาธารณสุขดิจิทัล",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "69457e9b9128",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "job_titles": [
+        "CIO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepCura ขึ้นแท่นบริษัท Agentic Native แห่งแรกในอุตสาหกรรมสุขภาพของสหรัฐฯ: เจาะลึกสถาปัตยกรรม",
+      "link": "https://www.healthcareittoday.com/2026/04/06/deepcura-becomes-the-first-agentic-native-company-in-u-s-healthcare-inside-the-architecture/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-06T14:00:22Z",
+      "summary": "DeepCura นำสถาปัตยกรรม AI แบบเอเจนต์มาใช้ในภาคส่วนสาธารณสุขของสหรัฐฯ",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bc7c780dda17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "DeepCura"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "อดีตพนักงาน OpenAI ซุ่มลงทุนผ่านกองทุนใหม่ที่มีมูลค่าสูงถึง 100 ล้านดอลลาร์",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T21:54:26Z",
+      "summary": "อดีตพนักงานของ OpenAI กำลังลงทุนด้วยเงินทุนผ่านกองทุนร่วมลงทุนใหม่มูลค่า 100 ล้านดอลลาร์",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "de82341001c3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google เปิดตัวแอปจดบันทึกด้วยเสียง AI ที่ทำงานแบบออฟไลน์ได้โดยไม่บอกกล่าว",
+      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T18:54:33Z",
+      "summary": "Google ได้ปล่อยแอปพลิเคชันจดบันทึกด้วยเสียงที่ขับเคลื่อนด้วย AI บน iOS ซึ่งสามารถทำงานได้โดยไม่ต้องเชื่อมต่ออินเทอร์เน็ต",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "669a7a115c5c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "อิหร่านขู่โจมตีศูนย์ข้อมูล AI ‘Stargate’",
+      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T18:06:28Z",
+      "summary": "เจ้าหน้าที่อิหร่านได้ออกคำขู่ต่อสาธารณะเกี่ยวกับโครงการศูนย์ข้อมูล AI Stargate ที่มีการเสนอไว้",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "12475e003a85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "title": "วิสัยทัศน์ของ OpenAI ต่อเศรษฐกิจ AI: กองทุนความมั่งคั่งสาธารณะ ภาษีหุ่นยนต์ และการทำงานสัปดาห์ละสี่วัน",
+      "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:55:55Z",
+      "summary": "OpenAI สรุปข้อเสนอแนะเชิงนโยบายสำหรับการเปลี่ยนแปลงทางเศรษฐกิจที่ขับเคลื่อนโดยการนำปัญญาประดิษฐ์มาใช้",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "df77ad875649",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Xoople ของสเปนระดมทุน Series B ได้ 130 ล้านดอลลาร์เพื่อทำแผนที่โลกสำหรับ AI",
+      "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T13:00:00Z",
+      "summary": "Xoople ระดมทุน Series B ได้ 130 ล้านดอลลาร์เพื่อพัฒนาเทคโนโลยีการทำแผนที่ดาวเคราะห์ที่ขับเคลื่อนด้วย AI",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e8ac44b92e70",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Xoople"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Spain"
+      ]
+    },
+    {
+      "title": "อิหร่านขู่โจมตีศูนย์ข้อมูล Stargate ของ OpenAI ในอาบูดาบี - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaGVHLXF4TndIcElrN2RpbDVlYkFkZjNUaVZKeFFzM1NfX094cThmclhNNWRRb0ZMTU11VXlQVVpYblI1N0hjeXl5S0JpWlVnZ3FLdVFzUHBnMGxHWHlGeEdXbHRXNUxRUnk1NmZ5bUozbzFUc2lMeDlYRVRSYXZrYU9DbFdhbC00YnJOV3ZZUXloVEVCbEpCVWJmb3VicjRuZ2tjMEVsUkM1dUFodDJBdg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:54:19Z",
+      "summary": "อิหร่านได้ออกคำขู่เกี่ยวกับโครงสร้างพื้นฐาน AI ที่วางแผนไว้ในอาบูดาบี",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "03dc184a54b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "title": "Sam Altman “ไม่ถูกจำกัดด้วยความจริง” - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlRZYXo3RllJRnRCUUJBcXRpN3pyWF96SHZfb0ctWkplM0FMcE5Ra29rbkpwOGNUY2llMmlkUnVzcjE0elllY1duTGYwaXQyNkFaN3cyTUh1cHBWTmphNG9Qbnd1LWNmTl9IUUJNOEhOa1RITmV3RTBTXzhzSlRScHpETWh4OWs1NGVLaDJpR0RyMkpSdjJvSGdEcw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:44:39Z",
+      "summary": "บทความแสดงความคิดเห็นวิพากษ์วิจารณ์ความเป็นผู้นำและความซื่อสัตย์ของ Sam Altman ซีอีโอของ OpenAI",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fd16a575ac48",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "แผนของ Chuck Robbins ซีอีโอ Cisco สำหรับยุค AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFdwYnJUQVJ5dloxcDdROVU3Y1VKZklDT2o5eDE3U0VZdFlCUjh5SnF5RUZiLVdUcGgxNHI3TFNlSXY0YTMtbFFGY19NUXluWmliRkZUekVpa3RJOGozenhnRUhBSnFONTZ6MS1nVmdXXzFuNXctTkFFRmt3NzRDOWJtMkZoU1ppR0Fad3NrVmFsT01wMV9aU0JGamo5dnpyc25fb1F3OUM?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:15:00Z",
+      "summary": "Chuck Robbins ซีอีโอของ Cisco สรุปแนวทางเชิงกลยุทธ์ของบริษัทในการบูรณาการ AI",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6211c8de9cd4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cisco"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cursor ทิ้ง VS Code แล้ว แต่ไม่ใช่ทุกคนที่จะพอใจ...",
+      "link": "https://www.youtube.com/watch?v=JSuS-zXMVwE",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-04-06T18:37:57Z",
+      "summary": "บทวิเคราะห์การที่ Cursor IDE ย้ายออกจากเฟรมเวิร์กหลักของ VS Code",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "7ebb5ac564b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "นโยบายอุตสาหกรรมสำหรับยุคแห่งปัญญาประดิษฐ์",
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",

@@ -1,6 +1,566 @@
 {
-  "refreshed_at": "2026-04-06 13:07 UTC",
+  "refreshed_at": "2026-04-07 01:23 UTC",
   "items": [
+    {
+      "title": "Анонс стипендиальной программы OpenAI Safety Fellowship",
+      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T10:00:00Z",
+      "summary": "OpenAI запускает стипендиальную программу, посвященную развитию исследований в области безопасности и согласования ИИ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f6c272c7f0d8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Anthropic расширяет партнерство с Google и Broadcom для получения гигаваттных мощностей вычислительных ресурсов нового поколения - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T21:55:36Z",
+      "summary": "Anthropic сотрудничает с Google и Broadcom для обеспечения масштабных вычислительных ресурсов для разработки ИИ.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2210c3d5781a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Anthropic",
+        "Broadcom",
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Создание агентов для адаптации сотрудников на базе ИИ с помощью Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T18:00:06Z",
+      "summary": "Руководство по созданию автоматизированных агентов для адаптации сотрудников с использованием Amazon Quick и инструментов ИИ.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b98fe22aac1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Ускорение вызова агентских инструментов с помощью бессерверной настройки моделей в Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:54:00Z",
+      "summary": "Новые функции бессерверной настройки в Amazon SageMaker повышают производительность вызова агентских инструментов.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "436569577e4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Создание интеллектуального поиска с помощью Amazon Bedrock и Amazon OpenSearch для гибридных RAG-решений",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:49:32Z",
+      "summary": "Руководство по внедрению гибридных архитектур поиска RAG с использованием Amazon Bedrock и OpenSearch.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a930c4d89f59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "От изолированных оповещений к контекстному интеллекту: агентский анализ морских аномалий с помощью генеративного ИИ",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:48:54Z",
+      "summary": "Использование агентов на базе генеративного ИИ для перехода морских систем от простых оповещений к контекстному интеллекту.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d36b1c0f9109",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Defense"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Подключение серверов MCP к Amazon Bedrock AgentCore Gateway с использованием потока Authorization Code",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T14:41:46Z",
+      "summary": "Техническая документация по обеспечению безопасности соединений серверов MCP в рамках Amazon Bedrock AgentCore.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4795e3c950af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Century Health создаст базу данных по стеатотической болезни печени",
+      "link": "https://www.mobihealthnews.com/news/century-health-create-steatotic-liver-disease-database",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T20:51:54Z",
+      "summary": "Century Health запускает специализированную базу данных для исследований стеатотической болезни печени.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "54f351d763ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [
+        "Century Health"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Acurion привлекла $4,3 млн для платформы прецизионной онкологии",
+      "link": "https://www.mobihealthnews.com/news/acurion-raises-43m-oncology-precision-medicine-platform",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T17:35:12Z",
+      "summary": "Acurion привлекла $4,3 млн финансирования для разработки своей платформы прецизионной медицины в онкологии на базе ИИ.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2569db7ac48a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Acurion"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "По мере того как ИИ делает данные более доступными, управление ими становится критически важным",
+      "link": "https://www.mobihealthnews.com/video/ai-makes-data-more-accessible-governance-critical",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T13:48:26Z",
+      "summary": "Обсуждение необходимости надежных систем управления данными на фоне растущей доступности ИИ в здравоохранении.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "aab10f11ed90",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Почему Schneider Electric участвовала в HIMSS26 (и почему ИТ-директорам стоит обратить на это внимание)",
+      "link": "https://www.healthcareittoday.com/2026/04/06/why-schneider-electric-was-at-himss26-and-why-cios-need-to-take-note/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-06T16:00:48Z",
+      "summary": "Стратегическое присутствие Schneider Electric на HIMSS26 подчеркивает критические потребности инфраструктуры для цифрового здравоохранения.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "69457e9b9128",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "job_titles": [
+        "CIO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepCura становится первой компанией в сфере здравоохранения США, использующей агентскую архитектуру: взгляд изнутри",
+      "link": "https://www.healthcareittoday.com/2026/04/06/deepcura-becomes-the-first-agentic-native-company-in-u-s-healthcare-inside-the-architecture/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-06T14:00:22Z",
+      "summary": "DeepCura внедряет агентскую архитектуру ИИ в секторе здравоохранения США.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bc7c780dda17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "DeepCura"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Выходцы из OpenAI тайно инвестируют средства из нового фонда объемом до $100 млн",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T21:54:26Z",
+      "summary": "Бывшие сотрудники OpenAI инвестируют капитал через новый венчурный фонд объемом $100 миллионов.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "de82341001c3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google незаметно выпустила приложение для диктовки с ИИ, работающее офлайн",
+      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T18:54:33Z",
+      "summary": "Google выпустила приложение для iOS на базе ИИ для диктовки, способное работать без доступа к интернету.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "669a7a115c5c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Иран угрожает центрам обработки данных ИИ «Stargate»",
+      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T18:06:28Z",
+      "summary": "Иранские официальные лица выступили с публичными угрозами в адрес планируемого проекта центра обработки данных ИИ Stargate.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "12475e003a85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "title": "Видение OpenAI экономики ИИ: государственные фонды благосостояния, налоги на роботов и четырехдневная рабочая неделя",
+      "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:55:55Z",
+      "summary": "OpenAI излагает политические рекомендации по экономическим сдвигам, вызванным внедрением искусственного интеллекта.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "df77ad875649",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Испанская компания Xoople привлекла $130 млн в раунде серии B для картографирования Земли с помощью ИИ",
+      "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T13:00:00Z",
+      "summary": "Xoople привлекла $130 млн в рамках раунда серии B для разработки технологий планетарного картографирования на базе ИИ.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e8ac44b92e70",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Xoople"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Spain"
+      ]
+    },
+    {
+      "title": "Иран угрожает дата-центру OpenAI Stargate в Абу-Даби - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaGVHLXF4TndIcElrN2RpbDVlYkFkZjNUaVZKeFFzM1NfX094cThmclhNNWRRb0ZMTU11VXlQVVpYblI1N0hjeXl5S0JpWlVnZ3FLdVFzUHBnMGxHWHlGeEdXbHRXNUxRUnk1NmZ5bUozbzFUc2lMeDlYRVRSYXZrYU9DbFdhbC00YnJOV3ZZUXloVEVCbEpCVWJmb3VicjRuZ2tjMEVsUkM1dUFodDJBdg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:54:19Z",
+      "summary": "Иран выступил с угрозами в отношении инфраструктуры ИИ, запланированной в Абу-Даби.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "03dc184a54b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "title": "Сэм Альтман «не ограничен правдой». - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlRZYXo3RllJRnRCUUJBcXRpN3pyWF96SHZfb0ctWkplM0FMcE5Ra29rbkpwOGNUY2llMmlkUnVzcjE0elllY1duTGYwaXQyNkFaN3cyTUh1cHBWTmphNG9Qbnd1LWNmTl9IUUJNOEhOa1RITmV3RTBTXzhzSlRScHpETWh4OWs1NGVLaDJpR0RyMkpSdjJvSGdEcw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:44:39Z",
+      "summary": "Мнение, критикующее руководство и правдивость генерального директора OpenAI Сэма Альтмана.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fd16a575ac48",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "План генерального директора Cisco Чака Роббинса на эру ИИ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFdwYnJUQVJ5dloxcDdROVU3Y1VKZklDT2o5eDE3U0VZdFlCUjh5SnF5RUZiLVdUcGgxNHI3TFNlSXY0YTMtbFFGY19NUXluWmliRkZUekVpa3RJOGozenhnRUhBSnFONTZ6MS1nVmdXXzFuNXctTkFFRmt3NzRDOWJtMkZoU1ppR0Fad3NrVmFsT01wMV9aU0JGamo5dnpyc25fb1F3OUM?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:15:00Z",
+      "summary": "Генеральный директор Cisco Чак Роббинс описывает стратегический подход компании к интеграции ИИ.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6211c8de9cd4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cisco"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cursor отказывается от VS Code, но не все этому рады...",
+      "link": "https://www.youtube.com/watch?v=JSuS-zXMVwE",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-04-06T18:37:57Z",
+      "summary": "Анализ перехода IDE Cursor от использования базового фреймворка VS Code.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "7ebb5ac564b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Промышленная политика для эпохи интеллекта",
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",

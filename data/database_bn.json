@@ -1,6 +1,566 @@
 {
-  "refreshed_at": "2026-04-06 13:07 UTC",
+  "refreshed_at": "2026-04-07 01:23 UTC",
   "items": [
+    {
+      "title": "OpenAI সেফটি ফেলোশিপ ঘোষণা",
+      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T10:00:00Z",
+      "summary": "OpenAI এআই সেফটি এবং অ্যালাইনমেন্ট গবেষণাকে এগিয়ে নিতে একটি ফেলোশিপ প্রোগ্রাম চালু করেছে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f6c272c7f0d8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "নেক্সট-জেনারেশন কম্পিউটের জন্য গুগল এবং ব্রডকমের সাথে অংশীদারিত্ব বাড়াল অ্যানথ্রোপিক - অ্যানথ্রোপিক",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T21:55:36Z",
+      "summary": "এআই উন্নয়নের জন্য বিশাল কম্পিউট রিসোর্স নিশ্চিত করতে গুগল এবং ব্রডকমের সাথে অংশীদারিত্ব করেছে অ্যানথ্রোপিক।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2210c3d5781a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Anthropic",
+        "Broadcom",
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Quick ব্যবহার করে এআই-চালিত এমপ্লয়ি অনবোর্ডিং এজেন্ট তৈরি করুন",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T18:00:06Z",
+      "summary": "Amazon Quick এবং এআই টুল ব্যবহার করে স্বয়ংক্রিয় এমপ্লয়ি অনবোর্ডিং এজেন্ট তৈরির টিউটোরিয়াল।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b98fe22aac1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AI-তে সার্ভারলেস মডেল কাস্টমাইজেশনের মাধ্যমে এজেন্টিক টুল কলিং ত্বরান্বিত করুন",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:54:00Z",
+      "summary": "Amazon SageMaker-এর নতুন সার্ভারলেস কাস্টমাইজেশন ফিচার এজেন্টিক টুল কলিংয়ের পারফরম্যান্স উন্নত করে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "436569577e4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "হাইব্রিড RAG সলিউশনের জন্য Amazon Bedrock এবং Amazon OpenSearch ব্যবহার করে ইন্টেলিজেন্ট সার্চ তৈরি",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:49:32Z",
+      "summary": "Amazon Bedrock এবং OpenSearch ব্যবহার করে হাইব্রিড RAG সার্চ আর্কিটেকচার বাস্তবায়নের নির্দেশিকা।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a930c4d89f59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "বিচ্ছিন্ন সতর্কতা থেকে প্রাসঙ্গিক বুদ্ধিমত্তা: জেনারেটিভ এআই-এর মাধ্যমে এজেন্টিক মেরিটাইম অ্যানোমালি বিশ্লেষণ",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:48:54Z",
+      "summary": "মেরিটাইম সিস্টেমকে সতর্কতা থেকে প্রাসঙ্গিক বুদ্ধিমত্তায় রূপান্তর করতে জেনারেটিভ এআই এজেন্ট ব্যবহার।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d36b1c0f9109",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Defense"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "অথোরাইজেশন কোড ফ্লো ব্যবহার করে Amazon Bedrock AgentCore গেটওয়ের সাথে MCP সার্ভার সংযুক্ত করা",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T14:41:46Z",
+      "summary": "Amazon Bedrock AgentCore-এর মধ্যে MCP সার্ভার সংযোগ সুরক্ষিত করার প্রযুক্তিগত ডকুমেন্টেশন।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4795e3c950af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "স্টিয়াটোটিক লিভার ডিজিজ ডেটাবেস তৈরি করবে সেঞ্চুরি হেলথ",
+      "link": "https://www.mobihealthnews.com/news/century-health-create-steatotic-liver-disease-database",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T20:51:54Z",
+      "summary": "সেঞ্চুরি হেলথ স্টিয়াটোটিক লিভার ডিজিজ নিয়ে গবেষণার জন্য একটি বিশেষ ডেটাবেস চালু করছে।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "54f351d763ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [
+        "Century Health"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "অনকোলজি প্রিসিশন মেডিসিন প্ল্যাটফর্মের জন্য ৪.৩ মিলিয়ন ডলার সংগ্রহ করল অ্যাকুরিয়ন",
+      "link": "https://www.mobihealthnews.com/news/acurion-raises-43m-oncology-precision-medicine-platform",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T17:35:12Z",
+      "summary": "অ্যাকুরিয়ন তাদের এআই-চালিত অনকোলজি প্রিসিশন মেডিসিন প্ল্যাটফর্ম উন্নয়নের জন্য ৪.৩ মিলিয়ন ডলার তহবিল সংগ্রহ করেছে।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2569db7ac48a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Acurion"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "এআই ডেটাকে আরও সহজলভ্য করার সাথে সাথে গভর্নেন্স অত্যন্ত গুরুত্বপূর্ণ",
+      "link": "https://www.mobihealthnews.com/video/ai-makes-data-more-accessible-governance-critical",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T13:48:26Z",
+      "summary": "স্বাস্থ্যসেবায় এআই-এর ক্রমবর্ধমান সহজলভ্যতার মধ্যে শক্তিশালী ডেটা গভর্নেন্স কাঠামোর প্রয়োজনীয়তা নিয়ে আলোচনা।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "aab10f11ed90",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কেন স্নাইডার ইলেকট্রিক HIMSS26-এ ছিল (এবং কেন সিআইওদের এটি লক্ষ্য করা উচিত)",
+      "link": "https://www.healthcareittoday.com/2026/04/06/why-schneider-electric-was-at-himss26-and-why-cios-need-to-take-note/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-06T16:00:48Z",
+      "summary": "ডিজিটাল স্বাস্থ্যসেবার জন্য গুরুত্বপূর্ণ অবকাঠামোগত চাহিদা তুলে ধরে HIMSS26-এ স্নাইডার ইলেকট্রিকের কৌশলগত উপস্থিতি।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "69457e9b9128",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "job_titles": [
+        "CIO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ডিপকিউরা মার্কিন স্বাস্থ্যসেবায় প্রথম এজেন্টিক নেটিভ কোম্পানি হয়ে উঠেছে: আর্কিটেকচারের ভেতরে",
+      "link": "https://www.healthcareittoday.com/2026/04/06/deepcura-becomes-the-first-agentic-native-company-in-u-s-healthcare-inside-the-architecture/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-06T14:00:22Z",
+      "summary": "ডিপকিউরা মার্কিন স্বাস্থ্যসেবা খাতে এজেন্টিক এআই আর্কিটেকচার বাস্তবায়ন করছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bc7c780dda17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "DeepCura"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "OpenAI-এর প্রাক্তন কর্মীরা গোপনে ১০০ মিলিয়ন ডলারের একটি নতুন তহবিল থেকে বিনিয়োগ করছেন",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T21:54:26Z",
+      "summary": "OpenAI-এর প্রাক্তন কর্মীরা একটি নতুন ১০০ মিলিয়ন ডলারের ভেঞ্চার ফান্ডের মাধ্যমে মূলধন বিনিয়োগ করছেন।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "de82341001c3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "গুগল গোপনে একটি এআই ডিকটেশন অ্যাপ চালু করেছে যা অফলাইনে কাজ করে",
+      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T18:54:33Z",
+      "summary": "গুগল একটি আইওএস এআই-চালিত ডিকটেশন অ্যাপ্লিকেশন প্রকাশ করেছে যা ইন্টারনেট সংযোগ ছাড়াই কাজ করতে সক্ষম।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "669a7a115c5c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ইরানের ‘স্টারগেট’ এআই ডেটা সেন্টারের প্রতি হুমকি",
+      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T18:06:28Z",
+      "summary": "ইরানি কর্মকর্তারা প্রস্তাবিত স্টারগেট এআই ডেটা সেন্টার প্রকল্পের বিরুদ্ধে প্রকাশ্যে হুমকি দিয়েছেন।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "12475e003a85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "title": "এআই অর্থনীতির জন্য OpenAI-এর ভিশন: পাবলিক ওয়েলথ ফান্ড, রোবট ট্যাক্স এবং চার দিনের কর্মসপ্তাহ",
+      "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:55:55Z",
+      "summary": "কৃত্রিম বুদ্ধিমত্তা গ্রহণের ফলে অর্থনৈতিক পরিবর্তনের জন্য OpenAI নীতিগত সুপারিশ তুলে ধরেছে।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "df77ad875649",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "এআই-এর জন্য পৃথিবীকে ম্যাপ করতে স্পেনের জুপল ১৩০ মিলিয়ন ডলার সিরিজ বি তহবিল সংগ্রহ করেছে",
+      "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T13:00:00Z",
+      "summary": "এআই-চালিত প্ল্যানেটারি ম্যাপিং প্রযুক্তি উন্নয়নের জন্য জুপল ১৩০ মিলিয়ন ডলার সিরিজ বি তহবিল সংগ্রহ করেছে।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e8ac44b92e70",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Xoople"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Spain"
+      ]
+    },
+    {
+      "title": "আবুধাবিতে OpenAI-এর স্টারগেট ডেটা সেন্টারকে হুমকি দিল ইরান - দ্য ভার্জ",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaGVHLXF4TndIcElrN2RpbDVlYkFkZjNUaVZKeFFzM1NfX094cThmclhNNWRRb0ZMTU11VXlQVVpYblI1N0hjeXl5S0JpWlVnZ3FLdVFzUHBnMGxHWHlGeEdXbHRXNUxRUnk1NmZ5bUozbzFUc2lMeDlYRVRSYXZrYU9DbFdhbC00YnJOV3ZZUXloVEVCbEpCVWJmb3VicjRuZ2tjMEVsUkM1dUFodDJBdg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:54:19Z",
+      "summary": "আবুধাবিতে পরিকল্পিত এআই অবকাঠামো নিয়ে ইরান হুমকি দিয়েছে।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "03dc184a54b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "title": "স্যাম অল্টম্যান “সত্যের দ্বারা সীমাবদ্ধ নন।” - দ্য ভার্জ",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlRZYXo3RllJRnRCUUJBcXRpN3pyWF96SHZfb0ctWkplM0FMcE5Ra29rbkpwOGNUY2llMmlkUnVzcjE0elllY1duTGYwaXQyNkFaN3cyTUh1cHBWTmphNG9Qbnd1LWNmTl9IUUJNOEhOa1RITmV3RTBTXzhzSlRScHpETWh4OWs1NGVLaDJpR0RyMkpSdjJvSGdEcw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:44:39Z",
+      "summary": "OpenAI-এর সিইও স্যাম অল্টম্যানের নেতৃত্ব এবং সত্যবাদিতার সমালোচনা করে লেখা একটি মতামত নিবন্ধ।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fd16a575ac48",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "এআই যুগের জন্য সিসকো সিইও চাক রবিন্সের পরিকল্পনা - দ্য ভার্জ",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFdwYnJUQVJ5dloxcDdROVU3Y1VKZklDT2o5eDE3U0VZdFlCUjh5SnF5RUZiLVdUcGgxNHI3TFNlSXY0YTMtbFFGY19NUXluWmliRkZUekVpa3RJOGozenhnRUhBSnFONTZ6MS1nVmdXXzFuNXctTkFFRmt3NzRDOWJtMkZoU1ppR0Fad3NrVmFsT01wMV9aU0JGamo5dnpyc25fb1F3OUM?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:15:00Z",
+      "summary": "সিসকো সিইও চাক রবিন্স এআই অন্তর্ভুক্ত করার জন্য কোম্পানির কৌশলগত দৃষ্টিভঙ্গি তুলে ধরেছেন।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6211c8de9cd4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cisco"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কার্সার ভিএস কোড (VS Code) ছেড়েছে, কিন্তু সবাই এতে খুশি নয়...",
+      "link": "https://www.youtube.com/watch?v=JSuS-zXMVwE",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-04-06T18:37:57Z",
+      "summary": "ভিএস কোড কোর ফ্রেমওয়ার্ক থেকে কার্সার আইডিই (IDE)-এর সরে আসার বিশ্লেষণ।",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "7ebb5ac564b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "ইন্টেলিজেন্স এজ বা বুদ্ধিমত্তার যুগের জন্য শিল্প নীতি",
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",

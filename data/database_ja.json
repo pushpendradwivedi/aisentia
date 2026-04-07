@@ -1,6 +1,566 @@
 {
-  "refreshed_at": "2026-04-06 13:07 UTC",
+  "refreshed_at": "2026-04-07 01:23 UTC",
   "items": [
+    {
+      "title": "OpenAI Safety Fellowshipの発表",
+      "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T10:00:00Z",
+      "summary": "OpenAIは、AIの安全性とアライメント研究の推進を目的としたフェローシッププログラムを開始します。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f6c272c7f0d8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Anthropic、次世代コンピューティングのギガワット規模の確保に向けてGoogleおよびBroadcomとのパートナーシップを拡大 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dUE0NnFtSW9iTTQyZTFsa1FvWkZXaXoxdE5YY3RleHNUSXdwRlgzODd5S0lXOVBVTFRPSGdXX1I2cW16YUxwQV81NjRjNFB4ZDh5QVdIZy1BcVNKNzl2YWlUZkRjWHNzay1nVEhjaW5QQndL?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T21:55:36Z",
+      "summary": "AnthropicはGoogleおよびBroadcomと提携し、AI開発のための膨大なコンピューティングリソースを確保します。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2210c3d5781a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Anthropic",
+        "Broadcom",
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Quickを使用してAI搭載の従業員オンボーディングエージェントを構築する",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T18:00:06Z",
+      "summary": "Amazon QuickとAIツールを活用した、自動化された従業員オンボーディングエージェントの作成に関するチュートリアル。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b98fe22aac1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AIのサーバーレスモデルカスタマイズでエージェントによるツール呼び出しを加速",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:54:00Z",
+      "summary": "Amazon SageMaker AIの新しいサーバーレスカスタマイズ機能により、エージェントによるツール呼び出しのパフォーマンスが向上します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "436569577e4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon BedrockとAmazon OpenSearchを使用したハイブリッドRAGソリューションのためのインテリジェント検索の構築",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:49:32Z",
+      "summary": "Amazon BedrockとOpenSearchを使用したハイブリッドRAG検索アーキテクチャの実装ガイド。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a930c4d89f59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "孤立したアラートからコンテキストインテリジェンスへ：生成AIによるエージェント型海事異常分析",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T17:48:54Z",
+      "summary": "生成AIエージェントを使用して、海事システムのアラート対応をコンテキストインテリジェンスへと移行させる手法。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d36b1c0f9109",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Defense"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "認可コードフローを使用した、MCPサーバーからAmazon Bedrock AgentCore Gatewayへの接続",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-06T14:41:46Z",
+      "summary": "Amazon Bedrock AgentCore内でのMCPサーバー接続を保護するための技術ドキュメント。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4795e3c950af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Century Healthが脂肪肝疾患データベースを構築へ",
+      "link": "https://www.mobihealthnews.com/news/century-health-create-steatotic-liver-disease-database",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T20:51:54Z",
+      "summary": "Century Healthは、脂肪肝疾患の研究を目的とした専門データベースを立ち上げます。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "54f351d763ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [
+        "Century Health"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Acurionが腫瘍学精密医療プラットフォームのために430万ドルを調達",
+      "link": "https://www.mobihealthnews.com/news/acurion-raises-43m-oncology-precision-medicine-platform",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T17:35:12Z",
+      "summary": "Acurionは、AI駆動型の腫瘍学精密医療プラットフォームを開発するため、430万ドルの資金を調達しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2569db7ac48a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Acurion"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AIによってデータへのアクセスが容易になる中、ガバナンスが不可欠に",
+      "link": "https://www.mobihealthnews.com/video/ai-makes-data-more-accessible-governance-critical",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-06T13:48:26Z",
+      "summary": "ヘルスケア分野におけるAIの利用拡大に伴い、堅牢なデータガバナンスフレームワークの必要性について議論します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "aab10f11ed90",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Schneider ElectricがHIMSS26に参加した理由（そしてCIOが注目すべき理由）",
+      "link": "https://www.healthcareittoday.com/2026/04/06/why-schneider-electric-was-at-himss26-and-why-cios-need-to-take-note/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-06T16:00:48Z",
+      "summary": "HIMSS26におけるSchneider Electricの戦略的な存在感は、デジタルヘルスケアにおける重要なインフラニーズを浮き彫りにしています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "69457e9b9128",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Schneider Electric"
+      ],
+      "job_titles": [
+        "CIO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepCuraが米国のヘルスケア分野で初の「エージェントネイティブ」企業に：そのアーキテクチャの内部",
+      "link": "https://www.healthcareittoday.com/2026/04/06/deepcura-becomes-the-first-agentic-native-company-in-u-s-healthcare-inside-the-architecture/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-06T14:00:22Z",
+      "summary": "DeepCuraは、米国のヘルスケアセクターにおいてエージェント型AIアーキテクチャを実装しています。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bc7c780dda17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "DeepCura"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "OpenAIの元メンバーが、1億ドル規模の新しいファンドで密かに投資を開始",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T21:54:26Z",
+      "summary": "OpenAIの元従業員らが、1億ドル規模の新しいベンチャーファンドを通じて資本を投資しています。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "de82341001c3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Googleがオフラインで動作するAIディクテーションアプリを密かにリリース",
+      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T18:54:33Z",
+      "summary": "Googleは、インターネット接続なしで機能するiOS向けのAI搭載ディクテーションアプリをリリースしました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "669a7a115c5c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "イランが「Stargate」AIデータセンターを脅迫",
+      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T18:06:28Z",
+      "summary": "イランの当局者は、計画されているStargate AIデータセンタープロジェクトに対して公然と脅迫を行いました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "12475e003a85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "title": "AI経済に対するOpenAIのビジョン：公共富裕基金、ロボット税、週4日労働制",
+      "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:55:55Z",
+      "summary": "OpenAIは、人工知能の導入によって推進される経済的変化に向けた政策提言を概説しています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "df77ad875649",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "スペインのXoopleがAIによる地球マッピングのためシリーズBで1億3000万ドルを調達",
+      "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T13:00:00Z",
+      "summary": "Xoopleは、AI駆動型の地球マッピング技術を開発するため、シリーズBで1億3000万ドルの資金を調達しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e8ac44b92e70",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Xoople"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Spain"
+      ]
+    },
+    {
+      "title": "イランがアブダビのOpenAIのStargateデータセンターを脅迫 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaGVHLXF4TndIcElrN2RpbDVlYkFkZjNUaVZKeFFzM1NfX094cThmclhNNWRRb0ZMTU11VXlQVVpYblI1N0hjeXl5S0JpWlVnZ3FLdVFzUHBnMGxHWHlGeEdXbHRXNUxRUnk1NmZ5bUozbzFUc2lMeDlYRVRSYXZrYU9DbFdhbC00YnJOV3ZZUXloVEVCbEpCVWJmb3VicjRuZ2tjMEVsUkM1dUFodDJBdg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:54:19Z",
+      "summary": "イランは、アブダビで計画されているAIインフラに関して脅迫を行いました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "03dc184a54b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United Arab Emirates"
+      ]
+    },
+    {
+      "title": "サム・アルトマンは「真実に縛られていない」 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlRZYXo3RllJRnRCUUJBcXRpN3pyWF96SHZfb0ctWkplM0FMcE5Ra29rbkpwOGNUY2llMmlkUnVzcjE0elllY1duTGYwaXQyNkFaN3cyTUh1cHBWTmphNG9Qbnd1LWNmTl9IUUJNOEhOa1RITmV3RTBTXzhzSlRScHpETWh4OWs1NGVLaDJpR0RyMkpSdjJvSGdEcw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:44:39Z",
+      "summary": "OpenAIのCEOであるサム・アルトマンのリーダーシップと誠実さを批判する論説。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fd16a575ac48",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cisco CEO チャック・ロビンスのAI時代に向けた計画 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFdwYnJUQVJ5dloxcDdROVU3Y1VKZklDT2o5eDE3U0VZdFlCUjh5SnF5RUZiLVdUcGgxNHI3TFNlSXY0YTMtbFFGY19NUXluWmliRkZUekVpa3RJOGozenhnRUhBSnFONTZ6MS1nVmdXXzFuNXctTkFFRmt3NzRDOWJtMkZoU1ppR0Fad3NrVmFsT01wMV9aU0JGamo5dnpyc25fb1F3OUM?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-06T15:15:00Z",
+      "summary": "CiscoのCEOであるチャック・ロビンスが、AI統合に向けた同社の戦略的アプローチを概説します。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6211c8de9cd4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cisco"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CursorがVS Codeから離脱、しかし誰もが喜んでいるわけではない...",
+      "link": "https://www.youtube.com/watch?v=JSuS-zXMVwE",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-04-06T18:37:57Z",
+      "summary": "Cursor IDEがVS Codeのコアフレームワークから移行することに関する分析。",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "7ebb5ac564b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "インテリジェンス時代に向けた産業政策",
       "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
