@@ -1,6 +1,1308 @@
 {
-  "refreshed_at": "2026-04-08 01:26 UTC",
+  "refreshed_at": "2026-04-08 13:21 UTC",
   "items": [
+    {
+      "title": "Présentation du Child Safety Blueprint",
+      "link": "https://openai.com/index/introducing-child-safety-blueprint",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-08T05:00:00Z",
+      "summary": "OpenAI publie un cadre pour donner la priorité à la sécurité des enfants dans le développement des systèmes d'IA.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "10e69babef23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Compliance Officer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Qu'est-ce que le Project Glasswing - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OZllhcGl6UjF2TjYtaWtwRjBCMEUxX1BsRGExWGp5SmFJbXZWb3hLajdYdG1kb0JMTi11cUExcFFMQm8yeWdCWDRISTNPVFlad2otNFVB?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-08T08:33:09Z",
+      "summary": "Aperçu des initiatives d'Anthropic concernant le Project Glasswing et ses implications pour le développement de l'IA.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8d754476de06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "In-Place Test-Time Training",
+      "link": "https://arxiv.org/abs/2604.06169v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:59:44Z",
+      "summary": "Recherche proposant une méthode pour effectuer l'entraînement de modèles en cours d'exécution (test-time) sur place afin d'améliorer les performances.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0009a39d6e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DiffHDR : Ré-exposition de vidéos LDR avec des modèles de diffusion vidéo",
+      "link": "https://arxiv.org/abs/2604.06161v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:56:18Z",
+      "summary": "Méthode utilisant des modèles de diffusion vidéo pour améliorer et ré-exposer le contenu vidéo à faible plage dynamique (LDR).",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "310e6bd256ee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MMEmb-R1 : Plongement multimodal amélioré par le raisonnement avec sélection par paire et contrôle adaptatif",
+      "link": "https://arxiv.org/abs/2604.06156v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:55:17Z",
+      "summary": "Nouveau cadre de plongement multimodal intégrant des capacités de raisonnement et des mécanismes de sélection adaptative par paire.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c22af4b981c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Vers des modèles du monde cohérents avec prédiction multi-jetons et amélioration sémantique latente",
+      "link": "https://arxiv.org/abs/2604.06155v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:54:22Z",
+      "summary": "Propose une prédiction multi-jetons et une amélioration latente pour améliorer la cohérence dans la génération de modèles du monde.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0cc699be389c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Qui gouverne la machine ? Une taxonomie de gouvernance de l'identité des machines (MIGT) pour les systèmes d'IA opérant au-delà des frontières d'entreprise et géopolitiques",
+      "link": "https://arxiv.org/abs/2604.06148v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:51:56Z",
+      "summary": "Introduit une taxonomie pour la gestion de l'identité et de la gouvernance des machines dans des environnements d'IA complexes.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "91c239e6ca75",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Legal Tech Consultant"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Génération de conversations synthétiques médecin-patient pour le résumé audio long",
+      "link": "https://arxiv.org/abs/2604.06138v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:45:07Z",
+      "summary": "Méthode de génération de données synthétiques pour améliorer le résumé audio long dans les contextes de consultation médicale.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3f10b3a40381",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Encodage quantique basé sur les tirs (Shot-Based) : Un paradigme de chargement de données pour les réseaux de neurones quantiques",
+      "link": "https://arxiv.org/abs/2604.06135v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:44:37Z",
+      "summary": "Introduit l'encodage basé sur les tirs pour optimiser le chargement des données dans les architectures de réseaux de neurones quantiques.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "38568041a34f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Quantum Physicist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Claw-Eval : Vers une évaluation fiable des agents autonomes",
+      "link": "https://arxiv.org/abs/2604.06132v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:43:18Z",
+      "summary": "Propose un cadre pour l'évaluation fiable des performances des agents d'IA autonomes.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "216461335ea2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PoM : Un remplacement en temps linéaire pour l'attention avec le Polynomial Mixer",
+      "link": "https://arxiv.org/abs/2604.06129v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:40:37Z",
+      "summary": "Présente le Polynomial Mixer (PoM) comme une alternative efficace en temps linéaire aux mécanismes d'attention traditionnels.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b8c7cb7f87c2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gym-Anything : Transformez n'importe quel logiciel en environnement d'agent",
+      "link": "https://arxiv.org/abs/2604.06126v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:38:15Z",
+      "summary": "Outil permettant la transformation d'applications logicielles arbitraires en environnements d'apprentissage par renforcement.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a9f3ea447c31",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Adaptation multimodale légère de modèles vision-langage pour la reconnaissance d'espèces et l'interprétation du contexte de l'habitat dans l'imagerie thermique par drone",
+      "link": "https://arxiv.org/abs/2604.06124v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:36:01Z",
+      "summary": "Optimise les modèles vision-langage pour la reconnaissance d'espèces en utilisant des données d'imagerie thermique par drone.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "60bb5fc2999d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ACE-Bench : Évaluation configurable par agent avec horizons évolutifs et difficulté contrôlable dans des environnements légers",
+      "link": "https://arxiv.org/abs/2604.06111v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:21:28Z",
+      "summary": "Un benchmark pour évaluer les agents autonomes avec une difficulté ajustable et des métriques de performance évolutives.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1509d27709cf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "L'intelligence artificielle et la structure des mathématiques",
+      "link": "https://arxiv.org/abs/2604.06107v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:19:33Z",
+      "summary": "Exploration de l'intersection entre les capacités de l'IA et l'analyse structurelle mathématique formelle.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "74ca55d8ba05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM4CodeRE : IA générative pour l'analyse de décompilation de code et l'ingénierie inverse",
+      "link": "https://arxiv.org/abs/2604.06095v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:08:44Z",
+      "summary": "Applique l'IA générative pour automatiser l'analyse et l'ingénierie inverse de code décompilé.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bd84bdb820bf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Security Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "La dynamique sociale comme vulnérabilité critique qui mine la prise de décision objective dans les collectifs de LLM",
+      "link": "https://arxiv.org/abs/2604.06091v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:04:21Z",
+      "summary": "Analyse comment la dynamique sociale au sein des systèmes multi-LLM crée des biais et nuit à la prise de décision objective.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3b9485cd8d8e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LAG-XAI : Un cadre géométrique affine inspiré de Lie pour la paraphrase interprétable dans les espaces latents des Transformers",
+      "link": "https://arxiv.org/abs/2604.06086v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T17:02:21Z",
+      "summary": "Un cadre géométrique utilisant des transformations inspirées de Lie pour améliorer l'interprétabilité dans les espaces latents des Transformers.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d4963763d083",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Synthèse de programmes graphiques scientifiques via l'apprentissage par renforcement à double auto-cohérence",
+      "link": "https://arxiv.org/abs/2604.06079v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T16:58:14Z",
+      "summary": "Propose un cadre d'apprentissage par renforcement utilisant la double auto-cohérence pour synthétiser des programmes destinés aux graphiques scientifiques.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e2431a6e4e77",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Graph-PiT : Amélioration de la cohérence structurelle dans la synthèse d'images par parties via des a priori de graphe",
+      "link": "https://arxiv.org/abs/2604.06074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T16:53:23Z",
+      "summary": "Introduit Graph-PiT pour améliorer la cohérence structurelle dans la synthèse d'images par parties en utilisant des a priori de graphe.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a519e88ea379",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Histoires de votre vie en tant qu'autres : Une évaluation aller-retour d'histoires de vie générées par LLM conditionnées sur des profils psychométriques riches",
+      "link": "https://arxiv.org/abs/2604.06071v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T16:51:50Z",
+      "summary": "Évalue les histoires de vie générées par LLM grâce à des évaluations aller-retour conditionnées sur des profils psychométriques humains détaillés.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f024d076ad6e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Un cadre de validation multi-étapes pour l'extraction d'informations cliniques à grande échelle et fiable utilisant des grands modèles de langage",
+      "link": "https://arxiv.org/abs/2604.06028v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T16:23:52Z",
+      "summary": "Présente un cadre multi-étapes pour garantir une extraction fiable d'informations cliniques à l'aide de grands modèles de langage.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5b5546f9c317",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CritBench : Un cadre pour évaluer les capacités de cybersécurité des grands modèles de langage dans les environnements de sous-stations numériques IEC 61850",
+      "link": "https://arxiv.org/abs/2604.06019v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T16:16:59Z",
+      "summary": "Établit un benchmark pour évaluer les capacités de cybersécurité des LLM au sein d'environnements d'infrastructure de sous-stations numériques critiques.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "60cf23c54cb8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gouvernance et régulation de l'intelligence artificielle dans les pays en développement : Une étude de cas du Nigeria",
+      "link": "https://arxiv.org/abs/2604.06018v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T16:16:05Z",
+      "summary": "Analyse le paysage de la gouvernance et de la régulation de l'intelligence artificielle spécifiquement dans le contexte du Nigeria.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "de4f59825393",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "Nigeria"
+      ]
+    },
+    {
+      "title": "Comment les LLM suivent les instructions : Coordination habile, pas un mécanisme universel",
+      "link": "https://arxiv.org/abs/2604.06015v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T16:12:52Z",
+      "summary": "Soutient que le suivi des instructions par les LLM émerge d'une coordination habile des capacités plutôt que d'un mécanisme universel unique.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e4759a952f76",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Aveuglement épistémique : Un protocole en temps d'inférence pour auditer la contamination préalable dans l'analyse assistée par LLM",
+      "link": "https://arxiv.org/abs/2604.06013v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T16:06:52Z",
+      "summary": "Introduit un protocole en temps d'inférence pour auditer et gérer la contamination des données antérieures dans l'analyse par LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ed5dfda2e602",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Le modèle était d'accord, mais n'a pas appris : Diagnostiquer la conformité de surface dans les grands modèles de langage",
+      "link": "https://arxiv.org/abs/2604.05995v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T15:20:41Z",
+      "summary": "Diagnostique les cas où les grands modèles de langage présentent une conformité de surface sans atteindre un véritable apprentissage sous-jacent.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eed2db3ba4bb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Flowr -- Mise à l'échelle des opérations de chaîne d'approvisionnement au détail grâce à l'IA agentique dans les grandes chaînes de supermarchés",
+      "link": "https://arxiv.org/abs/2604.05987v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T15:15:12Z",
+      "summary": "Démontre la mise à l'échelle des opérations de chaîne d'approvisionnement au détail en utilisant des systèmes d'IA agentique au sein de grandes chaînes de supermarchés.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d6999ea475de",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Un cadre de sécurité formel pour les agents d'IA basés sur MCP : Taxonomie des menaces, modèles de vérification et mécanismes de défense",
+      "link": "https://arxiv.org/abs/2604.05969v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T15:02:47Z",
+      "summary": "Développe un cadre de sécurité complet pour les agents d'IA utilisant le Model Context Protocol.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9c157936687c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Au-delà du compromis : Consensus Pareto-indulgent pour un alignement efficace des LLM à préférences multiples",
+      "link": "https://arxiv.org/abs/2604.05965v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:58:35Z",
+      "summary": "Propose un consensus Pareto-indulgent pour améliorer l'efficacité de l'alignement des LLM avec des préférences multiples et contradictoires.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5ac7b12b06a2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Le taux de réussite dit-il tout ? Évaluer la conformité aux contraintes de conception dans la résolution de problèmes basée sur les LLM",
+      "link": "https://arxiv.org/abs/2604.05955v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:47:27Z",
+      "summary": "Évalue les performances de codage des LLM en mesurant la conformité aux contraintes de conception plutôt que par de simples taux de réussite.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "755e4d20bb39",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Algorithme en temps polynomial pour les règles de vote de Thiele avec préférences d'intervalle des électeurs",
+      "link": "https://arxiv.org/abs/2604.05953v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:46:37Z",
+      "summary": "Présente un algorithme en temps polynomial pour des règles de vote spécifiques au sein du choix social computationnel et de l'IA.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fd909cf3f364",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Vers une génération de rapports fiable : Un agent de recherche approfondie avec estimation et calibration progressives de la confiance",
+      "link": "https://arxiv.org/abs/2604.05952v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:46:26Z",
+      "summary": "Crée un agent de recherche qui utilise une estimation progressive de la confiance pour générer des rapports fiables et calibrés.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fffa636e44c1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MARL-GPT : Modèle de fondation pour l'apprentissage par renforcement multi-agents",
+      "link": "https://arxiv.org/abs/2604.05943v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:40:01Z",
+      "summary": "Introduit un modèle de fondation spécifiquement conçu pour les environnements et les tâches d'apprentissage par renforcement multi-agents.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "44a99cea11a5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Architecture Contexte-Valeur-Action pour les agents LLM axés sur les valeurs",
+      "link": "https://arxiv.org/abs/2604.05939v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:34:20Z",
+      "summary": "Propose une nouvelle architecture pour faciliter le comportement et la prise de décision axés sur les valeurs chez les agents LLM.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "44ef0adfbf90",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Représentation guidée par la saillance avec apprentissage de politique de cohérence pour l'apprentissage par renforcement visuel non supervisé",
+      "link": "https://arxiv.org/abs/2604.05931v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:31:32Z",
+      "summary": "Améliore l'apprentissage par renforcement visuel non supervisé en utilisant une représentation guidée par la saillance et l'apprentissage de politique de cohérence.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ed95aa4fb1c2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "\"Je vois ce que tu as fait là\" : Les grands modèles vision-langage peuvent-ils comprendre les jeux de mots multimodaux ?",
+      "link": "https://arxiv.org/abs/2604.05930v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:31:32Z",
+      "summary": "Enquête sur la capacité des modèles vision-langage à interpréter et comprendre correctement les jeux de mots multimodaux complexes.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d78e392c6a63",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Réseaux ReLU pour la génération exacte de graphes similaires",
+      "link": "https://arxiv.org/abs/2604.05929v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:31:19Z",
+      "summary": "Explore la capacité mathématique des réseaux ReLU à générer exactement des graphes structurellement similaires.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6d79b9512b3c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "L'agrégation sélective des cartes d'attention améliore l'interprétation visuelle basée sur la diffusion",
+      "link": "https://arxiv.org/abs/2604.05906v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T14:09:00Z",
+      "summary": "La méthode proposée améliore l'interprétabilité des modèles de diffusion en agrégeant sélectivement des cartes de caractéristiques d'attention spécifiques.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5487ed643220",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HybridKV : Compression hybride du cache KV pour une inférence efficace des grands modèles de langage multimodaux",
+      "link": "https://arxiv.org/abs/2604.05887v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T13:51:07Z",
+      "summary": "Une nouvelle technique de compression réduit l'empreinte du cache KV pour un déploiement d'inférence LLM multimodal plus efficace.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "77e54b035092",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Superposition dentaire automatique de photographies 3D intraorales et 2D pour l'identification humaine",
+      "link": "https://arxiv.org/abs/2604.05877v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T13:35:54Z",
+      "summary": "Système automatisé alignant des modèles dentaires 3D avec des photos 2D pour améliorer l'identification humaine médico-légale.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1304fdd7d81d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Complétion de base de connaissances conjointe et réponse aux questions en combinant grands modèles de langage et petits modèles de langage",
+      "link": "https://arxiv.org/abs/2604.05875v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T13:33:17Z",
+      "summary": "Intègre des LLM et des SLM pour améliorer la précision de la complétion de bases de connaissances et des requêtes automatisées.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "018a6e1f6245",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Swiss-Bench 003 : Évaluation de la fiabilité des LLM et de la sécurité antagoniste pour les contextes réglementaires suisses",
+      "link": "https://arxiv.org/abs/2604.05872v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T13:29:34Z",
+      "summary": "Un nouveau benchmark d'évaluation évalue la fiabilité et la sécurité des LLM spécifiquement au sein des cadres réglementaires suisses.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dd829ec025d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "Switzerland"
+      ]
+    },
+    {
+      "title": "JTON : Un sur-ensemble JSON efficace en jetons avec encodage tabulaire Zen Grid pour les grands modèles de langage",
+      "link": "https://arxiv.org/abs/2604.05865v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-07T13:26:23Z",
+      "summary": "Introduit un format JSON efficace en jetons conçu pour optimiser le traitement des données structurées par les LLM.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fee5439de085",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+ : Tout le monde s'accorde à dire que les scribes IA augmentent les coûts de santé. Personne n'est d'accord sur ce qu'il faut faire à ce sujet",
+      "link": "https://www.statnews.com/2026/04/08/insurers-providers-agree-ai-scribes-raise-health-care-costs/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-04-08T08:30:00Z",
+      "summary": "Discute des préoccupations économiques concernant la hausse des coûts de santé attribuée à la mise en œuvre de scribes médicaux IA.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9794ca2bdd18",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Insurance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "La boîte à outils mise à jour du HHS aide les systèmes de santé à mener des évaluations des cyber-risques",
+      "link": "https://www.mobihealthnews.com/video/updated-hhs-toolkit-helps-health-systems-conduct-cyber-risk-assessments",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-07T14:16:50Z",
+      "summary": "Le HHS publie des conseils mis à jour pour aider les systèmes de santé à gérer les risques de cybersécurité.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "469cc88ef393",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "HHS"
+      ],
+      "job_titles": [
+        "CIO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Le DSE est en panne. Pourquoi Greenway a recommencé avec Novare.",
+      "link": "https://www.healthcareittoday.com/2026/04/07/the-ehr-is-broken-why-greenway-started-over-with-novare/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-07T15:00:22Z",
+      "summary": "Greenway Health lance Novare, une nouvelle plateforme conçue pour remplacer les systèmes de DSE existants.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe704f9b8a70",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Greenway Health"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Webinaire : Eudia + ServiceNow : Le futur 10x des équipes juridiques internes",
+      "link": "https://www.artificiallawyer.com/2026/04/08/webinar-eudia-servicenow-the-10x-future-of-inhouse-legal-teams/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-08T12:04:38Z",
+      "summary": "Webinaire discutant de l'intégration d'Eudia et de ServiceNow pour automatiser les opérations juridiques internes.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3a087f152838",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Eudia",
+        "ServiceNow"
+      ],
+      "job_titles": [
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Clio lance des agents pour le travail et Vincent",
+      "link": "https://www.artificiallawyer.com/2026/04/08/clio-rolls-out-agents-for-work-and-vincent/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-08T07:35:14Z",
+      "summary": "Clio lance des agents juridiques alimentés par l'IA nommés 'For Work' et 'Vincent' pour l'automatisation de la pratique.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8d7be59ef31c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Clio"
+      ],
+      "job_titles": [
+        "Developer",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Monarch : une API pour votre supercalculateur",
+      "link": "https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-04-08T07:00:27Z",
+      "summary": "Monarch fournit une interface API pour interagir avec des clusters de supercalculateurs pour des tâches à grande échelle.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "807f4cf48f85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Performance de normalisation SOTA avec torch.compile",
+      "link": "https://pytorch.org/blog/sota-normalization-performance-with-torch-compile/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-04-08T07:00:02Z",
+      "summary": "Techniques pour atteindre des performances de normalisation de pointe (SOTA) en utilisant la fonctionnalité torch.compile.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "65fb7e6b387f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Le personnel syndiqué de ProPublica est en grève à cause de l'IA, des licenciements et des salaires - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObW5IMXl4Z2hYSk42dWVGZ2pKOVBVNWJ1ZHNPQTBKRFVaOW50NU5uanNPckpwQ0Y3Ym1yQnFjSjd5MVBBd3VQcnczdkNVTVpiaVExU3luM1JidTM5RExKc2RkNUozUU5jTWxiSXYzX0VJei1qMXlYNmE0NkRNMEdEYVliekJGY1FHOV9MNQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-08T11:53:28Z",
+      "summary": "Les employés de ProPublica sont en grève en raison de préoccupations concernant la mise en œuvre de l'IA, les licenciements et les salaires.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f1e08085646e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "ProPublica"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Vous pouvez désormais transformer des applications 2D en 3D tout en utilisant le casque Galaxy XR - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQckNLR1RoSndjMzluaDFfdlZPb3NFc0NTdVpYUUt1eXZ4ZlM5SFMtZ1JZV2NCNFE5Z1BWdTZnWjZaa3pfQlBIUUM5SEFIZ29nZUU4U2d6aFZmVHdMdW9qWHg4SHBHLVRiaVI3Si1vMkVuTThwcC1FdG1FZnhxVVdvZjdaazN0b1hCaTFnUzQ2cng2QQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-07T19:07:12Z",
+      "summary": "La mise à jour du casque Galaxy XR permet la conversion d'applications 2D standard en environnements 3D.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "742f1e8da322",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming"
+      ],
+      "companies": [
+        "Samsung"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
     {
       "title": "Project Glasswing : sécuriser les logiciels critiques pour l'ère de l'IA - anthropic.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfQUdtMDZYaEtZV0JMSk1ZSzdqTl9mV3dQTnZYcVEzaHo4cV8yUEl2a25QMWRXenFTYUQ3NF9WakR5WXVwaDRTZC1ZYw?oc=5",
