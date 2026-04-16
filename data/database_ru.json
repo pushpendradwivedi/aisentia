@@ -1,6 +1,1016 @@
 {
-  "refreshed_at": "2026-04-16 01:32 UTC",
+  "refreshed_at": "2026-04-16 13:28 UTC",
   "items": [
+    {
+      "title": "Ускорение экосистемы киберзащиты, которая защищает всех нас",
+      "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-16T00:00:00Z",
+      "summary": "OpenAI объявляет об инициативах по укреплению кибербезопасности с использованием механизмов защиты на базе ИИ и совместных исследований.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a14aecd407b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "От $P(y|x)$ к $P(y)$: Исследование обучения с подкреплением в пространстве предварительного обучения",
+      "link": "https://arxiv.org/abs/2604.14142v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:59:01Z",
+      "summary": "Исследует переход парадигм обучения с подкреплением от условной вероятности к маргинальному распределению во время предварительного обучения.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "480ff5c8dbc8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LongCoT: Бенчмаркинг рассуждений по цепочке мыслей с большим горизонтом планирования",
+      "link": "https://arxiv.org/abs/2604.14140v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:58:05Z",
+      "summary": "Представляет бенчмарк, специально разработанный для оценки способностей LLM к рассуждениям по цепочке мыслей с большим горизонтом планирования.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fdd2b306d9c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "От ощущений к метрикам: Понимание и формализация того, как пользователи проводят «вайб-тестирование» LLM",
+      "link": "https://arxiv.org/abs/2604.14137v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:57:08Z",
+      "summary": "Формализует качественные методы тестирования пользовательского опыта для LLM в измеримые объективные метрики производительности.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "796d9b48d4b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Риторические вопросы в представлениях LLM: Исследование методом линейного зондирования",
+      "link": "https://arxiv.org/abs/2604.14128v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:50:56Z",
+      "summary": "Использует линейное зондирование для анализа того, как риторические вопросы кодируются во внутренних представлениях LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0c582d1e8cf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HiVLA: Иерархическая система воплощенного манипулирования с акцентом на визуальное обоснование",
+      "link": "https://arxiv.org/abs/2604.14125v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:50:07Z",
+      "summary": "Представляет иерархическую систему для воплощенных ИИ-агентов, сфокусированную на визуальном обосновании и роботизированном манипулировании.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8e1672ffa211",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TREX: Автоматизация дообучения LLM с помощью агентного древовидного поиска",
+      "link": "https://arxiv.org/abs/2604.14116v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:38:06Z",
+      "summary": "Предлагает метод автоматизированного дообучения для LLM с использованием стратегий агентного древовидного поиска.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5bdbcee725b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UI-Zoomer: Адаптивное масштабирование на основе неопределенности для обоснования GUI",
+      "link": "https://arxiv.org/abs/2604.14113v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:32:28Z",
+      "summary": "Улучшает производительность обоснования GUI с помощью механизма адаптивного масштабирования на основе неопределенности для моделей компьютерного зрения.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "201bff311e48",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UMI-3D: Расширение универсального интерфейса манипулирования с ограниченного зрения до 3D-пространственного восприятия",
+      "link": "https://arxiv.org/abs/2604.14089v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:04:34Z",
+      "summary": "Расширяет возможности универсального манипулирования для робототехники путем интеграции 3D-пространственного восприятия помимо 2D-зрения.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7d17ec1fdd7d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TIP: Важность токенов при дистилляции в рамках текущей политики (On-Policy)",
+      "link": "https://arxiv.org/abs/2604.14084v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:58:24Z",
+      "summary": "Анализирует влияние метрик важности токенов в процессе дистилляции в рамках текущей политики для LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e840b8c2d52b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Сначала увидеть, потом спроектировать: Взгляд с позиции многих заинтересованных сторон на оптимальный компромисс между производительностью и справедливостью",
+      "link": "https://arxiv.org/abs/2604.14035v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:15:25Z",
+      "summary": "Исследует методы балансировки метрик алгоритмической производительности и справедливости в ИИ-системах с участием многих заинтересованных сторон.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d1cc0efb38b9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Большие языковые модели для улучшения моделирования бизнес-процессов: Прошлое, настоящее и будущие тренды",
+      "link": "https://arxiv.org/abs/2604.14034v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:15:03Z",
+      "summary": "Обзор интеграции LLM в моделирование бизнес-процессов, охватывающий историческую эволюцию и будущие направления.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a74e6a23bbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting",
+        "Accounting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Иерархическое обучение с подкреплением с защитным экранированием во время выполнения для управления энергосистемой",
+      "link": "https://arxiv.org/abs/2604.14032v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:11:10Z",
+      "summary": "Применяет иерархическое обучение с подкреплением с защитным экранированием для поддержания безопасной и эффективной работы энергосистемы.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3630d51bebe7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Прямое моделирование 3D-сцен: Проблемно-ориентированная перспектива",
+      "link": "https://arxiv.org/abs/2604.14025v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:07:18Z",
+      "summary": "Рассматривает подходы прямого распространения (feed-forward) для моделирования 3D-сцен, фокусируясь на практических задачах и результатах производительности.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a921791b1e47",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MAny: Объединение чего угодно для мультимодальной непрерывной настройки инструкций",
+      "link": "https://arxiv.org/abs/2604.14016v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:57:23Z",
+      "summary": "Предлагает структуру для объединения разнообразных мультимодальных моделей с целью повышения эффективности непрерывной настройки инструкций.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8ca45fb6b080",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "На пути к отслеживанию множества объектов с помощью радара на быстро движущемся транспортном средстве: О потенциале обработки радара в частотной области",
+      "link": "https://arxiv.org/abs/2604.14013v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:57:05Z",
+      "summary": "Оценивает использование обработки радара в частотной области для улучшения отслеживания множества объектов для высокоскоростных автономных транспортных средств.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3fcab427a7e8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Обучение переносу памяти: Как воспоминания переносятся между доменами в агентах для написания кода",
+      "link": "https://arxiv.org/abs/2604.14004v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:50:29Z",
+      "summary": "Исследование переноса усвоенных воспоминаний между доменами для повышения эффективности и производительности агентов для написания кода.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8c8b6319e6b6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Диффузионные языковые модели для распознавания речи",
+      "link": "https://arxiv.org/abs/2604.14001v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:46:15Z",
+      "summary": "Исследование использования диффузионных языковых моделей для повышения точности систем автоматического распознавания речи.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bf42e3eb4cf9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Проектирование вознаграждения для физических рассуждений в визуально-языковых моделях",
+      "link": "https://arxiv.org/abs/2604.13993v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:36:26Z",
+      "summary": "Исследует эффективные структуры вознаграждения для улучшения способностей к физическим рассуждениям в визуально-языковых ИИ-моделях.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1e3a6ce241e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Адаптивное конформное предсказание для улучшения фактической точности генераций больших языковых моделей",
+      "link": "https://arxiv.org/abs/2604.13991v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:35:42Z",
+      "summary": "Структура, использующая адаптивное конформное предсказание для повышения фактической надежности текстовых выводов, сгенерированных LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "64a10978814d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Использование интеграции LLM-GNN для ответов на вопросы в открытом мире по графам знаний",
+      "link": "https://arxiv.org/abs/2604.13979v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:25:25Z",
+      "summary": "Объединение LLM и графовых нейронных сетей для расширенного ответа на вопросы по сложным графам знаний.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f93f075dbc64",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Как мы можем синтезировать высококачественные данные для предварительного обучения? Систематическое исследование проектирования промптов, генераторной модели и исходных данных",
+      "link": "https://arxiv.org/abs/2604.13977v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:24:59Z",
+      "summary": "Систематическая оценка методологий генерации высококачественных синтетических данных для целей предварительного обучения моделей.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8bf33b96688d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "[Новые идеи] Искусственный трипартитный интеллект: Биоинспирированная архитектура с приоритетом сенсоров для физического ИИ",
+      "link": "https://arxiv.org/abs/2604.13959v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:10:10Z",
+      "summary": "Предложение биоинспирированной, управляемой сенсорами архитектуры, разработанной специально для приложений физического ИИ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c67a9c751495",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Creo: От генерации изображений в один проход к прогрессивному, со-творческому идееобразованию",
+      "link": "https://arxiv.org/abs/2604.13956v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:06:46Z",
+      "summary": "Представляет Creo, ИИ-фреймворк, поддерживающий прогрессивную, со-творческую генерацию изображений посредством интерактивного идееобразования.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0ca16915ab72",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Creative Director",
+        "Designer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HINTBench: Бенчмарк для оценки внутренних неатакующих траекторий агентов с горизонтом планирования",
+      "link": "https://arxiv.org/abs/2604.13954v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:06:01Z",
+      "summary": "Бенчмарк, разработанный для оценки внутренних неатакующих траекторий для автономных ИИ-агентов, основанных на горизонте планирования.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dd2501341cbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ИИ-ассистируемое рецензирование в масштабе: Пилотный проект ИИ-рецензирования AAAI-26",
+      "link": "https://arxiv.org/abs/2604.13940v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T14:51:07Z",
+      "summary": "Анализ пилотной программы по внедрению процессов ИИ-ассистируемого рецензирования для академических конференций.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4f124d67d763",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [
+        "AAAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Academic"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ASTER: Генерация латентных псевдоаномалий для обучения без учителя обнаружению аномалий во временных рядах",
+      "link": "https://arxiv.org/abs/2604.13924v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T14:32:35Z",
+      "summary": "Новый метод использования генерации латентных псевдоаномалий для улучшения производительности обнаружения аномалий во временных рядах без учителя.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0feebb5ca590",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Нужны ли нам еще люди в цикле? Сравнение аннотирования людьми и LLM в активном обучении для обнаружения враждебности",
+      "link": "https://arxiv.org/abs/2604.13899v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T14:10:58Z",
+      "summary": "Сравнительное исследование, оценивающее эффективность аннотаций людей по сравнению с LLM в рабочих процессах активного обучения.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cb5912b7b8c8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Выход за рамки консервативного автоматизированного вождения в многоагентных сценариях с помощью связанного модельного прогнозного управления и глубокого обучения с подкреплением",
+      "link": "https://arxiv.org/abs/2604.13891v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T13:58:38Z",
+      "summary": "Метод повышения безопасности и производительности автономного вождения с использованием связанного MPC и глубокого обучения с подкреплением.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d5157cc70dc8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GeoAgentBench: Бенчмарк динамического выполнения для агентов с инструментами в пространственном анализе",
+      "link": "https://arxiv.org/abs/2604.13888v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T13:55:34Z",
+      "summary": "Инструмент бенчмаркинга, оценивающий производительность ИИ-агентов с инструментами в сложных задачах пространственного анализа.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b563c6d02218",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Оценка моделей машинного обучения с учителем: Принципы, подводные камни и выбор метрик",
+      "link": "https://arxiv.org/abs/2604.13882v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T13:44:35Z",
+      "summary": "Всесторонний обзор лучших практик и распространенных ошибок при оценке моделей машинного обучения с учителем.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f53378d5c934",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Мнение: Голосовые чат-боты усугубят угрозу ИИ для психического здоровья",
+      "link": "https://www.statnews.com/2026/04/16/voice-chatbots-ai-psychosis-mental-health/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-04-16T08:30:00Z",
+      "summary": "Анализ, предполагающий, что голосовые ИИ-чат-боты могут негативно повлиять на психическое здоровье пользователей.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1c2458a138ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Мнение: STAT+: Медицинская ИИ-революция требует переосмысления архитектуры здравоохранения",
+      "link": "https://www.statnews.com/2026/04/16/medical-ai-revolution-consumer-devices-health-records/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-04-16T08:30:00Z",
+      "summary": "Утверждает, что текущие системы здравоохранения нуждаются в реструктуризации для поддержки широкой интеграции медицинского ИИ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "af4e45da061b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jimini Health привлекла $17 млн | Ambient Clinical Analytics получила $5 млн стратегических инвестиций",
+      "link": "https://www.healthcareittoday.com/2026/04/16/jimini-health-raises-17m-ambient-clinical-analytics-secures-5m-strategic-investment/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-16T13:00:17Z",
+      "summary": "Две компании в сфере медицинских технологий объявляют об успешных раундах финансирования для платформ клинической аналитики и ИИ.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1383b0bb3a4b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Ambient Clinical Analytics",
+        "Jimini Health"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Как виртуальное поведенческое здоровье трансформирует качество, доступность и результаты лечения пациентов",
+      "link": "https://www.healthcareittoday.com/2026/04/15/how-virtual-behavioral-health-is-transforming-quality-access-and-patient-outcomes/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-15T14:00:13Z",
+      "summary": "Исследует, как платформы виртуального поведенческого здоровья используют технологии для улучшения доступа к клинической помощи.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6f517e53e60d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Legal Innovators Paris: 24 + 25 июня – объявлены спикеры",
+      "link": "https://www.artificiallawyer.com/2026/04/16/legal-innovators-paris-june-24-25-speakers-announced/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-16T06:06:44Z",
+      "summary": "Анонс спикеров предстоящей конференции, посвященной юридическим технологиям и ИИ-инновациям.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e618aa6c8b2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Technologist"
+      ],
+      "locations": [
+        "France"
+      ]
+    },
+    {
+      "title": "Legal Innovators California: 10 + 11 июня, объявлены топовые спикеры",
+      "link": "https://www.artificiallawyer.com/2026/04/15/legal-innovators-california-june-10-11-top-speakers-announced/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-15T15:09:51Z",
+      "summary": "Список спикеров, подтвержденных для калифорнийской конференции по юридическим технологиям и ИИ-инновациям.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f12a2c1aa1be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Technologist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ИИ-ассистент Canva теперь может вызывать различные инструменты для создания дизайнов за вас",
+      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-16T13:00:00Z",
+      "summary": "Canva обновила своего ИИ-ассистента для выполнения вызовов инструментов в автоматизированных рабочих процессах дизайна.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "165b8ac92153",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Canva"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Этот стартап по симуляции хочет стать Cursor для физического ИИ",
+      "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-16T12:30:00Z",
+      "summary": "Новый стартап стремится предоставить интерфейс, подобный кодингу, для симуляций физического ИИ.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3517e7eb419b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepL, известный текстовым переводом, теперь хочет переводить ваш голос",
+      "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-16T08:00:00Z",
+      "summary": "DeepL расширяет свои услуги ИИ-перевода, включая возможности голосового перевода языков.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "39049158bd47",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepL"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Музыкант, ставший основателем биотехнологической компании, в ожидании сбора средств",
+      "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-15T17:58:28Z",
+      "summary": "Профиль музыканта, который перешел к основанию биотехнологического ИИ-стартапа.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "18f5f5ff318b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
     {
       "title": "Следующая эволюция Agents SDK",
       "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",

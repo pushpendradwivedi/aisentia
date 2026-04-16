@@ -1,6 +1,1016 @@
 {
-  "refreshed_at": "2026-04-16 01:32 UTC",
+  "refreshed_at": "2026-04-16 13:28 UTC",
   "items": [
+    {
+      "title": "நம்மனைவரையும் பாதுகாக்கும் சைபர் பாதுகாப்பு சுற்றுச்சூழல் அமைப்பை விரைவுபடுத்துதல்",
+      "link": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-16T00:00:00Z",
+      "summary": "AI-ஆல் இயக்கப்படும் பாதுகாப்பு வழிமுறைகள் மற்றும் கூட்டு ஆராய்ச்சி மூலம் சைபர் பாதுகாப்பை வலுப்படுத்துவதற்கான முயற்சிகளை OpenAI அறிவித்துள்ளது.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a14aecd407b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "$P(y|x)$ இலிருந்து $P(y)$ வரை: முன்-பயிற்சி (Pre-train) வெளியில் வலுவூட்டல் கற்றலை (Reinforcement Learning) ஆய்வு செய்தல்",
+      "link": "https://arxiv.org/abs/2604.14142v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:59:01Z",
+      "summary": "முன்-பயிற்சியின் போது வலுவூட்டல் கற்றல் முன்னுதாரணங்களை நிபந்தனை நிகழ்தகவிலிருந்து (conditional probability) ஓரளவு பரவலுக்கு (marginal distribution) மாற்றுவதை இது ஆராய்கிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "480ff5c8dbc8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LongCoT: நீண்ட கால சங்கிலி-சிந்தனை (Chain-of-Thought) பகுத்தறிவை தரப்படுத்துதல்",
+      "link": "https://arxiv.org/abs/2604.14140v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:58:05Z",
+      "summary": "LLM-களில் நீண்ட கால சங்கிலி-சிந்தனை பகுத்தறிவு திறன்களை மதிப்பீடு செய்வதற்காக பிரத்யேகமாக வடிவமைக்கப்பட்ட ஒரு தரநிலையை (benchmark) அறிமுகப்படுத்துகிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fdd2b306d9c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "உணர்வுகள் முதல் அளவீடுகள் வரை: பயனர்கள் LLM-களை எவ்வாறு 'வைப்-டெஸ்ட்' (Vibe-Test) செய்கிறார்கள் என்பதைப் புரிந்துகொள்ளுதல் மற்றும் முறைப்படுத்துதல்",
+      "link": "https://arxiv.org/abs/2604.14137v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:57:08Z",
+      "summary": "LLM-களுக்கான தரமான பயனர் அனுபவ சோதனை முறைகளை அளவிடக்கூடிய புறநிலை செயல்திறன் அளவீடுகளாக இது முறைப்படுத்துகிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "796d9b48d4b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM பிரதிநிதித்துவங்களில் வினா-விடை வினாக்கள் (Rhetorical Questions): ஒரு நேரியல் ஆய்வு (Linear Probing Study)",
+      "link": "https://arxiv.org/abs/2604.14128v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:50:56Z",
+      "summary": "LLM-களின் உள் பிரதிநிதித்துவங்களில் வினா-விடை வினாக்கள் எவ்வாறு குறியாக்கம் செய்யப்படுகின்றன என்பதை பகுப்பாய்வு செய்ய நேரியல் ஆய்வை (linear probing) பயன்படுத்துகிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0c582d1e8cf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HiVLA: காட்சி-அடிப்படையிலான படிநிலை உள்ளடக்கிய கையாளுதல் அமைப்பு (Visual-Grounded-Centric Hierarchical Embodied Manipulation System)",
+      "link": "https://arxiv.org/abs/2604.14125v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:50:07Z",
+      "summary": "காட்சி அடிப்படை மற்றும் ரோபோடிக் கையாளுதலில் கவனம் செலுத்தும் உள்ளடக்கிய AI முகவர்களுக்கான ஒரு படிநிலை அமைப்பை வழங்குகிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8e1672ffa211",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TREX: முகவர்-இயக்கப்படும் மரம்-அடிப்படையிலான ஆய்வு மூலம் LLM ஃபைன்-டியூனிங்கை தானியக்கமாக்குதல்",
+      "link": "https://arxiv.org/abs/2604.14116v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:38:06Z",
+      "summary": "முகவர்-இயக்கப்படும் மரம்-அடிப்படையிலான தேடல் உத்திகளைப் பயன்படுத்தி LLM-களுக்கான தானியங்கி ஃபைன்-டியூனிங் முறையை முன்மொழிகிறது.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5bdbcee725b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UI-Zoomer: GUI கிரவுண்டிங்கிற்கான நிச்சயமற்ற தன்மை-இயக்கப்படும் அடாப்டிவ் ஜூம்-இன்",
+      "link": "https://arxiv.org/abs/2604.14113v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:32:28Z",
+      "summary": "AI பார்வை மாதிரிகளுக்கான நிச்சயமற்ற தன்மை அடிப்படையிலான அடாப்டிவ் ஜூமிங் பொறிமுறையைப் பயன்படுத்தி GUI கிரவுண்டிங் செயல்திறனை மேம்படுத்துகிறது.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "201bff311e48",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UMI-3D: யுனிவர்சல் மேனிபுலேஷன் இன்டர்ஃபேஸை பார்வை-வரம்பிலிருந்து 3D இடஞ்சார்ந்த உணர்வுக்கு விரிவுபடுத்துதல்",
+      "link": "https://arxiv.org/abs/2604.14089v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T17:04:34Z",
+      "summary": "2D பார்வைக்கு அப்பால் 3D இடஞ்சார்ந்த உணர்வை ஒருங்கிணைப்பதன் மூலம் ரோபாட்டிக்ஸிற்கான உலகளாவிய கையாளுதல் திறன்களை விரிவுபடுத்துகிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7d17ec1fdd7d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TIP: ஆன்-பாலிசி டிஸ்டிலேஷனில் டோக்கன் முக்கியத்துவம்",
+      "link": "https://arxiv.org/abs/2604.14084v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:58:24Z",
+      "summary": "LLM-களுக்கான ஆன்-பாலிசி டிஸ்டிலேஷன் செயல்முறையின் போது டோக்கன் முக்கியத்துவ அளவீடுகளின் தாக்கத்தை பகுப்பாய்வு செய்கிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e840b8c2d52b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "முதலில் பார்த்தல்-பின்பு வடிவமைத்தல்: உகந்த செயல்திறன்-நேர்மை வர்த்தக பரிமாற்றங்களுக்கான பல-பங்குதாரர் பார்வை",
+      "link": "https://arxiv.org/abs/2604.14035v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:15:25Z",
+      "summary": "பல-பங்குதாரர் AI அமைப்புகளுக்குள் அல்காரிதமிக் செயல்திறன் மற்றும் நேர்மை அளவீடுகளை சமநிலைப்படுத்துவதற்கான முறைகளை ஆராய்கிறது.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d1cc0efb38b9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "வணிக செயல்முறை மாதிரியாக்கத்தை மேம்படுத்த பெரிய மொழி மாதிரிகள்: கடந்த காலம், நிகழ்காலம் மற்றும் எதிர்கால போக்குகள்",
+      "link": "https://arxiv.org/abs/2604.14034v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:15:03Z",
+      "summary": "வணிக செயல்முறை மாதிரியாக்கத்தில் LLM-களின் ஒருங்கிணைப்பு, அதன் வரலாற்று பரிணாமம் மற்றும் எதிர்கால திசைகளை ஆய்வு செய்கிறது.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a74e6a23bbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting",
+        "Accounting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "மின் கட்ட செயல்பாட்டிற்கான ரன்டைம் பாதுகாப்பு கவசத்துடன் கூடிய படிநிலை வலுவூட்டல் கற்றல்",
+      "link": "https://arxiv.org/abs/2604.14032v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:11:10Z",
+      "summary": "பாதுகாப்பான மற்றும் திறமையான மின் கட்ட செயல்பாடுகளை பராமரிக்க பாதுகாப்பு கவசத்துடன் கூடிய படிநிலை RL-ஐப் பயன்படுத்துகிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3630d51bebe7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ஃபீட்-ஃபார்வர்டு 3D காட்சி மாதிரியாக்கம்: சிக்கல்-உந்துதல் பார்வை",
+      "link": "https://arxiv.org/abs/2604.14025v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T16:07:18Z",
+      "summary": "நடைமுறை சவால்கள் மற்றும் செயல்திறன் முடிவுகளில் கவனம் செலுத்தி, 3D காட்சி மாதிரியாக்கத்திற்கான ஃபீட்-ஃபார்வர்டு அணுகுமுறைகளை ஆய்வு செய்கிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a921791b1e47",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MAny: பல்லுருவ தொடர்ச்சியான அறிவுறுத்தல் ட்யூனிங்கிற்காக எதையும் இணைத்தல்",
+      "link": "https://arxiv.org/abs/2604.14016v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:57:23Z",
+      "summary": "தொடர்ச்சியான அறிவுறுத்தல் ட்யூனிங் திறனை மேம்படுத்த பல்வேறு பல்லுருவ மாதிரிகளை இணைப்பதற்கான ஒரு கட்டமைப்பை முன்மொழிகிறது.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8ca45fb6b080",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "வேகமாக நகரும் வாகனத்தில் ரேடார் மூலம் பல-பொருள் கண்காணிப்பை நோக்கி: அதிர்வெண் டொமைனில் ரேடாரை செயலாக்குவதற்கான சாத்தியக்கூறுகள்",
+      "link": "https://arxiv.org/abs/2604.14013v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:57:05Z",
+      "summary": "அதிவேக தன்னாட்சி வாகனங்களுக்கான பல-பொருள் கண்காணிப்பை மேம்படுத்த அதிர்வெண்-டொமைன் ரேடார் செயலாக்கத்தைப் பயன்படுத்துவதை மதிப்பீடு செய்கிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3fcab427a7e8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "நினைவக பரிமாற்ற கற்றல்: கோடிங் முகவர்களில் டொமைன்களுக்கு இடையே நினைவுகள் எவ்வாறு மாற்றப்படுகின்றன",
+      "link": "https://arxiv.org/abs/2604.14004v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:50:29Z",
+      "summary": "கோடிங் முகவர்களின் செயல்திறனை மேம்படுத்த டொமைன்களுக்கு இடையே கற்றுக்கொண்ட நினைவுகளை மாற்றுவது குறித்த ஆராய்ச்சி.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8c8b6319e6b6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "பேச்சு அங்கீகாரத்திற்கான டிஃப்யூஷன் மொழி மாதிரிகள்",
+      "link": "https://arxiv.org/abs/2604.14001v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:46:15Z",
+      "summary": "தானியங்கி பேச்சு அங்கீகார அமைப்பின் துல்லியத்தை மேம்படுத்த டிஃப்யூஷன்-அடிப்படையிலான மொழி மாதிரிகளைப் பயன்படுத்துவது குறித்த ஆய்வு.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bf42e3eb4cf9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "பார்வை-மொழி மாதிரிகளில் இயற்பியல் பகுத்தறிவுக்கான வெகுமதி வடிவமைப்பு",
+      "link": "https://arxiv.org/abs/2604.13993v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:36:26Z",
+      "summary": "பார்வை-மொழி AI மாதிரிகளுக்குள் இயற்பியல் பகுத்தறிவு திறன்களை மேம்படுத்த பயனுள்ள வெகுமதி கட்டமைப்புகளை ஆய்வு செய்கிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1e3a6ce241e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "பெரிய மொழி மாதிரிகளால் உருவாக்கப்படும் தகவல்களின் உண்மைத்தன்மையை மேம்படுத்த அடாப்டிவ் கன்ஃபார்மல் கணிப்பு",
+      "link": "https://arxiv.org/abs/2604.13991v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:35:42Z",
+      "summary": "LLM-ஆல் உருவாக்கப்பட்ட உரை வெளியீடுகளின் உண்மை நம்பகத்தன்மையை அதிகரிக்க அடாப்டிவ் கன்ஃபார்மல் கணிப்பைப் பயன்படுத்தும் ஒரு கட்டமைப்பு.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "64a10978814d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "அறிவு வரைபடங்களில் திறந்த-உலக கேள்வி-பதிலுக்காக LLM-GNN ஒருங்கிணைப்பைப் பயன்படுத்துதல்",
+      "link": "https://arxiv.org/abs/2604.13979v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:25:25Z",
+      "summary": "சிக்கலான அறிவு வரைபடங்களில் மேம்பட்ட கேள்வி-பதிலுக்காக LLM-கள் மற்றும் கிராஃப் நியூரல் நெட்வொர்க்குகளை இணைத்தல்.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f93f075dbc64",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "உயர்தர முன்-பயிற்சி தரவை நாம் எவ்வாறு தொகுக்க முடியும்? ப்ராம்ப்ட் வடிவமைப்பு, ஜெனரேட்டர் மாதிரி மற்றும் மூல தரவு பற்றிய முறையான ஆய்வு",
+      "link": "https://arxiv.org/abs/2604.13977v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:24:59Z",
+      "summary": "மாதிரி முன்-பயிற்சி நோக்கங்களுக்காக உயர்தர செயற்கை தரவை உருவாக்குவதற்கான வழிமுறைகளின் முறையான மதிப்பீடு.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8bf33b96688d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "[எழுந்து வரும் யோசனைகள்] செயற்கை முப்பரிமாண நுண்ணறிவு: இயற்பியல் AI-க்கான உயிர்-ஈர்க்கப்பட்ட, சென்சார்-முதல் கட்டமைப்பு",
+      "link": "https://arxiv.org/abs/2604.13959v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:10:10Z",
+      "summary": "இயற்பியல் AI பயன்பாடுகளுக்காக பிரத்யேகமாக வடிவமைக்கப்பட்ட, உயிர்-ஈர்க்கப்பட்ட, சென்சார்-இயக்கப்படும் கட்டமைப்பிற்கான முன்மொழிவு.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c67a9c751495",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Creo: ஒன்-ஷாட் பட உருவாக்கத்திலிருந்து முற்போக்கான, கூட்டு-படைப்பாற்றல் சிந்தனை வரை",
+      "link": "https://arxiv.org/abs/2604.13956v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:06:46Z",
+      "summary": "ஊடாடும் சிந்தனை மூலம் முற்போக்கான, கூட்டு-படைப்பாற்றல் பட உருவாக்கத்தை ஆதரிக்கும் Creo என்ற AI கட்டமைப்பை அறிமுகப்படுத்துகிறது.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0ca16915ab72",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Creative Director",
+        "Designer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HINTBench: ஹொரைசன்-முகவர் உள்ளார்ந்த தாக்குதல் அல்லாத பாதை தரநிலை",
+      "link": "https://arxiv.org/abs/2604.13954v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T15:06:01Z",
+      "summary": "தன்னாட்சி ஹொரைசன்-அடிப்படையிலான AI முகவர்களுக்கான உள்ளார்ந்த தாக்குதல் அல்லாத பாதைகளை மதிப்பீடு செய்ய வடிவமைக்கப்பட்ட தரநிலை.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dd2501341cbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "பெரிய அளவில் AI-உதவி பெறும் சக மதிப்பாய்வு: AAAI-26 AI மதிப்பாய்வு முன்னோடி திட்டம்",
+      "link": "https://arxiv.org/abs/2604.13940v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T14:51:07Z",
+      "summary": "கல்வி மாநாடுகளுக்கான AI-உதவி பெறும் சக மதிப்பாய்வு செயல்முறைகளை செயல்படுத்தும் ஒரு முன்னோடி திட்டத்தின் பகுப்பாய்வு.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4f124d67d763",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [
+        "AAAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Academic"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ASTER: மேற்பார்வையற்ற கால-தொடர் முரண்பாடு கண்டறிதலுக்கான லேட்டண்ட் சூடோ-அனோமலி உருவாக்கம்",
+      "link": "https://arxiv.org/abs/2604.13924v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T14:32:35Z",
+      "summary": "மேம்படுத்தப்பட்ட மேற்பார்வையற்ற கால-தொடர் முரண்பாடு கண்டறிதல் செயல்திறனுக்காக லேட்டண்ட் சூடோ-அனோமலி உருவாக்கத்தைப் பயன்படுத்தும் புதிய முறை.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0feebb5ca590",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "நமக்கு இன்னும் மனிதர்கள் தேவையா? விரோதத்தைக் கண்டறிவதற்கான செயலில் உள்ள கற்றலில் மனித மற்றும் LLM சிறுகுறிப்புகளை ஒப்பிடுதல்",
+      "link": "https://arxiv.org/abs/2604.13899v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T14:10:58Z",
+      "summary": "செயலில் உள்ள கற்றல் பணிப்பாய்வுகளில் மனித மற்றும் LLM சிறுகுறிப்புகளின் செயல்திறனை மதிப்பீடு செய்யும் ஒப்பீட்டு ஆய்வு.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cb5912b7b8c8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "இணைக்கப்பட்ட மாடல் முன்கணிப்பு கட்டுப்பாடு மற்றும் ஆழமான வலுவூட்டல் கற்றல் மூலம் பல-முகவர் காட்சிகளில் பழமைவாத தானியங்கி ஓட்டுதலுக்கு அப்பால்",
+      "link": "https://arxiv.org/abs/2604.13891v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T13:58:38Z",
+      "summary": "இணைக்கப்பட்ட MPC மற்றும் ஆழமான வலுவூட்டல் கற்றலைப் பயன்படுத்தி தன்னாட்சி ஓட்டுநர் பாதுகாப்பு மற்றும் செயல்திறனை மேம்படுத்தும் முறை.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d5157cc70dc8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GeoAgentBench: இடஞ்சார்ந்த பகுப்பாய்வில் கருவி-மேம்படுத்தப்பட்ட முகவர்களுக்கான டைனமிக் எக்ஸிகியூஷன் தரநிலை",
+      "link": "https://arxiv.org/abs/2604.13888v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T13:55:34Z",
+      "summary": "சிக்கலான இடஞ்சார்ந்த பகுப்பாய்வு பணிகளில் கருவி-மேம்படுத்தப்பட்ட AI முகவர்களின் செயல்திறனை மதிப்பிடும் கருவி.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b563c6d02218",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "மேற்பார்வையிடப்பட்ட இயந்திர கற்றல் மாதிரிகளை மதிப்பீடு செய்தல்: கொள்கைகள், சிக்கல்கள் மற்றும் அளவீட்டுத் தேர்வு",
+      "link": "https://arxiv.org/abs/2604.13882v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-04-15T13:44:35Z",
+      "summary": "மேற்பார்வையிடப்பட்ட இயந்திர கற்றல் மாதிரிகளை மதிப்பீடு செய்வதில் சிறந்த நடைமுறைகள் மற்றும் பொதுவான பிழைகள் பற்றிய விரிவான கண்ணோட்டம்.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f53378d5c934",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "கருத்து: குரல்-முதல் சாட்பாட்கள் AI-யின் மனநல அச்சுறுத்தலை அதிகரிக்கும்",
+      "link": "https://www.statnews.com/2026/04/16/voice-chatbots-ai-psychosis-mental-health/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-04-16T08:30:00Z",
+      "summary": "குரல்-இயக்கப்படும் AI சாட்பாட்கள் பயனர்களின் மனநலத்தை எதிர்மறையாக பாதிக்கக்கூடும் என்று பரிந்துரைக்கும் பகுப்பாய்வு.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1c2458a138ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "கருத்து: STAT+: மருத்துவ AI புரட்சிக்கு சுகாதாரப் பாதுகாப்பின் கட்டமைப்பை மறுபரிசீலனை செய்வது அவசியம்",
+      "link": "https://www.statnews.com/2026/04/16/medical-ai-revolution-consumer-devices-health-records/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-04-16T08:30:00Z",
+      "summary": "பரவலான மருத்துவ AI ஒருங்கிணைப்பை ஆதரிக்க தற்போதைய சுகாதார அமைப்புகளை மறுசீரமைக்க வேண்டும் என்று வாதிடுகிறது.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "af4e45da061b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jimini Health $17M திரட்டியது | Ambient Clinical Analytics $5M மூலோபாய முதலீட்டைப் பெற்றது",
+      "link": "https://www.healthcareittoday.com/2026/04/16/jimini-health-raises-17m-ambient-clinical-analytics-secures-5m-strategic-investment/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-16T13:00:17Z",
+      "summary": "இரண்டு சுகாதார தொழில்நுட்ப நிறுவனங்கள் மருத்துவ பகுப்பாய்வு மற்றும் AI தளங்களுக்கான வெற்றிகரமான நிதி திரட்டும் சுற்றுகளை அறிவித்துள்ளன.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1383b0bb3a4b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Ambient Clinical Analytics",
+        "Jimini Health"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "மெய்நிகர் நடத்தை ஆரோக்கியம் தரம், அணுகல் மற்றும் நோயாளி விளைவுகளை எவ்வாறு மாற்றுகிறது",
+      "link": "https://www.healthcareittoday.com/2026/04/15/how-virtual-behavioral-health-is-transforming-quality-access-and-patient-outcomes/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-15T14:00:13Z",
+      "summary": "மெய்நிகர் நடத்தை சுகாதார தளங்கள் மருத்துவ அணுகலை மேம்படுத்த தொழில்நுட்பத்தை எவ்வாறு பயன்படுத்துகின்றன என்பதை ஆய்வு செய்கிறது.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6f517e53e60d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "லீகல் இன்னோவேட்டர்ஸ் பாரிஸ்: ஜூன் 24 + 25 – பேச்சாளர்கள் அறிவிக்கப்பட்டனர்",
+      "link": "https://www.artificiallawyer.com/2026/04/16/legal-innovators-paris-june-24-25-speakers-announced/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-16T06:06:44Z",
+      "summary": "சட்ட தொழில்நுட்பம் மற்றும் AI கண்டுபிடிப்புகளில் கவனம் செலுத்தும் வரவிருக்கும் மாநாட்டிற்கான பேச்சாளர்களின் அறிவிப்பு.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e618aa6c8b2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Technologist"
+      ],
+      "locations": [
+        "France"
+      ]
+    },
+    {
+      "title": "லீகல் இன்னோவேட்டர்ஸ் கலிபோர்னியா: ஜூன் 10 + 11, சிறந்த பேச்சாளர்கள் அறிவிக்கப்பட்டனர்",
+      "link": "https://www.artificiallawyer.com/2026/04/15/legal-innovators-california-june-10-11-top-speakers-announced/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-15T15:09:51Z",
+      "summary": "கலிபோர்னியா சட்ட தொழில்நுட்பம் மற்றும் AI கண்டுபிடிப்பு மாநாட்டிற்காக உறுதிப்படுத்தப்பட்ட பேச்சாளர்களின் பட்டியல்.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f12a2c1aa1be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Technologist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Canva-வின் AI உதவியாளர் இப்போது உங்களுக்காக வடிவமைப்புகளை உருவாக்க பல்வேறு கருவிகளை அழைக்க முடியும்",
+      "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-16T13:00:00Z",
+      "summary": "தானியங்கி வடிவமைப்பு பணிப்பாய்வுகளுக்காக கருவி அழைப்புகளைச் செயல்படுத்த Canva தனது AI உதவியாளரைப் புதுப்பித்துள்ளது.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "165b8ac92153",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Canva"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "இந்த சிமுலேஷன் ஸ்டார்ட்அப் இயற்பியல் AI-க்கான Cursor ஆக இருக்க விரும்புகிறது",
+      "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-16T12:30:00Z",
+      "summary": "ஒரு புதிய ஸ்டார்ட்அப் இயற்பியல் AI சிமுலேஷன்களுக்கு கோடிங் போன்ற இடைமுகத்தை வழங்க நோக்கமாகக் கொண்டுள்ளது.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3517e7eb419b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "உரை மொழிபெயர்ப்பிற்கு பெயர் பெற்ற DeepL, இப்போது உங்கள் குரலை மொழிபெயர்க்க விரும்புகிறது",
+      "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-16T08:00:00Z",
+      "summary": "DeepL தனது AI மொழிபெயர்ப்பு சேவைகளை குரல்-அடிப்படையிலான மொழி மொழிபெயர்ப்பு திறன்களை உள்ளடக்கியதாக விரிவுபடுத்துகிறது.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "39049158bd47",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepL"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "நிதி திரட்டக் காத்திருக்கும் இசைக்கலைஞராக இருந்து பயோடெக் நிறுவனராக மாறியவர்",
+      "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-15T17:58:28Z",
+      "summary": "பயோடெக்னாலஜி-மையப்படுத்தப்பட்ட AI நிறுவனத்தை நிறுவுவதற்கு மாறிய ஒரு இசைக்கலைஞரின் சுயவிவரம்.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "18f5f5ff318b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
     {
       "title": "Agents SDK-யின் அடுத்த பரிணாம வளர்ச்சி",
       "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
