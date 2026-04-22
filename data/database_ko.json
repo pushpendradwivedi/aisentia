@@ -1,6 +1,821 @@
 {
-  "refreshed_at": "2026-04-21 13:27 UTC",
+  "refreshed_at": "2026-04-22 01:29 UTC",
   "items": [
+    {
+      "title": "개발자 데스크에서 조직 전체로: Amazon Bedrock에서 Claude Cowork 실행하기",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-21T19:13:49Z",
+      "summary": "Amazon Bedrock이 조직 전체의 AI 협업을 위한 Claude Cowork 실행을 지원합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "959821a80d07",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DVC와 Amazon SageMaker AI MLflow 앱을 활용한 엔드투엔드 리니지(Lineage)",
+      "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-lineage-with-dvc-and-amazon-sagemaker-ai-mlflow-apps/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-21T16:43:03Z",
+      "summary": "Amazon SageMaker 내에서 DVC와 MLflow 앱을 통합하여 포괄적인 AI/ML 리니지 추적을 구현합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2440152340f6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HIMSS 행사에서 확인하는 진화하는 AI 규제에 대한 통찰",
+      "link": "https://www.mobihealthnews.com/video/himss-events-offer-insight-evolving-ai-regulations",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-21T19:12:15Z",
+      "summary": "HIMSS 컨퍼런스 세션에서 의료 인공지능을 둘러싼 변화하는 규제 환경을 논의합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "442613fa644e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "HIMSS"
+      ],
+      "job_titles": [
+        "CTO",
+        "Compliance Officer",
+        "Policy Advisor"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "제레미 레너, AI 발전을 위해 RapidSOS 긴급 플랫폼 지원",
+      "link": "https://www.mobihealthnews.com/news/jeremy-renner-backs-rapidsos-emergency-platform-advance-ai",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-21T17:53:54Z",
+      "summary": "배우 제레미 레너가 긴급 대응 기술에 AI를 통합하는 RapidSOS를 지원합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e91788a5b7d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "RapidSOS"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI의 트리아지(triage) 정확도 문제를 해결하는 새로운 환자용 챗봇",
+      "link": "https://www.mobihealthnews.com/news/asia/new-patient-chatbot-tackles-ais-failing-triage-accuracy",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-21T15:08:43Z",
+      "summary": "임상 환자 트리아지 과정의 정확도를 개선하기 위한 새로운 챗봇 솔루션입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6ed6a5709145",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Clinical Informaticist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "컴퓨터 비전을 활용한 스마트 병실 구축",
+      "link": "https://www.mobihealthnews.com/video/creating-smart-hospital-rooms-computer-vision",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-21T14:38:31Z",
+      "summary": "컴퓨터 비전 기술을 사용하여 병원 환경 내 모니터링 및 자동화를 강화합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "5bd013c16f9d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "2026 eClinicalWorks Enterprise Summit에서 공개된 AI 콜센터의 놀라운 변화",
+      "link": "https://www.healthcareittoday.com/2026/04/21/the-ai-call-center-surprise-at-the-2026-eclinicalworks-enterprise-summit/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-21T17:00:18Z",
+      "summary": "eClinicalWorks가 엔터프라이즈 행사에서 새로운 AI 기반 콜센터 자동화 기능을 강조합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a28011a30730",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "eClinicalWorks"
+      ],
+      "job_titles": [
+        "CTO",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "복도에서 가정으로: AI 기반 퇴원 계획이 응급실 병상 부족을 줄이는 방법",
+      "link": "https://www.healthcareittoday.com/2026/04/21/from-hallways-to-home-how-ai-driven-discharge-planning-can-reduce-ed-boarding/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-21T14:00:40Z",
+      "summary": "AI 도구를 통해 퇴원 워크플로우를 최적화하여 응급실 과밀화 문제를 완화합니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "27a69ebecf9e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepJudge와 Epiq Advisory, 지식 관리(KM) 구현을 위한 파트너십 체결",
+      "link": "https://www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-21T13:02:52Z",
+      "summary": "DeepJudge와 Epiq Advisory가 법률 실무에 AI 지식 관리를 통합하기 위해 협력합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "45b55373dd79",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "DeepJudge",
+        "Epiq"
+      ],
+      "job_titles": [
+        "Attorney",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Luminance, LexisNexis 데이터 및 Protégé와 연동",
+      "link": "https://www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-21T12:00:00Z",
+      "summary": "Luminance가 향상된 문서 분석을 위해 LexisNexis 데이터를 자사의 AI 법률 플랫폼에 통합합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "66c0950874f8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "LexisNexis",
+        "Luminance"
+      ],
+      "job_titles": [
+        "Attorney",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "법률 기술(Legal Tech) 업계의 ARR 문제와 그에 대한 대응",
+      "link": "https://www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-21T08:45:08Z",
+      "summary": "법률 기술 소프트웨어 기업들이 직면한 연간 반복 매출(ARR) 과제에 대한 업계 분석입니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe6fac951d84",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "제품 살펴보기: DepoSim – AltaClaro",
+      "link": "https://www.artificiallawyer.com/2026/04/21/product-walk-through-deposim-altaclaro/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-21T07:44:25Z",
+      "summary": "법률 증언 준비 및 시뮬레이션을 위해 설계된 AI 도구인 DepoSim 시연입니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "715483ca5d07",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Education"
+      ],
+      "companies": [
+        "AltaClaro"
+      ],
+      "job_titles": [
+        "Attorney",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta, 직원들의 키 입력 기록을 AI 모델 학습에 활용 예정",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T23:45:21Z",
+      "summary": "Meta는 인공지능 모델 학습을 목적으로 직원들의 키 입력 로그를 수집할 계획입니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b23181db2bbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "권한 없는 그룹이 Anthropic의 독점 사이버 보안 도구 'Mythos'에 접근했다는 보도",
+      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T23:26:45Z",
+      "summary": "Anthropic의 독점 사이버 보안 AI 도구인 Mythos에 무단 접근이 있었다는 보고가 있습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "cd78e201d885",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SpaceX, Cursor와 협력 중이며 600억 달러에 인수할 옵션 보유",
+      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T22:58:22Z",
+      "summary": "SpaceX가 AI 코딩 스타트업 Cursor와 협력하며 상당한 규모의 인수 옵션을 보유하고 있습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b55747f6d2e5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Tech"
+      ],
+      "companies": [
+        "Cursor",
+        "SpaceX"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "AI 연구소 NeoCognition, 인간처럼 학습하는 에이전트 개발 위해 4천만 달러 시드 투자 유치",
+      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T19:11:29Z",
+      "summary": "NeoCognition이 인간처럼 학습할 수 있는 AI 에이전트 개발을 위해 4천만 달러를 확보했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6c61749c78a4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "NeoCognition"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ChatGPT의 새로운 Images 2.0 모델, 텍스트 생성 능력 놀라워",
+      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T19:00:00Z",
+      "summary": "OpenAI의 업데이트된 Images 2.0 모델이 정확한 텍스트 삽입 생성에서 향상된 성능을 보여줍니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0c88065d42e6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "샘 올트먼, Anthropic의 사이버 보안 모델 'Mythos'를 '공포 마케팅'이라 비판",
+      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T18:51:52Z",
+      "summary": "샘 올트먼이 사이버 보안 도구 Mythos와 관련된 Anthropic의 마케팅 전략을 비판했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fdde9ca62ffc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Clarifai, 안면 인식 AI 학습을 위해 OkCupid가 제공한 사진 300만 장 삭제",
+      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T17:11:01Z",
+      "summary": "Clarifai가 안면 인식 AI 모델 학습에 사용되었던 수백만 장의 OkCupid 사용자 사진을 삭제했습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f17ab9e9e109",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Clarifai",
+        "OkCupid"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AI Dungeon 제작사 Latitude, AI 기반 RPG 제작 플랫폼 'Voyage' 공개",
+      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T16:00:00Z",
+      "summary": "Latitude가 개발자들이 AI 기반 RPG 경험을 구축할 수 있는 새로운 플랫폼 Voyage를 출시했습니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "92ce862f8036",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Latitude"
+      ],
+      "job_titles": [
+        "Designer",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "새로운 소셜 미디어 플랫폼 'Bond', AI로 둠스크롤링 습관 교정 지원",
+      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T15:24:29Z",
+      "summary": "소셜 플랫폼 Bond는 디지털 콘텐츠 소비를 관리하여 사용자의 둠스크롤링을 줄이는 데 AI를 활용합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d3cb509cceb0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Bond"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "YouTube, 유명인 대상 AI 초상권 도용 탐지 기술 확대",
+      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T15:02:06Z",
+      "summary": "YouTube가 유명인의 딥페이크를 식별하고 관리하기 위해 AI 기반 탐지 도구를 확장합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2d537bc7c412",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google",
+        "YouTube"
+      ],
+      "job_titles": [
+        "CTO",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "GRAI, AI가 아티스트를 대체하는 것이 아니라 음악을 더 사회적으로 만들 수 있다고 믿어",
+      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T13:00:00Z",
+      "summary": "GRAI는 아티스트를 대체하기보다 사회적 음악 협업을 강화하기 위한 AI 도구를 개발합니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1c1798db541e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "GRAI"
+      ],
+      "job_titles": [
+        "Creative Director"
+      ],
+      "locations": []
+    },
+    {
+      "title": "존 터너스의 첫 번째 큰 과제는 AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQempCXzY3dFc4bFdGSndnMlBNVllTWFhIVDl3SDN1RWZDeU1iUUo0eGQ1WkJpLXVqMWU0UWF6eVNhOUxzT2ZTc3IxdUJkeXRxWXhtMExNLWZnQldiR0k1ZDFhbGhvbHVvd0x1TVl1ZFdvOTlBVTdPaFJfUmFyVEVQa3QzMDd1X0w0Njdzc2d0RWl0T0NkRVVtZXVOeUJjVm8zWkhsbTVON3c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T13:37:55Z",
+      "summary": "Apple의 임원 존 터너스가 향후 하드웨어 제품 로드맵에 AI를 통합하는 중대한 과제에 직면했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "37ede22ced0e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "OpenAI의 업데이트된 이미지 생성기, 이제 웹에서 정보 검색 가능 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDBYb1hoTTVLY204SE42djg2cjFtVlJTb0FyeWNxdFRBajlBN0lSc3VCcnBUSnUzWDRuSV81STVaeVZQQkttdzNFRVdjY0hwM0dubjB4LVlqNV95azR1OVpld3Y4S2lCOVlsT0lpeU9Fem40dWUtZk8ydlBwbFM1TkEtWEtiZExjM3c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T19:00:00Z",
+      "summary": "OpenAI가 이미지 생성기를 업데이트하여 웹에서 실시간 정보 검색이 가능해졌습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "137945b88b22",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Starbucks ChatGPT 앱으로 주문하기는 진정한 커피 악몽이었다 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWtNUXVpRURpS1pLZmN6WmpXOFJwSHFreHE0eFk5VUg1Z1pvN1ZELTF0bndkcGIzakhsWkIwakwzaFVNYlhNanh2S3ZISTcxbFBVQlhNMGlXZ1gyT0g4WmVTM1QwM3kwVjBnRUwwRjBBa1RKUGtmQktDU01BLXhHclJzMkdsaW1VbEJHUXBwOFI3Zw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T16:19:40Z",
+      "summary": "Starbucks의 ChatGPT 통합 서비스에 대한 리뷰로, 심각한 성능 및 사용자 경험 실패를 지적합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0fce82a09e80",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail"
+      ],
+      "companies": [
+        "OpenAI",
+        "Starbucks"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yelp, AI 챗봇 기능 대폭 강화 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUzNuekpqT0ZmRFJqajZlX3k3ODhBamF6YVpYRFdpQkk5VTA3OEtjNXhHai1pRnpiXzZTMW1wUzZIUUhyaURURWZzak5iSVFnTW5EdlphWlZLcVFZM1pYa2lrMExaczVTNFdqNVl1VUh2SnE4cUlYbGFHU0tLbGNjamNiVGVLSGlNM3lpajJReXU2dFdoeVdUQU9ZUHgzRUk?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T11:00:00Z",
+      "summary": "Yelp가 더 정확하고 유용한 비즈니스 추천을 제공하기 위해 AI 챗봇 기능을 업데이트했습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "33661099452d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Yelp"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "유명인들, YouTube에서 AI 딥페이크 탐지 및 삭제 요청 가능해져 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQTlwTkNlWGdQQzN5WnlSWG5rbEdXVzBkRUswakhyajV5bzJZOElReENWRi1kZDBiQk40VGplZUMzeEhWMmZYeFZvN1pyY1FwSnlQN2lVMFVXX0MyamRrQ0h4NXRoaUlBdzdzV0J0OGhhSmtIeVB6bWpweWxlN1JISGNXU0NaYW9lMk1adW12RkZLUjdCUm84LVlHVkNZY0hnZ1lzcF83c0NrQ2ZKcmJnbzhwTVVKOGc5Q3RnRldqZVRBUThrWnMtbXAyWHg4a2RZOGRnLQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T17:30:24Z",
+      "summary": "YouTube가 유명인들이 무단으로 생성된 AI 콘텐츠를 식별하고 삭제를 요청할 수 있는 도구를 도입합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3d22305a4ae5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "YouTube"
+      ],
+      "job_titles": [
+        "Legal Counsel"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "선거를 위협하는 AI 반발 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEtqX0xBUUotR2hpd0tDWlB2Slc5TWJDdnN3LVYwRHJUTzhweGF5U2lCRFJPZEx2NmVBNFd5QnlZOUZfeGxZY2NvaG5TWE1BbkhOWk1SRGVlV3N3ZUZpcnhoMkMxTXBxS2llN0dxeFNuLVh3aFZOaGEyeDBTOGI1ZFJocw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T19:00:05Z",
+      "summary": "다가오는 선거 주기와 공적 신뢰에 미칠 AI 생성 허위 정보의 영향에 대한 우려가 커지고 있습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4594e626e2e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Claude에게 또 다른 초능력이 생겼습니다...",
+      "link": "https://www.youtube.com/watch?v=jeA-KBv0b68",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-04-21T17:35:43Z",
+      "summary": "Claude AI 모델에 통합된 새로운 기능적 역량을 보여주는 영상입니다.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "0b92c563b36a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "전 세계 기업을 위한 Codex 확장",
       "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",

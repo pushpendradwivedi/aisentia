@@ -1,6 +1,821 @@
 {
-  "refreshed_at": "2026-04-21 13:27 UTC",
+  "refreshed_at": "2026-04-22 01:29 UTC",
   "items": [
+    {
+      "title": "Từ bàn làm việc của lập trình viên đến toàn bộ tổ chức: Chạy Claude Cowork trên Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-developer-desks-to-the-whole-organization-running-claude-cowork-in-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-21T19:13:49Z",
+      "summary": "Amazon Bedrock hiện hỗ trợ chạy Claude Cowork cho việc cộng tác AI trên toàn tổ chức.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "959821a80d07",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Truy xuất nguồn gốc toàn diện với DVC và các ứng dụng Amazon SageMaker AI MLflow",
+      "link": "https://aws.amazon.com/blogs/machine-learning/end-to-end-lineage-with-dvc-and-amazon-sagemaker-ai-mlflow-apps/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-21T16:43:03Z",
+      "summary": "Tích hợp DVC và các ứng dụng MLflow trong Amazon SageMaker để theo dõi nguồn gốc AI/ML toàn diện.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2440152340f6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Các sự kiện HIMSS cung cấp thông tin chi tiết về các quy định AI đang phát triển",
+      "link": "https://www.mobihealthnews.com/video/himss-events-offer-insight-evolving-ai-regulations",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-21T19:12:15Z",
+      "summary": "Các phiên hội thảo tại hội nghị HIMSS thảo luận về bối cảnh pháp lý đang thay đổi đối với trí tuệ nhân tạo trong y tế.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "442613fa644e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "HIMSS"
+      ],
+      "job_titles": [
+        "CTO",
+        "Compliance Officer",
+        "Policy Advisor"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Jeremy Renner ủng hộ nền tảng khẩn cấp RapidSOS để thúc đẩy AI",
+      "link": "https://www.mobihealthnews.com/news/jeremy-renner-backs-rapidsos-emergency-platform-advance-ai",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-21T17:53:54Z",
+      "summary": "Diễn viên Jeremy Renner ủng hộ việc RapidSOS tích hợp AI vào công nghệ ứng phó khẩn cấp.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e91788a5b7d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "RapidSOS"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Chatbot bệnh nhân mới giải quyết vấn đề độ chính xác kém trong phân loại bệnh nhân bằng AI",
+      "link": "https://www.mobihealthnews.com/news/asia/new-patient-chatbot-tackles-ais-failing-triage-accuracy",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-21T15:08:43Z",
+      "summary": "Một giải pháp chatbot mới nhằm cải thiện độ chính xác trong các quy trình phân loại bệnh nhân lâm sàng.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6ed6a5709145",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Clinical Informaticist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tạo phòng bệnh viện thông minh với thị giác máy tính",
+      "link": "https://www.mobihealthnews.com/video/creating-smart-hospital-rooms-computer-vision",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-21T14:38:31Z",
+      "summary": "Sử dụng các công nghệ thị giác máy tính để tăng cường giám sát và tự động hóa trong môi trường bệnh viện.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "5bd013c16f9d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sự bất ngờ về Trung tâm cuộc gọi AI tại Hội nghị thượng đỉnh doanh nghiệp eClinicalWorks 2026",
+      "link": "https://www.healthcareittoday.com/2026/04/21/the-ai-call-center-surprise-at-the-2026-eclinicalworks-enterprise-summit/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-21T17:00:18Z",
+      "summary": "eClinicalWorks nêu bật các tính năng tự động hóa trung tâm cuộc gọi dựa trên AI mới tại sự kiện doanh nghiệp của họ.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a28011a30730",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "eClinicalWorks"
+      ],
+      "job_titles": [
+        "CTO",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Từ hành lang đến gia đình: Lập kế hoạch xuất viện dựa trên AI có thể giảm tình trạng quá tải tại khoa cấp cứu như thế nào",
+      "link": "https://www.healthcareittoday.com/2026/04/21/from-hallways-to-home-how-ai-driven-discharge-planning-can-reduce-ed-boarding/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-21T14:00:40Z",
+      "summary": "Các công cụ AI tối ưu hóa quy trình xuất viện để giảm bớt các vấn đề quá tải tại khoa cấp cứu.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "27a69ebecf9e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepJudge + Epiq Advisory hợp tác để triển khai KM",
+      "link": "https://www.artificiallawyer.com/2026/04/21/deepjudge-epiq-advisory-partner-for-km-implementation/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-21T13:02:52Z",
+      "summary": "DeepJudge và Epiq Advisory hợp tác để tích hợp quản lý tri thức AI trong các hoạt động pháp lý.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "45b55373dd79",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "DeepJudge",
+        "Epiq"
+      ],
+      "job_titles": [
+        "Attorney",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Luminance liên kết với dữ liệu LexisNexis + Protégé",
+      "link": "https://www.artificiallawyer.com/2026/04/21/luminance-links-to-lexisnexis-data-protege/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-21T12:00:00Z",
+      "summary": "Luminance tích hợp dữ liệu LexisNexis vào nền tảng pháp lý AI của mình để tăng cường phân tích tài liệu.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "66c0950874f8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "LexisNexis",
+        "Luminance"
+      ],
+      "job_titles": [
+        "Attorney",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Vấn đề ARR của công nghệ pháp lý – Phản hồi từ ngành",
+      "link": "https://www.artificiallawyer.com/2026/04/21/legal-techs-arr-problem-industry-responses/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-21T08:45:08Z",
+      "summary": "Phân tích ngành về những thách thức về doanh thu định kỳ hàng năm mà các công ty phần mềm công nghệ pháp lý phải đối mặt.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe6fac951d84",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Hướng dẫn sản phẩm: DepoSim – AltaClaro",
+      "link": "https://www.artificiallawyer.com/2026/04/21/product-walk-through-deposim-altaclaro/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-04-21T07:44:25Z",
+      "summary": "Giới thiệu về DepoSim, một công cụ AI được thiết kế để chuẩn bị và mô phỏng việc lấy lời khai pháp lý.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "715483ca5d07",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Education"
+      ],
+      "companies": [
+        "AltaClaro"
+      ],
+      "job_titles": [
+        "Attorney",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta sẽ ghi lại các lần nhấn phím của nhân viên và sử dụng chúng để huấn luyện các mô hình AI của mình",
+      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T23:45:21Z",
+      "summary": "Meta có kế hoạch ghi lại các lần nhấn phím của nhân viên nhằm mục đích huấn luyện các mô hình trí tuệ nhân tạo.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b23181db2bbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Một nhóm trái phép đã giành được quyền truy cập vào công cụ mạng độc quyền Mythos của Anthropic, theo báo cáo",
+      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T23:26:45Z",
+      "summary": "Các báo cáo cho thấy quyền truy cập trái phép vào công cụ AI an ninh mạng độc quyền của Anthropic có tên là Mythos.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "cd78e201d885",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SpaceX đang làm việc với Cursor và có quyền chọn mua startup này với giá 60 tỷ USD",
+      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T22:58:22Z",
+      "summary": "SpaceX hợp tác với startup lập trình AI Cursor, nắm giữ quyền chọn mua lại đáng kể.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b55747f6d2e5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Tech"
+      ],
+      "companies": [
+        "Cursor",
+        "SpaceX"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Phòng nghiên cứu AI NeoCognition nhận được 40 triệu USD vốn hạt giống để xây dựng các tác nhân học hỏi như con người",
+      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T19:11:29Z",
+      "summary": "NeoCognition huy động được 40 triệu đô la để phát triển các tác nhân AI có khả năng học hỏi giống con người.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6c61749c78a4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "NeoCognition"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Mô hình Images 2.0 mới của ChatGPT tạo văn bản tốt đến bất ngờ",
+      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T19:00:00Z",
+      "summary": "Mô hình Images 2.0 cập nhật của OpenAI cho thấy hiệu suất cải thiện trong việc tạo văn bản nhúng chính xác.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0c88065d42e6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Sam Altman chỉ trích mô hình mạng Mythos của Anthropic: 'tiếp thị dựa trên nỗi sợ hãi'",
+      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T18:51:52Z",
+      "summary": "Sam Altman chỉ trích các chiến thuật tiếp thị của Anthropic liên quan đến công cụ an ninh mạng Mythos của họ.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fdde9ca62ffc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Clarifai xóa 3 triệu bức ảnh mà OkCupid cung cấp để huấn luyện AI nhận diện khuôn mặt, theo báo cáo",
+      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T17:11:01Z",
+      "summary": "Clarifai đã xóa hàng triệu bức ảnh người dùng OkCupid được sử dụng để huấn luyện các mô hình AI nhận diện khuôn mặt.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f17ab9e9e109",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Clarifai",
+        "OkCupid"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Nhà sản xuất AI Dungeon là Latitude ra mắt Voyage, một nền tảng để tạo các trò chơi nhập vai (RPG) hỗ trợ bởi AI",
+      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T16:00:00Z",
+      "summary": "Latitude đã ra mắt Voyage, một nền tảng mới cho các nhà phát triển xây dựng trải nghiệm RPG dựa trên AI.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "92ce862f8036",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Latitude"
+      ],
+      "job_titles": [
+        "Designer",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bond, một nền tảng truyền thông xã hội mới, muốn sử dụng AI để giúp bạn từ bỏ thói quen lướt tin tiêu cực (doomscrolling)",
+      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T15:24:29Z",
+      "summary": "Nền tảng xã hội Bond sử dụng AI để giảm tình trạng lướt tin tiêu cực của người dùng bằng cách quản lý việc tiêu thụ nội dung kỹ thuật số.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d3cb509cceb0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Bond"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "YouTube mở rộng công nghệ phát hiện chân dung AI sang những người nổi tiếng",
+      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T15:02:06Z",
+      "summary": "YouTube đang mở rộng các công cụ phát hiện dựa trên AI để xác định và quản lý các nội dung deepfake giả mạo người nổi tiếng trái phép.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2d537bc7c412",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google",
+        "YouTube"
+      ],
+      "job_titles": [
+        "CTO",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "GRAI tin rằng AI có thể làm cho âm nhạc mang tính xã hội hơn, chứ không thay thế nghệ sĩ",
+      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T13:00:00Z",
+      "summary": "GRAI phát triển các công cụ AI được thiết kế để tăng cường sự cộng tác âm nhạc xã hội thay vì thay thế các nghệ sĩ.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1c1798db541e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "GRAI"
+      ],
+      "job_titles": [
+        "Creative Director"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Vấn đề lớn đầu tiên của John Ternus là AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQempCXzY3dFc4bFdGSndnMlBNVllTWFhIVDl3SDN1RWZDeU1iUUo0eGQ1WkJpLXVqMWU0UWF6eVNhOUxzT2ZTc3IxdUJkeXRxWXhtMExNLWZnQldiR0k1ZDFhbGhvbHVvd0x1TVl1ZFdvOTlBVTdPaFJfUmFyVEVQa3QzMDd1X0w0Njdzc2d0RWl0T0NkRVVtZXVOeUJjVm8zWkhsbTVON3c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T13:37:55Z",
+      "summary": "Giám đốc điều hành Apple John Ternus phải đối mặt với những thách thức đáng kể trong việc tích hợp AI vào lộ trình sản phẩm phần cứng trong tương lai.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "37ede22ced0e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Trình tạo hình ảnh cập nhật của OpenAI hiện có thể lấy thông tin từ web - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbDBYb1hoTTVLY204SE42djg2cjFtVlJTb0FyeWNxdFRBajlBN0lSc3VCcnBUSnUzWDRuSV81STVaeVZQQkttdzNFRVdjY0hwM0dubjB4LVlqNV95azR1OVpld3Y4S2lCOVlsT0lpeU9Fem40dWUtZk8ydlBwbFM1TkEtWEtiZExjM3c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T19:00:00Z",
+      "summary": "OpenAI đã cập nhật trình tạo hình ảnh của mình để cho phép truy xuất thông tin theo thời gian thực từ web.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "137945b88b22",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Đặt hàng bằng ứng dụng ChatGPT của Starbucks thực sự là một cơn ác mộng cà phê - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWtNUXVpRURpS1pLZmN6WmpXOFJwSHFreHE0eFk5VUg1Z1pvN1ZELTF0bndkcGIzakhsWkIwakwzaFVNYlhNanh2S3ZISTcxbFBVQlhNMGlXZ1gyT0g4WmVTM1QwM3kwVjBnRUwwRjBBa1RKUGtmQktDU01BLXhHclJzMkdsaW1VbEJHUXBwOFI3Zw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T16:19:40Z",
+      "summary": "Một bài đánh giá về việc tích hợp ChatGPT của Starbucks nêu bật những thất bại đáng kể về hiệu suất và trải nghiệm người dùng.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0fce82a09e80",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail"
+      ],
+      "companies": [
+        "OpenAI",
+        "Starbucks"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yelp đang làm cho chatbot AI của mình hữu ích hơn nhiều - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUzNuekpqT0ZmRFJqajZlX3k3ODhBamF6YVpYRFdpQkk5VTA3OEtjNXhHai1pRnpiXzZTMW1wUzZIUUhyaURURWZzak5iSVFnTW5EdlphWlZLcVFZM1pYa2lrMExaczVTNFdqNVl1VUh2SnE4cUlYbGFHU0tLbGNjamNiVGVLSGlNM3lpajJReXU2dFdoeVdUQU9ZUHgzRUk?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T11:00:00Z",
+      "summary": "Yelp đã cập nhật các tính năng chatbot AI của mình để cung cấp các đề xuất kinh doanh chính xác và hữu ích hơn.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "33661099452d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Yelp"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Những người nổi tiếng sẽ có thể tìm và yêu cầu xóa các deepfake AI trên YouTube - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQTlwTkNlWGdQQzN5WnlSWG5rbEdXVzBkRUswakhyajV5bzJZOElReENWRi1kZDBiQk40VGplZUMzeEhWMmZYeFZvN1pyY1FwSnlQN2lVMFVXX0MyamRrQ0h4NXRoaUlBdzdzV0J0OGhhSmtIeVB6bWpweWxlN1JISGNXU0NaYW9lMk1adW12RkZLUjdCUm84LVlHVkNZY0hnZ1lzcF83c0NrQ2ZKcmJnbzhwTVVKOGc5Q3RnRldqZVRBUThrWnMtbXAyWHg4a2RZOGRnLQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T17:30:24Z",
+      "summary": "YouTube giới thiệu các công cụ cho những người nổi tiếng để xác định và yêu cầu xóa nội dung do AI tạo ra trái phép.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3d22305a4ae5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "YouTube"
+      ],
+      "job_titles": [
+        "Legal Counsel"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Phản ứng dữ dội về AI đang đến với các cuộc bầu cử - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZEtqX0xBUUotR2hpd0tDWlB2Slc5TWJDdnN3LVYwRHJUTzhweGF5U2lCRFJPZEx2NmVBNFd5QnlZOUZfeGxZY2NvaG5TWE1BbkhOWk1SRGVlV3N3ZUZpcnhoMkMxTXBxS2llN0dxeFNuLVh3aFZOaGEyeDBTOGI1ZFJocw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-21T19:00:05Z",
+      "summary": "Mối lo ngại ngày càng tăng về tác động của thông tin sai lệch do AI tạo ra đối với các chu kỳ bầu cử sắp tới và niềm tin của công chúng.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4594e626e2e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Claude vừa có thêm một siêu năng lực...",
+      "link": "https://www.youtube.com/watch?v=jeA-KBv0b68",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-04-21T17:35:43Z",
+      "summary": "Video giới thiệu các khả năng chức năng mới được tích hợp vào mô hình AI Claude.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "0b92c563b36a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Mở rộng quy mô Codex cho các doanh nghiệp trên toàn thế giới",
       "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
