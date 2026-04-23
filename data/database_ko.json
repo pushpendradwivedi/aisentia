@@ -1,6 +1,925 @@
 {
-  "refreshed_at": "2026-04-22 13:26 UTC",
+  "refreshed_at": "2026-04-23 01:34 UTC",
   "items": [
+    {
+      "title": "임상의를 위한 ChatGPT 개선",
+      "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T15:00:00Z",
+      "summary": "OpenAI가 임상 워크플로우 및 문서화를 위한 ChatGPT의 활용도를 높이기 위한 도구와 업데이트를 도입했습니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f1f0cc76182b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Director",
+        "Healthcare Administrator"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Responses API의 WebSocket을 통한 에이전트 워크플로우 가속화",
+      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T10:00:00Z",
+      "summary": "OpenAI의 Responses API에 WebSocket을 구현하여 AI 에이전트 워크플로우의 지연 시간을 줄였습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3a63ffe19879",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "워크스페이스 에이전트",
+      "link": "https://openai.com/academy/workspace-agents",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T10:00:00Z",
+      "summary": "조직 업무 및 생산성을 지원하기 위해 설계된 자율형 워크스페이스 에이전트 개요.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "23b8c7e12156",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Operations Manager",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ChatGPT에 워크스페이스 에이전트 도입",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T10:00:00Z",
+      "summary": "OpenAI가 전문 데이터 및 문서와 상호작용할 수 있는 AI 워크스페이스 에이전트를 출시했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ff43ae6fb48b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "81,000명이 들려준 AI 경제학에 대한 이야기 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fd1pST1VJOWtNWWF4aEppa3dJUmtJSGFtOFdlRVlLVGNpOHVnSmZZb0htU2dmS1VfOFJCdTItUWc2LW95MC03c3JNMzdOcXFBUzRPSWt4bTRrdDNo?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T17:11:52Z",
+      "summary": "Anthropic이 AI의 경제적 영향과 대중의 인식에 관한 대규모 설문조사 결과를 보고했습니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b92de4db4681",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Economist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AutoAdapt: 거대 언어 모델을 위한 자동화된 도메인 적응",
+      "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T16:25:30Z",
+      "summary": "Microsoft 연구진이 LLM의 도메인별 자동 미세 조정을 위한 새로운 방법을 상세히 설명합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6255accf9b4c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Parakeet-TDT와 AWS Batch를 활용한 대규모 비용 효율적 다국어 오디오 전사",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T21:05:01Z",
+      "summary": "AWS가 Parakeet-TDT와 Batch를 사용하여 확장 가능한 다국어 오디오 전사를 위한 아키텍처를 제시합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7d93b7d532a9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker AI, 최적화된 생성형 AI 추론 권장 사항 지원",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T19:15:08Z",
+      "summary": "Amazon SageMaker가 생성형 AI 모델을 위한 최적화된 추론 권장 사항에 대한 지원을 추가했습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a0f7a6a07b75",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "몇 분 만에 첫 번째 작업 에이전트 구축: Amazon Bedrock AgentCore의 새로운 기능 발표",
+      "link": "https://aws.amazon.com/blogs/machine-learning/get-to-your-first-working-agent-in-minutes-announcing-new-features-in-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T19:13:56Z",
+      "summary": "새로운 Amazon Bedrock 기능으로 AI 에이전트의 개발 및 배포가 간소화되었습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cc71791de49c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Neptune과 Mem0을 활용한 Amazon Bedrock의 기업별 메모리",
+      "link": "https://aws.amazon.com/blogs/machine-learning/company-wise-memory-in-amazon-bedrock-with-amazon-neptune-and-mem0/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-04-22T15:56:24Z",
+      "summary": "Amazon Neptune과 Mem0의 통합으로 Bedrock AI 에이전트의 장기 기억 기능이 가능해졌습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a9f6e5b5d408",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Mem0"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI 모델에게 '잘 모르겠습니다'라고 말하는 법 가르치기",
+      "link": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-04-22T19:15:00Z",
+      "summary": "MIT 연구진이 AI의 불확실성 보정을 개선하고 환각 현상을 줄이기 위한 방법을 개발했습니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4fa8f3f1d9a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "멀티모달 데이터 파이프라인 구축 - DeepLearning.AI",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNldmMEZCVmV4OVRRZEFyX1ZYM2NScUg0ek92dHktclE3MzNja3NqcnNveEhtdFVYSG5kT1p5cmxhbXVqZWZfQ0laY3RxcFc4dVUtSWZ5b0lUY0dSVHNyX2s4Rm5GWV9Wc19FVFdROWZST3Bhd3RwUU95SW5fdzF5bU5tWQ?oc=5",
+      "source": "DeepLearning.AI",
+      "region": "📚",
+      "pub_date": "2026-04-23T01:10:58Z",
+      "summary": "다양한 멀티모달 AI 입력 유형을 처리하기 위한 효율적인 데이터 파이프라인 구축 기술 튜토리얼.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f2a5a746f756",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepLearning.AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "STAT+: AI 사전 승인에 대한 연방 테스트가 노인들의 치료를 지연시키고 있다는 보고서",
+      "link": "https://www.statnews.com/2026/04/22/cms-wiser-program-delays-care-washington-state-hospitals-senator-says/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-04-22T21:13:11Z",
+      "summary": "AI 기반 사전 승인 테스트가 노인들의 의료 서비스 접근을 지연시키고 있다는 보고서 내용입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e1b9dd0973aa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "CMS"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "소규모 팀이 효과적인 사이버 방어를 구현하는 방법",
+      "link": "https://www.mobihealthnews.com/video/how-small-teams-can-implement-effective-cyber-defenses",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-22T20:24:30Z",
+      "summary": "소규모 조직이 강력한 사이버 보안 조치를 배포하고 민감한 디지털 자산을 보호하기 위한 가이드.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "a919cd7bee96",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Q&A: Treehub와 AI Health Fund, 헬스케어 AI 분야의 학계 혁신가 지원",
+      "link": "https://www.mobihealthnews.com/news/qa-treehub-ai-health-fund-launches-back-academic-innovators-healthcare-ai",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-22T15:00:00Z",
+      "summary": "헬스케어 AI 분야의 학계 혁신가들에게 재정적 지원을 제공하기 위한 새로운 펀드가 출범했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1a77fd2f4ff1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Investment Banking"
+      ],
+      "companies": [
+        "AI Health Fund",
+        "Treehub"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "인간의 개입은 AI의 부정확성을 제어하는 데 도움이 될 수 있다",
+      "link": "https://www.mobihealthnews.com/video/humans-loop-can-help-control-ais-inaccuracies",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-04-22T14:25:55Z",
+      "summary": "인공지능 시스템의 부정확성과 편향을 완화하기 위해서는 인간의 감독이 필수적입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7b9693821ffa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UNC Health와 RLDatix가 AI와 통합 시스템을 사용하여 안전 문화를 강화하는 방법",
+      "link": "https://www.healthcareittoday.com/2026/04/22/how-unc-health-and-rldatix-are-using-ai-and-integrated-systems-to-strengthen-a-culture-of-safety/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-04-22T15:00:25Z",
+      "summary": "UNC Health와 RLDatix가 AI와 통합 시스템을 활용하여 직장 내 안전 문화를 강화하고 있습니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b476ebada099",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "RLDatix",
+        "UNC Health"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "월스트리트의 엘리트 로펌, AI가 작성한 오류투성이 소송 서류에 대해 사과",
+      "link": "https://www.abajournal.com/news/article/elite-wall-street-law-firm-apologizes-for-error-laden-motion-created-by-ai/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-04-23T01:30:51.434667+00:00Z",
+      "summary": "유명 월스트리트 로펌이 AI가 생성한 결함 있는 법률 문서로 인해 사과문을 발표했습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "972d529ef09a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Legal Counsel",
+        "QA Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Jetson Orin Nano Super에서 실행하는 Gemma 4 VLA 데모",
+      "link": "https://huggingface.co/blog/nvidia/gemma4",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-04-22T15:40:50Z",
+      "summary": "Nvidia Jetson 엣지 컴퓨팅 하드웨어에서 Gemma 4 비전-언어 모델을 실행하는 시연.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "705f19855465",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Google",
+        "Nvidia"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "테슬라, 지출 계획을 250억 달러로 증액 — 자금 사용처는?",
+      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T23:56:52Z",
+      "summary": "테슬라가 AI 및 로봇 공학 이니셔티브에 집중하기 위해 자본 지출을 250억 달러로 늘렸습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e4062796e839",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "Tesla"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "구글, Workspace를 업데이트하여 AI를 새로운 사무실 인턴으로 활용",
+      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T22:44:26Z",
+      "summary": "구글이 자동화된 비서 역할을 하도록 설계된 새로운 AI 기능을 Workspace에 통합했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f7fd414c02ef",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "X의 새로운 AI 기반 맞춤형 피드 체험",
+      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T22:25:53Z",
+      "summary": "개인화된 사용자 타임라인 피드를 큐레이팅하기 위해 X가 구현한 생성형 AI에 대한 평가.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9eb2b0e55870",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "구글 클라우드, Nvidia와 경쟁하기 위해 두 개의 새로운 AI 칩 출시",
+      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T18:39:27Z",
+      "summary": "구글 클라우드가 하드웨어 분야에서 Nvidia의 지배력에 도전하기 위해 맞춤형 TPU AI 칩을 출시했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8c84cde7c5be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Google",
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "구글, Chrome을 직장인을 위한 AI 동료로 변신시키다",
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T17:30:00Z",
+      "summary": "Chrome 브라우저에 전문적인 워크플로우와 업무 생산성을 지원하도록 설계된 AI 기능이 추가되었습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "60bed5129fad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "구글의 새로운 기업용 에이전트 구축 도구에 대한 흥미로운 선택",
+      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T16:58:27Z",
+      "summary": "구글의 최신 기업용 AI 에이전트 개발 플랫폼에 대한 전략적 접근 방식 개요.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "662d43daa6cf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "업무용 Gmail에 AI 개요(AI Overviews) 도입",
+      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T16:46:10Z",
+      "summary": "구글이 전문적인 Gmail 계정에 자동화된 AI 콘텐츠 요약 기능을 직접 통합하고 있습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a972c730fe19",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "OpenAI와 Infosys, 더 많은 기업에 AI 도구를 제공하기 위해 협력",
+      "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T14:22:10Z",
+      "summary": "OpenAI가 Infosys와 파트너십을 맺고 기업 부문 내 AI 도구 도입을 확대합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "10f96a9703c4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Infosys",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, 이제 팀이 스스로 업무를 수행할 수 있는 맞춤형 봇 제작 지원 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQV8xWFd0aG1KLTVTNTRJSzJ2dFh5aWphYXBIZFpiWmpTUDQzZVV4QldMSnFZMDloMUptT3FwVDQwZjFNN0lfYlpnLV9hSERzLTZ1UlhfOGlyV003MnBKdDNNWW15a1hyaDU1d2hmZ2RYOWxkeTRhRHcySFc5U3FuX3hoR0J4M1pxUTFTNTlPYVpfYi1NSE5Jb1Z4dzZUUVU5bGZONkUxdEd1dlU3?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T20:09:02Z",
+      "summary": "OpenAI가 기업 팀들이 작업 워크플로우를 완료할 수 있는 자율형 봇을 구축할 수 있도록 지원합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b862589f9073",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google Meet, 대면 회의에서도 AI 메모 작성 지원 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXZoR2NQdGtoREFfNGIxQlZWN2c0TUd1WFNYbXJWdHR1OWJVMDhqVWFrSjlwUEZtLWsyVS0yWTlGUF94TXhhakJLQ3VPcXI4N1ZpbFNtTTBhUktSZ3AxanNzOVFjeHNZTTZ3QjBHdkNHSFFxU3BtR2FxNEV2bEpOT1dvNEN0M0k?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T16:38:19Z",
+      "summary": "Google Meet이 AI 기반 전사 및 요약 기능을 대면 회의 환경까지 확장합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0b1143aa0609",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "엘리자베스 워런 의원, AI 실패가 다음 금융 위기를 초래할 수 있다고 경고 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKWVJoMlhpUTJxcGRXd05aMkVaZ0QwcFVqTXlEMEJQU2R0TjJhQ3ZFbjQtMGtSUXZ5ekhhd1BmUFFoaU82bmNJeENNUkxkYjBSTFFkdDNpLWNmOXMybWhrd0g0OHVnZGZYM0JFVkl1djBZZ3ZqTmRIWXlUYm5qZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T20:29:05Z",
+      "summary": "엘리자베스 워런 상원의원은 시스템적인 AI 위험이 글로벌 금융 시장을 불안정하게 만들 수 있다고 경고했습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8a1fdd63b5c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "메타, AI 에이전트 훈련을 위해 직원들의 컴퓨터 작업 추적 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16T3g1MlZtcURkM3F2U1I1MFkzbGhOcU55YTdZRWYyRjBDN1dkTmQwTnBCVmJDRU9LZXhrYjBxM2FqSjdXU2VGSVFRRzFyUVdfVEZnOHhFb3QxcHNFZVprelpFRFI1QnQ0d3ByNmRpSXlhSEt5ZS1laA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T14:22:35Z",
+      "summary": "메타가 AI 에이전트 훈련 데이터를 수집하기 위해 직원들의 컴퓨터 사용 추적을 시행합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "92bca3ca8164",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "X, Grok이 타임라인을 큐레이팅하도록 허용할 예정 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14YkNRSk9Wb1FHSWNJMUF1Z2ZOdGVSWkFfUmlNdHRuOGRoV3FUQ1RMb1R6WjlpUzQ4ZXVZU1VYdERFQXdMT0dJTTl6UXdGOGJGcF83YzlXcFl6ZzVaSm5qemRCRTFXOThKbGRjek9mREVLQQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T20:49:38Z",
+      "summary": "X가 역동적이고 개인화된 콘텐츠 피드 큐레이션을 위해 Grok AI 통합을 도입합니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "789c003c288b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "소니의 엘리트 탁구 로봇이 상위 랭커들을 이기는 모습 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHJqSWdkSDJpYVF6M0xRWERBQVZLOTF4YjQ5NVhkbzZwaE5ma0NlMk5aWVhzNlU0dlFuSGtNbzBqN195X2h4cjJORkhGUW5MSC16bG02aFhPT3ZkdnhlSEVHVXJwS1pySm9fU2ltOWQ4THd4aUl6RjlveFVIZ3Q5YUJ2NXhUSU5VY0RzZU5n?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T17:43:38Z",
+      "summary": "소니가 전문 인간 탁구 선수를 이길 수 있는 로봇 시스템을 시연합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "effc930f5ffd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Sony"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "테슬라, AI 및 로봇 공학 투자 확대와 함께 매출 증가 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZndnbVdkRGE2TWZHUUlxc1ZzQWNrOHRwb1pVUlNFZW9pRDl0VXNxZUY5cWhEQUFrWk15TFd4SXpnc0VzMG1VWDNpbTFuN3Uza2c0VGItbGxRNVNXM2k3WVFja1RrdExNM1M1RTFSUUJjS0RnYXRqSlp0QjR2Z3ZIVEhhS21mZGVwVWpRbQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T20:36:17Z",
+      "summary": "테슬라가 AI 및 로봇 공학 기술에 대한 전략적 투자 확대와 함께 매출 성장을 보고했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9f3ba463f0fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "Tesla"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic의 Mythos 출시, 미국 사이버 보안 기관의 검토 누락 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkJBM2JWa1lpa1ZURUhLNENnaWFKUVZkTUpMVnE2VDZqVEhaQUNMQWQ1V283TVd5eE45UVduLW5zUGVRR3Y4dHJsVTBaUm41NWhZVVVmbW9rWmVjOEtUcVBXeldDUHgwQThYSTF6ekJ0aHI5VGd1WVRfMHV0eXdJOXZpNA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-04-22T16:57:36Z",
+      "summary": "Anthropic의 Mythos 모델 출시가 미국 사이버 보안 기관의 표준 검토 절차를 우회했습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6a6d17d87e5e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "에이전트 시대를 위한 두 가지 특화 TPU를 출시합니다.",
       "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
