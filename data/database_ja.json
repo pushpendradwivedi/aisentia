@@ -1,6 +1,549 @@
 {
-  "refreshed_at": "2026-05-04 13:54 UTC",
+  "refreshed_at": "2026-05-05 02:00 UTC",
   "items": [
+    {
+      "title": "Gemini API の Webhook を使用して、長時間実行されるジョブの摩擦とレイテンシを削減する",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T15:30:00Z",
+      "summary": "Gemini API は、拡張処理タスクのレイテンシを最小限に抑え、摩擦を軽減するために Webhook を導入します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "79cb2cae762e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Blackstone、Hellman & Friedman、Goldman Sachs と共に新しいエンタープライズ AI サービス企業を設立 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ydjZELVEzZzQwTUhWQjdfMnZxV2pPN29pLVkxNUpSUWVoN0ozOFBBcm9iV0tkckJyaVdnRk1rT01UclJaQXZtSGdsem03dXNDWjhMT2toTTkwcHlxZGJfZVQxWUI5MzFOMTBjZEhn?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T14:13:35Z",
+      "summary": "Anthropic は、主要な投資会社からの財政的支援を受けて、エンタープライズ AI サービス会社を立ち上げています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "51ccbd773df7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance",
+        "Investment Banking",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Anthropic",
+        "Blackstone",
+        "Goldman Sachs",
+        "Hellman & Friedman"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BI のその先へ: Amazon Quick の Dataset Q&A 機能が次世代のデータ決定をどのように強化するか",
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T17:46:32Z",
+      "summary": "Amazon QuickSight の Dataset Q&A 機能は、自然言語クエリを可能にし、データ主導の意思決定を強化します。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3735adfeb7e3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Business Analyst",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "エージェント品質ループの紹介: AgentCore Optimization がプレビューで利用可能に",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T17:13:42Z",
+      "summary": "AWS は、エージェント品質ループの改善のための新しいプレビュー機能である AgentCore Optimization を導入します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a911fa88a2d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker AI でモデルのカスタマイズを加速するエージェント主導のワークフロー",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T17:10:46Z",
+      "summary": "Amazon SageMaker AI は、モデルのカスタマイズプロセスを迅速化するために、エージェント主導のワークフローを提供するようになりました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b2fc40438a08",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Quick で自然言語プロンプトからダッシュボードを生成する",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T16:51:37Z",
+      "summary": "Amazon QuickSight は、自然言語ユーザープロンプトから直接ダッシュボードを生成できるようになりました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c7ccbebfc3e3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Business Analyst",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "データレイクから AI 対応分析へ: Amazon Quick の S3 Tables による新しいデータソースの紹介",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T16:12:37Z",
+      "summary": "Amazon QuickSight は S3 Tables を導入し、データレイクからの AI 対応分析のための直接クエリを可能にします。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e1115c3fbcf2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dataset Q&A の紹介: Amazon Quick で構造化データセットの自然言語クエリを拡張する",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-dataset-qa-expanding-natural-language-querying-for-structured-datasets-in-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T16:08:12Z",
+      "summary": "Amazon QuickSight の新しい Dataset Q&A 機能は、構造化データに対する自然言語クエリ機能を拡張します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1b48c8f1a75f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "容量認識型推論: SageMaker AI エンドポイントの自動インスタンスフォールバック",
+      "link": "https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T16:05:02Z",
+      "summary": "SageMaker AI エンドポイントは、信頼性のための自動インスタンスフォールバックを備えた容量認識型推論を特徴とするようになりました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cbb5ad3347f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: AI にブレーキをかけろ、相棒。そして証言の行き詰まり",
+      "link": "https://www.statnews.com/2026/05/04/elevance-medicare-advantage-lawsuit-artificial-intelligence-emergency-departments/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-05-04T14:44:04Z",
+      "summary": "Elevance Health を巻き込んだ訴訟の中で、医療現場での AI の実装を批判しています。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6cbb0631b56b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Elevance Health"
+      ],
+      "job_titles": [
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Enzo Health が AI ホームヘルスプラットフォームを拡大するために 2000 万ドルを調達",
+      "link": "https://www.mobihealthnews.com/news/enzo-health-raises-20m-expand-ai-home-health-platform",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-04T16:01:40Z",
+      "summary": "Enzo Health は、自宅での医療サービス提供のための AI パワードプラットフォームを拡大するために 2000 万ドルを調達しました。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "416c43356706",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Enzo Health"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI の親密なパートナーである Cerebras が、ブロックバスター IPO に向けて順調",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T21:53:21Z",
+      "summary": "AI チップスタートアップの Cerebras Systems が、大幅な新規株式公開の準備を進めています。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bc98b10e8d56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Cerebras",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investment Banking"
+      ],
+      "locations": []
+    },
+    {
+      "title": "画像 AI モデルがアプリの成長を牽引し、チャットボットのアップグレードを上回る",
+      "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T19:12:49Z",
+      "summary": "生成画像 AI モデルは現在、チャットボットのアップデートよりも高いアプリ成長率を牽引しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a168596f1396",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Elon Musk の OpenAI 裁判における唯一の AI 専門家証人は、AGI の軍拡競争を懸念",
+      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T16:57:47Z",
+      "summary": "専門家証人は、進行中の OpenAI 裁判中に危険な AGI の軍拡競争について警告しています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cde12b0c15be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sierra が 9 億 5000 万ドルを調達、エンタープライズ AI の所有権をめぐる競争が激化",
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T16:45:55Z",
+      "summary": "エンタープライズ AI 企業 Sierra は、ビジネス AI ツールのため、新たに 9 億 5000 万ドルの資金を調達しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "791e2ed7efba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sierra"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Elon Musk は、和解を求めた後、Greg Brockman と Sam Altman に不吉なテキストを送信したと OpenAI が主張",
+      "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T16:36:03Z",
+      "summary": "OpenAI は、進行中の訴訟に関する和解の申し出を受けて、Elon Musk が脅迫的な通信を送信したと主張しています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4507c485b2ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Anthropic と OpenAI は共にエンタープライズ AI サービスのための合弁事業を立ち上げ",
+      "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T15:59:24Z",
+      "summary": "Anthropic と OpenAI は、エンタープライズ AI の提供を拡大するために新しい合弁事業を設立しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2df0f916df05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DoorDash が AI ツールを追加して、加盟店オンボーディングを迅速化し、料理の写真を編集",
+      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T13:00:00Z",
+      "summary": "DoorDash は、加盟店オンボーディングを自動化し、食品写真撮影を強化するために AI 機能を統合しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "abf86860a849",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Uber の CEO、Dara Khosrowshahi が Uber ドライバー、そして自分自身を AI に置き換えることについて - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYUVsNFFNOTlpbkRnS09rbm1xV0lpakJPeFJoZDZzVEpHa0QzU2JRY0c2dFkyVXlTTEpuQTJfSXJEdFNpS0hBbzBlYzhCX19SdmdBOXFuS081alE0VjVsUlBIQ1RHZnRrZDdhaHhxV0V0SHpKdjNMQmdTZHRjd2huZndKc3lxbms0cUZaOVBmZVY5UQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T14:30:00Z",
+      "summary": "Uber の CEO は、運転タスクと管理の両方を自動化する可能性について議論しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1f939dff14f6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Uber"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Roomba のクリエイターが、毛むくじゃらのロボットコンパニオンと共に帰ってきた - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWVIVEFFaXRDeXVCd3dXODRhZ2pzMVNiM1BMVENSeTNyazFNaW0yaUVVOXFDd2RPcUdYZjZ5QVdoVWJtSlVxWVJtcXg4aWNOTzIwajVWRndKeEI2ZWNmY3VBaHY3MENBR3BZRXFhb1FTb280dlcxQjFVTlBnMDhUcG9hbFBCZ19od2gwT3JYRjlCMnhha05nYU5OSERCY3VpcEZxQVVwZlFSa2pCWHVYUWgydHAzMTVJ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T16:51:38Z",
+      "summary": "Roomba の発明者が、新しいロボットペットコンパニオンを立ち上げました。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "74ff876c6a45",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "OpenAI の社長は、質問に答えること以外は「すべてをこなす」 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1dKNVBreTh0cFJmc2dDVllPak1nQjhNd2VaSXlHT1dZZjF3a1RqMGxoS0d0MVFFTUZ5SGY3dnZEbVYwcUVydXdDek4tY1JtSTFGWGhTM05wcGZmNUxyUEF6NUV3bkFvalhuWm42OVVsSzFvRVh1N241Ynh4Q0M5Rl9CRzFlWXAtWE5ZWXd1eENBNTJpZWVj?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T23:49:33Z",
+      "summary": "OpenAI の社長 Greg Brockman と、同社内での彼の役割についてのプロフィールです。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "62d4198d2b8a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "SectraがOxipitの買収を完了 | ModMedがBonsai Healthを買収",
       "link": "https://www.healthcareittoday.com/2026/05/04/sectra-completes-oxipit-acquisition-modmed-acquires-bonsai-health/",

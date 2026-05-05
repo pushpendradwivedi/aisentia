@@ -1,6 +1,549 @@
 {
-  "refreshed_at": "2026-05-04 13:54 UTC",
+  "refreshed_at": "2026-05-05 02:00 UTC",
   "items": [
+    {
+      "title": "Gemini API-তে ওয়েবহুক (Webhooks) ব্যবহার করে দীর্ঘস্থায়ী কাজের জন্য ঘর্ষণ (friction) এবং ল্যাটেন্সি কমানো",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T15:30:00Z",
+      "summary": "Gemini API দীর্ঘস্থায়ী প্রসেসিং কাজের জন্য ল্যাটেন্সি কমাতে এবং ঘর্ষণ কমাতে ওয়েবহুক চালু করেছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "79cb2cae762e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Blackstone, Hellman & Friedman এবং Goldman Sachs-এর সাথে একটি নতুন এন্টারপ্রাইজ এআই (AI) পরিষেবা কোম্পানি তৈরি করছে - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ydjZELVEzZzQwTUhWQjdfMnZxV2pPN29pLVkxNUpSUWVoN0ozOFBBcm9iV0tkckJyaVdnRk1rT01UclJaQXZtSGdsem03dXNDWjhMT2toTTkwcHlxZGJfZVQxWUI5MzFOMTBjZEhn?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T14:13:35Z",
+      "summary": "Anthropic বড় বিনিয়োগকারী প্রতিষ্ঠানের আর্থিক সহায়তায় একটি এন্টারপ্রাইজ এআই পরিষেবা সংস্থা চালু করছে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "51ccbd773df7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance",
+        "Investment Banking",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Anthropic",
+        "Blackstone",
+        "Goldman Sachs",
+        "Hellman & Friedman"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BI-এর বাইরে: Amazon Quick-এর Dataset Q&A ফিচার কীভাবে ডেটা সিদ্ধান্তের পরবর্তী প্রজন্মকে শক্তিশালী করছে",
+      "link": "https://aws.amazon.com/blogs/machine-learning/beyond-bi-how-the-dataset-qa-feature-of-amazon-quick-powers-the-next-generation-of-data-decisions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T17:46:32Z",
+      "summary": "Amazon QuickSight-এর Dataset Q&A ফিচার উন্নত ডেটা-চালিত সিদ্ধান্তের জন্য প্রাকৃতিক ভাষায় প্রশ্ন করার সুবিধা দেয়।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3735adfeb7e3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Business Analyst",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "এজেন্ট কোয়ালিটি লুপের পরিচিতি: AgentCore Optimization এখন প্রিভিউতে",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-agent-quality-loop-agentcore-optimization-now-in-preview/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T17:13:42Z",
+      "summary": "AWS এজেন্ট কোয়ালিটি লুপ উন্নত করার জন্য একটি নতুন প্রিভিউ ফিচার, AgentCore Optimization চালু করেছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a911fa88a2d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker AI-তে মডেল কাস্টমাইজেশন ত্বরান্বিত করতে এজেন্ট-নির্দেশিত ওয়ার্কফ্লো",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agent-guided-workflows-to-accelerate-model-customization-in-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T17:10:46Z",
+      "summary": "Amazon SageMaker AI এখন মডেল কাস্টমাইজেশন প্রক্রিয়া দ্রুত করার জন্য এজেন্ট-নির্দেশিত ওয়ার্কফ্লো অফার করছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b2fc40438a08",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Quick-এ প্রাকৃতিক ভাষার প্রম্পট থেকে ড্যাশবোর্ড তৈরি করুন",
+      "link": "https://aws.amazon.com/blogs/machine-learning/generate-dashboards-from-natural-language-prompts-in-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T16:51:37Z",
+      "summary": "Amazon QuickSight এখন সরাসরি প্রাকৃতিক ভাষার ইউজার প্রম্পট থেকে ড্যাশবোর্ড তৈরির সুবিধা দেয়।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c7ccbebfc3e3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Business Analyst",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ডেটা লেক থেকে এআই-রেডি অ্যানালিটিক্স: Amazon Quick-এ S3 Tables-এর সাথে নতুন ডেটা সোর্সের পরিচিতি",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-data-lake-to-ai-ready-analytics-introducing-direct-query-with-s3-tables-in-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T16:12:37Z",
+      "summary": "Amazon QuickSight S3 Tables চালু করেছে, যা ডেটা লেক থেকে এআই-রেডি অ্যানালিটিক্সের জন্য সরাসরি কোয়েরি করার সুবিধা দেয়।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e1115c3fbcf2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dataset Q&A-এর পরিচিতি: Amazon Quick-এ স্ট্রাকচার্ড ডেটাসেটের জন্য প্রাকৃতিক ভাষায় প্রশ্ন করার সুবিধা সম্প্রসারণ",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-dataset-qa-expanding-natural-language-querying-for-structured-datasets-in-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T16:08:12Z",
+      "summary": "Amazon QuickSight-এর নতুন Dataset Q&A ফিচার স্ট্রাকচার্ড ডেটার জন্য প্রাকৃতিক ভাষায় প্রশ্ন করার সক্ষমতা বাড়িয়েছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1b48c8f1a75f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ক্যাপাসিটি-অ্যাওয়ার ইনফারেন্স: SageMaker AI এন্ডপয়েন্টের জন্য স্বয়ংক্রিয় ইনস্ট্যান্স ফলব্যাক",
+      "link": "https://aws.amazon.com/blogs/machine-learning/capacity-aware-inference-automatic-instance-fallback-for-sagemaker-ai-endpoints/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-04T16:05:02Z",
+      "summary": "SageMaker AI এন্ডপয়েন্টগুলোতে এখন নির্ভরযোগ্যতার জন্য স্বয়ংক্রিয় ইনস্ট্যান্স ফলব্যাক সহ ক্যাপাসিটি-অ্যাওয়ার ইনফারেন্স ফিচার রয়েছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cbb5ad3347f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: এআই-এর গতি কমানো, বন্ধু; এবং জবানবন্দি অচলাবস্থা",
+      "link": "https://www.statnews.com/2026/05/04/elevance-medicare-advantage-lawsuit-artificial-intelligence-emergency-departments/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-05-04T14:44:04Z",
+      "summary": "Elevance Health-এর সাথে জড়িত একটি মামলার প্রেক্ষাপটে চিকিৎসা ক্ষেত্রে এআই বাস্তবায়নের সমালোচনা।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6cbb0631b56b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Elevance Health"
+      ],
+      "job_titles": [
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "এআই হোম হেলথ প্ল্যাটফর্ম সম্প্রসারণের জন্য Enzo Health ২০ মিলিয়ন ডলার সংগ্রহ করেছে",
+      "link": "https://www.mobihealthnews.com/news/enzo-health-raises-20m-expand-ai-home-health-platform",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-04T16:01:40Z",
+      "summary": "Enzo Health বাড়িতে স্বাস্থ্যসেবা প্রদানের জন্য তাদের এআই-চালিত প্ল্যাটফর্ম স্কেল করতে ২০ মিলিয়ন ডলার সংগ্রহ করেছে।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "416c43356706",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Enzo Health"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI-এর ঘনিষ্ঠ অংশীদার Cerebras একটি ব্লকবাস্টার আইপিও (IPO)-এর পথে",
+      "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T21:53:21Z",
+      "summary": "এআই চিপ স্টার্টআপ Cerebras Systems একটি বড় ধরনের প্রাথমিক পাবলিক অফারিংয়ের (IPO) প্রস্তুতি নিচ্ছে।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bc98b10e8d56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Cerebras",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investment Banking"
+      ],
+      "locations": []
+    },
+    {
+      "title": "চ্যাটবট আপগ্রেডকে ছাড়িয়ে ইমেজ এআই মডেল এখন অ্যাপের প্রবৃদ্ধি বাড়াচ্ছে",
+      "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T19:12:49Z",
+      "summary": "জেনারেটিভ ইমেজ এআই মডেলগুলো বর্তমানে চ্যাটবট আপডেটের চেয়ে বেশি অ্যাপ প্রবৃদ্ধি ঘটাচ্ছে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a168596f1396",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI ট্রায়ালে এলন মাস্কের একমাত্র এআই বিশেষজ্ঞ সাক্ষী এজিআই (AGI) অস্ত্র প্রতিযোগিতার আশঙ্কা করছেন",
+      "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T16:57:47Z",
+      "summary": "একজন বিশেষজ্ঞ সাক্ষী চলমান OpenAI ট্রায়ালে একটি বিপজ্জনক এজিআই অস্ত্র প্রতিযোগিতার বিষয়ে সতর্ক করেছেন।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cde12b0c15be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "এন্টারপ্রাইজ এআই-এর মালিকানার লড়াই গুরুতর হওয়ায় Sierra ৯৫০ মিলিয়ন ডলার সংগ্রহ করেছে",
+      "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T16:45:55Z",
+      "summary": "এন্টারপ্রাইজ এআই কোম্পানি Sierra ব্যবসায়িক এআই টুলের জন্য নতুন ফান্ডিং হিসেবে ৯৫০ মিলিয়ন ডলার সংগ্রহ করেছে।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "791e2ed7efba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sierra"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI-এর দাবি, সমঝোতার অনুরোধের পর এলন মাস্ক গ্রেগ ব্রকম্যান এবং স্যাম অল্টম্যানকে অশুভ টেক্সট পাঠিয়েছিলেন",
+      "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T16:36:03Z",
+      "summary": "OpenAI অভিযোগ করেছে যে চলমান মামলার বিষয়ে সমঝোতার অনুরোধের পর এলন মাস্ক হুমকি প্রদানকারী বার্তা পাঠিয়েছিলেন।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4507c485b2ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Anthropic এবং OpenAI উভয়ই এন্টারপ্রাইজ এআই পরিষেবার জন্য যৌথ উদ্যোগ চালু করছে",
+      "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T15:59:24Z",
+      "summary": "Anthropic এবং OpenAI তাদের এন্টারপ্রাইজ এআই অফারগুলো সম্প্রসারণের জন্য নতুন যৌথ উদ্যোগ প্রতিষ্ঠা করছে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2df0f916df05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DoorDash মার্চেন্ট অনবোর্ডিং দ্রুত করতে এবং খাবারের ছবি এডিট করতে এআই টুল যুক্ত করেছে",
+      "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T13:00:00Z",
+      "summary": "DoorDash মার্চেন্ট অনবোর্ডিং স্বয়ংক্রিয় করতে এবং খাবারের ফটোগ্রাফি উন্নত করতে এআই ফিচার যুক্ত করেছে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "abf86860a849",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "উবার ড্রাইভারদের — এবং নিজেকে — এআই দিয়ে প্রতিস্থাপন নিয়ে দারা খোসরোশাহি - দ্য ভার্জ",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYUVsNFFNOTlpbkRnS09rbm1xV0lpakJPeFJoZDZzVEpHa0QzU2JRY0c2dFkyVXlTTEpuQTJfSXJEdFNpS0hBbzBlYzhCX19SdmdBOXFuS081alE0VjVsUlBIQ1RHZnRrZDdhaHhxV0V0SHpKdjNMQmdTZHRjd2huZndKc3lxbms0cUZaOVBmZVY5UQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T14:30:00Z",
+      "summary": "উবার সিইও ড্রাইভিং এবং ব্যবস্থাপনা উভয় কাজই এআই দিয়ে স্বয়ংক্রিয় করার সম্ভাবনা নিয়ে আলোচনা করেছেন।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1f939dff14f6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Uber"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "রুম্বার স্রষ্টা একটি লোমশ রোবট সঙ্গী নিয়ে ফিরে এসেছেন - দ্য ভার্জ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWVIVEFFaXRDeXVCd3dXODRhZ2pzMVNiM1BMVENSeTNyazFNaW0yaUVVOXFDd2RPcUdYZjZ5QVdoVWJtSlVxWVJtcXg4aWNOTzIwajVWRndKeEI2ZWNmY3VBaHY3MENBR3BZRXFhb1FTb280dlcxQjFVTlBnMDhUcG9hbFBCZ19od2gwT3JYRjlCMnhha05nYU5OSERCY3VpcEZxQVVwZlFSa2pCWHVYUWgydHAzMTVJ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T16:51:38Z",
+      "summary": "রুম্বার উদ্ভাবক একটি নতুন রোবোটিক পোষা সঙ্গী বাজারে এনেছেন।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "74ff876c6a45",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "OpenAI-এর প্রেসিডেন্ট প্রশ্নের উত্তর দেওয়া ছাড়া ‘সবকিছুই’ করেন - দ্য ভার্জ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1dKNVBreTh0cFJmc2dDVllPak1nQjhNd2VaSXlHT1dZZjF3a1RqMGxoS0d0MVFFTUZ5SGY3dnZEbVYwcUVydXdDek4tY1JtSTFGWGhTM05wcGZmNUxyUEF6NUV3bkFvalhuWm42OVVsSzFvRVh1N241Ynh4Q0M5Rl9CRzFlWXAtWE5ZWXd1eENBNTJpZWVj?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-04T23:49:33Z",
+      "summary": "OpenAI প্রেসিডেন্ট গ্রেগ ব্রকম্যান এবং কোম্পানিতে তার ভূমিকা নিয়ে একটি প্রোফাইল।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "62d4198d2b8a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "Sectra Oxipit অধিগ্রহণ সম্পন্ন করেছে | ModMed Bonsai Health অধিগ্রহণ করেছে",
       "link": "https://www.healthcareittoday.com/2026/05/04/sectra-completes-oxipit-acquisition-modmed-acquires-bonsai-health/",
