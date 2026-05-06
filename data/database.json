@@ -1,6 +1,1912 @@
 {
-  "refreshed_at": "2026-05-06 02:00 UTC",
+  "refreshed_at": "2026-05-06 14:10 UTC",
   "items": [
+    {
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "link": "https://openai.com/index/mrc-supercomputer-networking",
+      "source": "OpenAI",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-05-05T10:00:00Z",
+      "summary": "New networking protocol improves scalability and reliability for large-scale AI model training infrastructures.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2c0d932a3bc4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Infrastructure Engineer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "NVIDIA Spectrum-X \u2014 the Open, AI-Native Ethernet Fabric \u2014 Sets the Standard for Gigascale AI, Now With MRC",
+      "link": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+      "source": "NVIDIA",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-05-06T11:30:20Z",
+      "summary": "NVIDIA updates its Ethernet fabric platform with MRC technology to enhance AI data center performance.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dd7e6c344402",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Infrastructure Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-and-corning-announce-long-term-partnership-to-strengthen-us-manufacturing-for-ai-infrastructure",
+      "source": "NVIDIA",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-05-06T11:30:00Z",
+      "summary": "Partnership focuses on domestic fiber-optic manufacturing to support growing AI data center infrastructure needs.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "19c87d2fc587",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Corning",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CEO",
+        "Supply Chain Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Safety and accuracy follow different scaling laws in clinical large language models",
+      "link": "https://arxiv.org/abs/2605.04039v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T17:57:19Z",
+      "summary": "Research identifies distinct scaling behaviors for safety versus accuracy in medical domain LLMs.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3c0ce3eba08e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+      "link": "https://arxiv.org/abs/2605.04036v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T17:55:25Z",
+      "summary": "OpenSeeker-v2 enhances search agent capabilities for complex, high-difficulty reasoning and retrieval tasks.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b33ddf24255f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "link": "https://arxiv.org/abs/2605.04019v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T17:43:52Z",
+      "summary": "New methodology accelerates AI red teaming processes for agentic systems from weeks to hours.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d974bb4e73bc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment",
+      "link": "https://arxiv.org/abs/2605.04012v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T17:36:12Z",
+      "summary": "Framework for a conversational agent focused on patient symptom assessment and medical assistance.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eadc76322861",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",
+      "link": "https://arxiv.org/abs/2605.04003v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T17:24:53Z",
+      "summary": "A multi-agent architecture incorporating physics grounding for transparent AI decision support in manufacturing.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0638e98df5d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Operations Manager",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "An Agent-Oriented Pluggable Experience-RAG Skill for Experience-Driven Retrieval Strategy Orchestration",
+      "link": "https://arxiv.org/abs/2605.03989v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T17:10:25Z",
+      "summary": "New pluggable RAG skill architecture for optimizing retrieval strategies within agent-based workflows.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0102e9469cf5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "From Intent to Execution: Composing Agentic Workflows with Agent Recommendation",
+      "link": "https://arxiv.org/abs/2605.03986v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T17:08:26Z",
+      "summary": "System for automating the composition of agentic workflows based on user intent analysis.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0b2ca949c8d7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes",
+      "link": "https://arxiv.org/abs/2605.03984v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T17:07:37Z",
+      "summary": "Proposed technique for sampling from unnormalized probability distributions using denoising conditional generative processes.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e67361bbac5a",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators",
+      "link": "https://arxiv.org/abs/2605.03969v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:52:26Z",
+      "summary": "Model architecture improving AI-generated text detection robustness across varied domains and generators.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "197696b47a10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Label-Efficient School Detection from Aerial Imagery via Weakly Supervised Pretraining and Fine-Tuning",
+      "link": "https://arxiv.org/abs/2605.03968v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:51:28Z",
+      "summary": "Methodology for detecting educational buildings in aerial imagery using limited labeled datasets.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f32ab699174e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Inconsistent Databases and Argumentation Frameworks with Collective Attacks",
+      "link": "https://arxiv.org/abs/2605.03954v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:38:31Z",
+      "summary": "Theoretical analysis of argumentation frameworks to handle inconsistency within complex database systems.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eae6a211ddbc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MOSAIC-Bench: Measuring Compositional Vulnerability Induction in Coding Agents",
+      "link": "https://arxiv.org/abs/2605.03952v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:38:23Z",
+      "summary": "New benchmark evaluating security vulnerabilities introduced by AI coding agents during software development.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "614bc2e7098d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TabSurv: Adapting Modern Tabular Neural Networks to Survival Analysis",
+      "link": "https://arxiv.org/abs/2605.03944v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:32:10Z",
+      "summary": "Adaptation of tabular neural network architectures for specialized tasks in survival analysis.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bf06802d9786",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "A Benchmark for Interactive World Models with a Unified Action Generation Framework",
+      "link": "https://arxiv.org/abs/2605.03941v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:30:03Z",
+      "summary": "Benchmark introduced for evaluating interactive world models using a unified action generation framework.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "88b27b152436",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "The Counterexample Game: Iterated Conceptual Analysis and Repair in Language Models",
+      "link": "https://arxiv.org/abs/2605.03936v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:26:30Z",
+      "summary": "Proposes a game-theoretic approach for iterative conceptual repair to improve language model accuracy.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "347380097364",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Towards Open World Sound Event Detection",
+      "link": "https://arxiv.org/abs/2605.03934v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:23:06Z",
+      "summary": "Introduces methodology for sound event detection in unbounded, open-world environmental audio scenarios.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "257995ecd941",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Magic-Informed Quantum Architecture Search",
+      "link": "https://arxiv.org/abs/2605.03932v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:20:46Z",
+      "summary": "Applies magic-state formalisms to optimize quantum neural network architectures and computational efficiency.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "238bdd8562f5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PHALAR: Phasors for Learned Musical Audio Representations",
+      "link": "https://arxiv.org/abs/2605.03929v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:19:58Z",
+      "summary": "Utilizes phasors to improve representation learning for musical audio signals in neural networks.",
+      "persona": "\ud83c\udfa8 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c616519798e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Atomic Fact-Checking Increases Clinician Trust in Large Language Model Recommendations for Oncology Decision Support: A Randomized Controlled Trial",
+      "link": "https://arxiv.org/abs/2605.03916v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T16:12:30Z",
+      "summary": "Clinical trial shows atomic fact-checking significantly boosts physician trust in AI oncology recommendations.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5b143e67ff47",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Director",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Steer Like the LLM: Activation Steering that Mimics Prompting",
+      "link": "https://arxiv.org/abs/2605.03907v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:59:42Z",
+      "summary": "New technique enabling activation steering in LLMs using methods that mimic natural language prompting.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "62a120fda47a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Contextual Multi-Objective Optimization: Rethinking Objectives in Frontier AI Systems",
+      "link": "https://arxiv.org/abs/2605.03900v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:55:19Z",
+      "summary": "Framework for managing multiple conflicting objectives in the deployment of frontier AI systems.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7aec610d5466",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "QKVShare: Quantized KV-Cache Handoff for Multi-Agent On-Device LLMs",
+      "link": "https://arxiv.org/abs/2605.03884v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:44:29Z",
+      "summary": "Improves efficiency of on-device multi-agent systems via quantized KV-cache handoff techniques.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bccca6ec861b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Embedded Systems Engineer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Deco: Extending Personal Physical Objects into Pervasive AI Companion through a Dual-Embodiment Framework",
+      "link": "https://arxiv.org/abs/2605.03882v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:42:11Z",
+      "summary": "Framework integrating physical objects into pervasive AI systems via a dual-embodiment architecture.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "beb75257b44b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Designer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models",
+      "link": "https://arxiv.org/abs/2605.03877v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:37:50Z",
+      "summary": "Method for efficient train-free dataset distillation using semantic-distribution matching within diffusion models.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2ebad473b1d2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Spatiotemporal Convolutions on EEG signal -- A Representation Learning Perspective on Efficient and Explainable EEG Classification with Convolutional Neural Nets",
+      "link": "https://arxiv.org/abs/2605.03874v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:35:05Z",
+      "summary": "Proposes explainable spatiotemporal convolutional neural networks for enhanced EEG signal classification accuracy.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "960f92f7fe17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Mechanical Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "EvoLM: Self-Evolving Language Models through Co-Evolved Discriminative Rubrics",
+      "link": "https://arxiv.org/abs/2605.03871v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:31:00Z",
+      "summary": "Presents a self-evolving LLM framework using co-evolved discriminative rubrics for continuous improvement.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "547b9d7b0e69",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Quantifying the human visual exposome with vision language models",
+      "link": "https://arxiv.org/abs/2605.03863v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:25:00Z",
+      "summary": "Uses vision-language models to quantify human visual exposure in real-world environmental settings.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8954062a72eb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Correct Is Not Enough: Training Reasoning Planners with Executor-Grounded Rewards",
+      "link": "https://arxiv.org/abs/2605.03862v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:24:40Z",
+      "summary": "Introduces executor-grounded rewards to improve reasoning planning in complex AI agent tasks.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "abc1ee735656",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MCJudgeBench: A Benchmark for Constraint-Level Judge Evaluation in Multi-Constraint Instruction Following",
+      "link": "https://arxiv.org/abs/2605.03858v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:20:42Z",
+      "summary": "New evaluation benchmark for assessing LLM capabilities in complex, multi-constraint instruction following.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d6eb991e05f0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mechanical Conscience: A Mathematical Framework for Dependability of Machine Intelligenc",
+      "link": "https://arxiv.org/abs/2605.03847v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:14:02Z",
+      "summary": "Develops a mathematical framework to define and ensure dependability in autonomous machine intelligence.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2e1e7cbeb2d9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SOAR: Real-Time Joint Optimization of Order Allocation and Robot Scheduling in Robotic Mobile Fulfillment Systems",
+      "link": "https://arxiv.org/abs/2605.03842v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:09:32Z",
+      "summary": "Optimizes order allocation and robot scheduling in warehouse fulfillment using real-time algorithms.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "20a7623ebbb5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Operations Manager",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE: A Metrologically-Grounded Engineering Framework for Trustworthy Agentic AI Systems in Operationally Critical Domains",
+      "link": "https://arxiv.org/abs/2605.03838v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T15:05:00Z",
+      "summary": "Provides a measurement-based framework to ensure trust in agentic AI for critical industries.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b97fa6886f23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Defense",
+        "Healthcare",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RoboAlign-R1: Distilled Multimodal Reward Alignment for Robot Video World Models",
+      "link": "https://arxiv.org/abs/2605.03821v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T14:49:00Z",
+      "summary": "Aligns robot video world models using distilled multimodal reward signals for better task execution.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dc25a1a095af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Agentic-imodels: Evolving agentic interpretability tools via autoresearch",
+      "link": "https://arxiv.org/abs/2605.03808v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T14:35:47Z",
+      "summary": "Utilizes automated research workflows to develop and evolve agent-based model interpretability tools.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "de41e15eb676",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting",
+      "link": "https://arxiv.org/abs/2605.03804v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T14:30:30Z",
+      "summary": "Novel bio-inspired framework enabling personalized on-device memory management for autonomous AI agents.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "53a030c59182",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AI Advocate: Educational Path to Transform Squads to the Future",
+      "link": "https://arxiv.org/abs/2605.03800v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T14:26:43Z",
+      "summary": "Proposed educational methodology for transitioning organizational teams into AI-integrated operational workflows.",
+      "persona": "\ud83d\udcda Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2448700696f8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Say the Mission, Execute the Swarm: Agent-Enhanced LLM Reasoning in the Web-of-Drones",
+      "link": "https://arxiv.org/abs/2605.03788v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T14:14:57Z",
+      "summary": "Framework utilizing LLM-based reasoning for coordinating autonomous drone swarms for complex missions.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "339eaf6ca9a4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "What You Think is What You See: Driving Exploration in VLM Agents via Visual-Linguistic Curiosity",
+      "link": "https://arxiv.org/abs/2605.03782v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T14:08:54Z",
+      "summary": "New method for improving VLM agent exploration capabilities using visual-linguistic curiosity signals.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aa3c92ac9e13",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "OracleProto: A Reproducible Framework for Benchmarking LLM Native Forecasting via Knowledge Cutoff and Temporal Masking",
+      "link": "https://arxiv.org/abs/2605.03762v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T13:50:50Z",
+      "summary": "Benchmarking framework for evaluating LLM-native forecasting capabilities through temporal masking and knowledge controls.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9797bc5db530",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks",
+      "link": "https://arxiv.org/abs/2605.03759v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T13:42:31Z",
+      "summary": "Analysis of foundational learning failures within current Large Vision-Language Model unlearning benchmarks.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e667dda3a3d8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "A Workflow-Oriented Framework for Asynchronous Human-AI Collaboration in Hybrid and Compute-Intensive HPC Environments",
+      "link": "https://arxiv.org/abs/2605.03743v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T13:29:05Z",
+      "summary": "Framework for managing human-AI collaboration in high-performance computing and hybrid workflows.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c00e65f2c17d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Rethinking the Rank Threshold for LoRA Fine-Tuning",
+      "link": "https://arxiv.org/abs/2605.03724v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T13:09:46Z",
+      "summary": "Exploration of optimal rank thresholds to improve efficiency in LoRA model fine-tuning processes.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ee367808103f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Segmenting Human-LLM Co-authored Text via Change Point Detection",
+      "link": "https://arxiv.org/abs/2605.03723v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T13:08:55Z",
+      "summary": "Statistical approach using change point detection to segment text produced by human-AI collaboration.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b8fda488e9f3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amortized Variational Inference for Joint Posterior and Predictive Distributions in Bayesian Uncertainty Quantification",
+      "link": "https://arxiv.org/abs/2605.03710v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T12:56:00Z",
+      "summary": "New technique using amortized variational inference for improved Bayesian uncertainty quantification in models.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "217870ee9249",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SAM-NER: Semantic Archetype Mediation for Zero-Shot Named Entity Recognition",
+      "link": "https://arxiv.org/abs/2605.03706v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T12:54:17Z",
+      "summary": "Method for zero-shot Named Entity Recognition using Semantic Archetype Mediation techniques.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4e3f4d9f9727",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SERE: Structural Example Retrieval for Enhancing LLMs in Event Causality Identification",
+      "link": "https://arxiv.org/abs/2605.03701v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T12:50:19Z",
+      "summary": "Retrieval-based method improving Large Language Model performance in complex event causality identification tasks.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "07acc8eec048",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Tailored Prompts, Targeted Protection: Vulnerability-Specific LLM Analysis for Smart Contracts",
+      "link": "https://arxiv.org/abs/2605.03697v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T12:40:02Z",
+      "summary": "Vulnerability-specific prompting strategy for enhanced security analysis of smart contract codebases.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e4a380adbdaa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Graph Neural Network based Hierarchy-Aware Embeddings of Knowledge Graphs: Applications to Yeast Phenotype Prediction",
+      "link": "https://arxiv.org/abs/2605.03690v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T12:34:45Z",
+      "summary": "Applying GNN-based knowledge graph embeddings to improve biological phenotype prediction in yeast.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fc56686c9f36",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MEMTIER: Tiered Memory Architecture and Retrieval Bottleneck Analysis for Long-Running Autonomous AI Agents",
+      "link": "https://arxiv.org/abs/2605.03675v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T12:14:10Z",
+      "summary": "Architectural framework addressing memory retrieval bottlenecks in long-running autonomous AI agent systems.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a260a2585d4c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "FUS3DMaps: Scalable and Accurate Open-Vocabulary Semantic Mapping by 3D Fusion of Voxel- and Instance-Level Layers",
+      "link": "https://arxiv.org/abs/2605.03669v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-05-05T12:08:16Z",
+      "summary": "Mapping system combining voxel-level and instance-level fusion for accurate open-vocabulary 3D semantic mapping.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bcf876a34022",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Technical Support Fundamentals - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DVjNvQmtzQWVWM3RrX1l6NWw4eUl3c2JjX0s1OWN0S1B3aWpieVlQMWROVWVkSjRMcmwzTk5QN3psNDdSTk1UNHJXUUhfbS1OU1VubEx3TDd5a1J0TWN6UUpxVWFaVUhWV2F0ajln?oc=5",
+      "source": "Coursera AI",
+      "region": "\ud83d\udcda",
+      "pub_date": "2018-01-16T14:10:03Z",
+      "summary": "Foundational course covering essential technical support skills, hardware, and networking basics.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c7da06492f80",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Coursera"
+      ],
+      "job_titles": [
+        "IT Support"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Prepare Data for Exploration - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qTTBsd2ZSS3dOeGtncDA5UG9VMndsNE1zZ0RGZHFOMU0yeXFkZDU2SGJoWHNSbFVZTDFWaVJSX1o2Z2d3cjFENUpVejNJRGV5RWZncU96S2hnYW8?oc=5",
+      "source": "Coursera AI",
+      "region": "\ud83d\udcda",
+      "pub_date": "2021-03-10T20:37:53Z",
+      "summary": "Educational curriculum focusing on data cleaning, structuring, and preparation techniques for analysis.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3ebe2ca991be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Coursera"
+      ],
+      "job_titles": [
+        "Analyst",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta Front-End Developer Professional Certificate - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkVCVXN6b2g0NTRiZWNpSy16d2ZjSEx6RVc0Z3otMFUtSXpSRzVSd01LQ1VrZmN4d2xvRmFGVV9uOFF3aTdyQllEV0UtU2sxbmJIb1d6VmRtaTI1c3hpRVZYWHBNQTcxQ2FReTZIN24xeGNOTmpNcV9kUThHN2k4dw?oc=5",
+      "source": "Coursera AI",
+      "region": "\ud83d\udcda",
+      "pub_date": "2022-05-04T13:19:40Z",
+      "summary": "Professional certification track for front-end web development skills offered by Meta.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e13638c2a921",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Coursera",
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer",
+        "Software Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: OpenAI wants to \u2018have their cake and eat it too\u2019 with health AI policy recommendations",
+      "link": "https://www.statnews.com/2026/05/06/openai-policy-blueprint-unleashing-ai-potential-health-care/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-05-06T08:30:00Z",
+      "summary": "OpenAI's health policy blueprint draws skepticism regarding potential conflicts between regulation and industry interests.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "344dd7fdcb0d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Maker"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "HealthVerity to acquire data platform Symphony Health",
+      "link": "https://www.mobihealthnews.com/news/healthverity-acquire-data-platform-symphony-health",
+      "source": "MobiHealthNews",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-05-05T17:13:35Z",
+      "summary": "HealthVerity enters agreement to acquire Symphony Health, expanding its healthcare data platform capabilities.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "12b0bfad2626",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "HealthVerity",
+        "Symphony Health"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Exclusive: XCaliber Health scores $6.5M for workflow platform",
+      "link": "https://www.mobihealthnews.com/news/exclusive-xcaliber-health-scores-65m-workflow-platform",
+      "source": "MobiHealthNews",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-05-05T12:00:00Z",
+      "summary": "Health tech startup XCaliber Health raises $6.5 million to scale its clinical workflow platform.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bef46ea13db9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "XCaliber Health"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "We Need More than the Model Context Protocol in Healthcare",
+      "link": "https://www.healthcareittoday.com/2026/05/06/we-need-more-than-the-model-context-protocol-in-healthcare/",
+      "source": "Healthcare IT",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-05-06T14:00:32Z",
+      "summary": "The Model Context Protocol requires additional clinical context integration for effective healthcare application deployment.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "25792e9fe5a8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CIO",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ethermed Raises $8.5 Million Series A | Joyful Health Raises $22M",
+      "link": "https://www.healthcareittoday.com/2026/05/05/ethermed-raises-8-5-million-series-a-joyful-health-raises-22m/",
+      "source": "Healthcare IT",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-05-05T13:00:35Z",
+      "summary": "Ethermed and Joyful Health secure Series A funding to advance healthcare technology solutions.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b51d4d90b691",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Ethermed",
+        "Joyful Health"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CIO Podcast \u2013 Episode 113: Balancing Hospital Needs with Technology and Innovation with Nitin Agarwal",
+      "link": "https://www.healthcareittoday.com/2026/05/04/cio-podcast-episode-113-balancing-hospital-needs-with-technology-and-innovation-with-nitin-agarwal/",
+      "source": "Healthcare IT",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-05-04T15:00:31Z",
+      "summary": "CIO discusses integrating hospital operational requirements with emerging technology and digital innovation.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "68054e02af38",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CIO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Beyond Data Exchange: The Next Era of Interoperability Happens Inside Clinical Workflows",
+      "link": "https://www.healthcareittoday.com/2026/05/04/beyond-data-exchange-the-next-era-of-interoperability-happens-inside-clinical-workflows/",
+      "source": "Healthcare IT",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-05-04T14:00:30Z",
+      "summary": "Clinical workflow integration represents the next phase of healthcare interoperability beyond basic data exchange.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b48048b395c9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "How AI-First Moritz Is Taking on Big Law",
+      "link": "https://www.artificiallawyer.com/2026/05/06/how-ai-first-moritz-is-taking-on-big-law/",
+      "source": "Artificial Lawyer",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-05-06T06:42:19Z",
+      "summary": "Moritz utilizes an AI-first operational model to compete with traditional large-scale law firms.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5e1cb1f64773",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Moritz"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Pipecat Integration | Sarvam - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlR0F6XzRlXzlXVDF2MTNHTVdZbkpTQmRaOFpwbWthWm15aDZYS2tmTFdoOGZJR3M0N3VScC1YaTNMdVVpdmV5cE81c05mdmJ2ZzVpVg?oc=5",
+      "source": "Sarvam AI",
+      "region": "\ud83c\uddee\ud83c\uddf3",
+      "pub_date": "2026-05-06T12:23:09Z",
+      "summary": "Sarvam AI integrates Pipecat to enhance multimodal voice AI agent capabilities.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fdbe112c1718",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "source": "Hugging Face",
+      "region": "\ud83d\udcbb",
+      "pub_date": "2026-05-06T00:00:00Z",
+      "summary": "Hugging Face updates the Open ASR Leaderboard to mitigate benchmark manipulation techniques.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6491f8c1211c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI boom pushes Samsung to $1T",
+      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-05-06T13:54:09Z",
+      "summary": "Driven by AI demand, Samsung's valuation has reached the one trillion dollar milestone.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e15d798706b2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "Samsung"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Peter Sarlin\u2019s QuTwo reaches $380M valuation in angel round",
+      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-05-06T06:47:12Z",
+      "summary": "QuTwo secures a $380 million valuation following a successful angel funding round.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5ce2f9b9bc89",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking"
+      ],
+      "companies": [
+        "QuTwo"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-05-06T06:34:32Z",
+      "summary": "Marc Lore predicts AI will democratize and streamline the process of opening restaurants.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "18521d413e03",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ASML CEO Christophe Fouquet on his company\u2019s monopoly: no one is coming for us",
+      "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-05-05T20:06:40Z",
+      "summary": "ASML CEO asserts the company's dominant market position in semiconductor manufacturing remains secure.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d15cde9337a4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Manufacturing"
+      ],
+      "companies": [
+        "ASML"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Chrome\u2019s AI features may be hogging 4GB of your computer storage - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVGVyM3VtZlYxQTJpTFEwSWZ4M1YtQUVuVVZFLUNSMG9xX0NrWlh3RGRlcEFtbkktMVNIN0VFQks5U1BqXzhZdkNHZ2xYc2szLW4yQU9kRWVGT2tBWWpQR0lNeGp0Z2xCQTlUUDZvQUFBYURNVGVMVTZhY3hZb0FfU3BOQVY?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-05-06T10:13:09Z",
+      "summary": "Google Chrome's integrated AI functionalities reportedly utilize 4GB of local system storage.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "05a9174dec70",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google\u2019s AI search summaries will now quote Reddit - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdVNzN01heUtiRDdfdWtHbklrM2JWVkNBckxaX2ZVUWRCQ0Z1ZTNvSlhJZGJuN1A3dTJBdzhKRTR4N2YxX1VDR1hFNEdRM3VNUndyR2xHVnhKLW1zd05UZWpRODJ0dUZ3UkFpR01yV29ZX21uazdLa01UcEp6MW8yMTdfMU15ZjhRdXhhN25qYi1qQQ?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-05-06T13:00:30Z",
+      "summary": "Google updates AI search summaries to include direct citations from Reddit discussions.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3a82813669ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google",
+        "Reddit"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Musk v. Altman is getting a live audio stream next week. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRDNra291QnM0Zl9BbVd4QmdyVUtRNzVvY0U0RkJicTkzT2xFWV8yU3RfWHNXLU53MUpvc09kQlI2WVpPMi1CTENmTWF1d3BCT2JZWlFXUDRBblhVU0UtU05VeTBoc2JoSjZVeXZWMW5SdXBxd1c3cUJrZUw1am0tNXVEclI0RC1BTEpUakFvSQ?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-05-02T23:17:13Z",
+      "summary": "A live audio stream will cover upcoming legal proceedings involving Elon Musk and Sam Altman.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aa5c5e87513b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google\u2019s latest Gemini app redesign is popping up on iPhones. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQzN1UXpkYmFnMEplX3ZWem5fMnphWHZTM3c4YUZmelotMllsbzluZW9jQTZlQmtpZ0tqbG9ta2FBaEk2c0RHWEtiU3NIYXFSbGlwSDJhTG1aUVVYejlCQ3hFSmc0NXR4V1lSQy1odE9Velk4ZTF1NVBzdDVMZTJjajk2Wml0a0ZDeDRZUWZDSmZvTndjOUNmMF82T2M?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-05-04T20:00:36Z",
+      "summary": "Google is rolling out a redesigned Gemini AI interface for iPhone users.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e8616e6f3828",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "732 bytes of Python just borked every Linux machine on earth\u2026",
+      "link": "https://www.youtube.com/watch?v=lkifbWtxxlk",
+      "source": "Fireship AI",
+      "region": "\ud83d\udcfa",
+      "pub_date": "2026-05-04T18:40:40Z",
+      "summary": "Technical analysis of a severe vulnerability caused by a small Python script on Linux.",
+      "persona": "\ud83d\udcbb Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "bc958b445671",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
       "link": "https://openai.com/index/gpt-5-5-instant",
