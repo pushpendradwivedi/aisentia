@@ -1,6 +1,1341 @@
 {
-  "refreshed_at": "2026-05-05 02:00 UTC",
+  "refreshed_at": "2026-05-06 02:00 UTC",
   "items": [
+    {
+      "title": "GPT-5.5 Instant: thông minh hơn, rõ ràng hơn và cá nhân hóa hơn",
+      "link": "https://openai.com/index/gpt-5-5-instant",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T10:00:00Z",
+      "summary": "OpenAI phát hành GPT-5.5 Instant, một mô hình tiên tiến mang lại trí tuệ, sự rõ ràng và khả năng cá nhân hóa nâng cao.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "05d3c5cd4cae",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Các tác nhân (agents) cho dịch vụ tài chính và bảo hiểm - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IS1R3ZVd5NUxtWGJjRlFBQXZfOXJPS2xlY0wtaWZhSmx0M2RNaFUwN3FCU1Y3bTh5dkhqOEtIUE94UXFtT2l1MEk0WFZyUVRYV1Fsc1JrMEU?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T15:06:18Z",
+      "summary": "Anthropic phát triển các tác nhân AI được thiết kế riêng cho lĩnh vực dịch vụ tài chính và bảo hiểm.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "153b683f6d71",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance",
+        "Insurance"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Financial Analyst",
+        "Insurance Underwriter"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA và ServiceNow hợp tác về các tác nhân AI tự hành mới cho doanh nghiệp",
+      "link": "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T17:00:40Z",
+      "summary": "NVIDIA và ServiceNow hợp tác để tạo ra các tác nhân AI tự hành cho các giải pháp doanh nghiệp.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ecb27fa01899",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA",
+        "ServiceNow"
+      ],
+      "job_titles": [
+        "CTO",
+        "HR Manager",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Microsoft tại NSDI 2026: Những tiến bộ trong hệ thống mạng quy mô lớn",
+      "link": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T16:00:00Z",
+      "summary": "Microsoft trình bày nghiên cứu về các hệ thống mạng quy mô lớn tiên tiến tại NSDI 2026.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9fd3870ba5ce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cách Hapag-Lloyd sử dụng Amazon Bedrock để chuyển đổi phản hồi của khách hàng thành thông tin chi tiết có thể hành động",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-uses-amazon-bedrock-to-transform-customer-feedback-into-actionable-insights/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T16:55:42Z",
+      "summary": "Hapag-Lloyd tận dụng Amazon Bedrock để chuyển đổi phản hồi của khách hàng thành những thông tin chi tiết kinh doanh có thể hành động.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b691a0c243ad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Hapag-Lloyd"
+      ],
+      "job_titles": [
+        "Analyst",
+        "Customer Experience Manager",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Hợp lý hóa quá trình phát triển AI tạo sinh với MLflow v3.10 trên Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streamlining-generative-ai-development-with-mlflow-v3-10-on-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T16:55:18Z",
+      "summary": "Việc tích hợp MLflow v3.10 với Amazon SageMaker giúp đơn giản hóa các quy trình phát triển AI tạo sinh.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ac14fe9947b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Databricks"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Giới thiệu các hành động cấp hệ điều hành trong Amazon Bedrock AgentCore Browser",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-os-level-actions-in-amazon-bedrock-agentcore-browser/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T16:54:35Z",
+      "summary": "Amazon Bedrock AgentCore Browser hiện hỗ trợ các hành động cấp hệ điều hành để nâng cao khả năng của tác nhân.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d55b773f5b29",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bảo mật các tác nhân AI với Amazon Bedrock AgentCore Identity trên Amazon ECS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-amazon-bedrock-agentcore-identity-on-amazon-ecs/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T15:27:30Z",
+      "summary": "Amazon Bedrock AgentCore Identity trên ECS cung cấp khả năng quản lý tác nhân AI an toàn.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d21a1d82d79c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "QA Engineer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bảo vệ tin nhắn và tạo thông tin chi tiết dựa trên trí tuệ bằng Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/intelligence-driven-message-defense-and-insights-using-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-05T15:20:54Z",
+      "summary": "Amazon Bedrock tăng cường khả năng bảo vệ tin nhắn và tạo ra thông tin chi tiết thông qua trí tuệ nhân tạo.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c0f1afd48c7a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Operations Manager",
+        "Security Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Trò chơi mà con người — và máy móc — cùng chơi: Giải mã tư duy chiến lược để thúc đẩy AI",
+      "link": "https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-05-05T21:00:00Z",
+      "summary": "Nghiên cứu về tư duy chiến lược ở con người và máy móc nhằm thúc đẩy trí tuệ nhân tạo.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "12780cff1399",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: Liệu AI có thực sự đánh bại bác sĩ trong việc chẩn đoán?",
+      "link": "https://www.statnews.com/2026/05/05/did-ai-really-beat-doctors-at-diagnosis-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-05-05T19:51:55Z",
+      "summary": "Phân tích đánh giá sự so sánh độ chính xác trong chẩn đoán y tế giữa các công cụ AI và bác sĩ con người.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f5ceea011731",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "STAT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Director"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tiềm năng của AI đối với HIE phụ thuộc vào dữ liệu sạch, được tiêu chuẩn hóa",
+      "link": "https://www.mobihealthnews.com/video/ais-potential-hies-relies-clean-standardized-data",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-05T18:45:09Z",
+      "summary": "Việc triển khai AI thành công trong các Trao đổi Thông tin Y tế (HIE) đòi hỏi dữ liệu lâm sàng chất lượng cao, được tiêu chuẩn hóa.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "869c99f36feb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CIO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HIMSSCast: Các thư ký AI môi trường đặt ra những câu hỏi quan trọng về pháp lý và quy định",
+      "link": "https://www.mobihealthnews.com/podcast/himsscast-ambient-ai-scribes-pose-important-regulatory-and-legal-questions",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-05T15:34:23Z",
+      "summary": "Thảo luận chuyên gia về các tác động pháp lý và quy định của các công cụ ghi chép AI môi trường.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cf85a324729a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Legal"
+      ],
+      "companies": [
+        "HIMSS"
+      ],
+      "job_titles": [
+        "CIO",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Giám sát thông minh của Proofpoint phát hiện cả vi phạm email do vô tình và cố ý",
+      "link": "https://www.healthcareittoday.com/2026/05/05/proofpoints-intelligent-monitoring-catches-both-accidental-and-malicious-email-breaches/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-05T15:00:55Z",
+      "summary": "Proofpoint tận dụng khả năng giám sát thông minh để phát hiện và ngăn chặn các mối đe dọa bảo mật dựa trên email đa dạng.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2d914d27291d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Proofpoint"
+      ],
+      "job_titles": [
+        "CIO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Harvey thúc đẩy việc sử dụng các tác nhân pháp lý",
+      "link": "https://www.artificiallawyer.com/2026/05/05/harvey-drives-forward-use-of-legal-agents/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-05T13:28:32Z",
+      "summary": "Harvey thúc đẩy việc áp dụng các tác nhân AI tự hành trong môi trường hành nghề pháp lý chuyên nghiệp.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "48753676631c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Harvey"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Everlaw + Legora hợp tác cho các quy trình tố tụng",
+      "link": "https://www.artificiallawyer.com/2026/05/05/everlaw-legora-partner-for-litigation-workflows/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-05T11:24:13Z",
+      "summary": "Everlaw và Legora hình thành quan hệ đối tác để tích hợp các giải pháp dựa trên AI vào các quy trình tố tụng pháp lý.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7835a5e3de2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Everlaw",
+        "Legora"
+      ],
+      "job_titles": [
+        "Attorney",
+        "Operations Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Corgi ra mắt bảo hiểm trách nhiệm AI",
+      "link": "https://www.artificiallawyer.com/2026/05/05/corgi-launches-ai-liability-insurance/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-05T08:53:27Z",
+      "summary": "Corgi giới thiệu các sản phẩm bảo hiểm chuyên biệt được thiết kế để giảm thiểu rủi ro liên quan đến việc triển khai AI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "46cd07731ad9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Insurance",
+        "Tech"
+      ],
+      "companies": [
+        "Corgi"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Hướng dẫn sản phẩm: ThoughtRiver – Đánh giá hợp đồng bằng AI",
+      "link": "https://www.artificiallawyer.com/2026/05/05/product-walk-through-thoughtriver-ai-contract-review/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-05T07:39:03Z",
+      "summary": "Trình diễn phần mềm AI của ThoughtRiver để đánh giá và phân tích hợp đồng pháp lý tự động.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f3abb4e953b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "ThoughtRiver"
+      ],
+      "job_titles": [
+        "Attorney",
+        "Operations Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Kỹ sư dữ liệu cấp cao - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxdWhOXzN3TG5vYk5VX09CeTdXYlJES0RtMzNiXzF1dG52NXo2RF8yekxuS1lLQ2pEM1hwUTFkS2pPbWowbk5EQV9zLTFlODkzaTZlU2JnM1FrcGNRZlZ4RGs3dWstMllEWGtiY2VQazlJRzVtdFJNZEs1MA?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-05T09:51:37Z",
+      "summary": "Sarvam AI đang tuyển dụng Kỹ sư dữ liệu cấp cao để dẫn dắt các sáng kiến hạ tầng dữ liệu.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1573cb8c4da3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Data Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lồng tiếng AI cho các ngôn ngữ Ấn Độ - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBudFZIZHI5bFFQUnlaTlk2WmZ1a0VvbkFKV0JIZS01bFJLUm11VXUzdFRsdm5qYUVIOVd1Q0VHeDZlMjZiTUdCNUVR?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-05T10:38:31Z",
+      "summary": "Sarvam AI giới thiệu các khả năng lồng tiếng dựa trên AI được thiết kế riêng cho nhiều ngôn ngữ Ấn Độ.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6cb2653f631c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Thực tập sinh Frontend - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02cmdXMy1nYVc1aEktTnpZSjlaa205Q3FvR2lxMTZRYk1ZN0h2azFnSS1NcUwzSjdvQ0tJaWZtR1ItT3p6dkxXUzhBVlk5aUVwQWI2dDhyeU43YzFZRDZzYTZjRVlkdWhkTzIxcGpPanRqdTlpY2FudG8ySQ?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-05T18:57:23Z",
+      "summary": "Sarvam AI đang tìm kiếm Thực tập sinh Frontend để hỗ trợ phát triển giao diện AI dựa trên web.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c53f7a0d95b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tích hợp - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04RlFobDRsYW52VWliRmxDeHdpY2pjbWhHMGlmcjZ1VXZlSnNWeHpLTUlLb0ZBZllHMW9Pb1FpOFM3Q1NPRjNPSExn?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-05T10:38:59Z",
+      "summary": "Tổng quan về các tích hợp kỹ thuật khác nhau được cung cấp bởi nền tảng Sarvam AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6980a0b46ed5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Sarvam hợp tác với Pixxel để vận hành vệ tinh trung tâm dữ liệu quỹ đạo đầu tiên của Ấn Độ - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWMnJkZ0hfRTRJQ0d6RXh1QUZLME9kUmJrOWlJdlA0ZUd6WUxzamJiX21mdWMteG82eUlpWFNJTUdyTkdleW5iVmVwYVVmOW5YUDZn?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-05T16:12:14Z",
+      "summary": "Sarvam AI hợp tác với Pixxel để xây dựng hạ tầng xử lý dữ liệu AI dựa trên vệ tinh.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "20196060fe35",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Tech"
+      ],
+      "companies": [
+        "Pixxel",
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Tối ưu hóa phát sóng trong nhân (In-Kernel): Đồng thiết kế nhân cho suy luận RecSys",
+      "link": "https://pytorch.org/blog/in-kernel-broadcast-optimization-co-designing-kernels-for-recsys-inference/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-05-05T16:56:32Z",
+      "summary": "Kỹ thuật tối ưu hóa kỹ thuật để cải thiện hiệu suất suy luận của hệ thống gợi ý sử dụng các nhân PyTorch.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "96025403bc10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SAP đặt cược 1,16 tỷ USD vào phòng thí nghiệm AI 18 tháng tuổi của Đức và nói đồng ý với NemoClaw",
+      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T23:50:10Z",
+      "summary": "SAP đầu tư 1,16 tỷ USD vào một công ty khởi nghiệp phòng thí nghiệm AI của Đức và áp dụng công nghệ NemoClaw.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "412ad8a3329d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "SAP"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Germany"
+      ]
+    },
+    {
+      "title": "Altara huy động được 7 triệu USD để thu hẹp khoảng cách dữ liệu đang làm chậm các ngành khoa học vật lý",
+      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T22:57:41Z",
+      "summary": "Altara huy động được 7 triệu USD để xây dựng hạ tầng dữ liệu cho nghiên cứu AI trong khoa học vật lý.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "adb40e368632",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Altara"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple có kế hoạch biến iOS 27 thành một cuộc phiêu lưu tự chọn các mô hình AI",
+      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T20:56:41Z",
+      "summary": "Apple dự định tích hợp nhiều mô hình AI của bên thứ ba vào hệ điều hành iOS 27 của mình.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d9d36c1ef849",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Pennsylvania kiện Character.AI sau khi một chatbot bị cáo buộc giả danh bác sĩ",
+      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T17:46:10Z",
+      "summary": "Bang Pennsylvania đệ đơn kiện pháp lý chống lại Character.AI vì các cáo buộc chatbot mạo danh y tế.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7e9641e74763",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Healthcare"
+      ],
+      "companies": [
+        "Character.AI"
+      ],
+      "job_titles": [
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI phát hành GPT-5.5 Instant, một mô hình mặc định mới cho ChatGPT",
+      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T17:00:00Z",
+      "summary": "OpenAI nâng cấp mô hình mặc định của ChatGPT lên phiên bản GPT-5.5 Instant mới.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f2ffd9ae2c29",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "PayPal cho biết họ đang 'trở thành một công ty công nghệ một lần nữa' — điều đó có nghĩa là AI",
+      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T15:49:55Z",
+      "summary": "PayPal thay đổi chiến lược để ưu tiên tích hợp công nghệ AI vào nền tảng dịch vụ tài chính của mình.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8c525cdd8fbf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [
+        "PayPal"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Etsy ra mắt ứng dụng của mình trong ChatGPT khi tiếp tục đẩy mạnh AI",
+      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T15:31:37Z",
+      "summary": "Etsy tích hợp chức năng thị trường của mình trực tiếp vào giao diện ChatGPT dưới dạng một plugin.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "50fa2a67f866",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail"
+      ],
+      "companies": [
+        "Etsy",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Meta sẽ sử dụng AI để phân tích chiều cao và cấu trúc xương nhằm xác định xem người dùng có dưới độ tuổi quy định hay không",
+      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T14:27:00Z",
+      "summary": "Meta triển khai AI thị giác máy tính để xác minh độ tuổi người dùng thông qua phân tích sinh trắc học vật lý.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "600ab37c0af8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ElevenLabs liệt kê BlackRock, Jamie Foxx và Eva Longoria là những nhà đầu tư mới",
+      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T14:20:50Z",
+      "summary": "ElevenLabs đảm bảo vòng gọi vốn mới với sự tham gia của BlackRock và các nhân vật nổi tiếng trong ngành giải trí.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1dd904ae7ba5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "BlackRock",
+        "ElevenLabs"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "CopilotKit huy động được 27 triệu USD để giúp các nhà phát triển triển khai các tác nhân AI gốc ứng dụng",
+      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T14:07:47Z",
+      "summary": "CopilotKit đảm bảo khoản tài trợ 27 triệu USD để mở rộng quy mô các công cụ dành cho nhà phát triển cho các tác nhân AI tùy chỉnh.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "74750394a637",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "CopilotKit"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Kỳ lân GenAI đầu tiên của Ấn Độ chuyển sang dịch vụ đám mây khi tham vọng về mô hình AI đối mặt với thực tế",
+      "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T13:18:50Z",
+      "summary": "Một kỳ lân GenAI của Ấn Độ thay đổi chiến lược kinh doanh từ phát triển mô hình sang dịch vụ đám mây.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f7524164da4b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Khi người lao động lo lắng về AI, Jensen Huang của Nvidia nói rằng AI đang 'tạo ra một số lượng lớn việc làm'",
+      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T03:31:54Z",
+      "summary": "CEO Jensen Huang của Nvidia khẳng định rằng công nghệ AI đang mở rộng cơ hội việc làm trên toàn cầu.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2d00a23fb9d0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Kiến trúc sư AI của Google sống miễn phí trong tâm trí của Elon Musk - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU1FMb0IyQWwydlR6Z1l0WUVuZllKSXo2TzEwRm9MVnlQZ1ZXUGJ3Y2JocUlMLVdOXzlRRTNObDNjRnVlZkllazkyS2gwY2pfSE0xNTlBUERfZ25yNlU1eXVGVTl0ZlR0WUhucld6bFRJSnhWdHNYMEY4d2JYT0x3c2RONWRhTmZSYi1nbkRhWnBJZGpVek1XQ20ySFkwZFVaaENOZ1NnZmxidFhRZElBVGR4T1c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T13:11:58Z",
+      "summary": "Câu chuyện về sự cạnh tranh cá nhân giữa các kiến trúc sư AI của Google và Elon Musk.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b81d8745796a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google",
+        "xAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "OpenAI được cho là đang ra mắt một chiếc điện thoại cho ChatGPT - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHRIWGdFMlpkdEx0R1dSV3otMnlwU3R2WFNWUW9aMHVsNzg3UjJOSkc1a042NUQzWEJvQ3dLcTRDNnNTQ3Jtdl9ONGVnVFRMaGNzR2U5REpxX0lpeUZFSXVrdFVsT0pIYWY5T1JXdjJ2VkRsdVJCNTZHTUlxcHJ4bEZWSVZhaVFtMGVKNXNid3V6ZDNBNVdVZmxfc0Q?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T14:54:00Z",
+      "summary": "Các tin đồn cho thấy OpenAI đang phát triển một thiết bị phần cứng chuyên dụng để tích hợp ChatGPT.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "17383ee0b85b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Google, Microsoft và xAI sẽ cho phép chính phủ Mỹ xem xét các mô hình AI mới của họ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYTlQaHVUN1Rwa25wU0hzaTB3ZVlxYkVRUXNvWmYxXzk2b3FyOVYtWjNHMjVtRGJuaG1HcUxsSnV4b2hCalQ2dTEzX3NqYTMtQ2IwMUdCZnNtdENFMkFVUmdwbG5yNGYzRVkyT1o4Vk56b0NOWGF1Nl9KQWpHTWZkb3hiOWJnSFVManV0ckx2V1VKc3FEQnhCLThLc2JHQQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T14:26:59Z",
+      "summary": "Các công ty AI lớn đồng ý cung cấp cho chính phủ Mỹ quyền truy cập giám sát đối với các mô hình.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "87af01537cf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [
+        "Google",
+        "Microsoft",
+        "xAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Các nhà nghiên cứu đã thao túng Claude để đưa ra hướng dẫn chế tạo chất nổ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbFdvMTlZQzJXNDlMMnZYZFJhcmhVMC1XV09KOWZ1QlR0LTU3T3p4ZTNCbVBmb3hoa3FhcEhET21tenllVVplZzBJeUxLMVFoclozSUhyTWxJU1lyRHRxS3ZMSGJDQjJjb2dFTkVhNl84NXdZbzhBblZYUk1Tb01jMHluTzdCbHpPVkdGZWZGV1E2X2o3eGE4WDRBWnRqeEN1NTZlYVBzM0tZaFoxcFdia2lzUkJLdjhDNGpqOTQteEdOZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T13:13:08Z",
+      "summary": "Các nhà nghiên cứu được cho là đã lừa AI Claude của Anthropic cung cấp hướng dẫn chế tạo chất nổ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0de186ff92bb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple có thể cho phép bạn chọn mô hình AI yêu thích trong iOS 27 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU5ybDhvNElsSk51NXVXbGdnaWRMLW0xVl9fcUI5MUVyZUJtTk1ucmtfVkMtZUtiR2Vnb1lZb2JvZG5zQnpCT25pODFrVEVzVWZHYjZldnN4OVhEdm55WFZDdUVqSkJ3eGVuS3Fza01WbHBFTWpPejhzdlpleFdtNHdwYjE2UHdibDMyZmJ2NFVLMVNVNGEybw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T19:45:30Z",
+      "summary": "iOS 27 sắp tới của Apple có thể cho phép người dùng chọn các mô hình AI ưa thích cho các chức năng của thiết bị.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cf3fa4368762",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Microsoft từ bỏ Xbox Copilot AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdW1jRnJjQmNLUWZINkNzTEVoLWdPcmltdmQ0eW1MNzcxeTZ0d3VpZ093TTJMUlI4c0FNOHYxQkMtRHRUSzhqV2d5NDh3REZkbUJVdEZsUjlLbU01M2xTNHZrMzJSaHd1V3A0enFkUGhIMTl6cUdQMjA1dVF4UHlVbDNkekRiQQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T19:54:37Z",
+      "summary": "Microsoft được cho là đã ngừng nỗ lực tích hợp AI Copilot của mình vào nền tảng Xbox.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ad1e70c5cd13",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Microsoft",
+        "Xbox"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gemini AI của Google Home có thể xử lý các yêu cầu phức tạp hơn - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VWFhTMzdPSFpDRGM1Q0xTNlNSdTVwR2hCbU9GU2UtekROOHFlT2ZsNVBHQ3RsU25CTnoxcUdRYmhZZ3ZVTTVJWWJDakJYQlQwcHdiXzRRdHFheFVMamRXbnJzeE5sYk0tdW41X3M2cm5Ldjdvdmc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T21:46:04Z",
+      "summary": "Gemini AI của Google Home đã được cập nhật để xử lý các lệnh phức tạp hơn của người dùng.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c7b0f0196553",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Gemini",
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple đồng ý trả cho người dùng iPhone 250 triệu USD vì không cung cấp Siri AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFVXSmwxQmlBMWdSVXRKYV9sbGk3SVhONnQ0dEFlLTBLWHozSDZiazY0bERheDYzTzhNV3RKdk9VTlZsR3dwR1BxaVVUTmo0eXRXZ3lPbm1RQ2ZFSzVEdl82ZHk4T01uemhxd1ZLcW1PTEdGMnpXb2lTU3FhLTIycHlBWGh0c0JuX2xCaVQ4NTg4SVF1aUpxQzhOUUtKWTN0?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T21:18:23Z",
+      "summary": "Apple sẽ trả 250 triệu USD cho người dùng iPhone vì không thực hiện được lời hứa về Siri AI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1b9abc18d004",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Facebook và Instagram đang sử dụng phân tích cấu trúc xương bằng AI để xác định ảnh trẻ em - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGMxbnZ6dG15YmZJcms3RDBPazVCTEtENVF0dVB6Mm1LT1NUaF8zY2hGbGxPWk1TeTlKSkFpUHRWMWwxckZPa2pLZE5jT0tiWFcySThWVGRBbE1nNF93THlIN2VUZlcwUHkzNmNrSWdoNWtOZmpBcmtrQ0w3VzFIMGhHR2tHb1NrYlJWOWxDUQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T11:00:00Z",
+      "summary": "Meta sử dụng AI để phân tích cấu trúc xương trong ảnh nhằm xác định trẻ vị thành niên trên Facebook và Instagram.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "793d9f5e85f0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Instagram",
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Pennsylvania kiện Character.AI vì các chatbot giả danh bác sĩ. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDBOT0UzY2pNeVppNkNpd2lPRTRxeG1nVHQxNUdCTG1TSTEwYl9YbWpQUm9EaTJQR0c1ZnVPUmZUX1U4MmRGaW5TbGxpTUpzeUk3dHFJYUJWanZzU2JwNHhDX2tnTVQ4R3BNX2NLMHJ5MHZxVWtNVEpZV1dDb0ZBeXpJcWZFdDZsZTNwemV0VVUxVnFYNlgtV2l1NElRYU1iaWQ3ek10S29MQnRk?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T17:18:12Z",
+      "summary": "Pennsylvania đang kiện Character.AI vì các chatbot của họ mạo danh chuyên gia y tế.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5ba8133ba762",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare",
+        "Legal"
+      ],
+      "companies": [
+        "Character.AI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Các nhà xuất bản sách kiện Meta vì việc sao chép 'từng chữ một' của AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91WVk5N3RTX3Rkd0Z2dTVoek5hektmRWxUSkR4a3MyLUpZakxpTHJfdnlHN3k4T1pXS1BHQWdmMkwyakxCQnFWQnVkNzNRb3doMlc1MXBhN1hQYy0xYTgtNkdwSUY0MmlUdDZBTXdZcG1USllIMDQ0dGFhQm9Udw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T16:52:38Z",
+      "summary": "Các nhà xuất bản sách đang kiện Meta, cáo buộc các mô hình AI của họ sao chép nội dung nguyên văn.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6b86827b601a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment",
+        "Legal"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nhân viên Google DeepMind đang thành lập công đoàn vì các hợp đồng quân sự AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPenI5VDlWMGw2bUNZTExRTEZ4MGVvdzRKTmJlb2FwTDM3MFdTQm90WE5NU0l1YzhZQXh5YVhKeGlhZjNpRWlSa0ZmM3BtVi04VV9RMGx3R0M5VUNOVXE2dTZycWhPNnc5NE9BZGwxaDhWTUlndGg4a2NCUzRuaVg3QnJDRDFiemJ3?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T10:08:33Z",
+      "summary": "Nhân viên Google DeepMind đang thành lập công đoàn để phản đối sự tham gia của AI vào các dự án quân sự.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "942be5875f73",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense",
+        "Government"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Một chiếc xe do AI thiết kế trông như thế nào - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zUVNmU2kxWmxWTHFhdk1DSFBzRE9TcUdZeVFqTzBSNEk4QnNhb2ViV3VkZHZFd0ZsQ2NBSzZkY2hmZHhpcko0OHpQNDBSYm5hWFp5NE1BWkdXM1ZsY3VnYmFiRlRYZTR2ZnJneFNhLTUzQXdZaHNUUg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-05T13:42:18Z",
+      "summary": "Khám phá những tác động về thẩm mỹ và chức năng của các phương tiện được thiết kế bằng trí tuệ nhân tạo.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "746f61bdd7d6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Designer",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "Giảm độ trễ và ma sát cho các tác vụ chạy dài với Webhooks trong Gemini API",
       "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
