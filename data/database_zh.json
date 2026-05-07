@@ -1,6 +1,985 @@
 {
-  "refreshed_at": "2026-05-07 02:02 UTC",
+  "refreshed_at": "2026-05-07 14:16 UTC",
   "items": [
+    {
+      "title": "Parloa 构建客户乐于交流的服务代理",
+      "link": "https://openai.com/index/parloa",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-07T11:00:00Z",
+      "summary": "Parloa 开发了利用 OpenAI 技术的人工智能驱动型客户服务代理，以增强企业用户的交互体验。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b655fa9f550b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI",
+        "Parloa"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "具备交易能力的代理：介绍与 Coinbase 和 Stripe 合作构建的 Amazon Bedrock AgentCore Payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-07T12:55:17Z",
+      "summary": "Amazon Bedrock 推出了 AgentCore Payments，使人工智能代理能够通过 Coinbase 和 Stripe 处理交易。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1c2ad129c277",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Amazon",
+        "Coinbase",
+        "Stripe"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "驯服扩散 Transformer 中的离群标记（Outlier Tokens）",
+      "link": "https://arxiv.org/abs/2605.05206v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:59:42Z",
+      "summary": "研究探讨了在扩散 Transformer 架构中管理离群标记的方法，以提高模型稳定性。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "27ecd6a38ebb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "用五个不等式解读“顿悟能力”（Grokability）",
+      "link": "https://arxiv.org/abs/2605.05193v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:55:15Z",
+      "summary": "本文提出了一个使用五个数学不等式来描述机器学习中“顿悟能力”的形式化框架。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "43e4b96d63c8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lp 空间中的近正交性：以 Grok 为例的案例研究",
+      "link": "https://arxiv.org/abs/2605.05192v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:54:51Z",
+      "summary": "以 Grok 模型为案例，对 Lp 空间中的近正交性进行了数学分析。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e556c171876b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LongSeeker：面向长程搜索代理的弹性上下文编排",
+      "link": "https://arxiv.org/abs/2605.05191v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:54:16Z",
+      "summary": "LongSeeker 引入了弹性上下文编排，以提高基于长程搜索的人工智能代理的效率。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8ac571900e7a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "当生活给你行为克隆（BC）时，制造 Q 函数：从行为克隆中提取 Q 值以用于机器人强化学习",
+      "link": "https://arxiv.org/abs/2605.05172v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:40:11Z",
+      "summary": "研究人员从行为克隆中提取 Q 值，以增强机器人强化学习的性能。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5c220048eede",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Design Conductor 2.0：一个代理在 80 小时内构建了 TurboQuant 推理加速器",
+      "link": "https://arxiv.org/abs/2605.05170v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:40:03Z",
+      "summary": "一个人工智能代理在短短 80 小时内自主设计了一款 TurboQuant 硬件推理加速器。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f15674d212d0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "首个标记即知：用于幻觉检测的单解码置信度",
+      "link": "https://arxiv.org/abs/2605.05166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:34:00Z",
+      "summary": "一种利用首个解码标记的置信度分数来检测大语言模型（LLM）幻觉的方法论。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "978a6f4e1f81",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "几何感知状态空间模型：全切片图像表示的新范式",
+      "link": "https://arxiv.org/abs/2605.05164v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:33:30Z",
+      "summary": "一种用于改善医学影像中全切片图像表示的新型几何感知状态空间模型。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fc0687b49cce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PSK 在 SemEval-2026 任务 9 中的表现：使用集成 Gemma 模型和合成数据增强进行多语言极化检测",
+      "link": "https://arxiv.org/abs/2605.05159v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:29:14Z",
+      "summary": "一种利用集成 Gemma 模型和合成数据增强技术进行多语言极化检测的方法，应用于 SemEval-2026。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "799b2f4c93c6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Aes3D：3D 高斯泼溅（Gaussian Splatting）中的美学评估",
+      "link": "https://arxiv.org/abs/2605.05155v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:27:09Z",
+      "summary": "用于对通过高斯泼溅技术创建的 3D 重建结果进行美学评估的框架。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2dacd8360121",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "叠加并非必要：时间序列预测中 Transformer 表示的机械可解释性分析",
+      "link": "https://arxiv.org/abs/2605.05151v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:23:27Z",
+      "summary": "机械可解释性研究表明，在预测任务中，Transformer 并不需要叠加（Superposition）。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0f4029c2d03a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "实用学习型图像压缩中的关键因素",
+      "link": "https://arxiv.org/abs/2605.05148v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:17:51Z",
+      "summary": "分析了决定学习型图像压缩系统实际有效性的关键因素。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "19c1dd683b1c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "编码代理时代下 ARC-AGI-3 的可执行世界模型",
+      "link": "https://arxiv.org/abs/2605.05138v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:12:36Z",
+      "summary": "本文提出了使用复杂的编码代理来解决 ARC-AGI-3 任务的可执行世界模型。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "effff1502fdf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "不完整医疗数据的联合处理效应估计：基于大语言模型驱动的进化式 MNAR 填补的临时因果归一化流",
+      "link": "https://arxiv.org/abs/2605.05125v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:53:08Z",
+      "summary": "一种利用大语言模型和因果流从缺失的医疗数据中估计处理效应的系统。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4cf5660310aa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "离线到在线强化学习中交互预算下的自适应策略选择与微调",
+      "link": "https://arxiv.org/abs/2605.05123v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:51:44Z",
+      "summary": "提出了在交互预算有限的情况下，对强化学习策略进行自适应调整的方法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6d223e799d33",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "关于漂移模型（Drifting Models）的 Wasserstein 梯度流解释",
+      "link": "https://arxiv.org/abs/2605.05118v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:48:46Z",
+      "summary": "研究了机器学习模型演化过程中的 Wasserstein 梯度流解释。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7fc28077e87b",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LineRides：用于自行车机器人特技的线引导强化学习",
+      "link": "https://arxiv.org/abs/2605.05110v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:43:28Z",
+      "summary": "介绍了 LineRides，这是一个利用强化学习实现机器人自行车特技表演的系统。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4c8705b99a63",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "构建超越特定目标的信息丰富型材料数据集",
+      "link": "https://arxiv.org/abs/2605.05104v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:39:01Z",
+      "summary": "讨论了为人工智能构建超越特定、预定义目标的材料数据集。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e9eb23ff888b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "作为概念场的文本语料库：黑盒幻觉与新颖性度量",
+      "link": "https://arxiv.org/abs/2605.05103v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:38:49Z",
+      "summary": "将文本语料库分析为概念场，用于衡量人工智能的幻觉和新颖性。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c61a72f76e47",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "研究：企业常利用自动化来控制特定工人的工资",
+      "link": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-05-07T04:00:00Z",
+      "summary": "一项研究表明，企业利用自动化手段来影响和控制特定工人的工资。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1e392360300c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "HR Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+：OpenAI 的健康政策愿望清单、Dexcom 的 CGM 新闻等",
+      "link": "https://www.statnews.com/2026/05/07/openai-policy-wishlist-dexcom-cgm-updates-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-05-07T13:14:13Z",
+      "summary": "涵盖了 OpenAI 的健康政策诉求、Dexcom 的 CGM 更新以及其他健康科技新闻。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "33fb423b3a16",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Dexcom",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Healthcare Executive",
+        "Policy Maker"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ŌURA 欢迎 Galen AI 团队并收购其技术 | IKS Health 宣布收购 TruBridge 的协议",
+      "link": "https://www.healthcareittoday.com/2026/05/07/oura-welcomes-galen-ai-team-acquires-technology-iks-health-announces-agreement-to-acquire-trubridge/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-07T13:00:22Z",
+      "summary": "ŌURA 整合了 Galen AI 的团队和技术；IKS Health 同意收购 TruBridge。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b4c66dda463a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Galen AI",
+        "IKS Health",
+        "TruBridge",
+        "ŌURA"
+      ],
+      "job_titles": [
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Scissero 发布 Suzie Law 开源人工智能助手",
+      "link": "https://www.artificiallawyer.com/2026/05/07/scissero-launches-suzie-law-open-source-ai-assistant/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-07T09:37:45Z",
+      "summary": "Scissero 发布了 Suzie Law，这是一款面向法律专业人士的开源人工智能助手。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "27e6ac36dcec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Scissero"
+      ],
+      "job_titles": [
+        "Developer",
+        "Legal Tech Professional"
+      ],
+      "locations": []
+    },
+    {
+      "title": "运营实习生 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3OVRuajlkeGV2dVpHNm1TQmFKS3gyUi1ibzZmb3RBejhhSHltM0ZXSXBjLXZRVVptNU95MmtsN0xBZHRNQWQ2b1oyOGg0UThCcVV6M1A2VVQxdkFuT2JlVHRMSnVuSXZGenZyXzd0MldmQThPdTVkaUdocw?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T02:07:14Z",
+      "summary": "Sarvam AI 正在寻找一名实习生，以支持其人工智能开发公司的运营工作。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "17a8b25617ef",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "后端实习生 - 推理流水线与诊断 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmTDBtM1dzaGh4T3kxMlk2OVhrc3lmaWQtUzhGWXFoZlIxZTA0ZjNtYzlRc0NtQXM2VVJpeE1aSmxHOUdmcFg5Ri1heWlzOTVXQWozQ3hiLTBDemF5eDY4X21UcTdvTXNkODMtbVVOS09XVFlzdzdNLWVrbw?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T02:07:14Z",
+      "summary": "Sarvam AI 提供一个专注于后端推理流水线和人工智能诊断的实习岗位。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2ba11c9f5d10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Sarvam AI x YCP India | 加速企业人工智能应用 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5WG1IZFRFeGdHYm1KQ0k5NG1taUQ5ekFNVzZuZ3pLVVpGNFNXMWdicFBFbkFaQVpoYW9SbFQtOXJsaVpMeGcwUWxYbmNrbTA?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-06T18:13:04Z",
+      "summary": "Sarvam AI 与 YCP India 达成合作，旨在加速企业人工智能的落地应用。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cb690939729e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Sarvam AI",
+        "YCP India"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "客户经理 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOdFdiQ213UzljalJhY2JydXpLUHYyc3R6cV9yaTk5clpWOHNTZDlQeUVaSXpqemFFZUwxWnNwd0IxTXpMVHFSU3ZjNzBOcV9PLW92X0JsRGMzYzlkVzFva00wZDRsMG9XMmpXQUV5b0o3MHgyX2hpczVBTQ?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T10:05:54Z",
+      "summary": "Sarvam AI 正在招聘一名客户经理，负责处理其人工智能解决方案的客户关系。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d940d74b328d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "首席解决方案架构师 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVUZkSkdtZVRWLWoxZDNDUS1ZSDRLU0hrUGJYQ3Rncy0zalFuWTkxUUt0bTZkd0lZdHUydnE5eUZPTXctb3VrTjRFQ2JETUo1TlNDeUg5X25mNHVySGI1WTZVOEtyX0NqMjUyRHZoazQzSThiM3pNZDF2Zw?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T07:25:50Z",
+      "summary": "Sarvam AI 正在寻找一名首席解决方案架构师来设计和领导复杂的人工智能基础设施项目。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "26defbb0b434",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "后端实习生 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zMXEzRktsT01qZ3c2Wm4wR3AyVjNEYjl1Qmt6Sm9hNVhqSmNuTU0zVXVTWGp2LU9WWUN4Z2NqbHVQNHdXV0ZhbVpqSlBnbVdrY0hod2Z3VFlfVE9GNDVENVZBWUREbXJTLWdpTF93V2NRTzFvaFgxbnliQQ?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T02:07:14Z",
+      "summary": "Sarvam AI 正在招聘后端开发实习生，以支持其人工智能工程团队。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d8edb5a86e59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "合作伙伴关系 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mYWs3Q1dmOHpMcTU1MXhZYmZ0SmZjZlhPbWhLOEJ0VW1RcXl6ZUZNSFdfYVhpeHM2S1Q5cXd6TUJwa0Z6ZVJMSC13?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-06T17:36:02Z",
+      "summary": "Sarvam AI 正在通过行业内新的战略合作伙伴关系和协作来扩展其生态系统。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8cdc30f07494",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "中国 Moonshot AI 以 200 亿美元估值融资 20 亿美元，开源人工智能需求激增",
+      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-07T13:44:25Z",
+      "summary": "中国初创公司 Moonshot AI 以 200 亿美元的估值获得了 20 亿美元的融资。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c9be13e3a9fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Moonshot AI"
+      ],
+      "job_titles": [
+        "CEO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "China"
+      ]
+    },
+    {
+      "title": "Spotify 旨在成为人工智能生成个人音频的家园",
+      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-07T13:00:00Z",
+      "summary": "Spotify 正在扩展其平台，以专门支持和托管人工智能生成的个性化音频内容。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f55681ab9b61",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Spotify"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Spotify 的 AI DJ 现已支持法语、德语、意大利语和巴西葡萄牙语",
+      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-07T12:20:04Z",
+      "summary": "Spotify 扩展了其 AI DJ 功能，以支持多种新语言和国际市场。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "545573325aeb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Spotify"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Brazil",
+        "Europe",
+        "Global"
+      ]
+    },
+    {
+      "title": "人工智能经济的五位架构师解释了问题出在哪里",
+      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-07T05:25:10Z",
+      "summary": "人工智能领域的领军人物讨论了在不断发展的人工智能经济中当前面临的挑战和潜在的失败点。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bd6c9177f3c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "xAI 正在成为 SpaceXAI。 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONnloX3ZOWnlGOG9JbE1xdlo0U3lMbVZGVlh5R0dsT1JTVFNoTWxIODZJNnVURzZPQy1CdVdhWUpnSURhU3JwdkNMQktMbDZEQllMMmZZTmN2dE9wemhtV3Zka2JMWTlqa1U1YTA5RmljTURDSG9tLUFzRjJMT2lYQTVLSkZFT3YwU2hz?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-06T19:53:35Z",
+      "summary": "据报道，埃隆·马斯克的 xAI 正在加深其与 SpaceX 的运营整合与合作。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "01812532a1b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "我们正在观看 Mira Murati 证词的视频记录。 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZm1rcjFuQ19JcXYwVDF1dERpQlVidmVodTNPQXUzM2dKckp4Z0pRcGxvS2xYdlcyOExSc2otT1ZxWXhJd2FyX2FITWhhMFhpX0dTVTJyTWRBbmpORW1mV3JFSFVsT0xjRmNjYjNuUm9rNFh3NzdJeG1hWlNJU3hBa1p1Q0ZxOVNKajMzak1NeGJGNGdOOTlhMzhxeUF1ZlA2bWZQRDN0ZERnaTdOX0VETnpWTUVHRGJ6?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-06T15:51:34Z",
+      "summary": "OpenAI 前首席技术官 Mira Murati 在涉及公司治理的持续法律诉讼中提供了视频证词。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "205810a060b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "Anthropic 提高 Claude 使用限额并与 SpaceX 达成计算资源协议",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZXhOWkRpY080blQ2aDkzS1Fwb3FYWUhGM3FGUzNIbWNyYXY4cVZMaDYxMDVFejU1UGFkblVXMDdwMHJFQldvRXBUeXpJYUR5amgxelJtZ3dTU0U2dk1Taw?oc=5",

@@ -1,6 +1,985 @@
 {
-  "refreshed_at": "2026-05-07 02:02 UTC",
+  "refreshed_at": "2026-05-07 14:16 UTC",
   "items": [
+    {
+      "title": "Parloa สร้างเอเจนต์บริการที่ลูกค้าต้องการพูดคุยด้วย",
+      "link": "https://openai.com/index/parloa",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-07T11:00:00Z",
+      "summary": "Parloa พัฒนาเอเจนต์บริการลูกค้าที่ขับเคลื่อนด้วย AI โดยใช้เทคโนโลยี OpenAI เพื่อปรับปรุงการโต้ตอบของผู้ใช้ในองค์กร",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b655fa9f550b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI",
+        "Parloa"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เอเจนต์ที่ทำธุรกรรม: ขอแนะนำ Amazon Bedrock AgentCore Payments สร้างด้วย Coinbase และ Stripe",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agents-that-transact-introducing-amazon-bedrock-agentcore-payments-built-with-coinbase-and-stripe/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-07T12:55:17Z",
+      "summary": "Amazon Bedrock ขอแนะนำ AgentCore Payments ซึ่งช่วยให้เอเจนต์ AI สามารถประมวลผลธุรกรรมผ่าน Coinbase และ Stripe",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1c2ad129c277",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Amazon",
+        "Coinbase",
+        "Stripe"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การควบคุมโทเค็นที่ผิดปกติใน Diffusion Transformers",
+      "link": "https://arxiv.org/abs/2605.05206v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:59:42Z",
+      "summary": "งานวิจัยสำรวจวิธีการจัดการโทเค็นที่ผิดปกติภายในสถาปัตยกรรม Diffusion Transformer เพื่อปรับปรุงความเสถียรของโมเดล",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "27ecd6a38ebb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Grokability ในห้าอสมการ",
+      "link": "https://arxiv.org/abs/2605.05193v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:55:15Z",
+      "summary": "เอกสารฉบับนี้เสนอเฟรมเวิร์กที่เป็นทางการสำหรับ grokability ใน machine learning โดยใช้อสมการทางคณิตศาสตร์ห้าข้อ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "43e4b96d63c8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Almost-Orthogonality ใน Lp Spaces: กรณีศึกษาด้วย Grok",
+      "link": "https://arxiv.org/abs/2605.05192v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:54:51Z",
+      "summary": "การวิเคราะห์ทางคณิตศาสตร์ของ almost-orthogonality ใน Lp spaces โดยใช้โมเดล Grok เป็นกรณีศึกษา",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e556c171876b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LongSeeker: การจัดการบริบทที่ยืดหยุ่นสำหรับเอเจนต์ค้นหาระยะยาว",
+      "link": "https://arxiv.org/abs/2605.05191v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:54:16Z",
+      "summary": "LongSeeker นำเสนอการจัดการบริบทที่ยืดหยุ่นเพื่อปรับปรุงประสิทธิภาพของเอเจนต์ AI ที่ใช้การค้นหาระยะยาว",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8ac571900e7a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เมื่อชีวิตให้ BC แก่คุณ จงสร้าง Q-functions: การดึงค่า Q จาก Behavior Cloning สำหรับ Reinforcement Learning บนหุ่นยนต์",
+      "link": "https://arxiv.org/abs/2605.05172v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:40:11Z",
+      "summary": "นักวิจัยดึงค่า Q จาก behavior cloning เพื่อปรับปรุงประสิทธิภาพของ reinforcement learning บนหุ่นยนต์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5c220048eede",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Design Conductor 2.0: เอเจนต์สร้างตัวเร่งความเร็วการอนุมาน TurboQuant ใน 80 ชั่วโมง",
+      "link": "https://arxiv.org/abs/2605.05170v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:40:03Z",
+      "summary": "เอเจนต์ AI ออกแบบตัวเร่งความเร็วการอนุมานฮาร์ดแวร์ TurboQuant โดยอัตโนมัติในเวลาเพียงแปดสิบชั่วโมง",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f15674d212d0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "โทเค็นแรกบอกได้: ความมั่นใจในการถอดรหัสครั้งเดียวสำหรับการตรวจจับการหลอน",
+      "link": "https://arxiv.org/abs/2605.05166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:34:00Z",
+      "summary": "วิธีการใช้คะแนนความมั่นใจจากโทเค็นที่ถอดรหัสครั้งแรกเพื่อตรวจจับการหลอนใน LLMs",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "978a6f4e1f81",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Geometry-Aware State Space Model: กระบวนทัศน์ใหม่สำหรับการแสดงภาพสไลด์ทั้งหมด",
+      "link": "https://arxiv.org/abs/2605.05164v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:33:30Z",
+      "summary": "โมเดล state space ที่คำนึงถึงเรขาคณิตแบบใหม่เพื่อปรับปรุงการแสดงภาพสไลด์ทั้งหมดในการถ่ายภาพทางการแพทย์",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fc0687b49cce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PSK ที่ SemEval-2026 Task 9: การตรวจจับขั้วหลายภาษาโดยใช้ Ensemble Gemma Models พร้อมการเพิ่มข้อมูลสังเคราะห์",
+      "link": "https://arxiv.org/abs/2605.05159v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:29:14Z",
+      "summary": "แนวทางการตรวจจับขั้วหลายภาษาโดยใช้ ensemble Gemma models และการเพิ่มข้อมูลสังเคราะห์สำหรับ SemEval-2026",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "799b2f4c93c6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Aes3D: การประเมินความสวยงามใน 3D Gaussian Splatting",
+      "link": "https://arxiv.org/abs/2605.05155v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:27:09Z",
+      "summary": "เฟรมเวิร์กสำหรับการประเมินความสวยงามของการสร้างภาพ 3 มิติที่สร้างขึ้นผ่านเทคนิค Gaussian Splatting",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2dacd8360121",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Superposition Is Not Necessary: การวิเคราะห์กลไกการตีความของ Transformer Representations สำหรับการพยากรณ์อนุกรมเวลา",
+      "link": "https://arxiv.org/abs/2605.05151v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:23:27Z",
+      "summary": "การศึกษาการตีความกลไกที่แสดงให้เห็นว่า superposition ไม่จำเป็นสำหรับ transformers ในงานพยากรณ์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0f4029c2d03a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "อะไรคือสิ่งที่สำคัญในการบีบอัดภาพที่เรียนรู้ได้จริง",
+      "link": "https://arxiv.org/abs/2605.05148v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:17:51Z",
+      "summary": "การวิเคราะห์ปัจจัยสำคัญที่กำหนดประสิทธิภาพที่แท้จริงของระบบการบีบอัดภาพที่เรียนรู้ได้",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "19c1dd683b1c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Executable World Models สำหรับ ARC-AGI-3 ในยุคของ Coding Agents",
+      "link": "https://arxiv.org/abs/2605.05138v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T17:12:36Z",
+      "summary": "เอกสารเสนอ executable world models สำหรับการแก้ปัญหา ARC-AGI-3 โดยใช้เอเจนต์ที่มีความสามารถในการเขียนโค้ดขั้นสูง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "effff1502fdf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การประมาณผลการรักษาแบบร่วมจากข้อมูลการดูแลสุขภาพที่ไม่สมบูรณ์: Temporal Causal Normalizing Flows พร้อมการเติมข้อมูล MNAR แบบวิวัฒนาการที่ขับเคลื่อนด้วย LLM",
+      "link": "https://arxiv.org/abs/2605.05125v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:53:08Z",
+      "summary": "ระบบที่ใช้ LLM และ causal flows สำหรับการประมาณผลการรักษาจากข้อมูลทางการแพทย์ที่ขาดหายไป",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4cf5660310aa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การเลือกนโยบายและการปรับแต่งแบบปรับได้ภายใต้งบประมาณการโต้ตอบสำหรับการเรียนรู้แบบออฟไลน์เป็นออนไลน์",
+      "link": "https://arxiv.org/abs/2605.05123v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:51:44Z",
+      "summary": "เสนอวิธีการปรับนโยบายในการเรียนรู้แบบเสริมแรงด้วยงบประมาณการโต้ตอบที่จำกัด",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6d223e799d33",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เกี่ยวกับการตีความ Wasserstein Gradient Flow ของโมเดลที่ลอย",
+      "link": "https://arxiv.org/abs/2605.05118v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:48:46Z",
+      "summary": "ตรวจสอบการตีความ Wasserstein gradient flow สำหรับโมเดล machine learning ที่กำลังพัฒนา",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7fc28077e87b",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LineRides: การเรียนรู้แบบเสริมแรงด้วยเส้นนำทางสำหรับสตั๊นต์จักรยานยนต์",
+      "link": "https://arxiv.org/abs/2605.05110v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:43:28Z",
+      "summary": "ขอแนะนำ LineRides ระบบที่ใช้การเรียนรู้แบบเสริมแรงสำหรับประสิทธิภาพสตั๊นต์จักรยานยนต์",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4c8705b99a63",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การสร้างชุดข้อมูลวัสดุที่มีข้อมูลมากเกินกว่าวัตถุประสงค์ที่กำหนด",
+      "link": "https://arxiv.org/abs/2605.05104v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:39:01Z",
+      "summary": "หารือเกี่ยวกับการสร้างชุดข้อมูลวัสดุสำหรับ AI ที่นอกเหนือไปจากเป้าหมายที่เฉพาะเจาะจงและกำหนดไว้ล่วงหน้า",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e9eb23ff888b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Text Corpora ในฐานะ Concept Fields: การวัดการหลอนและนวัตกรรมแบบ Black-Box",
+      "link": "https://arxiv.org/abs/2605.05103v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-06T16:38:49Z",
+      "summary": "วิเคราะห์ text corpora ในฐานะ concept fields สำหรับการวัดการหลอนและนวัตกรรมของ AI",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c61a72f76e47",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การศึกษา: บริษัทมักใช้ระบบอัตโนมัติเพื่อควบคุมค่าจ้างของคนงานบางกลุ่ม",
+      "link": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-05-07T04:00:00Z",
+      "summary": "การศึกษาบ่งชี้ว่าบริษัทใช้ระบบอัตโนมัติเพื่อมีอิทธิพลและควบคุมค่าจ้างของคนงานบางกลุ่ม",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1e392360300c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "HR Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: รายการสิ่งที่ OpenAI ต้องการเกี่ยวกับนโยบายสุขภาพ ข่าว CGM จาก Dexcom และอื่นๆ",
+      "link": "https://www.statnews.com/2026/05/07/openai-policy-wishlist-dexcom-cgm-updates-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-05-07T13:14:13Z",
+      "summary": "ครอบคลุมคำขอเกี่ยวกับนโยบายสุขภาพของ OpenAI การอัปเดต CGM ของ Dexcom และข่าวเทคโนโลยีสุขภาพอื่นๆ",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "33fb423b3a16",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Dexcom",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Healthcare Executive",
+        "Policy Maker"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ŌURA ต้อนรับทีม Galen AI และเข้าซื้อเทคโนโลยี | IKS Health ประกาศข้อตกลงเข้าซื้อ TruBridge",
+      "link": "https://www.healthcareittoday.com/2026/05/07/oura-welcomes-galen-ai-team-acquires-technology-iks-health-announces-agreement-to-acquire-trubridge/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-07T13:00:22Z",
+      "summary": "ŌURA รวมทีมและเทคโนโลยีของ Galen AI; IKS Health ตกลงเข้าซื้อ TruBridge",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b4c66dda463a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Galen AI",
+        "IKS Health",
+        "TruBridge",
+        "ŌURA"
+      ],
+      "job_titles": [
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Scissero เปิดตัว Suzie Law ผู้ช่วย AI แบบโอเพนซอร์ส",
+      "link": "https://www.artificiallawyer.com/2026/05/07/scissero-launches-suzie-law-open-source-ai-assistant/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-07T09:37:45Z",
+      "summary": "Scissero เปิดตัว Suzie Law ผู้ช่วยปัญญาประดิษฐ์แบบโอเพนซอร์สสำหรับผู้เชี่ยวชาญด้านกฎหมาย",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "27e6ac36dcec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Scissero"
+      ],
+      "job_titles": [
+        "Developer",
+        "Legal Tech Professional"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Intern ฝ่ายปฏิบัติการ - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3OVRuajlkeGV2dVpHNm1TQmFKS3gyUi1ibzZmb3RBejhhSHltM0ZXSXBjLXZRVVptNU95MmtsN0xBZHRNQWQ2b1oyOGg0UThCcVV6M1A2VVQxdkFuT2JlVHRMSnVuSXZGenZyXzd0MldmQThPdTVkaUdocw?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T02:07:14Z",
+      "summary": "Sarvam AI กำลังมองหา intern เพื่อสนับสนุนการดำเนินงานภายในบริษัทพัฒนาปัญญาประดิษฐ์",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "17a8b25617ef",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Intern ฝ่าย Backend - Inference Pipelines & Diagnostics - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmTDBtM1dzaGh4T3kxMlk2OVhrc3lmaWQtUzhGWXFoZlIxZTA0ZjNtYzlRc0NtQXM2VVJpeE1aSmxHOUdmcFg5Ri1heWlzOTVXQWozQ3hiLTBDemF5eDY4X21UcTdvTXNkODMtbVVOS09XVFlzdzdNLWVrbw?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T02:07:14Z",
+      "summary": "ตำแหน่งฝึกงานที่เน้นที่ backend inference pipelines และการวินิจฉัย AI เปิดรับที่ Sarvam",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2ba11c9f5d10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Sarvam AI x YCP India | เร่งการนำ AI ในองค์กรไปใช้ - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5WG1IZFRFeGdHYm1KQ0k5NG1taUQ5ekFNVzZuZ3pLVVpGNFNXMWdicFBFbkFaQVpoYW9SbFQtOXJsaVpMeGcwUWxYbmNrbTA?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-06T18:13:04Z",
+      "summary": "ความร่วมมือระหว่าง Sarvam AI และ YCP India มีเป้าหมายเพื่อเร่งการนำ AI ในองค์กรไปใช้",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cb690939729e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Sarvam AI",
+        "YCP India"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Account Manager - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOdFdiQ213UzljalJhY2JydXpLUHYyc3R6cV9yaTk5clpWOHNTZDlQeUVaSXpqemFFZUwxWnNwd0IxTXpMVHFSU3ZjNzBOcV9PLW92X0JsRGMzYzlkVzFva00wZDRsMG9XMmpXQUV5b0o3MHgyX2hpczVBTQ?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T10:05:54Z",
+      "summary": "Sarvam AI กำลังรับสมัคร Account Manager เพื่อจัดการความสัมพันธ์กับลูกค้าสำหรับโซลูชัน AI",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d940d74b328d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Principal Solution Architect - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVUZkSkdtZVRWLWoxZDNDUS1ZSDRLU0hrUGJYQ3Rncy0zalFuWTkxUUt0bTZkd0lZdHUydnE5eUZPTXctb3VrTjRFQ2JETUo1TlNDeUg5X25mNHVySGI1WTZVOEtyX0NqMjUyRHZoazQzSThiM3pNZDF2Zw?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T07:25:50Z",
+      "summary": "Sarvam AI กำลังมองหา Principal Solution Architect เพื่อออกแบบและเป็นผู้นำโครงการโครงสร้างพื้นฐาน AI ที่ซับซ้อน",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "26defbb0b434",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Backend Intern - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zMXEzRktsT01qZ3c2Wm4wR3AyVjNEYjl1Qmt6Sm9hNVhqSmNuTU0zVXVTWGp2LU9WWUN4Z2NqbHVQNHdXV0ZhbVpqSlBnbVdrY0hod2Z3VFlfVE9GNDVENVZBWUREbXJTLWdpTF93V2NRTzFvaFgxbnliQQ?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-07T02:07:14Z",
+      "summary": "Sarvam AI กำลังรับสมัคร intern ด้านการพัฒนา backend เพื่อสนับสนุนทีมวิศวกรรม AI",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d8edb5a86e59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Partnerships - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mYWs3Q1dmOHpMcTU1MXhZYmZ0SmZjZlhPbWhLOEJ0VW1RcXl6ZUZNSFdfYVhpeHM2S1Q5cXd6TUJwa0Z6ZVJMSC13?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-06T17:36:02Z",
+      "summary": "Sarvam AI กำลังขยายระบบนิเวศผ่านพันธมิตรเชิงกลยุทธ์และความร่วมมือใหม่ๆ ในอุตสาหกรรม",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8cdc30f07494",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Moonshot AI ของจีนระดมทุนได้ 2 พันล้านดอลลาร์ ด้วยมูลค่า 20 พันล้านดอลลาร์ เนื่องจากความต้องการ AI แบบโอเพนซอร์สพุ่งสูง",
+      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-07T13:44:25Z",
+      "summary": "สตาร์ทอัพจีน Moonshot AI ได้รับเงินทุนสองพันล้านดอลลาร์ ด้วยมูลค่าประเมินสองหมื่นล้านดอลลาร์",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c9be13e3a9fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Moonshot AI"
+      ],
+      "job_titles": [
+        "CEO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "China"
+      ]
+    },
+    {
+      "title": "Spotify ต้องการเป็นบ้านสำหรับเสียงส่วนตัวที่สร้างโดย AI",
+      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-07T13:00:00Z",
+      "summary": "Spotify กำลังขยายแพลตฟอร์มเพื่อรองรับและโฮสต์เนื้อหาเสียงส่วนตัวที่สร้างโดย AI โดยเฉพาะ",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f55681ab9b61",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Spotify"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AI DJ ของ Spotify รองรับภาษาฝรั่งเศส เยอรมัน อิตาลี และโปรตุเกสแบบบราซิลแล้ว",
+      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-07T12:20:04Z",
+      "summary": "Spotify ได้ขยายฟีเจอร์ AI DJ เพื่อรองรับภาษาใหม่ๆ และตลาดต่างประเทศหลายแห่ง",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "545573325aeb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Spotify"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Brazil",
+        "Europe",
+        "Global"
+      ]
+    },
+    {
+      "title": "สถาปนิกห้าคนในเศรษฐกิจ AI อธิบายว่าล้อกำลังหลุดไปทางไหน",
+      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-07T05:25:10Z",
+      "summary": "บุคคลสำคัญในวงการ AI พูดคุยถึงความท้าทายในปัจจุบันและความล้มเหลวที่อาจเกิดขึ้นในเศรษฐกิจปัญญาประดิษฐ์ที่กำลังพัฒนา",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bd6c9177f3c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "xAI กำลังจะกลายเป็น SpaceXAI. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONnloX3ZOWnlGOG9JbE1xdlo0U3lMbVZGVlh5R0dsT1JTVFNoTWxIODZJNnVURzZPQy1CdVdhWUpnSURhU3JwdkNMQktMbDZEQllMMmZZTmN2dE9wemhtV3Zka2JMWTlqa1U1YTA5RmljTURDSG9tLUFzRjJMT2lYQTVLSkZFT3YwU2hz?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-06T19:53:35Z",
+      "summary": "รายงานระบุว่า xAI ของ Elon Musk กำลังเพิ่มการบูรณาการและการทำงานร่วมกันกับ SpaceX ให้ลึกซึ้งยิ่งขึ้น",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "01812532a1b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "เรากำลังเห็นคำให้การเป็นวิดีโอจากการพิจารณาคดีของ Mira Murati. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZm1rcjFuQ19JcXYwVDF1dERpQlVidmVodTNPQXUzM2dKckp4Z0pRcGxvS2xYdlcyOExSc2otT1ZxWXhJd2FyX2FITWhhMFhpX0dTVTJyTWRBbmpORW1mV3JFSFVsT0xjRmNjYjNuUm9rNFh3NzdJeG1hWlNJU3hBa1p1Q0ZxOVNKajMzak1NeGJGNGdOOTlhMzhxeUF1ZlA2bWZQRDN0ZERnaTdOX0VETnpWTUVHRGJ6?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-06T15:51:34Z",
+      "summary": "อดีต CTO ของ OpenAI Mira Murati ให้การเป็นวิดีโอในการดำเนินคดีที่กำลังดำเนินอยู่ซึ่งเกี่ยวข้องกับการกำกับดูแลบริษัท",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "205810a060b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "Anthropic เพิ่มขีดจำกัดการใช้งาน Claude และทำข้อตกลงด้านการประมวลผลกับ SpaceX",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZXhOWkRpY080blQ2aDkzS1Fwb3FYWUhGM3FGUzNIbWNyYXY4cVZMaDYxMDVFejU1UGFkblVXMDdwMHJFQldvRXBUeXpJYUR5amgxelJtZ3dTU0U2dk1Taw?oc=5",
