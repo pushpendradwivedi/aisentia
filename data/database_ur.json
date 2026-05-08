@@ -1,6 +1,1425 @@
 {
-  "refreshed_at": "2026-05-08 02:06 UTC",
+  "refreshed_at": "2026-05-08 13:34 UTC",
   "items": [
+    {
+      "title": "Halliburton نے Amazon Bedrock اور Generative AI کے ساتھ سیسمک ورک فلو کی تخلیق کو بہتر بنایا",
+      "link": "https://aws.amazon.com/blogs/machine-learning/halliburton-enhances-seismic-workflow-creation-with-amazon-bedrock-and-generative-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-08T13:20:30Z",
+      "summary": "Halliburton سیسمک ورک فلو کی ڈیولپمنٹ کو بہتر بنانے کے لیے Amazon Bedrock اور جنریٹو AI کا استعمال کرتا ہے۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7dd0a22a35fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Amazon",
+        "Halliburton"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ActCam: ویڈیو جنریشن کے لیے زیرو شاٹ جوائنٹ کیمرہ اور 3D موشن کنٹرول",
+      "link": "https://arxiv.org/abs/2605.06667v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:59:58Z",
+      "summary": "ویڈیو جنریشن میں کیمرہ اور 3D موشن کے زیرو شاٹ کنٹرول کے لیے ActCam متعارف کرایا گیا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bac0c10e35f6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UniPool: مکسچر آف ایکسپرٹس (Mixture-of-Experts) کے لیے ایک عالمی سطح پر شیئرڈ ایکسپرٹ پول",
+      "link": "https://arxiv.org/abs/2605.06665v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:59:44Z",
+      "summary": "UniPool تجویز کرتا ہے، جو Mixture-of-Experts ماڈلز میں عالمی سطح پر شیئرڈ ایکسپرٹ پول کے لیے ایک طریقہ کار ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "736674f642a5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BAMI: GUI گراؤنڈنگ میں ٹریننگ کے بغیر تعصب (Bias) کو کم کرنا",
+      "link": "https://arxiv.org/abs/2605.06664v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:59:31Z",
+      "summary": "BAMI پیش کرتا ہے، جو ٹریننگ کی ضرورت کے بغیر GUI گراؤنڈنگ میں تعصب کو کم کرنے کی ایک تکنیک ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "99524ca75379",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ریاضیاتی استدلال کے لیے ویریفائر کی مدد سے مشکل مسائل کی تخلیق",
+      "link": "https://arxiv.org/abs/2605.06660v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:58:32Z",
+      "summary": "ویریفائرز کا استعمال کرتے ہوئے مشکل ریاضیاتی استدلال کے مسائل پیدا کرنے کا طریقہ تیار کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6b1942248cb4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Optimizer-Model Consistency: پری ٹریننگ والے آپٹیمائزر کے ساتھ مکمل فائن ٹیوننگ کم بھولتی ہے",
+      "link": "https://arxiv.org/abs/2605.06654v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:57:02Z",
+      "summary": "تحقیق سے پتہ چلتا ہے کہ پری ٹریننگ جیسا ہی آپٹیمائزر استعمال کرنے سے مکمل فائن ٹیوننگ میں زیادہ معلومات محفوظ رہتی ہیں۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "deebb8b6589e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "جب کوئی بینچ مارک موجود نہ ہو: گراؤنڈ ٹروتھ لیبلز کے بغیر تقابلی LLM سیفٹی اسکورنگ کی توثیق",
+      "link": "https://arxiv.org/abs/2605.06652v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:56:41Z",
+      "summary": "جب گراؤنڈ ٹروتھ لیبلز دستیاب نہ ہوں تو LLM سیفٹی اسکورنگ کی توثیق کے مسئلے کو حل کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bdf8e4cc2c97",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI Co-Mathematician: ایجنٹک AI کے ساتھ ریاضی دانوں کی رفتار بڑھانا",
+      "link": "https://arxiv.org/abs/2605.06651v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:56:32Z",
+      "summary": "ایک ایجنٹک AI اسسٹنٹ متعارف کرایا گیا ہے جسے ریاضیاتی تحقیق اور دریافت کو تیز کرنے کے لیے ڈیزائن کیا گیا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a0c0b2efc0be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "سپر انٹیلیجنٹ ریٹریول ایجنٹ: انفارمیشن ریٹریول کی اگلی سرحد",
+      "link": "https://arxiv.org/abs/2605.06647v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:54:29Z",
+      "summary": "اعلیٰ درجے کی انفارمیشن ریٹریول کے لیے سپر انٹیلیجنٹ ریٹریول ایجنٹ کے تصور کو تلاش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "df9992c0850d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کیا ہم ملٹی ماڈل ڈومین جنرلائزیشن میں پیش رفت کر رہے ہیں؟ ایک جامع بینچ مارک اسٹڈی",
+      "link": "https://arxiv.org/abs/2605.06643v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:51:16Z",
+      "summary": "ایک جامع بینچ مارک اسٹڈی کے ذریعے ملٹی ماڈل ڈومین جنرلائزیشن میں پیش رفت کا جائزہ لیتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "82f8359faab2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "StraTA: اسٹریٹجک ٹراجیکٹری ایبسٹریکشن کے ساتھ ایجنٹک ری انفورسمنٹ لرننگ کی حوصلہ افزائی",
+      "link": "https://arxiv.org/abs/2605.06642v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:51:16Z",
+      "summary": "اسٹریٹجک ٹراجیکٹری ایبسٹریکشن کا استعمال کرتے ہوئے ایجنٹک ری انفورسمنٹ لرننگ کی حوصلہ افزائی کے لیے StraTA پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ab672518c0c4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ویژن ماڈلز کے رویوں کے لیے تصور پر مبنی ابڈکٹیو اور کنٹراسٹو وضاحتیں",
+      "link": "https://arxiv.org/abs/2605.06640v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:51:13Z",
+      "summary": "ویژن ماڈلز کے رویوں کو سمجھنے کے لیے تصور پر مبنی وضاحتیں تجویز کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0854ae8aaf65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GlazyBench: سیرامک گلیز پراپرٹی کی پیش گوئی اور امیج جنریشن کے لیے ایک بینچ مارک",
+      "link": "https://arxiv.org/abs/2605.06641v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:51:13Z",
+      "summary": "GlazyBench متعارف کراتا ہے، جو سیرامک گلیز کی خصوصیات کی پیش گوئی اور تصاویر بنانے کے لیے ایک بینچ مارک ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f64e7ccd5b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ریکرسیو ایجنٹ آپٹیمائزیشن",
+      "link": "https://arxiv.org/abs/2605.06639v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:49:09Z",
+      "summary": "ریکرسیو طریقوں کے ذریعے ایجنٹس کو آپٹیمائز کرنے کا ایک نیا طریقہ متعارف کراتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1dd7d67307a4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کیا RL، LLMs کو طویل مدتی استدلال سکھا سکتا ہے؟ اظہار کی صلاحیت کلیدی ہے",
+      "link": "https://arxiv.org/abs/2605.06638v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:48:42Z",
+      "summary": "تحقیق کرتا ہے کہ کیا ری انفورسمنٹ لرننگ LLMs کو طویل مدتی استدلال سکھا سکتی ہے، جس میں اظہار کی صلاحیت پر زور دیا گیا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2d45de5116fc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MASPO: LLM پر مبنی ملٹی ایجنٹ سسٹمز کے لیے جوائنٹ پرامپٹ آپٹیمائزیشن",
+      "link": "https://arxiv.org/abs/2605.06623v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:35:26Z",
+      "summary": "LLM پر مبنی ملٹی ایجنٹ سسٹمز میں جوائنٹ پرامپٹ آپٹیمائزیشن کے لیے MASPO پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b7ed1e014928",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SignSGD، SGD سے بہتر کب اور کیوں کام کرتا ہے: $\\ell_1$-norm لوئر باؤنڈز پر مبنی ایک نظریاتی مطالعہ",
+      "link": "https://arxiv.org/abs/2605.06615v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:32:09Z",
+      "summary": "نظریاتی مطالعہ تحقیق کرتا ہے کہ $\\ell_1$-norm لوئر باؤنڈز کا استعمال کرتے ہوئے SignSGD، SGD سے کب اور کیوں بہتر کارکردگی دکھاتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7af38d9a6e71",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SkillOS: خود کو ارتقا دینے والے ایجنٹس کے لیے اسکل کیوریشن سیکھنا",
+      "link": "https://arxiv.org/abs/2605.06614v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:31:50Z",
+      "summary": "SkillOS متعارف کراتا ہے، جو خود کو ارتقا دینے والے AI ایجنٹس کو فعال کرنے کے لیے اسکل کیوریشن سیکھنے کا ایک نظام ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "971357bcf30d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "اٹینشن سنک (Attention Sink) کی ساختی اصل: ویریئنس ڈسکرپنسی، سپر نیورونز، اور ڈائمینشن ڈسپیرٹی",
+      "link": "https://arxiv.org/abs/2605.06611v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:28:55Z",
+      "summary": "اٹینشن سنک کی ساختی اصلیت کو تلاش کرتا ہے، اور اسے ویریئنس ڈسکرپنسی، سپر نیورونز، اور ڈائمینشن ڈسپیرٹی سے جوڑتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dfacc13d395a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI CFD سائنٹسٹ: فزکس سے آگاہ AI ایجنٹس کے ساتھ کمپیوٹیشنل فلوئیڈ ڈائنامکس کی دریافت",
+      "link": "https://arxiv.org/abs/2605.06607v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:27:23Z",
+      "summary": "فزکس سے آگاہ ایجنٹس کا استعمال کرتے ہوئے فلوئیڈ ڈائنامکس میں اوپن اینڈڈ دریافت کے لیے AI CFD سائنٹسٹ تجویز کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8cb72ab7f674",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace",
+        "Automotive",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Patch2Vuln: لینکس ڈسٹری بیوشن بائنری پیچز سے کمزوریوں کی ایجنٹک تعمیر نو",
+      "link": "https://arxiv.org/abs/2605.06601v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:22:22Z",
+      "summary": "لینکس بائنری پیچز سے کمزوریوں کو ایجنٹک طریقے سے دوبارہ تعمیر کرنے کے لیے Patch2Vuln پیش کرتا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7226b25f3d1a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Linux"
+      ],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UniSD: لارج لینگویج ماڈلز کے لیے ایک یونیفائیڈ سیلف ڈسٹلیشن فریم ورک کی جانب",
+      "link": "https://arxiv.org/abs/2605.06597v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:22:11Z",
+      "summary": "UniSD متعارف کراتا ہے، جو لارج لینگویج ماڈلز میں سیلف ڈسٹلیشن کے لیے ایک یونیفائیڈ فریم ورک ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "825a1b44aa9a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ملٹی ایجنٹ ری انفورسمنٹ لرننگ کے ساتھ کراس موڈل نیویگیشن",
+      "link": "https://arxiv.org/abs/2605.06595v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:20:34Z",
+      "summary": "کراس موڈل نیویگیشن کے کاموں کے لیے ملٹی ایجنٹ ری انفورسمنٹ لرننگ کا استعمال کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9b90f85dc06e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DINORANKCLIP: ہائی آرڈر رینکنگ کنسسٹنسی کے ساتھ ویژن-لینگویج پری ٹریننگ کے لیے DINOv3 ڈسٹلیشن اور انجیکشن",
+      "link": "https://arxiv.org/abs/2605.06592v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:19:52Z",
+      "summary": "DINOv3 ڈسٹلیشن اور رینکنگ کنسسٹنسی کا استعمال کرتے ہوئے ویژن-لینگویج پری ٹریننگ کے لیے DINORANKCLIP تجویز کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8aff9cafdd17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "میٹرک-فیتھ فل نیورل گراف میچنگ کی جانب",
+      "link": "https://arxiv.org/abs/2605.06588v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:16:54Z",
+      "summary": "میٹرک فیتھ فلنس حاصل کرنے کے لیے نیورل گراف میچنگ کو آگے بڑھاتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5912451eb35b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NeuroAgent: ملٹی موڈل نیورو امیجنگ تجزیہ اور تحقیق کے لیے LLM ایجنٹس",
+      "link": "https://arxiv.org/abs/2605.06584v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:13:48Z",
+      "summary": "NeuroAgent متعارف کراتا ہے، جو ملٹی موڈل نیورو امیجنگ تجزیہ اور تحقیق کے لیے LLM ایجنٹس کا استعمال کرتا ہے۔",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0814c41dad20",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ایڈجوائنٹ میچنگ کے ذریعے فلو ماڈلز کو فائن ٹیون کرنے کے لیے بہتر تکنیکیں: ایک ڈیٹرمینسٹک کنٹرول پائپ لائن",
+      "link": "https://arxiv.org/abs/2605.06583v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:12:47Z",
+      "summary": "ایڈجوائنٹ میچنگ اور ڈیٹرمینسٹک کنٹرول کا استعمال کرتے ہوئے فلو ماڈلز کے لیے بہتر فائن ٹیوننگ تکنیکیں پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b6dc5e8fc8b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ڈائریکشنل کنسسٹنسی بطور تکمیلی آپٹیمائزیشن سگنل: GONO فریم ورک",
+      "link": "https://arxiv.org/abs/2605.06575v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T17:05:05Z",
+      "summary": "GONO فریم ورک تجویز کرتا ہے جو آپٹیمائزیشن سگنل کے طور پر ڈائریکشنل کنسسٹنسی کا استعمال کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "14d8183246b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کوآرڈینیشن اہمیت رکھتی ہے: کوآپریٹو ملٹی ایجنٹ ری انفورسمنٹ لرننگ کا جائزہ",
+      "link": "https://arxiv.org/abs/2605.06557v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:50:53Z",
+      "summary": "کوآپریٹو ملٹی ایجنٹ ری انفورسمنٹ لرننگ میں کوآرڈینیشن کی اہمیت کا جائزہ لیتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b56f68c59133",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کنٹینیوس لیٹینٹ ڈفیوژن لینگویج ماڈل",
+      "link": "https://arxiv.org/abs/2605.06548v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:44:56Z",
+      "summary": "لینگویج جنریشن کے لیے ایک کنٹینیوس لیٹینٹ ڈفیوژن ماڈل متعارف کراتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "723364d54571",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI سے پیدا ہونے والے آئیڈیا ڈائیورسٹی کے خاتمے کا پیشگی جائزہ",
+      "link": "https://arxiv.org/abs/2605.06540v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:38:17Z",
+      "summary": "AI کی وجہ سے آئیڈیا ڈائیورسٹی کے خاتمے کے امکان کا پیشگی جائزہ لیتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b5808765e6bb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sparkle: ڈیکپلڈ گائیڈنس کے ذریعے لائیو انسٹرکشن گائیڈڈ ویڈیو بیک گراؤنڈ ریپلیسمنٹ",
+      "link": "https://arxiv.org/abs/2605.06535v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:35:34Z",
+      "summary": "ڈیکپلڈ گائیڈنس کا استعمال کرتے ہوئے لائیو انسٹرکشن گائیڈڈ ویڈیو بیک گراؤنڈ ریپلیسمنٹ کے لیے Sparkle پیش کرتا ہے۔",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b44f1d720dcc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Creator",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SpatialEpiBench: فورکاسٹنگ میں مقامی معلومات اور وبائی امراض کے پیشگی اندازوں کی بینچ مارکنگ",
+      "link": "https://arxiv.org/abs/2605.06530v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:31:43Z",
+      "summary": "فورکاسٹنگ میں مقامی معلومات اور وبائی امراض کے پیشگی اندازوں کی بینچ مارکنگ کے لیے SpatialEpiBench متعارف کراتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "98ed32985efd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "پرائسنگ ایجنٹس میں مارکیٹ-الائنمنٹ رسک: ٹریس ڈائیگنوسٹکس اور چھپے ہوئے حریف کی حالت میں RL",
+      "link": "https://arxiv.org/abs/2605.06529v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:31:39Z",
+      "summary": "ٹریس ڈائیگنوسٹکس اور RL کا استعمال کرتے ہوئے پرائسنگ ایجنٹس میں مارکیٹ-الائنمنٹ رسک کا تجزیہ کرتا ہے۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f735dc6ba1d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Quantitative Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "انسانوں کو مشینوں سے الگ کرنے کے لیے آؤٹ پٹ سے زیادہ عمل اہمیت رکھتا ہے",
+      "link": "https://arxiv.org/abs/2605.06524v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:30:35Z",
+      "summary": "دلیل دیتا ہے کہ انسانوں کو مشینوں سے الگ کرنے کے لیے آؤٹ پٹ نہیں، بلکہ عمل کلیدی ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eb6ca827c0aa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RLVR میں امپلیسٹ ریوارڈ اوور فٹنگ اور لو-رینک ڈائنامکس پر",
+      "link": "https://arxiv.org/abs/2605.06523v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:30:28Z",
+      "summary": "RLVR کے اندر امپلیسٹ ریوارڈ اوور فٹنگ اور لو-رینک ڈائنامکس کی تحقیق کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e1a759d8da0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Learning to Cut: بینڈرز ڈیکمپوزیشن کے لیے ری انفورسمنٹ لرننگ",
+      "link": "https://arxiv.org/abs/2605.06516v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:26:13Z",
+      "summary": "پیچیدہ ریاضیاتی آپٹیمائزیشن کے مسائل میں بینڈرز ڈیکمپوزیشن کو بہتر بنانے کے لیے ری انفورسمنٹ لرننگ کا استعمال۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "982ed61a02a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کیا ایک لیئر کافی ہے؟ ٹیبلر فاؤنڈیشن ماڈلز میں انفرنس ڈائنامکس کو سمجھنا",
+      "link": "https://arxiv.org/abs/2605.06510v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:22:04Z",
+      "summary": "تحقیق کرتا ہے کہ کیا ٹیبلر ڈیٹا سیٹس پر کام کرنے والے فاؤنڈیشن ماڈلز کے لیے سنگل لیئر آرکیٹیکچر کافی ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b8ede1528d8b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ریسرچ آرٹفیکٹس کی سیکیورٹی پر",
+      "link": "https://arxiv.org/abs/2605.06508v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:21:26Z",
+      "summary": "AI ریسرچ آرٹفیکٹس اور تقسیم کے طریقوں میں موجود سیکیورٹی کمزوریوں کا تجزیہ کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0489e7df9ecd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PACZero: سائن کوانٹائزیشن کے ذریعے لینگویج ماڈلز کی PAC-پرائیویٹ فائن ٹیوننگ",
+      "link": "https://arxiv.org/abs/2605.06505v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:20:20Z",
+      "summary": "PACZero متعارف کراتا ہے، جو سائن کوانٹائزیشن کا استعمال کرتے ہوئے لینگویج ماڈلز کی پرائیویٹ فائن ٹیوننگ کا طریقہ ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9b2b895d804e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کنٹینیوس ری انفورسمنٹ لرننگ کے لیے آپریٹر-گائیڈڈ انویریئنس لرننگ",
+      "link": "https://arxiv.org/abs/2605.06500v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:18:37Z",
+      "summary": "کنٹینیوس ری انفورسمنٹ لرننگ کی ترتیبات میں انویریئنس لرننگ کے لیے ایک نیا فریم ورک پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b44d4ac59f2f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ٹوکن لسٹس سے گراف موٹفس تک: اسپارس آٹو انکوڈر فیچرز کا ویسفیلر-لیہمن تجزیہ",
+      "link": "https://arxiv.org/abs/2605.06494v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:15:16Z",
+      "summary": "اسپارس آٹو انکوڈرز کے اندر فیچرز کو سمجھنے کے لیے ویسفیلر-لیہمن تجزیہ کا اطلاق کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2d791a16d503",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "انسٹرومینٹل چوائسز: LLM ایجنٹس کی انسٹرومینٹل رویوں کو اپنانے کی صلاحیت کی پیمائش",
+      "link": "https://arxiv.org/abs/2605.06490v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:12:36Z",
+      "summary": "جائزہ لیتا ہے کہ کس طرح لینگویج ماڈل ایجنٹس مخصوص انسٹرومینٹل اہداف کے رویوں کی طرف رجحان ظاہر کرتے ہیں۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8dc5a6a008c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Ethicist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کنٹرول ایبل 2D سلائس نیویگیشن ٹاسک کے ذریعے 3D MRI امیج پری ٹریننگ",
+      "link": "https://arxiv.org/abs/2605.06487v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:08:22Z",
+      "summary": "3D MRI میڈیکل امیجز پر ماڈلز کی پری ٹریننگ کے لیے 2D سلائس نیویگیشن کا استعمال کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9ca480036e94",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کنزیومر CPUs پر Litespark انفرنس: ٹرنری نیورل نیٹ ورکس کے لیے کسٹم SIMD کرنلز",
+      "link": "https://arxiv.org/abs/2605.06485v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:07:39Z",
+      "summary": "ٹرنری ویٹس کے لیے کسٹم SIMD کرنلز کا استعمال کرتے ہوئے CPUs پر نیورل نیٹ ورک انفرنس کو بہتر بناتا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "43ebe170e808",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReasonSTL: ٹول-آگمینٹڈ پروسیس-ریوارڈڈ لرننگ کے ذریعے نیچرل لینگویج اور سگنل ٹیمپورل لاجک کو جوڑنا",
+      "link": "https://arxiv.org/abs/2605.06483v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:07:30Z",
+      "summary": "ٹول-آگمینٹڈ پروسیس ریوارڈز کا استعمال کرتے ہوئے نیچرل لینگویج کو سگنل ٹیمپورل لاجک سے جوڑتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f770390dc28d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM انٹرپریٹیبلٹی کے لیے پیچ-ایفیکٹ گراف کرنلز",
+      "link": "https://arxiv.org/abs/2605.06480v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:03:47Z",
+      "summary": "لارج لینگویج ماڈل کے اندرونی ڈھانچوں کی انٹرپریٹیبلٹی کو بہتر بنانے کے لیے گراف کرنلز تجویز کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c71f4088ccb3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "بصری اسکرپٹ فیچرز پر ایویڈینشل ڈیپ ریگریشن کے ذریعے تاریخی مسودات کی پروببلسٹک ڈیٹنگ",
+      "link": "https://arxiv.org/abs/2605.06475v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:00:19Z",
+      "summary": "مسودات کی عمر کا اندازہ لگانے کے لیے بصری اسکرپٹس پر ڈیپ لرننگ ریگریشن کا استعمال کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "65f169be5d19",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Q-MMR: ریکسرو ری ویٹنگ اور مومنٹ میچنگ کے ذریعے آف-پالیسی ایویلیوایشن",
+      "link": "https://arxiv.org/abs/2605.06474v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T16:00:04Z",
+      "summary": "ریکسرو ری ویٹنگ اور مومنٹ میچنگ کا استعمال کرتے ہوئے آف-پالیسی ایویلیوایشن کی تکنیک متعارف کراتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ffc1208ca964",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ٹاسک کی کامیابی سے آگے: LLM پر مبنی ایجنٹک پیمنٹ سسٹمز میں ورک فلو فیڈیلیٹی کی پیمائش",
+      "link": "https://arxiv.org/abs/2605.06457v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T15:50:26Z",
+      "summary": "LLM سے چلنے والے خود مختار پیمنٹ ایجنٹس میں ورک فلو کی درستگی کا تعین کرتا ہے۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1282edae7157",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PrefixGuard: LLM-ایجنٹ ٹریسز سے آن لائن فیلیر-وارننگ مانیٹرز تک",
+      "link": "https://arxiv.org/abs/2605.06455v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-07T15:49:48Z",
+      "summary": "ایگزیکیوشن ٹریسز کی بنیاد پر LLM ایجنٹس کے لیے ایک آن لائن مانیٹرنگ سسٹم نافذ کرتا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8e5f70929f55",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "آٹزم تشخیص کے AI اور دیگر بریفنگز کے لیے 13 ملین ڈالر اکٹھے کیے گئے",
+      "link": "https://www.mobihealthnews.com/news/anz/13m-raised-autism-diagnostics-ai-and-more-briefs",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-08T06:07:35Z",
+      "summary": "ایک اسٹارٹ اپ نے آٹزم کی تشخیص کے لیے AI تیار کرنے کے لیے 13 ملین ڈالر کی فنڈنگ حاصل کی ہے۔",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d915ac601ac5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": [
+        "New Zealand"
+      ]
+    },
+    {
+      "title": "مرئیت سے آٹومیشن تک: صحت کی دیکھ بھال میں RTLS کا اگلا ارتقا",
+      "link": "https://www.healthcareittoday.com/2026/05/07/from-visibility-to-automation-the-next-evolution-of-rtls-in-healthcare/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-07T14:00:17Z",
+      "summary": "صحت کی دیکھ بھال میں ریئل ٹائم لوکیشن سسٹمز (RTLS) بنیادی مرئیت سے مکمل آٹومیشن کی طرف بڑھ رہے ہیں۔",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1cf7af5fada8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Legora نے aOS 'ایجنٹک آپریٹنگ سسٹم' لانچ کیا",
+      "link": "https://www.artificiallawyer.com/2026/05/07/legora-launches-aos-agentic-operating-system/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-07T17:00:00Z",
+      "summary": "Legora نے اپنا نیا 'ایجنٹک آپریٹنگ سسٹم' متعارف کرایا ہے جس کا نام aOS ہے۔",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c463f24dad07",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "Legora"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تھامسن رائٹرز پر ریاستی پرائیویسی قانون کی خلاف ورزی کا الزام عائد",
+      "link": "https://www.abajournal.com/news/article/thomson-reuters-hit-with-lawsuit-accusing-it-of-violating-michigan-privacy-statute/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-05-08T13:28:43.817043+00:00Z",
+      "summary": "تھامسن رائٹرز کو مشی گن کے ڈیٹا پرائیویسی قوانین کی خلاف ورزی کے الزامات پر مقدمے کا سامنا ہے۔",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a2e5f7a6a043",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "Thomson Reuters"
+      ],
+      "job_titles": [
+        "Legal Counsel",
+        "Privacy Officer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MedQA: AMD ROCm پر کلینیکل AI کی فائن ٹیوننگ — CUDA کی ضرورت نہیں",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/medqa",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-05-08T07:54:18Z",
+      "summary": "AMD ہارڈ ویئر اور ROCm سافٹ ویئر اسٹیک کا استعمال کرتے ہوئے میڈیکل AI ماڈلز کو فائن ٹیون کرنے پر ٹیوٹوریل۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8b2593a1f48b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "AMD",
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nanoleaf کا مستقبل روبوٹکس، ریڈ لائٹ تھراپی، اور AI پر منحصر ہے - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFdvdmgxWkZDaDl0U2pYdURtX1BZSEhOM2didXpTUkRYSUZBS0lUbnhsOF9Sb0dySmFOZE9XWkV3Z1Axc01YTGdIWno1clpSVFloREdDbDlCNktjQWZmS1RTZVA2dkEyTGJhVG5MZHNzVGx2ZGpySVh0SEplaXRYa0tiODJhQ2ZJM0poaXVvaTNwMEdxTGc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-08T12:15:00Z",
+      "summary": "Nanoleaf نے اپنا کاروباری مرکز روبوٹکس، ہیلتھ ٹیک، اور مصنوعی ذہانت کو مربوط کرنے کی طرف منتقل کر دیا ہے۔",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "70b6ac54f1aa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Nanoleaf"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
     {
       "title": "GPT-5.5 اور GPT-5.5-Cyber کے ساتھ سائبر کے لیے Trusted Access کو بڑھانا",
       "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
