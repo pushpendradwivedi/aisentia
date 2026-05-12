@@ -1,6 +1,516 @@
 {
-  "refreshed_at": "2026-05-11 14:49 UTC",
+  "refreshed_at": "2026-05-12 02:04 UTC",
   "items": [
+    {
+      "title": "2026年初頭におけるChatGPTの普及拡大の背景",
+      "link": "https://openai.com/signals/research/2026q1-update",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T15:00:00Z",
+      "summary": "2026年初頭のChatGPT利用パターンにおけるトレンドと人口統計学的拡大の分析。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "45f994a15450",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SocialReasoning-Bench：AIエージェントがユーザーの最善の利益のために行動しているかを測定する",
+      "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T17:19:28Z",
+      "summary": "AIエージェントが社会的相互作用において、人間のユーザーの利益を効果的に優先しているかを評価する新しいベンチマーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "55f8cdd33ed6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "StrandsとExaを使用したウェブ検索対応エージェントの構築",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T21:58:16Z",
+      "summary": "ウェブ検索機能を備えたAIエージェントを開発するために、StrandsとExaを統合するチュートリアル。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "View Code",
+      "item_id": "cde8153825cd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Exa"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AWS上のClaude Platformの紹介：AWSアカウントを通じて利用可能なAnthropicのネイティブプラットフォーム",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T18:43:03Z",
+      "summary": "AnthropicのClaudeプラットフォームが、エンタープライズ展開向けにAWSアカウントとネイティブ統合。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "59c604459796",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Nova Multimodal Embeddingsによる製造インテリジェンスの実現",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T17:08:24Z",
+      "summary": "Amazon Novaマルチモーダル埋め込みを活用し、製造環境におけるインテリジェンスと運用を強化する。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f1b343410f0f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MiroがAmazon Bedrockを活用してソフトウェアのバグ振り分け精度を高め、解決時間を数日から数時間に短縮した方法",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T17:03:00Z",
+      "summary": "MiroはAmazon Bedrockによる自動振り分けを活用し、ソフトウェアのバグ解決時間を短縮した。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f19f3b6be398",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Miro"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Quick：エンタープライズデータからAI主導の意思決定への道のりを加速させる",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T15:56:33Z",
+      "summary": "Amazonが、エンタープライズデータをAIインサイトへと変革するプロセスを高速化するツールを導入。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ad25a5e1a79b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CEO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HIMSSCast：「AIソリューションを消化しやすい単位で実装せよ」",
+      "link": "https://www.mobihealthnews.com/podcast/himsscast-implement-ai-solution-digestible-chunks",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-11T20:18:20Z",
+      "summary": "臨床現場におけるAI技術の反復的な実装戦略について議論するポッドキャスト。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "b3d9e0c79c1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "HIMSS"
+      ],
+      "job_titles": [
+        "CTO",
+        "HR Manager",
+        "Healthcare Administrator"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "不安定なデジタルヘルス市場が相互運用性の採用に与える影響",
+      "link": "https://www.mobihealthnews.com/video/volatile-digital-health-marketplace-impacts-interoperability-adoption",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-11T19:09:30Z",
+      "summary": "市場の不安定さが、医療データ相互運用性標準の採用に影響を及ぼしている。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d3502a1bb564",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MedFloridaが成長の原動力としてClinicalWorksのAIソリューションを採用",
+      "link": "https://www.healthcareittoday.com/2026/05/11/medflorida-uses-clinicalworks-ai-solutions-as-a-growth-enabler/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-11T16:00:42Z",
+      "summary": "MedFloridaは、業務を効率化し、診療所の成長を支援するためにClinicalWorksのAIツールを活用している。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "346d60829d53",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "ClinicalWorks",
+        "MedFlorida"
+      ],
+      "job_titles": [
+        "Developer",
+        "Healthcare Administrator"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "iManage Playbook AnalysisがAI契約戦略を強化",
+      "link": "https://www.artificiallawyer.com/2026/05/11/imanage-playbook-analysis-strengthens-ai-contract-strategy/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-11T14:57:03Z",
+      "summary": "iManageが、法務AI契約交渉戦略を強化するためにプレイブック分析ツールを更新。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "337658c7f5db",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "iManage"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Tech Specialist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "会議の議事録作成にはAIではなく人間を使うべきだと弁護士が提言",
+      "link": "https://www.abajournal.com/news/article/use-humans-not-ai-to-take-meeting-notes-lawyers-say/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-05-12T02:00:49.302311+00:00Z",
+      "summary": "機密保持と正確性を保護するため、会議の議事録作成にAIを使用しないよう法務専門家が助言。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2110094d02d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Lawyer",
+        "Legal Assistant"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AWSにおける基盤モデルのトレーニングと推論のためのビルディングブロック",
+      "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-05-11T23:18:26Z",
+      "summary": "AWSインフラストラクチャを使用して基盤モデルをトレーニングおよびデプロイするためのアーキテクチャ上のビルディングブロックの概要。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3bee7290591a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AIラリーに乗るRobinhood、2度目のリテールベンチャーIPOを準備",
+      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-12T00:09:01Z",
+      "summary": "Robinhoodが、AI主導の市場の勢いを利用して2度目のIPOを準備中。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7a7c4cf1151c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "Robinhood"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "GMがIT従業員数百人を解雇、より強力なAIスキルを持つ人材を採用へ",
+      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T23:04:10Z",
+      "summary": "ゼネラルモーターズ（GM）が、特定の人工知能の専門知識を持つ専門家の採用を優先するため、ITスタッフを解雇。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a8dd42f86055",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "General Motors"
+      ],
+      "job_titles": [
+        "AI Specialist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Diggが再挑戦、今回はAIニュースアグリゲーターとして",
+      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T17:02:35Z",
+      "summary": "DiggがAI技術を活用し、ユーザー向けにニュースコンテンツを集約するプラットフォームとして再始動。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0b86095285b9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Digg"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ミラ・ムラティ氏のAI企業は何をしているのか - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjVkVnNtMHRRZlNNQnZhcmMwWVFKWHlPTkNQdWFxVmxidlg3TnljanFkTXZLN0g0R1BaRnNFeDhZdWxfaVhWWHFqXzJobTNUTFE4S19XY0xzdDlrLWEtUy11VkdDSjEyTTJ2ZDVGaDFfNTFBUlZvbGtjYlF3MWhnNGdlM1VWZFFkQjZKa1JwanB6Wk12Z1RXSW5LZnI1dDVxdzFQVkMyLXJ6bzdJQWc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T22:19:15Z",
+      "summary": "ミラ・ムラティ氏の新しいAIベンチャーの現在のビジネスと開発の焦点に関するレポート。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "82f591ddc363",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Googleがゼロデイ攻撃を阻止、AIを使用して開発されたものと発表 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JanVaMWVoV3VvcDF1bEc4NUZSdHg4SGZjdFFTd1VIYjVDY2dLZ3pNLU8taWxvNjVPM21pNWZjamJNdnA5MHRDT184YXM2ZkNYeGx6WVRZNVRjVENIR0VEZTlHYUN0ZkVUejlGWG5JZWZWdkJScUVfTlFtYw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T16:09:42Z",
+      "summary": "Googleが、人工知能ツールを使用して作成されたとされるゼロデイ攻撃を検出し、無力化した。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1ad4f2dfd98a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ジョアンナ・スターンはロボットではないが、ロボットと生活した - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXZ0R0NlVTVGaFNPMk5QdjN6bUpsR21oV09qcmdGbUppazNfalM4S29KOFM3ZmwteDAyUjB3REsyRlJkRzBQLU9Bb3loR29DMmlsOHlxek9paEZDMnUyNGU4c21jWkxiYkJYamIwTHR3aE5IZkpJeDhxM1JNMDE3bVNXcjVuY3hSeVdQc0pkODhQNkxwY2FVNWtxblRCNFliRDl1MFJIRkRHWGNz?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T14:00:00Z",
+      "summary": "ジャーナリストが、さまざまな家庭用ロボットや自動化システムと生活した経験を詳述。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5f86ee08515a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "企業はいかにしてAIをスケールさせているか",
       "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",

@@ -1,6 +1,516 @@
 {
-  "refreshed_at": "2026-05-11 14:49 UTC",
+  "refreshed_at": "2026-05-12 02:04 UTC",
   "items": [
+    {
+      "title": "2026 की शुरुआत में ChatGPT को अपनाने का दायरा कैसे बढ़ा",
+      "link": "https://openai.com/signals/research/2026q1-update",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T15:00:00Z",
+      "summary": "2026 की शुरुआत के दौरान ChatGPT के उपयोग के पैटर्न में रुझानों और जनसांख्यिकीय विस्तार का विश्लेषण।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "45f994a15450",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SocialReasoning-Bench: यह मापना कि क्या AI एजेंट उपयोगकर्ताओं के सर्वोत्तम हित में कार्य करते हैं",
+      "link": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T17:19:28Z",
+      "summary": "नया बेंचमार्क जो यह मूल्यांकन करता है कि क्या AI एजेंट सामाजिक इंटरैक्शन में मानव उपयोगकर्ताओं के हितों को प्रभावी ढंग से प्राथमिकता देते हैं।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "55f8cdd33ed6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Strands और Exa के साथ वेब सर्च-सक्षम एजेंट बनाना",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-web-search-enabled-agents-with-strands-and-exa/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T21:58:16Z",
+      "summary": "वेब सर्च क्षमताओं वाले AI एजेंटों को विकसित करने के लिए Strands और Exa को एकीकृत करने पर ट्यूटोरियल।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "View Code",
+      "item_id": "cde8153825cd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Exa"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AWS पर Claude Platform का परिचय: आपके AWS खाते के माध्यम से Anthropic का नेटिव प्लेटफॉर्म",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-platform-on-aws-anthropics-native-platform-through-your-aws-account/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T18:43:03Z",
+      "summary": "Anthropic का Claude प्लेटफॉर्म अब एंटरप्राइज परिनियोजन (deployment) के लिए AWS खातों के साथ नेटिव रूप से एकीकृत होता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "59c604459796",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Nova Multimodal Embeddings के साथ विनिर्माण बुद्धिमत्ता",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manufacturing-intelligence-with-amazon-nova-multimodal-embeddings/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T17:08:24Z",
+      "summary": "विनिर्माण वातावरण के भीतर बुद्धिमत्ता और संचालन को बढ़ाने के लिए Amazon Nova मल्टीमॉडल एम्बेडिंग का लाभ उठाना।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f1b343410f0f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Miro कैसे Amazon Bedrock का उपयोग करके सॉफ्टवेयर बग रूटिंग सटीकता को बढ़ाता है और समाधान के समय को दिनों से घटाकर घंटों में लाता है",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T17:03:00Z",
+      "summary": "Miro ने स्वचालित रूटिंग के लिए Amazon Bedrock का उपयोग करके सॉफ्टवेयर बग समाधान के समय को कम किया।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f19f3b6be398",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Miro"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Quick: एंटरप्राइज डेटा से AI-संचालित निर्णयों तक की राह को तेज करना",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-accelerating-the-path-from-enterprise-data-to-ai-powered-decisions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-11T15:56:33Z",
+      "summary": "Amazon ने एंटरप्राइज डेटा को AI अंतर्दृष्टि में बदलने की प्रक्रिया को तेज करने के लिए उपकरण पेश किए हैं।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ad25a5e1a79b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CEO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HIMSSCast: 'AI समाधान को छोटे-छोटे हिस्सों में लागू करें'",
+      "link": "https://www.mobihealthnews.com/podcast/himsscast-implement-ai-solution-digestible-chunks",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-11T20:18:20Z",
+      "summary": "क्लिनिकल सेटिंग्स में AI प्रौद्योगिकियों के लिए पुनरावृत्त कार्यान्वयन रणनीतियों पर चर्चा करने वाला पॉडकास्ट।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "b3d9e0c79c1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "HIMSS"
+      ],
+      "job_titles": [
+        "CTO",
+        "HR Manager",
+        "Healthcare Administrator"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "अस्थिर डिजिटल स्वास्थ्य बाज़ार इंटरऑपरेबिलिटी अपनाने को प्रभावित कर रहा है",
+      "link": "https://www.mobihealthnews.com/video/volatile-digital-health-marketplace-impacts-interoperability-adoption",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-11T19:09:30Z",
+      "summary": "बाज़ार की अस्थिरता स्वास्थ्य डेटा इंटरऑपरेबिलिटी मानकों को अपनाने को प्रभावित कर रही है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d3502a1bb564",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MedFlorida विकास को सक्षम करने के लिए ClinicalWorks के AI समाधानों का उपयोग करता है",
+      "link": "https://www.healthcareittoday.com/2026/05/11/medflorida-uses-clinicalworks-ai-solutions-as-a-growth-enabler/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-11T16:00:42Z",
+      "summary": "MedFlorida संचालन को सुव्यवस्थित करने और अभ्यास विकास का समर्थन करने के लिए ClinicalWorks के AI उपकरणों का उपयोग करता है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "346d60829d53",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "ClinicalWorks",
+        "MedFlorida"
+      ],
+      "job_titles": [
+        "Developer",
+        "Healthcare Administrator"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "iManage Playbook विश्लेषण AI अनुबंध रणनीति को मजबूत करता है",
+      "link": "https://www.artificiallawyer.com/2026/05/11/imanage-playbook-analysis-strengthens-ai-contract-strategy/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-11T14:57:03Z",
+      "summary": "iManage कानूनी AI अनुबंध वार्ता रणनीतियों को बढ़ाने के लिए अपने प्लेबुक विश्लेषण उपकरणों को अपडेट करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "337658c7f5db",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "iManage"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Tech Specialist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "वकीलों का कहना है कि मीटिंग नोट्स लेने के लिए AI नहीं, इंसानों का उपयोग करें",
+      "link": "https://www.abajournal.com/news/article/use-humans-not-ai-to-take-meeting-notes-lawyers-say/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-05-12T02:00:49.302311+00:00Z",
+      "summary": "कानूनी पेशेवर गोपनीयता और सटीकता की रक्षा के लिए मीटिंग नोट्स के लिए AI से बचने की सलाह देते हैं।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2110094d02d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Lawyer",
+        "Legal Assistant"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AWS पर फाउंडेशन मॉडल प्रशिक्षण और अनुमान के लिए बिल्डिंग ब्लॉक्स",
+      "link": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-05-11T23:18:26Z",
+      "summary": "AWS इंफ्रास्ट्रक्चर का उपयोग करके फाउंडेशन मॉडल को प्रशिक्षित और तैनात करने के लिए आर्किटेक्चरल बिल्डिंग ब्लॉक्स की रूपरेखा।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3bee7290591a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AI रैली का लाभ उठाते हुए, Robinhood दूसरे खुदरा उद्यम IPO की तैयारी कर रहा है",
+      "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-12T00:09:01Z",
+      "summary": "Robinhood AI द्वारा संचालित बाज़ार की गति का लाभ उठाते हुए दूसरे IPO की तैयारी कर रहा है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7a7c4cf1151c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "Robinhood"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "GM ने अभी सैकड़ों IT कर्मचारियों को नौकरी से निकाला ताकि मजबूत AI कौशल वाले लोगों को काम पर रखा जा सके",
+      "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T23:04:10Z",
+      "summary": "General Motors ने विशिष्ट आर्टिफिशियल इंटेलिजेंस विशेषज्ञता वाले पेशेवरों को काम पर रखने को प्राथमिकता देने के लिए IT कर्मचारियों को हटा दिया।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a8dd42f86055",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "General Motors"
+      ],
+      "job_titles": [
+        "AI Specialist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Digg ने फिर से कोशिश की, इस बार एक AI समाचार एग्रीगेटर के रूप में",
+      "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T17:02:35Z",
+      "summary": "Digg ने उपयोगकर्ताओं के लिए समाचार सामग्री एकत्र करने के लिए AI तकनीक का उपयोग करते हुए अपना प्लेटफॉर्म फिर से लॉन्च किया है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0b86095285b9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Digg"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "मीरा मुराती की AI कंपनी क्या कर रही है - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjVkVnNtMHRRZlNNQnZhcmMwWVFKWHlPTkNQdWFxVmxidlg3TnljanFkTXZLN0g0R1BaRnNFeDhZdWxfaVhWWHFqXzJobTNUTFE4S19XY0xzdDlrLWEtUy11VkdDSjEyTTJ2ZDVGaDFfNTFBUlZvbGtjYlF3MWhnNGdlM1VWZFFkQjZKa1JwanB6Wk12Z1RXSW5LZnI1dDVxdzFQVkMyLXJ6bzdJQWc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T22:19:15Z",
+      "summary": "मीरा मुराती के नए AI उद्यम के वर्तमान व्यवसाय और विकास फोकस पर रिपोर्ट।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "82f591ddc363",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google ने एक ज़ीरो-डे हैक को रोका, जिसके बारे में उसका कहना है कि इसे AI के साथ विकसित किया गया था - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JanVaMWVoV3VvcDF1bEc4NUZSdHg4SGZjdFFTd1VIYjVDY2dLZ3pNLU8taWxvNjVPM21pNWZjamJNdnA5MHRDT184YXM2ZkNYeGx6WVRZNVRjVENIR0VEZTlHYUN0ZkVUejlGWG5JZWZWdkJScUVfTlFtYw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T16:09:42Z",
+      "summary": "Google ने एक ज़ीरो-डे एक्सप्लॉइट का पता लगाया और उसे निष्प्रभावी किया, जिसे कथित तौर पर आर्टिफिशियल इंटेलिजेंस उपकरणों का उपयोग करके बनाया गया था।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1ad4f2dfd98a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "जोआना स्टर्न रोबोट नहीं हैं, लेकिन वह उनके साथ रहती थीं - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXZ0R0NlVTVGaFNPMk5QdjN6bUpsR21oV09qcmdGbUppazNfalM4S29KOFM3ZmwteDAyUjB3REsyRlJkRzBQLU9Bb3loR29DMmlsOHlxek9paEZDMnUyNGU4c21jWkxiYkJYamIwTHR3aE5IZkpJeDhxM1JNMDE3bVNXcjVuY3hSeVdQc0pkODhQNkxwY2FVNWtxblRCNFliRDl1MFJIRkRHWGNz?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T14:00:00Z",
+      "summary": "एक पत्रकार विभिन्न घरेलू रोबोटों और स्वचालन प्रणालियों के साथ रहने के अपने अनुभव का विवरण देती है।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5f86ee08515a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "उद्यम AI को कैसे स्केल कर रहे हैं",
       "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
