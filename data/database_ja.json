@@ -1,6 +1,1616 @@
 {
-  "refreshed_at": "2026-05-12 02:04 UTC",
+  "refreshed_at": "2026-05-12 14:21 UTC",
   "items": [
+    {
+      "title": "NVIDIAとSAP、専門エージェントに信頼性をもたらす",
+      "link": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-12T12:30:56Z",
+      "summary": "NVIDIAとSAPが協力し、信頼性の高い専門的なAIエージェントをエンタープライズワークフローに統合する。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c0f0f103cd7f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA",
+        "SAP"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MatterSimによる材料科学AIの進化：実験的合成、高速シミュレーション、マルチタスクモデル",
+      "link": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-12T13:00:00Z",
+      "summary": "Microsoftは、AIモデルを活用して材料科学のシミュレーションと実験的合成を加速させるMatterSimを発表した。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4f0e51d00909",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Pharmaceutical"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ELF: Embedded Language Flows（埋め込み言語フロー）",
+      "link": "https://arxiv.org/abs/2605.10938v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:59:29Z",
+      "summary": "高度なAI実行パターンのための埋め込み言語フローを提案する新しいフレームワーク。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "873f29aee8a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ニューラルチルトを用いたLévy過程駆動型SDEのための変分推論",
+      "link": "https://arxiv.org/abs/2605.10934v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:58:45Z",
+      "summary": "ニューラルチルト技術を用いたSDE（確率微分方程式）のための変分推論手法に関する研究。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0312e026daf5",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ベンガル語複合文字認識を強化する信頼度ガイド付き拡散モデルによる拡張",
+      "link": "https://arxiv.org/abs/2605.10916v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:51:46Z",
+      "summary": "拡散モデルベースのデータ拡張により、ベンガル語の文字認識精度を向上させる。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4cb6b76d2b51",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Shepherd: 定式化された実行トレースでメタエージェントを強化するランタイム基盤",
+      "link": "https://arxiv.org/abs/2605.10913v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:50:51Z",
+      "summary": "自律型メタエージェントシステムにおける実行トレースを定式化するためのランタイム基盤。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3a63158cc075",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AIワークフローストアによるパーソナルエージェントの堅牢性エンジニアリング",
+      "link": "https://arxiv.org/abs/2605.10907v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:46:33Z",
+      "summary": "パーソナルエージェントシステムの堅牢性を高めるためのAIワークフローストアを提案する。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "badfa8136518",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DataMaster: 機械学習のための自律的なデータエンジニアリングに向けて",
+      "link": "https://arxiv.org/abs/2605.10906v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:46:24Z",
+      "summary": "機械学習パイプラインを改善するためにデータエンジニアリングタスクを自動化することを目的としたシステム。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bc1303d0eb09",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "オンポリシー蒸留の解明：どこで役立ち、どこで損をし、なぜそうなるのか",
+      "link": "https://arxiv.org/abs/2605.10889v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:33:28Z",
+      "summary": "オンポリシーモデル蒸留技術の性能への影響とトレードオフを詳細に分析した実証研究。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b83a5a98d960",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MDPにおける確率的安全性を保証するためのシールド",
+      "link": "https://arxiv.org/abs/2605.10888v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:33:01Z",
+      "summary": "マルコフ決定過程（MDP）において確率的な境界を保証するためにシールドを利用する安全性フレームワーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ceaed3d6ed5e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LoKA: 大規模レコメンデーションモデルのための低精度カーネルアプリケーション",
+      "link": "https://arxiv.org/abs/2605.10886v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:32:29Z",
+      "summary": "大規模な機械学習レコメンデーションモデル向けに、低精度カーネルを用いた最適化技術。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bdb59b414aa9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AssayBench: LLMおよびエージェントのためのアッセイレベル仮想細胞ベンチマーク",
+      "link": "https://arxiv.org/abs/2605.10876v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:27:16Z",
+      "summary": "生物学的なアッセイレベルの仮想細胞モデリングタスクにおけるLLMの性能を評価するベンチマークスイート。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a4abc9df08e9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CADBench: AI支援によるCADプログラム生成のためのマルチモーダルベンチマーク",
+      "link": "https://arxiv.org/abs/2605.10873v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:25:47Z",
+      "summary": "AIが生成したCADソフトウェアプログラムを評価するために作成された新しいマルチモーダルベンチマーク。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8e1860f5c63b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "説明ではなく決定を記憶せよ：エージェントメモリのためのレート歪みフレームワーク",
+      "link": "https://arxiv.org/abs/2605.10870v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:20:58Z",
+      "summary": "AI自律エージェントの記憶保持を最適化するためにレート歪み理論を適用するフレームワーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ad3f5955dd05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BEACON: ゲームプレイデータから行動指紋を学習するためのマルチモーダルデータセット",
+      "link": "https://arxiv.org/abs/2605.10867v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:17:02Z",
+      "summary": "AIがプレイヤーのパターンを認識できるように学習させるための、ゲームから収集された行動データセット。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "97b9f2b29d12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BenchCAD: プログラマティックCADのための包括的で業界標準のベンチマーク",
+      "link": "https://arxiv.org/abs/2605.10865v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:13:36Z",
+      "summary": "産業用途におけるプログラマティックCAD生成モデルを評価するための標準化されたベンチマークツール。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "80845c7fc3d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "一般化チューリングテスト：知能を比較するための基盤",
+      "link": "https://arxiv.org/abs/2605.10851v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T17:00:18Z",
+      "summary": "さまざまなシステム間で知能レベルを比較・評価するための一般化されたフレームワークを提案する。",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aee406a31192",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Pi-Seriniによるエージェント検索の再考：語彙検索は十分か？",
+      "link": "https://arxiv.org/abs/2605.10848v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:58:57Z",
+      "summary": "現在の語彙検索手法がAIシステムにおけるエージェント検索のパフォーマンスを効果的にサポートしているかを調査する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2fd952e91d41",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ペルソナの不一致を通じた大規模言語モデルのトレーニング不要な文化的アライメント",
+      "link": "https://arxiv.org/abs/2605.10843v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:55:16Z",
+      "summary": "追加のモデルトレーニングなしで、LLMを文化的価値観に合わせる手法を提案する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4040c13dba0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Ethicist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Clin-JEPA: 電子カルテ（EHR）患者軌跡におけるジョイント埋め込み予測事前学習のための多段階共学習フレームワーク",
+      "link": "https://arxiv.org/abs/2605.10840v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:54:23Z",
+      "summary": "予測事前学習技術を用いたEHRデータ分析のための共学習フレームワークを紹介する。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a82a863ea9c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "管理環境から野生へ：現実世界におけるペネトレーションテストエージェントの評価",
+      "link": "https://arxiv.org/abs/2605.10834v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:50:00Z",
+      "summary": "現実的で制御されていないサイバーセキュリティ環境における自律型ペネトレーションテストエージェントの有効性を評価する。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "daae476d0c06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MMVIAD: 産業異常検知のためのマルチビュー・マルチタスク動画理解",
+      "link": "https://arxiv.org/abs/2605.10833v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:49:38Z",
+      "summary": "産業製造プロセスにおける異常を検知するためのマルチビュー動画理解システムを提示する。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a264351a8649",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Computer Vision Engineer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SLIM: 解釈可能かつ特性指向のLLMベース分子編集のためのスパース潜在ステアリング",
+      "link": "https://arxiv.org/abs/2605.10831v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:47:25Z",
+      "summary": "解釈可能な分子設計および編集タスクのために、LLMにスパース潜在ステアリングを適用する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "336b00ac1dfc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Pharmaceutical",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Chemist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "インクの最初の一滴：長文脈推論における誤解を招く情報の非線形な影響",
+      "link": "https://arxiv.org/abs/2605.10828v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:46:20Z",
+      "summary": "誤解を招く情報が、長文脈シナリオにおけるLLMの推論パフォーマンスに不釣り合いな影響を与える仕組みを分析する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a573f95afae7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MaD Physics: 物理環境における制約下での情報探索の評価",
+      "link": "https://arxiv.org/abs/2605.10820v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:37:19Z",
+      "summary": "制約のある物理シミュレーション環境内でのAIエージェントの情報探索能力をベンチマークする。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "30446a317302",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ALAM: 視覚・言語・行動モデルのための代数的に一貫した潜在遷移",
+      "link": "https://arxiv.org/abs/2605.10819v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:37:07Z",
+      "summary": "ロボットの視覚・言語・行動の統合を改善するための、代数的に一貫した潜在遷移を導入する。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2fa85d7817a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "CLEF: 臨床的意味論を学習するための脳波（EEG）基盤モデル",
+      "link": "https://arxiv.org/abs/2605.10817v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:34:58Z",
+      "summary": "臨床的な意味理解を向上させるために、脳波データで学習された基盤モデルを提示する。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4bfcdcf63f0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "非マルコフ強化学習のためのポリシー勾配法",
+      "link": "https://arxiv.org/abs/2605.10816v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:34:28Z",
+      "summary": "非マルコフ強化学習環境におけるポリシー勾配法の進歩を探求する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6e07b840f2f3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "視聴覚LLMにおけるクロスモーダル情報ハブのプロービング",
+      "link": "https://arxiv.org/abs/2605.10815v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:34:18Z",
+      "summary": "視聴覚LLMが推論中にクロスモーダル情報をどのように処理・統合するかを分析する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "383028e31308",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "NanoResearch: パーソナライズされた研究自動化のためのスキル、メモリ、ポリシーの共進化",
+      "link": "https://arxiv.org/abs/2605.10813v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:33:47Z",
+      "summary": "パーソナライズされた研究タスクのためにスキルとメモリを共進化させる自動化フレームワークを提示する。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b626aabb6130",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "デフレートQ値反復のスイッチング幾何学解析",
+      "link": "https://arxiv.org/abs/2605.10811v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:32:41Z",
+      "summary": "スイッチング幾何学手法を用いたデフレートQ値反復の理論的解析を提供する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4e4619a7f118",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ドメイン適応型言語モデルを用いた脅威モデリング：実証的評価と洞察",
+      "link": "https://arxiv.org/abs/2605.10808v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:31:25Z",
+      "summary": "ドメイン適応型LLMがサイバーセキュリティにおける脅威モデリングプロセスをどのように強化できるかを評価する。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "30f33fa84787",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "PhyGround: 生成的世界モデルにおける物理推論のベンチマーク",
+      "link": "https://arxiv.org/abs/2605.10806v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:30:51Z",
+      "summary": "生成的世界モデルにおける物理推論能力をテストするためのベンチマークスイートを導入する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9ed82c2849ff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "推論は無料ではない：LLM-as-a-Judgeのための堅牢で適応的なコスト効率の良いルーティング",
+      "link": "https://arxiv.org/abs/2605.10805v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:30:20Z",
+      "summary": "複雑なワークフローにおいてLLMを評価者として使用するための、コスト効率の良いルーティング戦略を提案する。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "353259a97011",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "キャンパスのウェルビーイングを向上させる新しいAI駆動型ツール：予防と介入のアプローチ",
+      "link": "https://arxiv.org/abs/2605.10804v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:30:14Z",
+      "summary": "キャンパス環境における学生のメンタルヘルス予防と介入のためのAI実装について議論する。",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "94078f16e764",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Nursing Administrator"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "最後の一言が勝つことが多い：思考の連鎖（CoT）の破損研究における形式の交絡",
+      "link": "https://arxiv.org/abs/2605.10799v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:26:50Z",
+      "summary": "モデルの評価結果に影響を与える、思考の連鎖プロンプトにおける形式バイアスを特定する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6cc8b6de413b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "秘密を守れるか？言語モデルの執筆における意図しない情報漏洩",
+      "link": "https://arxiv.org/abs/2605.10794v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:23:28Z",
+      "summary": "言語モデルが生成されたテキスト出力を通じて、どのように意図せず学習データを漏洩させるかを調査する研究。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8277fe93e6d7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "PathISE: ナレッジグラフ質問応答のための有益なパス監督の学習",
+      "link": "https://arxiv.org/abs/2605.10791v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:21:47Z",
+      "summary": "ナレッジグラフ質問応答を強化するために、有益なパス監督を使用する新しい手法を提案する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "136a0a5ad6d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ComplexMCP: 動的で相互依存的かつ大規模なツールサンドボックスにおけるLLMエージェントの評価",
+      "link": "https://arxiv.org/abs/2605.10787v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:20:51Z",
+      "summary": "複雑でツールが統合された仮想環境におけるLLMエージェントのパフォーマンスを評価するためのベンチマークを導入する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "86d7c3a786b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "TrajPrism: 言語に基づいた都市軌跡理解のためのマルチタスクベンチマーク",
+      "link": "https://arxiv.org/abs/2605.10782v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:17:13Z",
+      "summary": "言語を通じて都市の移動パターンを理解するAIモデルを評価する新しいベンチマーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2d746efec10c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "最終層を超えて：視覚トークン化のための多層表現融合",
+      "link": "https://arxiv.org/abs/2605.10780v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:14:52Z",
+      "summary": "コンピュータビジョンモデルにおける視覚トークン化を改善するために、複数の表現層を融合することを検討する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e1fdbe9244c8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MSTAR自動目標認識のための大規模言語・視覚質問応答モデルに向けて",
+      "link": "https://arxiv.org/abs/2605.10772v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:05:58Z",
+      "summary": "防衛関連の画像における自動目標認識タスクにマルチモーダルLLMを適用する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1c5510f8ca73",
+      "is_ai_relevant": true,
+      "industries": [
+        "Defense",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MPerS: 動的MLLM MixExperts知覚ガイド付きリモートセンシングシーンセグメンテーション",
+      "link": "https://arxiv.org/abs/2605.10769v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T16:00:26Z",
+      "summary": "リモートセンシング画像におけるセグメンテーションを改善するために、Mixture-of-Experts MLLMアプローチを活用する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1b41943cd87a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "マルチモーダル継続的命令チューニングのための動的クロスモーダルプロンプト生成",
+      "link": "https://arxiv.org/abs/2605.10765v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T15:59:06Z",
+      "summary": "異なるモダリティ間での継続的学習をサポートするための新しいプロンプト生成フレームワーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8610888accf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ブレーキを壊せ、車輪を壊すな：エントロピー最大化によるターゲットなしのジェイルブレイク",
+      "link": "https://arxiv.org/abs/2605.10764v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T15:59:02Z",
+      "summary": "安全フィルターを回避するためにエントロピー最大化を用いて言語モデルをジェイルブレイクする手法を提示する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a3ded6cf2e1e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MATRA: エージェントAIシステムの攻撃対象領域のモデリング -- OpenClawケーススタディ",
+      "link": "https://arxiv.org/abs/2605.10763v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T15:58:37Z",
+      "summary": "自律型エージェントAIシステム内のセキュリティ脆弱性を具体的に分析するためのフレームワーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9baafdb9cba5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "GridProbe: 長尺動画VLMにおける適応的テスト時計算のための事後プロービング",
+      "link": "https://arxiv.org/abs/2605.10762v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T15:57:46Z",
+      "summary": "推論効率を最適化するための、長尺動画ビジョン言語モデル向けの適応的計算手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "092564cdd039",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "エージェント存在のエージェント利用：エージェントサイバネティクスは基盤エージェントの欠落した科学である",
+      "link": "https://arxiv.org/abs/2605.10754v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T15:53:54Z",
+      "summary": "自律型基盤エージェントの開発とガバナンスのためのサイバネティックフレームワークについて議論する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "78311a5b1c03",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ViTを用いた証明可能なスパース反転とトークン再ラベル化強化ワンショット連合学習",
+      "link": "https://arxiv.org/abs/2605.10748v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T15:49:08Z",
+      "summary": "Vision Transformerにおけるワンショット連合学習のパフォーマンスを向上させるための最適化技術。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0d27e9261a8b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "マルチモーダル大規模言語モデルによるリモートセンシング活動検知の地理空間・時間的意味付け",
+      "link": "https://arxiv.org/abs/2605.10739v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-11T15:42:09Z",
+      "summary": "リモートセンシングソースからの地理空間および時間的活動データを解釈するためにMLLMを活用する。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4c834fc86822",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "STAT+: 敗血症アルゴリズムの戦いにおいて、パフォーマンスだけでは勝利を予測できない",
+      "link": "https://www.statnews.com/2026/05/12/ai-sepsis-detection-startups-challenge-epic-systems/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-05-12T10:00:00Z",
+      "summary": "臨床実装がAI敗血症検知ツールの成功にどのように影響するかについての分析。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e711716f3382",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Epic Systems"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "患者アクセスにおけるAI",
+      "link": "https://www.healthcareittoday.com/2026/05/12/ai-in-patient-access/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-12T14:00:52Z",
+      "summary": "人工知能ツールが医療現場における管理ワークフローと患者アクセスをどのように改善できるかを探る。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bb77483a13e9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Healthcare Administrator",
+        "Operations Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Med Tech SolutionsがAvarionを買収 | MedisolvがHealth Elements AIを買収",
+      "link": "https://www.healthcareittoday.com/2026/05/12/med-tech-solutions-acquires-avarion-medisolv-acquires-health-elements-ai/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-12T13:00:43Z",
+      "summary": "2つの主要な買収により、医療技術およびヘルスケアセクターにおけるAI駆動型技術が集約される。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "56dfefb14732",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Avarion",
+        "Health Elements AI",
+        "Med Tech Solutions",
+        "Medisolv"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "EudiaがUnified Workspace, Inc.のデジタルツインなどを統合",
+      "link": "https://www.artificiallawyer.com/2026/05/12/eudia-assembles-unified-workspace-inc-digital-twins/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-12T13:06:21Z",
+      "summary": "Eudiaはデジタルツイン技術を統合し、統一された法務ワークスペース環境を構築する。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "abc4c336cf2c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Eudia",
+        "Unified Workspace"
+      ],
+      "job_titles": [
+        "CTO",
+        "Legal Tech Consultant"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DealCloserがAI文書レビューのためにCoCounselを統合",
+      "link": "https://www.artificiallawyer.com/2026/05/12/dealcloser-integrates-cocounsel-for-ai-doc-review/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-12T12:00:55Z",
+      "summary": "DealCloserは、法務文書レビュープロセスを合理化するためにThomson ReutersのCoCounsel AIを追加する。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f2b822bcd139",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "DealCloser",
+        "Thomson Reuters"
+      ],
+      "job_titles": [
+        "Attorney",
+        "Legal Tech Professional"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAIが「展開会社」を立ち上げ – 法務テックに影響を与えるか？",
+      "link": "https://www.artificiallawyer.com/2026/05/12/openai-launches-deployment-company-will-it-impact-legal-tech/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-12T08:46:17Z",
+      "summary": "OpenAIの新しい展開部門が、法務テックセクターにおける潜在的な応用と破壊的影響を探る。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4f238c41c731",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Legal Tech Specialist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "製品ウォークスルー：Legatics – 取引管理",
+      "link": "https://www.artificiallawyer.com/2026/05/12/product-walk-through-legatics-transaction-management-2/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-12T07:30:07Z",
+      "summary": "複雑な法務取引を管理するためのLegaticsプラットフォームの機能についての詳細な解説。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6f86c90faf9b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Legatics"
+      ],
+      "job_titles": [
+        "Attorney",
+        "Operations Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "法務AIの次のアクションは社内生産性",
+      "link": "https://www.artificiallawyer.com/2026/05/12/legal-ais-next-act-is-in-house-productivity/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-12T06:40:17Z",
+      "summary": "法務AIツールがどのように社内法務部門の効率向上へと軸足を移しているかの分析。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "acaedea399d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Legal Counsel",
+        "Operations Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dessnが生産重視の設計ツールで600万ドルを調達",
+      "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-12T13:00:00Z",
+      "summary": "Dessnは、生産重視のAI支援設計プラットフォームを開発するために600万ドルを調達した。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ce3938d1553a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Dessn"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AI音声スタートアップのVapi、Amazon Ringを40社のライバルから勝ち取り5億ドルの評価額に到達",
+      "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-12T11:30:00Z",
+      "summary": "AI音声プラットフォームのVapiは、Amazon Ringとの主要なパートナーシップを経て5億ドルの評価額に達した。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "55313edf898f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Ring",
+        "Vapi"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Thinking Machinesは、話しながら実際に聞くAIを構築したいと考えている",
+      "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-12T04:52:35Z",
+      "summary": "Thinking Machinesは、人工知能モデルが音声を生成しながら音声入力を処理できるようにする技術を開発している。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d3b5b5ad9510",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Thinking Machines"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "卒業式 x AI、UCF版 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWp3ck9aTThHUUlrcWZiek9hNjVLV2RnVm5RQWc5SmFZVTY2MlRRWFBYYW56YjE5eGxXdlhfZjVtY0RhM2ZaRHdwcVBIT0JMZ2FhV0V6UUFNU1lDMVpwYXVTZDRsTE0yYkhrZ2c0ZzBIRDZPTmFwNHdxRzlXTzBSXzgyV05YeWJZR2lvSGpKcXhUZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-11T14:39:25Z",
+      "summary": "セントラルフロリダ大学（UCF）は、卒業式に人工知能のテーマを取り入れている。",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "83e76f1d3ed6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [
+        "University of Central Florida"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "GoogleのAndroid Show: I/O Editionを今日視聴する方法 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRl91Nzh3Q2pZRGhjTHI4YU5pWWtKcU1YTXZxdnlvOGRydk51blBDa0kwSlB4SG95S0pkdHZTWk1VN0JLWXlkQnBSclJwaFJrVFZoYS0xbndKbk1rRldoSWJQNFRhVU9xU0pBaWZEMkxDcm5ZVGxxQ1hnc3hWdEdVVXNXTGxZYWxqeHdKZ3hn?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-12T11:00:00Z",
+      "summary": "Googleの年次AIフォーカス開発者会議「I/O」期間中にAndroid放送を視聴するための情報。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6a7b27bebcc6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
     {
       "title": "2026年初頭におけるChatGPTの普及拡大の背景",
       "link": "https://openai.com/signals/research/2026q1-update",
