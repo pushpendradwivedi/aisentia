@@ -1,6 +1,1488 @@
 {
-  "refreshed_at": "2026-05-19 02:15 UTC",
+  "refreshed_at": "2026-05-19 15:01 UTC",
   "items": [
+    {
+      "title": "DashAttention: กลไก Attention แบบ Sparse Hierarchical ที่ปรับเปลี่ยนได้และหาอนุพันธ์ได้",
+      "link": "https://arxiv.org/abs/2605.18753v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:59:52Z",
+      "summary": "นำเสนอกลไก Attention รูปแบบใหม่ที่ปรับการประมวลผลแบบ Sparse Hierarchical ให้เหมาะสมเพื่อเพิ่มประสิทธิภาพของโมเดล",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8b74ee2514a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Code as Agent Harness",
+      "link": "https://arxiv.org/abs/2605.18747v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:59:03Z",
+      "summary": "นำเสนอเฟรมเวิร์กที่ใช้โครงสร้างโค้ดในการประสานงานและดำเนินการเวิร์กโฟลว์ของ AI Agent",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3d3522bfaf8c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ESI-Bench: มุ่งสู่ Embodied Spatial Intelligence ที่ปิดลูปการรับรู้และการกระทำ",
+      "link": "https://arxiv.org/abs/2605.18746v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:59:02Z",
+      "summary": "เสนอเกณฑ์มาตรฐานสำหรับการประเมินการใช้เหตุผลเชิงพื้นที่ใน AI Agent ที่มีร่างกาย (Embodied AI)",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3ea81daefbf7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Actionable World Representation",
+      "link": "https://arxiv.org/abs/2605.18743v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:58:51Z",
+      "summary": "สำรวจวิธีการสร้างแบบจำลองโลก (World Models) ที่เอื้อต่อความฉลาดที่นำไปปฏิบัติได้จริงตามงานที่กำหนดใน Agent",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2e3f79f893b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Vision-OPD: การเรียนรู้เพื่อมองเห็นรายละเอียดที่ละเอียดอ่อนสำหรับ Multimodal LLMs ผ่าน On-Policy Self-Distillation",
+      "link": "https://arxiv.org/abs/2605.18740v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:57:04Z",
+      "summary": "เทคนิคใหม่ที่ช่วยปรับปรุงการรับรู้ทางภาพที่มีความละเอียดสูงในโมเดลแบบหลายรูปแบบ (Multimodal) โดยใช้ On-Policy Self-Distillation",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f8c357ad327d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI Doctor ให้คุณค่ากับอะไร? การตรวจสอบความหลากหลายในจริยธรรมทางคลินิกของโมเดลภาษา",
+      "link": "https://arxiv.org/abs/2605.18738v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:56:13Z",
+      "summary": "ประเมินข้อพิจารณาทางจริยธรรมที่หลากหลายภายในโมเดล AI ทางคลินิกสำหรับการประยุกต์ใช้ในด้านการดูแลสุขภาพ",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c0be79d56296",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Professional"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Predictable Confabulations: การเรียกคืนข้อเท็จจริงโดย LLMs ที่ปรับขนาดตามขนาดโมเดลและความถี่ของหัวข้อ",
+      "link": "https://arxiv.org/abs/2605.18732v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:53:44Z",
+      "summary": "การวิเคราะห์ยืนยันว่ารูปแบบการหลอน (Hallucination) ใน LLMs มีความสัมพันธ์กับพารามิเตอร์ของโมเดลและความถี่ของข้อมูล",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "952291585091",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DexHoldem: การเล่น Texas Hold'em ด้วยระบบหุ่นยนต์ที่มีความคล่องแคล่ว",
+      "link": "https://arxiv.org/abs/2605.18727v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:51:34Z",
+      "summary": "สาธิตระบบมือหุ่นยนต์ที่สามารถเล่นเกมไพ่ในโลกจริงอย่าง Hold'em ได้",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2bc3dda9dd1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Semantic Generative Tuning สำหรับโมเดล Multimodal แบบรวมศูนย์",
+      "link": "https://arxiv.org/abs/2605.18714v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:46:46Z",
+      "summary": "นำเสนอวิธีการปรับจูนเพื่อเพิ่มความสอดคล้องทางความหมายในสถาปัตยกรรม AI แบบหลายรูปแบบที่รวมเป็นหนึ่งเดียว",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "90c2cd8a8045",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การกลั่นกรอง Tabular Foundation Models สำหรับข้อมูลสุขภาพที่มีโครงสร้าง",
+      "link": "https://arxiv.org/abs/2605.18702v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:37:28Z",
+      "summary": "นำเสนอกระบวนการกลั่นกรอง (Distillation) เพื่อปรับโมเดลพื้นฐาน (Foundation Models) ให้เข้ากับชุดข้อมูลสุขภาพที่มีโครงสร้าง",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ee195d234995",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PopPy: การใช้ประโยชน์จากความขนานในแอปพลิเคชัน Python Compound AI อย่างฉวยโอกาส",
+      "link": "https://arxiv.org/abs/2605.18697v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:33:50Z",
+      "summary": "ปรับปรุงการประมวลผลแบบขนานสำหรับแอปพลิเคชัน AI ที่ใช้ Python เพื่อเพิ่มปริมาณงาน (Throughput)",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3736dfbf98c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การทำ Ensembling ของ Tabular Foundation Models - เพดานความหลากหลายและกับดักการปรับเทียบ",
+      "link": "https://arxiv.org/abs/2605.18696v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:32:57Z",
+      "summary": "วิเคราะห์ข้อจำกัดของเทคนิคการทำ Ensembling เมื่อนำไปใช้กับ Tabular Foundation Models",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "27ec8ca03105",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SkillGenBench: การวัดผลท่อส่งการสร้างทักษะสำหรับ LLM Agents",
+      "link": "https://arxiv.org/abs/2605.18693v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:28:36Z",
+      "summary": "ชุดการประเมินใหม่สำหรับประเมินว่า LLM Agents สร้างและใช้ทักษะใหม่ได้อย่างมีประสิทธิภาพเพียงใด",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ddce3ac32873",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การทำให้การปรับปรุงประสิทธิภาพขนาดใหญ่เป็นประชาธิปไตยด้วย Model Patches ที่นำทางโดย LLM",
+      "link": "https://arxiv.org/abs/2605.18692v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:28:25Z",
+      "summary": "ใช้ LLMs ในการสร้างแพตช์เพื่อปรับปรุงประสิทธิภาพโมเดลขนาดใหญ่โดยไม่ต้องฝึกฝนใหม่ทั้งหมด",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4c759c346a1e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Reversa: เฟรมเวิร์กวิศวกรรมย้อนกลับเอกสารสำหรับการแปลงซอฟต์แวร์รุ่นเก่าเป็นข้อกำหนดการปฏิบัติงานสำหรับ AI Agents",
+      "link": "https://arxiv.org/abs/2605.18684v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:23:13Z",
+      "summary": "เครื่องมือที่ออกแบบมาเพื่อแปลงเอกสารชุดคำสั่งรุ่นเก่าให้เป็นข้อกำหนดการทำงานสำหรับ Agent อิสระ",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eead6c0daa85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การเรียนรู้คำอธิบายเชิงภาพที่วัดผลได้โดยไม่ต้องมี Ground-Truth",
+      "link": "https://arxiv.org/abs/2605.18681v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:21:48Z",
+      "summary": "วิธีการสร้างคำอธิบายโมเดลเชิงภาพที่ไม่จำเป็นต้องใช้ข้อมูล Ground-Truth ที่ติดป้ายกำกับ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4cc6b4def288",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lance: การสร้างแบบจำลอง Multimodal แบบรวมศูนย์โดย Multi-Task Synergy",
+      "link": "https://arxiv.org/abs/2605.18678v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:18:24Z",
+      "summary": "นำเสนอ Lance เฟรมเวิร์กที่รวมการสร้างแบบจำลองหลายรูปแบบผ่านเทคนิคการเรียนรู้หลายงานที่เสริมพลังกัน",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5345cd5a9533",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "COOPO: อัลกอริทึมการเพิ่มประสิทธิภาพนโยบายแบบ Cyclic Offline-Online",
+      "link": "https://arxiv.org/abs/2605.18675v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:15:27Z",
+      "summary": "นำเสนอ COOPO อัลกอริทึมใหม่สำหรับการเพิ่มประสิทธิภาพนโยบายโดยใช้กลยุทธ์การเรียนรู้แบบ Cyclic Offline-Online",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7999d501333a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การเข้ารหัส Lookahead ที่มีประสิทธิภาพและความกว้างแบบนามธรรมสำหรับการเรียนรู้นโยบายทั่วไปในการวางแผนแบบคลาสสิก",
+      "link": "https://arxiv.org/abs/2605.18674v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:15:23Z",
+      "summary": "ปรับปรุงการเรียนรู้นโยบายการวางแผนแบบคลาสสิกโดยใช้เทคนิคการเข้ารหัส Lookahead และความกว้างแบบนามธรรม",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ff7464d77bc4",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Position: สถาปัตยกรรม Assume-Guarantee แบบความน่าจะเป็นสามชั้นเป็นสิ่งจำเป็นเชิงโครงสร้างสำหรับการปรับใช้ LLM Agent อย่างปลอดภัย",
+      "link": "https://arxiv.org/abs/2605.18672v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:13:41Z",
+      "summary": "โต้แย้งว่าการปรับใช้ LLM Agent อย่างปลอดภัยจำเป็นต้องมีสถาปัตยกรรมความน่าจะเป็นสามชั้นที่เฉพาะเจาะจง",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f17efffcb493",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GIM: การประเมินโมเดลผ่านงานที่รวมโดเมนทางปัญญาหลายด้าน",
+      "link": "https://arxiv.org/abs/2605.18663v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:09:50Z",
+      "summary": "เสนอการประเมินโมเดล AI โดยใช้งาานที่ครอบคลุมโดเมนทางปัญญาหลายด้านที่บูรณาการเข้าด้วยกัน",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e04e1468c9fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI สำหรับการวิจัยอัตโนมัติ: แผนงานและคู่มือผู้ใช้",
+      "link": "https://arxiv.org/abs/2605.18661v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:08:26Z",
+      "summary": "จัดเตรียมแผนงานและคำแนะนำสำหรับการนำความสามารถด้านการวิจัยอัตโนมัติมาใช้โดยใช้ AI",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2c3224c91084",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "KairosHope: โมเดลพื้นฐานอนุกรมเวลาเจเนอเรชันถัดไปสำหรับการจำแนกประเภทเฉพาะทางผ่านสถาปัตยกรรม Dual-Memory",
+      "link": "https://arxiv.org/abs/2605.18657v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:02:30Z",
+      "summary": "นำเสนอโมเดลพื้นฐานอนุกรมเวลาที่ใช้สถาปัตยกรรม Dual-Memory สำหรับการจำแนกประเภทเฉพาะทาง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e203fdf33406",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ขีดจำกัดทางสถิติและอัลกอริทึมที่มีประสิทธิภาพสำหรับการเรียนรู้แบบสหพันธ์ที่รักษาความเป็นส่วนตัว (Differentially Private Federated Learning)",
+      "link": "https://arxiv.org/abs/2605.18656v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:01:34Z",
+      "summary": "วิเคราะห์ขอบเขตทางสถิติและแนวทางอัลกอริทึมที่มีประสิทธิภาพสำหรับการเรียนรู้แบบสหพันธ์ที่รักษาความเป็นส่วนตัว",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "70dd25508615",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Pocket Foundation Models: การกลั่นกรอง TFMs เป็น Gradient-Boosted Trees ที่พร้อมใช้งานบน CPU",
+      "link": "https://arxiv.org/abs/2605.18654v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T17:00:20Z",
+      "summary": "สำรวจการกลั่นกรองโมเดลพื้นฐานขนาดใหญ่ให้เป็น Gradient-Boosted Trees ที่มีประสิทธิภาพและเข้ากันได้กับ CPU",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5e13865a5e79",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การประเมินความไม่แน่นอนของมนุษย์เทียบกับโมเดลในการเรียนรู้แบบ Soft-Label และการปรับเทียบ",
+      "link": "https://arxiv.org/abs/2605.18648v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:55:21Z",
+      "summary": "เปรียบเทียบตัวชี้วัดความไม่แน่นอนของมนุษย์และเครื่องจักรในบริบทของการเรียนรู้แบบ Soft-Label",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dc1065a42484",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Post-Trained MoE สามารถข้ามผู้เชี่ยวชาญครึ่งหนึ่งผ่าน Self-Distillation",
+      "link": "https://arxiv.org/abs/2605.18643v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:50:48Z",
+      "summary": "สาธิตว่าโมเดล Mixture-of-Experts ที่ผ่านการฝึกฝนมาแล้วสามารถข้ามผู้เชี่ยวชาญจำนวนมากได้โดยใช้ Self-Distillation",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b6e90e27de3d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การนำเสนอข้อมูลเหนือสถาปัตยกรรม: กลยุทธ์การสุ่มตัวอย่างใหม่สำหรับการทำนายความเสี่ยงด้านเครดิตด้วย Tabular Foundation Models",
+      "link": "https://arxiv.org/abs/2605.18635v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:43:15Z",
+      "summary": "พบว่าการนำเสนอข้อมูลและการสุ่มตัวอย่างใหม่ให้ผลลัพธ์ที่เหนือกว่าการเลือกสถาปัตยกรรมสำหรับการทำนายความเสี่ยงด้านเครดิต",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4b485b1bad79",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Position: พื้นที่น้ำหนัก (Weight Space) ควรเป็น Modality ระดับเฟิร์สคลาสของ Generative AI",
+      "link": "https://arxiv.org/abs/2605.18632v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:38:26Z",
+      "summary": "เสนอให้ถือว่าพื้นที่น้ำหนักของโมเดลเป็น Modality หลักสำหรับการพัฒนา Generative AI",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4f53fe9e4217",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SCICONVBENCH: การวัดผล LLMs ในการชี้แจงแบบหลายรอบสำหรับการกำหนดงานในวิทยาศาสตร์คอมพิวเตอร์",
+      "link": "https://arxiv.org/abs/2605.18630v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:34:45Z",
+      "summary": "นำเสนอเกณฑ์มาตรฐานที่ประเมิน LLMs ในการชี้แจงแบบหลายรอบสำหรับงานด้านวิทยาศาสตร์คอมพิวเตอร์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d9c5179df9eb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การเรียนรู้โมเดลการกระทำแบบ Lifted จากร่องรอยที่มีข้อมูลเกี่ยวกับการกระทำและสถานะเพียงเล็กน้อย",
+      "link": "https://arxiv.org/abs/2605.18627v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:33:28Z",
+      "summary": "รายละเอียดวิธีการเรียนรู้โมเดลการกระทำจากร่องรอยที่มีข้อมูลสถานะเบาบาง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6703c3323ea7",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CrossView Suite: การใช้ประโยชน์จากความฉลาดเชิงพื้นที่แบบ Cross-view ของ MLLMs ด้วยชุดข้อมูล โมเดล และเกณฑ์มาตรฐาน",
+      "link": "https://arxiv.org/abs/2605.18621v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:31:31Z",
+      "summary": "จัดเตรียมชุดเครื่องมือสำหรับประเมินและใช้ประโยชน์จากความฉลาดเชิงพื้นที่ใน MLLMs ผ่านข้อมูลแบบ Cross-view",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3c872fc2a791",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "วิธีการ Stochastic Penalty-Barrier สำหรับการเรียนรู้ของเครื่องแบบมีข้อจำกัด",
+      "link": "https://arxiv.org/abs/2605.18618v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:26:26Z",
+      "summary": "พัฒนาวิธีการ Stochastic Penalty-Barrier โดยเฉพาะสำหรับการแก้ปัญหาการเพิ่มประสิทธิภาพการเรียนรู้ของเครื่องแบบมีข้อจำกัด",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "de78fb909f70",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ManiSoft: มุ่งสู่การจัดการด้วยวิสัยทัศน์และภาษาสำหรับหุ่นยนต์อ่อนนุ่ม (Soft Continuum Robotics)",
+      "link": "https://arxiv.org/abs/2605.18617v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:26:22Z",
+      "summary": "สำรวจการบูรณาการโมเดลวิสัยทัศน์และภาษาสำหรับการควบคุมหุ่นยนต์อ่อนนุ่ม",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a4777e3ef061",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SAME: ออโตเอ็นโค้ดเดอร์เพลงที่จัดแนวทางความหมาย",
+      "link": "https://arxiv.org/abs/2605.18613v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:23:16Z",
+      "summary": "นำเสนอออโตเอ็นโค้ดเดอร์เพลงที่ได้รับการฝึกฝนเพื่อรักษาความสอดคล้องทางความหมายระหว่างงานสร้างสรรค์",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5c6079bd841a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CATA: การลบการเรียนรู้ของเครื่องอย่างต่อเนื่องผ่านเลขคณิตงานที่หลีกเลี่ยงความขัดแย้ง",
+      "link": "https://arxiv.org/abs/2605.18610v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:21:41Z",
+      "summary": "เสนอ CATA สำหรับการลบการเรียนรู้ของเครื่องอย่างต่อเนื่องที่มีประสิทธิภาพโดยใช้เลขคณิตงานที่หลีกเลี่ยงความขัดแย้ง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d4649d1b7c84",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การปรับพารามิเตอร์การกระทำแฝง (Latent Action Reparameterization) เพื่อการอนุมานของ Agent ที่มีประสิทธิภาพ",
+      "link": "https://arxiv.org/abs/2605.18597v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:07:44Z",
+      "summary": "วิธีการปรับปรุงประสิทธิภาพการคำนวณของการอนุมานของ Agent โดยใช้เทคนิคการปรับพารามิเตอร์พื้นที่การกระทำแฝง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "82c854add82b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ไม่ใช่สิ่งที่คุณขอ: การโจมตีด้วยตัวอักษรในการจัดการหุ่นยนต์ในครัวเรือน",
+      "link": "https://arxiv.org/abs/2605.18593v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:06:29Z",
+      "summary": "สำรวจช่องโหว่ด้านความปลอดภัยในหุ่นยนต์ในครัวเรือนที่เกิดจากการจัดการวัตถุด้วยตัวอักษรที่เป็นอันตราย",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b41044c12b6c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AMARIS: ระบบปรับปรุงรูบริกแบบเพิ่มหน่วยความจำสำหรับการเรียนรู้แบบเสริมกำลังตามรูบริก",
+      "link": "https://arxiv.org/abs/2605.18592v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:06:27Z",
+      "summary": "เฟรมเวิร์กใหม่ที่เพิ่มหน่วยความจำเพื่อยกระดับประสิทธิภาพการเรียนรู้แบบเสริมกำลังตามรูบริกในสภาพแวดล้อมงานที่ซับซ้อน",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e7f84c11cb22",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Randomized Advantage Transformation (RAT): การคำนวณ Natural Policy Gradients ผ่านการทำ Backpropagation โดยตรง",
+      "link": "https://arxiv.org/abs/2605.18591v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:05:36Z",
+      "summary": "วิธีการคำนวณที่มีประสิทธิภาพสำหรับ Natural Policy Gradients โดยใช้ Randomized Advantage Transformation สำหรับ RL",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5f486eb678f5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Overeager Coding Agents: การวัดการกระทำที่อยู่นอกขอบเขตในงานทั่วไป",
+      "link": "https://arxiv.org/abs/2605.18583v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T16:00:41Z",
+      "summary": "วิเคราะห์ความเสี่ยงของ Coding Agents อิสระที่ดำเนินการโดยไม่ได้รับอนุญาตในระหว่างงานพัฒนามาตรฐาน",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "748df9db88aa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "เมื่อผลลัพธ์ดูถูกต้องแต่วินัยล้มเหลว: การประเมินตามร่องรอยภายใต้สถานะคู่แข่งที่ซ่อนอยู่",
+      "link": "https://arxiv.org/abs/2605.18580v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:58:34Z",
+      "summary": "เสนอเฟรมเวิร์กการประเมินตามร่องรอยเพื่อประเมินวินัยของ Agent ท่ามกลางสถานะสิ่งแวดล้อมที่ซ่อนอยู่",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "abca9f10d065",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "การจัดแนวความรู้ตามเงื่อนไขการสืบค้นเพื่อการให้เหตุผลทางการแพทย์ข้ามระบบที่เชื่อถือได้",
+      "link": "https://arxiv.org/abs/2605.18570v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:49:46Z",
+      "summary": "เพิ่มความน่าเชื่อถือในการให้เหตุผลทางการแพทย์ผ่านการจัดแนวความรู้ข้ามระบบการวินิจฉัยที่แตกต่างกัน",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bc108cc175b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "LongMINT: การประเมินหน่วยความจำภายใต้การแทรกแซงจากหลายเป้าหมายในระบบ Agent ระยะยาว",
+      "link": "https://arxiv.org/abs/2605.18565v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:43:35Z",
+      "summary": "เฟรมเวิร์กการวัดผลเพื่อประเมินการเก็บรักษาหน่วยความจำใน Agent ที่เผชิญกับความท้าทายจากการแทรกแซงจากหลายเป้าหมาย",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1e6643188acd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "การประมาณความยากของรายการด้วยโมเดลภาษาขนาดใหญ่ในฐานะผู้เชี่ยวชาญ",
+      "link": "https://arxiv.org/abs/2605.18562v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:42:13Z",
+      "summary": "ใช้ LLMs เพื่อทำให้การประมาณความยากของรายการสำหรับการทดสอบทางการศึกษาเป็นไปโดยอัตโนมัติ",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "623bd1bc6717",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "การปรับปรุงการดึงข้อมูลโค้ด BM25 ภายใต้การทำ Tokenization ทั่วไปแบบคงที่: Adaptive q-Log Odds ในฐานะตัวแก้ไข BM25 แบบ Drop-In",
+      "link": "https://arxiv.org/abs/2605.18561v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:41:01Z",
+      "summary": "ปรับปรุงระบบการดึงข้อมูลโค้ดโดยใช้ Log Odds แบบปรับเปลี่ยนได้กับการทำ Tokenization แบบ BM25 คงที่",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ab0b263691b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Key-Gram: ความรู้โลกที่ขยายได้สำหรับการจัดการแบบ Embodied",
+      "link": "https://arxiv.org/abs/2605.18556v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:37:02Z",
+      "summary": "นำเสนอ Key-Gram เพื่อปรับปรุงการบูรณาการความรู้โลกสำหรับงานจัดการหุ่นยนต์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "199b82c531a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "StableHand: การจับคู่ Flow ที่คำนึงถึงคุณภาพสำหรับการประมาณการเคลื่อนไหวของมือทั้งสองข้างในพื้นที่โลกจากวิดีโอแบบ Egocentric",
+      "link": "https://arxiv.org/abs/2605.18553v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:33:15Z",
+      "summary": "วิธีการประมาณการเคลื่อนไหวขั้นสูงสำหรับการติดตามมือทั้งสองข้างในวิดีโอแบบ Egocentric โดยใช้การจับคู่ Flow",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7cc7e392000d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Computer Vision Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "STT-Arena: สภาพแวดล้อมที่สมจริงยิ่งขึ้นสำหรับการใช้เครื่องมือที่มีพลวัตเชิงพื้นที่และเวลา",
+      "link": "https://arxiv.org/abs/2605.18548v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:27:52Z",
+      "summary": "นำเสนอสภาพแวดล้อมเกณฑ์มาตรฐานที่รวมพลวัตเชิงพื้นที่และเวลาสำหรับ AI Agents ที่ใช้เครื่องมือ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "37400d091c57",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "VISAFF: การเรียนรู้คุณลักษณะทางอารมณ์เชิงภาพที่เน้นผู้พูดสำหรับการจดจำอารมณ์ในการสนทนา",
+      "link": "https://arxiv.org/abs/2605.18547v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-18T15:27:10Z",
+      "summary": "เฟรมเวิร์กสำหรับการจดจำอารมณ์โดยใช้คุณลักษณะทางภาพที่เน้นผู้พูดในระหว่างการสนทนา",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8a56a45f6284",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Exclusive: Century Health ระดมทุน 5 ล้านดอลลาร์เพื่อขยายแพลตฟอร์ม RWE",
+      "link": "https://www.mobihealthnews.com/news/exclusive-century-health-scores-5m-expand-rwe-platform",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-19T12:00:00Z",
+      "summary": "Century Health ได้รับเงินทุนเพื่อขยายแพลตฟอร์มการวิเคราะห์ข้อมูลหลักฐานจากโลกแห่งความเป็นจริง (RWE)",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7d41def23b77",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Century Health"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "สมาร์ทวอทช์ที่ขับเคลื่อนด้วย AI คืออนาคตของการตรวจจับการติดเชื้อหรือไม่?",
+      "link": "https://www.mobihealthnews.com/news/anz/ai-powered-smartwatch-future-infection-detection",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-19T08:17:16Z",
+      "summary": "ประเมินความเป็นไปได้ของอุปกรณ์สวมใส่ที่ใช้ AI ในการตรวจจับอาการติดเชื้อเบื้องต้น",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "688955073e58",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI ทางการแพทย์ต้องการรายละเอียดงาน",
+      "link": "https://www.healthcareittoday.com/2026/05/19/healthcare-ai-needs-a-job-description/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-19T14:00:14Z",
+      "summary": "การตรวจสอบบทบาททางวิชาชีพและข้อกำหนดที่เปลี่ยนแปลงไปสำหรับการนำ AI มาใช้ในภาคการดูแลสุขภาพ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b5ba778864e6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Eudia 'ร่วมสร้าง' กับ OpenAI สำหรับรัฐบาลสหรัฐฯ",
+      "link": "https://www.artificiallawyer.com/2026/05/19/eudia-co-building-with-openai-for-us-gov/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-19T14:33:25Z",
+      "summary": "Eudia ร่วมมือกับ OpenAI เพื่อพัฒนาโซลูชันปัญญาประดิษฐ์เฉพาะทางสำหรับหน่วยงานรัฐบาล",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d7ebfa2a13c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Eudia",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "AI ภายในองค์กร? ยังอีกยาวไกล",
+      "link": "https://www.artificiallawyer.com/2026/05/19/inhouse-ai-still-a-long-way-to-go/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-19T08:18:58Z",
+      "summary": "การวิเคราะห์ความท้าทายและข้อจำกัดขององค์กรเกี่ยวกับการปรับใช้ระบบกฎหมาย AI ภายใน",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fdc44956b433",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Walk Through: June, การจัดการคดีที่ขับเคลื่อนด้วย AI",
+      "link": "https://www.artificiallawyer.com/2026/05/19/walk-through-june-ai-driven-case-management/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-19T06:42:21Z",
+      "summary": "สาธิตคุณสมบัติของแพลตฟอร์ม June สำหรับการทำให้เวิร์กโฟลว์การจัดการคดีทางกฎหมายเป็นอัตโนมัติโดยใช้ AI",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d7cebad899bf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "June"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ขอแนะนำตระกูล Ettin Reranker",
+      "link": "https://huggingface.co/blog/ettin-reranker",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-05-19T00:00:00Z",
+      "summary": "Hugging Face เปิดตัวตระกูลโมเดล Ettin reranker ที่ปรับให้เหมาะสมสำหรับงานดึงข้อมูลเอกสาร",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e05bf9ebf2f8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ด้วยแผนการเลิกจ้างครั้งใหญ่ Meta โยกย้ายพนักงานหลายพันคนไปสู่โครงการ AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjNrRVN0dGNiNWRUWEg0UE8tbkk1Wm94MHc4NFBoTENYVHlsYnhSc0NQRHRWdWk2T0dKMTUyd3V3ZFVYQ1FWN2VITTduUUlsbVpWZFQtX3VjWWdKQ2tOdUIwbnhSZDIxZVFPSW5kTnp3dm9KNzdxdFNyOWFXc2l5UWNNQ3B2VVFPYlNjZk0yZFhJTzlFU0M3NWtzemYtekNZRHdTZjM0XzY1d0Juamd0SnJjUVpRXzUtY2Zr?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-18T23:15:49Z",
+      "summary": "Meta ย้ายบุคลากรหลายพันคนไปสู่โครงการปัญญาประดิษฐ์ในขณะที่ดำเนินการเลิกจ้างในวงกว้าง",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8f81319fbfc8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Gemini ตกอยู่ในอันตรายที่จะกลายเป็น Copilot เต็มรูปแบบ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnM1RndRUEdrVWNDZlVGSXRqZVJhRUdjTlk0Y2lrSVE2dHRNQ3FjWE94bllZOE9KSWNRZDlRZnYyV1FGOEQ3S1ZSM0EtOVB1MHhMdWM5V1R0T0NXSHQ1MmRGWEJwWEMzSEZZd2xTejBfRkJKRlhPZk1nOWdJLVhJeS1sR18?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-19T10:30:00Z",
+      "summary": "บทวิเคราะห์วิจารณ์การบูรณาการคุณสมบัติ Gemini AI ของ Google อย่างจริงจังทั่วทั้งระบบนิเวศซอฟต์แวร์",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6e19e1dad776",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google",
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google I/O 2026: วิธีรับชมและสิ่งที่คาดหวัง - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fYTk5ZnpfZjRDZkJDTlJNYWUtbzJjR0poeFJXdzRnc0Q2UHhOTE9WcWJOTEIxbVE0cXZjLXpvTHlOQ01PN0VOMlA3ZFZVMjFpcGVUQ3Nwa3RsNTZ6b0dOcFFuMmVGUnhsaF9MNlZvb051QQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-19T11:00:00Z",
+      "summary": "ตัวอย่างประกาศที่กำลังจะมาถึงของ Google โดยเน้นที่การอัปเดตซอฟต์แวร์และการบูรณาการระบบนิเวศ",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "770ec6c4d26f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "OpenAI และ Dell จับมือร่วมกันเพื่อนำ Codex มาสู่สภาพแวดล้อมระดับองค์กรแบบไฮบริดและแบบ on-premise",
       "link": "https://openai.com/index/dell-codex-enterprise-partnership",
