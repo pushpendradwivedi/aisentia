@@ -1,6 +1,2112 @@
 {
-  "refreshed_at": "2026-05-20 15:01 UTC",
+  "refreshed_at": "2026-05-21 02:16 UTC",
   "items": [
+    {
+      "title": "I/O 2026에서 발표한 100가지 사항",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-20T19:30:00Z",
+      "summary": "Google이 I/O 2026에서 발표한 100가지 기술 및 AI 관련 소식을 종합적으로 요약합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c1e2764b80c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Google Beam의 그룹 회의 경험을 개선하는 새로운 실험",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-20T16:45:00Z",
+      "summary": "Google Research가 협업 그룹 회의 경험을 향상하기 위해 설계된 실험적 AI 기능을 소개합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9e924c46a871",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AI 엔드포인트에 대한 OpenAI 호환 API 지원 발표",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-openai-compatible-api-support-for-amazon-sagemaker-ai-endpoints/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-20T23:59:57Z",
+      "summary": "AWS가 Amazon SageMaker AI 엔드포인트에서 호스팅되는 모델에 대해 OpenAI 호환 API 지원을 활성화합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b474c8bbd298",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "멀티모달 평가기: Strands Evals의 이미지-텍스트 작업을 위한 MLLM-as-a-judge",
+      "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-evaluators-mllm-as-a-judge-for-image-to-text-tasks-in-strands-evals/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-20T18:01:29Z",
+      "summary": "AWS가 Strands Evals 프레임워크 내에서 이미지-텍스트 작업을 평가하기 위해 멀티모달 LLM을 사용하는 방법을 탐구합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "462454061376",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AI와 vLLM으로 실시간 음성 애플리케이션 구축하기",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-real-time-voice-applications-with-amazon-sagemaker-ai-and-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-20T17:10:17Z",
+      "summary": "vLLM과 통합된 SageMaker AI를 사용하여 실시간 음성 애플리케이션을 만드는 방법에 대한 가이드입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2dc79c030019",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "정신과 진단의 자동화된 ICD 분류: 고전적 NLP에서 거대 언어 모델까지",
+      "link": "https://arxiv.org/abs/2605.21154v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T13:26:05Z",
+      "summary": "정신과 의학적 진단의 ICD 분류를 자동화하기 위해 고전적 NLP와 LLM을 비교한 연구입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ebc7ff874192",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "스펙트럼 회귀 분석을 통한 트로이 목마 DNN 탐지",
+      "link": "https://arxiv.org/abs/2605.21146v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T13:19:27Z",
+      "summary": "트로이 목마에 감염된 심층 신경망을 식별하기 위한 스펙트럼 회귀 방법을 제안하는 연구입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4ed7609941fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "누적 명제 의존 논리의 함의 복잡성에 관하여",
+      "link": "https://arxiv.org/abs/2605.21113v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T12:46:13Z",
+      "summary": "누적 명제 의존 논리 프레임워크 내에서의 함의 복잡성에 대한 수학적 분석입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aa2443d36b27",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "중요도 평활화를 통한 심층 상태 공간 모델의 효율적 학습",
+      "link": "https://arxiv.org/abs/2605.21108v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T12:41:50Z",
+      "summary": "중요도 평활화 기법을 사용하여 심층 상태 공간 모델의 학습 효율성을 향상하는 방법입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a206a8501d6b",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ACL-Verbatim: 연구를 위한 환각 없는 질의응답",
+      "link": "https://arxiv.org/abs/2605.21102v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T12:30:29Z",
+      "summary": "학술 연구 작업을 위해 정확하고 환각 없는 질의응답을 가능하게 하는 ACL-Verbatim을 소개합니다.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f107bbef25b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "정책과 통신의 분리: 대역폭 제약 하에서의 견고한 MARL",
+      "link": "https://arxiv.org/abs/2605.21085v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T12:21:08Z",
+      "summary": "통신 프로토콜을 에이전트 정책에서 분리하여 견고한 다중 에이전트 강화 학습을 구현하는 기법입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1992c520e131",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AutoRPA: 상호작용으로부터 LLM 기반 코드 합성을 통한 효율적인 GUI 자동화",
+      "link": "https://arxiv.org/abs/2605.21082v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T12:17:43Z",
+      "summary": "사용자 입력에서 파생된 LLM 생성 코드를 사용하여 GUI 상호작용을 자동화하는 프레임워크입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "73d53bd45a88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "법률을 위한 세분화된 주장 수준 RAG 벤치마크",
+      "link": "https://arxiv.org/abs/2605.21071v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T11:56:27Z",
+      "summary": "법률 문서 처리 내에서 세분화된 주장 검증을 평가하기 위해 설계된 새로운 RAG 벤치마크입니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "67d7a01b2788",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "역운동학을 통한 주행 VLA 접지(Grounding)",
+      "link": "https://arxiv.org/abs/2605.21061v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T11:45:32Z",
+      "summary": "로봇 주행 작업의 접지 성능을 향상하기 위해 역운동학을 Vision-Language-Action 모델에 통합합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "de6bc837e37d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Divide et Calibra: 벡터 양자화를 통한 다중 클래스 로컬 보정",
+      "link": "https://arxiv.org/abs/2605.21060v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T11:44:55Z",
+      "summary": "다중 클래스 분류 작업의 로컬 보정 성능을 향상하기 위한 벡터 양자화 방법을 제안합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2512cc27d96f",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DySink: 자기회귀적 긴 영상 생성을 위한 동적 프레임 싱크",
+      "link": "https://arxiv.org/abs/2605.21028v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T11:01:01Z",
+      "summary": "자기회귀적 장편 영상 합성에서 시간적 일관성을 개선하기 위한 동적 프레임 싱크를 소개합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "79a48e4ff1ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Text-to-SQL을 넘어: 거버넌스가 적용된 엔터프라이즈 분석 API를 위한 에이전트 LLM 시스템",
+      "link": "https://arxiv.org/abs/2605.21027v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T11:00:56Z",
+      "summary": "LLM 기반 SQL 쿼리 생성에 대해 거버넌스를 강제하는 엔터프라이즈 분석용 에이전트 프레임워크입니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1ca84c4714d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Accounting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "악마의 대변인 역할: 기성 페르소나 벡터가 아첨 방지를 위한 타겟팅 스티어링과 경쟁하다",
+      "link": "https://arxiv.org/abs/2605.21006v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T10:43:17Z",
+      "summary": "특수 스티어링 데이터 없이도 페르소나 벡터를 사용하여 LLM의 아첨(Sycophancy)을 완화하는 방법입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8ded16297a37",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "다중 측면 감성 분석을 위한 단일 패스, 깊이 선택적 읽기",
+      "link": "https://arxiv.org/abs/2605.20998v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T10:37:57Z",
+      "summary": "단일 패스 깊이 선택적 토큰 처리를 사용하는 다중 측면 감성 분석을 위한 효율적인 모델 아키텍처입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2936624d705c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TanDEM-X 및 Landsat 데이터를 활용한 산림 높이 추정용 하이브리드 머신러닝 모델",
+      "link": "https://arxiv.org/abs/2605.20997v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T10:37:27Z",
+      "summary": "하이브리드 ML을 사용하여 위성 데이터셋을 결합함으로써 전 세계 산림 높이 측정의 정확도를 향상합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3652f00a22e9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "거대 언어 모델을 위한 문맥 불변 안전 정렬을 향하여",
+      "link": "https://arxiv.org/abs/2605.20994v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T10:33:11Z",
+      "summary": "LLM의 안전 정렬이 다양한 운영 문맥 전반에서 견고하게 유지되도록 보장하는 방법론입니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "40f865a6c4d9",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "트랜스포머의 일반화에 대한 더 선명한 그림",
+      "link": "https://arxiv.org/abs/2605.20988v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T10:23:03Z",
+      "summary": "트랜스포머 모델 아키텍처의 일반화 성능에 대한 이론적 근거를 심층 분석합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f5d171a12853",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "디스패치 작업의 오버헤드 진단: 교차 아키텍처 관측소",
+      "link": "https://arxiv.org/abs/2605.20982v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T10:14:00Z",
+      "summary": "다양한 컴퓨팅 아키텍처 전반에서 디스패치 오버헤드를 식별하기 위한 성능 분석 프레임워크입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "15fd9d9e891e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "가짜 이미지 탐지를 위한 딥러닝 모델의 비교 평가",
+      "link": "https://arxiv.org/abs/2605.20971v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T09:57:58Z",
+      "summary": "조작되거나 합성된 이미지를 분류하는 다양한 딥러닝 아키텍처의 성능을 벤치마킹합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "51a99ce2416d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "잊지 않고 올바른 시각적 증거 찾기: 계층 간 시각적 주의 불일치를 통한 LVLM의 환각 완화",
+      "link": "https://arxiv.org/abs/2605.20965v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T09:50:13Z",
+      "summary": "시각적 주의 계층을 모니터링하여 거대 시각-언어 모델(LVLM)의 환각을 줄이는 기법입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a9c69c9847f0",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Focus-then-Context: 시각-언어 모델을 위한 피사체 중심의 점진적 시각 토큰 축소",
+      "link": "https://arxiv.org/abs/2605.20950v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T09:37:53Z",
+      "summary": "피사체 문맥을 보존하면서 시각 토큰을 점진적으로 줄여 시각-언어 모델의 효율성을 높입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d95f1cd7cca7",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DASH: 단일 GPU에서 몇 분 만에 하이브리드 어텐션을 위한 빠른 미분 가능 아키텍처 탐색",
+      "link": "https://arxiv.org/abs/2605.20936v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T09:21:22Z",
+      "summary": "단일 GPU 컴퓨팅 자원을 사용하여 하이브리드 어텐션 메커니즘에 대한 신속한 미분 가능 아키텍처 탐색을 가능하게 합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f9ceb31550ef",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Strategy-Induct: 명령 생성을 위한 작업 수준 전략 유도",
+      "link": "https://arxiv.org/abs/2605.20924v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T09:10:43Z",
+      "summary": "생성된 LLM 명령의 품질을 향상하기 위한 작업별 전략의 자동 유도 방식입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dc3b778684f2",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "분산 LLM 에이전트 워크플로우의 런타임 검증을 위한 인과적 과거 논리",
+      "link": "https://arxiv.org/abs/2605.20923v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T09:09:13Z",
+      "summary": "복잡한 분산 LLM 에이전트 시스템의 런타임 동작을 검증하기 위해 인과 논리를 활용하는 프레임워크입니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "15a4123f6be5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Winfree 진동 신경망",
+      "link": "https://arxiv.org/abs/2605.20922v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T09:08:00Z",
+      "summary": "특수 신경망 아키텍처 내에서 Winfree 진동자 역학의 적용을 탐구합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "050999ddd6f7",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sutra: 벡터 기호 아키텍처를 위한 컴파일 대상으로서의 텐서 연산 RNN",
+      "link": "https://arxiv.org/abs/2605.20919v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T09:04:36Z",
+      "summary": "벡터 기호 아키텍처를 효율적인 텐서 연산 RNN으로 매핑하기 위한 컴파일 접근 방식을 제시합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e08f83cfa0fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "보정 vs 의사결정: 학습되지 않은 언어 모델의 신뢰성 역설 재조명",
+      "link": "https://arxiv.org/abs/2605.20915v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:59:23Z",
+      "summary": "학습되지 않은 언어 모델에서 신뢰도 보정과 의사결정 정확도 간의 상충 관계를 분석합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f74dd9706a57",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "우리는 얼마나 오래 펀치를 날려야 할까? 격투 게임에서의 행동 지속 시간 학습",
+      "link": "https://arxiv.org/abs/2605.20911v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:56:50Z",
+      "summary": "격투 게임 환경에서 현실적인 행동 지속 시간을 모델링하고 예측하기 위한 머신러닝 기법입니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b4def3a63a84",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VISTA: EgoVis 2026의 Ego4D 단기 객체 상호작용 예측을 위한 기술 보고서",
+      "link": "https://arxiv.org/abs/2605.20901v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:42:56Z",
+      "summary": "Ego4D 데이터셋을 사용하여 단기 객체 상호작용을 예측하는 것에 관한 기술 보고서입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "201f353ec474",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Microsoft Security Copilot을 활용한 생성형 AI 기반 위협 탐지",
+      "link": "https://arxiv.org/abs/2605.20896v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:37:06Z",
+      "summary": "자동화된 사이버 보안 위협 탐지 및 완화를 위한 생성형 AI 애플리케이션을 평가합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "394b1f866897",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CIO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Terminal-World: 에이전트 기술을 통한 터미널 에이전트 환경 확장",
+      "link": "https://arxiv.org/abs/2605.20876v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:14:51Z",
+      "summary": "터미널 기반 소프트웨어 환경 내에서 자율 에이전트 학습을 확장하기 위한 프레임워크입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ef0a048a7a99",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "범용 에이전트를 위한 구성에 의한 거버넌스",
+      "link": "https://arxiv.org/abs/2605.20874v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:13:16Z",
+      "summary": "에이전트 추론 과정 중에 거버넌스 제약을 직접 강제하기 위한 제안된 아키텍처입니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b895dd4efa0a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PlanningBench: 거대 언어 모델 평가 및 학습을 위한 확장 가능하고 검증 가능한 계획 데이터 생성",
+      "link": "https://arxiv.org/abs/2605.20873v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:10:15Z",
+      "summary": "거대 언어 모델의 다단계 계획 능력을 평가하기 위한 새로운 벤치마크 제품군입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0837eab7c47b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CAdam: 생성 증류에서 3D 가우시안 치밀화를 위한 문맥 적응형 모멘트 추정",
+      "link": "https://arxiv.org/abs/2605.20872v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:08:39Z",
+      "summary": "문맥 적응형 모멘트 추정 기법을 사용하여 3D 가우시안 생성을 개선하는 최적화 방법입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bfca23fc2e0d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Graphic Designer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "런타임 인증된 경계 오차 양자화 어텐션",
+      "link": "https://arxiv.org/abs/2605.20868v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:04:40Z",
+      "summary": "런타임 검증을 통해 양자화된 어텐션 메커니즘의 정밀도를 유지하는 방법입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7442862e9119",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "검증 가능한 보상을 사용하는 강화 학습을 위한 다단계 가능도 비율 보정",
+      "link": "https://arxiv.org/abs/2605.20865v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T08:01:01Z",
+      "summary": "검증 가능한 보상 함수를 사용하여 강화 학습 에이전트를 안정화하기 위한 보정 알고리즘입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c8f8eae4bf0f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DISC: 정책 생성을 통한 상태 조건부 제어와 명령의 분리",
+      "link": "https://arxiv.org/abs/2605.20856v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T07:45:50Z",
+      "summary": "에이전트 정책에서 작업 명령을 환경별 제어 상태와 분리하는 새로운 아키텍처입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "65f9d5974815",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "USV: 사용자 생성 숏폼 영상 이해를 향하여",
+      "link": "https://arxiv.org/abs/2605.20838v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T07:27:36Z",
+      "summary": "숏폼 소셜 영상 콘텐츠의 멀티모달 이해를 위한 분석 및 처리 기법입니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6bdcfe61d8c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ArchSIBench: 시각-언어 모델의 아키텍처 공간 지능 벤치마킹",
+      "link": "https://arxiv.org/abs/2605.20837v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T07:27:08Z",
+      "summary": "아키텍처 시각-언어 모델 내의 공간 추론 능력을 평가하는 벤치마크입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3b72776d4afe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Real Estate"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Architect",
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DPO와 RLHF의 조건부 등가성: 암묵적 가정, 실패 모드 및 증명 가능한 정렬",
+      "link": "https://arxiv.org/abs/2605.20834v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T07:26:22Z",
+      "summary": "DPO와 RLHF 정렬 방법론과 그 실패 조건을 비교한 수학적 분석입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4296b54519eb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "소비자 하드웨어에서의 GraphRAG: 의료 EHR 스키마 검색을 위한 로컬 LLM 벤치마킹",
+      "link": "https://arxiv.org/abs/2605.20815v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T07:09:53Z",
+      "summary": "의료 기록 검색 작업을 위해 로컬에서 GraphRAG 프로세스를 실행하는 것에 대한 효율성 연구입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a275ec7aeb1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Healthcare"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tunable MAGMAX: 지속적 학습을 위한 선호도 인식 모델 병합",
+      "link": "https://arxiv.org/abs/2605.20803v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T06:50:10Z",
+      "summary": "특정 선호도 제약을 준수하면서 지속적인 모델 업데이트를 수행하기 위한 병합 기법입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fd18fc1dd401",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ELSA: 효율적인 뉴로모픽 컴퓨팅을 위한 탄력적 SNN 추론 아키텍처",
+      "link": "https://arxiv.org/abs/2605.20802v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T06:47:57Z",
+      "summary": "고효율 뉴로모픽 추론을 위해 설계된 탄력적 스파이킹 신경망 아키텍처입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d94b7bbcce12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "계층적 재귀 추론에서의 상호작용 지역성",
+      "link": "https://arxiv.org/abs/2605.20784v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T06:25:49Z",
+      "summary": "다단계 재귀 추론 모델 내의 지역화된 상호작용 패턴에 대한 연구입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c2eb293d9b0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "구성적 보상 하의 흐름 모델을 위한 갈등 인식 가산 안내",
+      "link": "https://arxiv.org/abs/2605.20758v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T05:56:55Z",
+      "summary": "생성 흐름 모델 학습 중 상충하는 목표 안내를 관리하기 위한 방법입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e1eb8a34eb87",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "사전 조건화된 언어 모델 최적화 도구에서 확률적 업데이트 편향 수정",
+      "link": "https://arxiv.org/abs/2605.20756v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T05:54:24Z",
+      "summary": "사전 조건화된 업데이트를 사용하여 언어 모델 최적화 도구의 편향을 완화하는 기법입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a9c3a52e959a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PACD-Net: SMBG로부터의 혈당 조절 추정을 위한 의사 증강 대조 증류",
+      "link": "https://arxiv.org/abs/2605.20751v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T05:50:55Z",
+      "summary": "혈당 모니터링 데이터로부터 대조 증류를 사용하여 혈당 수치를 추정하는 모델입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d6ea988d6ed8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "문제는 조건 수에 있다: 왜 GLU가 비 GLU 구조보다 나은가?",
+      "link": "https://arxiv.org/abs/2605.20749v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T05:50:06Z",
+      "summary": "GLU 구조가 조건 수에 어떤 영향을 미치고 학습 안정성을 개선하는지에 대한 분석입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fb3bd05e5e65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "검증자 엄격함의 숨겨진 신호: 선택적 잠재 스티어링을 통한 단계별 검증 제어 및 개선",
+      "link": "https://arxiv.org/abs/2605.20745v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T05:48:16Z",
+      "summary": "선택적 잠재 스티어링 기법을 통해 AI 모델의 단계별 검증을 개선하는 연구입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "14408be8aa76",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "해킹 검증 가능 환경: 대규모 보상 해킹 평가를 향하여",
+      "link": "https://arxiv.org/abs/2605.20744v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-20T05:46:52Z",
+      "summary": "대규모 AI 에이전트의 보상 해킹을 평가하고 완화하기 위한 프레임워크를 제안합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "31668d582720",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "이미지 및 영상 생성을 위한 AI 에이전트 - DeepLearning.AI",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm94UGc5a1E4REFLRGVPUHBWVU1yNV9xUWhCaWJrajhGUjFndGctNU04M2VrQ0xMNFQyYWxPQTBTSkU5di1YdTR2S2R3c05lN3VoUTR6YUNUR2o3RURmcXZnZjIydktOMVFtS3BFN3RsQXBTUXA5UWlUZTl0TTFjSWRR?oc=5",
+      "source": "DeepLearning.AI",
+      "region": "📚",
+      "pub_date": "2026-05-21T00:51:56Z",
+      "summary": "시각 콘텐츠 생성을 위한 AI 에이전트 개발을 다루는 교육 콘텐츠입니다.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7d2e68d91d49",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "DeepLearning.AI"
+      ],
+      "job_titles": [
+        "Creator",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "인공지능 서기의 개인정보 보호 고려 사항 - NEJM AI",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3R1VVbGZFSFhLRHp0dkV5a3Z5cVNPRzB0NUpIeUtzejNKN0taY1l1QnNRemdkQV9CY0pqU0hkYlAtajFXdW9WZ0ZLZG4teGY5aGtBTHc3QWJEN0RDY0NyS01FLWFKMlRNMWh2QjJHRWtqeXFmN3dr?oc=5",
+      "source": "NEJM AI",
+      "region": "🏥",
+      "pub_date": "2026-05-20T17:26:15Z",
+      "summary": "의료 분야에서 AI 문서화 도구를 배포할 때 발생하는 데이터 개인정보 보호 문제를 평가합니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d6bbe9823283",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "NEJM AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "의료 분야에서 투자 수익률 승수로서의 인공지능 - NEJM AI",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FaTl5Y1diLUhKUnk3VGM0R3U5bzZUV2owNUZReTRXRkN6QmI2LTY2dVZRWUJ2dEtDV1YwaHRLTzVuRGtzNkloY21BZXoyZlhuQ2JRVDlLNnozUjQ5eXBrdzY0NzJ6cno4ZnFEanAxdC15R2RoRFhn?oc=5",
+      "source": "NEJM AI",
+      "region": "🏥",
+      "pub_date": "2026-05-20T17:26:15Z",
+      "summary": "AI 도입이 의료 시스템의 재무적 및 운영적 효율성을 어떻게 향상하는지에 대한 분석입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2fc522b69831",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "NEJM AI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "의회 민주당, 메디케어 AI 사전 승인 파일럿 종료를 위한 투표 강행 시도",
+      "link": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-05-20T19:28:21Z",
+      "summary": "사전 승인을 위해 AI를 활용하는 메디케어 파일럿 프로그램을 종료하려는 정치적 노력입니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3fe3d0a10979",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "Medicare"
+      ],
+      "job_titles": [
+        "Policy Maker"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "앰비언트 AI가 성과를 내려면 세심한 계획이 필요하다",
+      "link": "https://www.mobihealthnews.com/video/ambient-ai-requires-careful-planning-deliver-results",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-20T18:19:46Z",
+      "summary": "임상 환경에서 앰비언트 AI 시스템을 전략적으로 구현하기 위한 요구 사항에 대한 전문가 토론입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "5b0183a99734",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Neurosoft Bioelectronics, 뇌-컴퓨터 인터페이스 기술로 750만 달러 유치",
+      "link": "https://www.mobihealthnews.com/news/neurosoft-bioelectronics-garners-75m-brain-computer-interface-technology",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-20T18:04:32Z",
+      "summary": "Neurosoft Bioelectronics가 BCI 의료 하드웨어 개발을 위해 750만 달러의 자금을 확보했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e3800b2b5fa7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Neurosoft Bioelectronics"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic, Bristol Myers Squibb과 엔터프라이즈 AI 계약 체결",
+      "link": "https://www.mobihealthnews.com/news/anthropic-signs-enterprise-ai-deal-bristol-myers-squibb",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-20T14:54:12Z",
+      "summary": "Anthropic이 제약 연구에 엔터프라이즈 AI 솔루션을 배포하기 위해 Bristol Myers Squibb과 파트너십을 맺었습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "271b684dbc6c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Pharmaceutical",
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "Bristol Myers Squibb"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CIO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "의사들이 Navina를 사용하여 진료 및 코딩을 개선하는 방법",
+      "link": "https://www.healthcareittoday.com/2026/05/20/how-physicians-are-using-ai-to-improve-care-and-coding-with-navina/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-20T15:00:48Z",
+      "summary": "의사들이 임상 문서화 및 환자 진료 워크플로우를 향상하기 위해 Navina의 AI 플랫폼을 활용합니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5a7aafde59d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Navina"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Physician"
+      ],
+      "locations": []
+    },
+    {
+      "title": "iManage, 다수의 새로운 기능 출시",
+      "link": "https://www.artificiallawyer.com/2026/05/20/imanage-rolls-out-multiple-new-features/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-20T16:52:19Z",
+      "summary": "iManage가 자동화된 AI 기반 기능을 포함하여 문서 관리 플랫폼에 대한 업데이트를 출시합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "48209d83c18a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "iManage"
+      ],
+      "job_titles": [
+        "Developer",
+        "HR Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "판사, 과거 AI 오류로 인해 변호사가 영안실 스캔들 원고를 대리할 수 없다고 판결",
+      "link": "https://www.abajournal.com/news/article/lawyer-cant-represent-plaintiffs-in-morgue-scandal-because-of-past-ai-errors-judge-says/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-05-21T02:12:42.768301+00:00Z",
+      "summary": "판사가 과거 AI가 환각으로 생성한 법적 인용 및 오류를 이유로 해당 사건에서 변호사를 배제했습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "832b276bab4c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Judge"
+      ],
+      "locations": []
+    },
+    {
+      "title": "제7순회항소법원, ‘Are We Dating the Same Guy?’ 판결 유지, ‘허구적’ 인용에 대한 제재 시사",
+      "link": "https://www.abajournal.com/news/article/7th-circuit-upholds-are-we-dating-the-same-guy-suit-musing-sanctions/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-05-21T02:12:42.768349+00:00Z",
+      "summary": "법원이 AI가 생성한 허구적 법적 인용 사용에 대해 제재를 경고했습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c3d7907accd3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Judge"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PyTorch Docathon 2026, 150개 이상의 병합된 풀 리퀘스트 성과",
+      "link": "https://pytorch.org/blog/pytorch-docathon-2026-results/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-05-20T15:45:54Z",
+      "summary": "PyTorch 커뮤니티 이벤트 결과 150개 이상의 문서 업데이트 및 개선 사항이 병합되었습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f10ee6f6d29b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "젠슨 황, Nvidia를 위한 2,000억 달러 규모의 ‘완전 새로운’ 시장 발견",
+      "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-21T00:28:31Z",
+      "summary": "Nvidia CEO 젠슨 황이 회사를 위한 2,000억 달러 규모의 새로운 시장 기회를 확인했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f5f013421de1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic, 첫 흑자 분기 앞두고 있다고 밝혀",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-21T00:21:21Z",
+      "summary": "Anthropic이 분기 기준으로 처음으로 수익성에 근접하고 있다고 보고했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e6eed5941e8d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Clouted, 숏폼 영상의 바이럴 예측에서 추측을 배제하고자 하다",
+      "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T22:30:45Z",
+      "summary": "Clouted가 숏폼 영상의 성과와 바이럴을 최적화하기 위한 AI 도구를 선보입니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6b0b9cf6e7e3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Clouted"
+      ],
+      "job_titles": [
+        "Content Creator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "xAI 작년 64억 달러 지출 — SpaceX IPO 서류가 지출이 끝나지 않은 이유를 보여주다",
+      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T22:26:08Z",
+      "summary": "재무 공시를 통해 xAI가 작년에 64억 달러를 지출했음이 밝혀졌습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1dd7071627fc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [
+        "SpaceX",
+        "xAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nvidia 또다시 기록적인 분기 실적 발표, 스타트업 보유 지분 430억 달러 공개",
+      "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T22:03:51Z",
+      "summary": "Nvidia가 기록적인 수익을 보고하고 다양한 스타트업에 대한 430억 달러 규모의 투자 포트폴리오를 공개했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "701a8a6a4c04",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "머스크의 xAI, 데이터 센터 발전기 관련 소송 직면 — 이제 28억 달러 추가 구매",
+      "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T21:55:49Z",
+      "summary": "xAI가 데이터 센터 발전기와 관련된 소송에 직면한 가운데 28억 달러 규모의 신규 구매를 약속했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "42a4a62f5a1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "xAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic, 컴퓨팅 자원 대가로 xAI에 매월 12.5억 달러 지불 예정",
+      "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T21:29:22Z",
+      "summary": "Anthropic이 컴퓨팅 자원을 위해 xAI에 매월 12.5억 달러를 지불하기로 합의했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8ad8deb31608",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "xAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, 80년 된 수학 문제 해결 주장 — 이번에는 진짜",
+      "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T20:28:27Z",
+      "summary": "OpenAI가 AI 역량을 사용하여 오랫동안 해결되지 않았던 수학적 난제를 해결했다고 발표했습니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5e513af90e20",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "앤드류 응이 지원하는 스타트업 IrisGo, 필요한 줄 몰랐던 AI 데스크톱 친구를 목표로 하다",
+      "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T19:47:20Z",
+      "summary": "앤드류 응이 지원하는 스타트업 IrisGo가 AI 기반 데스크톱 비서를 개발합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4f3ec8edc1c2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "IrisGo"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, 9월 IPO를 향해 질주",
+      "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T17:24:24Z",
+      "summary": "보도에 따르면 OpenAI가 9월로 예정된 기업 공개(IPO)를 준비 중입니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8ee8f9a64ecd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI 검색 스타트업 급성장 중",
+      "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T15:04:45Z",
+      "summary": "시장 분석 결과 AI 중심 검색 엔진 스타트업들 사이에서 급격한 성장과 활동 증가가 나타나고 있습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a8b9af8f050e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Investor",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Stability AI, 6분짜리 노래 생성 가능한 새로운 오디오 모델 출시",
+      "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T15:00:00Z",
+      "summary": "Stability AI가 6분 길이의 트랙을 생성할 수 있는 새로운 오디오 생성 모델을 출시했습니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "17cdb3afa6c1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Stability AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google 검색의 AI 진화, 광고 증가 포함 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44VVNQVU1VeDlJbERnVUh5VVJZb1p2R2hLTW43WF92aGpUaDJ4TS1uSlU0YjIxVE94bWFfdW11aFpoRGRPc2paQ2V6Uldsa2lMd2daMVYwSlc5djZVTEhrLXFqeU5qb09sVGxfdGxaYUcyQ29h?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T16:00:00Z",
+      "summary": "Google이 AI 기반 검색 결과 페이지에 추가적인 광고 형식을 통합하고 있습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "47ba79d5aa29",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "‘바이브 코딩(Vibe coding)’이 당신의 휴대폰으로 온다 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0FSQjJ2Sk15MWNpc1BpU0ZJV0dXSnozUzl4bDZhc0ZKRFBmQkdGa0ZIdTZFMmFCQjR1NWdzdmU0OTBFSjd3VGJmd0xzYmJFTlc4TzdzZHpuQWg1WE9UYXdlMlp1Tk1VMlhkcjBQVTh2ak9ESHhZOVduUGJmWW84TFJjaDdoYlpjZnhPb3RqclE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T17:40:00Z",
+      "summary": "Google이 Android 플랫폼에 AI Studio와 ‘바이브 코딩’ 기능을 도입합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aea2d3ac0f2f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "이제 AI로 다른 사람의 YouTube Shorts를 리믹스할 수 있다 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFBFdXlvcFd4ODhucjB2ZzlIX3NSeWxaSXJwX2FqSjhPeUlJUVhxWHFNRmQ2Y0w1V2praEFYRUxnSUxWamttWlpzOXVGdjVWNW85MUlZd3RMNEZ4VHhHTW5pUUtJVmFId3hEZGMyTWNDY3hRVndObFdVbjJLOWQyZWgxbWw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T16:41:40Z",
+      "summary": "YouTube가 사용자가 Shorts 콘텐츠를 리믹스하고 수정할 수 있는 생성형 AI 기능을 도입합니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a68e473963a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google",
+        "YouTube"
+      ],
+      "job_titles": [
+        "Content Creator"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "‘모든 질병을 해결하겠다’고? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUGF5cTN0UEZldDRvSnA0ZEZzd1JYY2lleGNXUV82MnpTM08ydWlHMzdMSV80d1JkZ2NSaEpBczVQanYwVFVaNl85TzB6dm9fWEZiUVBrTEpYR2tRcUdsQmdFRXQ3UkpMdDk4S09OamZDX2pmUVFqbklXUFdPQmx4TmViMDdMaDJBSG94S09STWtsNkwyN1dZTmpfVkhTYWFs?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-20T21:06:35Z",
+      "summary": "복잡한 전 세계적 의료 문제를 해결하는 데 있어 AI의 현재 한계에 대한 비판적 분석입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0b0256a30621",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AGI에 대한 두 가지 경쟁적 베팅: Google I/O 하이라이트",
+      "link": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "source": "AI Explained",
+      "region": "📺",
+      "pub_date": "2026-05-20T16:50:34Z",
+      "summary": "인공 일반 지능(AGI) 달성을 향한 Google의 경쟁적인 전략적 접근 방식을 비교한 영상 분석입니다.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "5f5f4833eb3d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
     {
       "title": "OpenAI의 '국가별 교육(Education for Countries)' 다음 단계",
       "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
