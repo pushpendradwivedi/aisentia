@@ -1,6 +1,1423 @@
 {
-  "refreshed_at": "2026-05-22 02:16 UTC",
+  "refreshed_at": "2026-05-22 14:39 UTC",
   "items": [
+    {
+      "title": "向量策略优化：通过训练多样性提升测试时搜索能力",
+      "link": "https://arxiv.org/abs/2605.22817v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:59:26Z",
+      "summary": "提出向量策略优化研究，旨在增强搜索多样性并提升模型在测试时的性能。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "082be66f6d1b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "匹配原则：一种用于抗干扰表征学习的损失函数几何理论",
+      "link": "https://arxiv.org/abs/2605.22800v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:53:28Z",
+      "summary": "一种用于设计损失函数的几何框架，旨在提高表征学习模型的鲁棒性。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c3100fb1bdd2",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "保守与非保守漂移模型的有限粒子收敛率",
+      "link": "https://arxiv.org/abs/2605.22795v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:49:09Z",
+      "summary": "针对机器学习应用中基于粒子的漂移模型的收敛率分析。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "27c70791c7ae",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MOSS：自主智能体系统中的源代码级重写自我进化",
+      "link": "https://arxiv.org/abs/2605.22794v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:48:33Z",
+      "summary": "一种利用自动化源代码级重写实现自主智能体自我改进的新方法。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ad970c98e474",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gated DeltaNet-2：线性注意力机制中的擦除与写入解耦",
+      "link": "https://arxiv.org/abs/2605.22791v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:44:57Z",
+      "summary": "引入 Gated DeltaNet-2，通过分离擦除和写入操作来优化线性注意力机制。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "32601f76c5c4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LCGuard：多智能体系统中安全 KV 共享的潜在通信防护",
+      "link": "https://arxiv.org/abs/2605.22786v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:42:12Z",
+      "summary": "一种确保去中心化多智能体 AI 环境中键值缓存（KV cache）安全共享的安全框架。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "39714e1b3beb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeltaBox：通过毫秒级沙箱检查点/回滚扩展有状态 AI 智能体",
+      "link": "https://arxiv.org/abs/2605.22781v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:36:17Z",
+      "summary": "一种支持可扩展有状态自主 AI 智能体快速检查点和回滚的系统架构。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a68698ebba6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SDPM：用于连续时间生存分析的生存扩散概率模型",
+      "link": "https://arxiv.org/abs/2605.22776v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:33:47Z",
+      "summary": "一种应用于医学领域连续时间生存分析的新型基于扩散的概率模型。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "58373a72c915",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MambaGaze：基于双向 Mamba 与显式缺失数据建模的眼动追踪认知负荷评估",
+      "link": "https://arxiv.org/abs/2605.22775v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:33:41Z",
+      "summary": "一种利用双向 Mamba 模型，通过处理缺失数据的眼动追踪数据进行认知负荷评估的方法。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dfde6e48fb2a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CogAdapt：通过导联适配将临床心电图基础模型迁移至可穿戴认知负荷评估",
+      "link": "https://arxiv.org/abs/2605.22774v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:33:35Z",
+      "summary": "一种将临床心电图（ECG）基础模型适配到可穿戴设备以监测认知负荷的方法。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d74a88526af9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "针对随机作业到达的柔性作业车间调度深度强化学习",
+      "link": "https://arxiv.org/abs/2605.22773v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:33:09Z",
+      "summary": "应用深度强化学习（DRL）在动态、随机到达条件下优化作业车间调度。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9a5a8f74559c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Operations Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "通过一致性训练减少政治操纵",
+      "link": "https://arxiv.org/abs/2605.22771v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:32:40Z",
+      "summary": "研究探索利用一致性训练来减轻大语言模型（LLM）中的政治偏见和操纵。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1017e21aeb6f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "理解数据时效性对大语言模型预训练的影响",
+      "link": "https://arxiv.org/abs/2605.22769v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:31:17Z",
+      "summary": "评估数据的时间新鲜度如何影响大语言模型预训练期间的性能。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "91233c40b3da",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "利用 AI 驱动的形式化证明搜索推进数学研究",
+      "link": "https://arxiv.org/abs/2605.22763v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:24:57Z",
+      "summary": "探索旨在通过自动化生成形式化证明来加速数学研究的 AI 系统。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "acf51a81c648",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "迈向可穿戴健康数据的通用智能与接口",
+      "link": "https://arxiv.org/abs/2605.22759v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:24:06Z",
+      "summary": "提出一种用于统一处理可穿戴健康数据的通用接口和智能模型。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4aecacafd18f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "基于机器学习与元启发式特征优化的物联网智能电网网络物理异常检测",
+      "link": "https://arxiv.org/abs/2605.22749v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:18:57Z",
+      "summary": "提出的框架利用机器学习优化技术提高了智能电网中异常检测的准确性。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "17a0de025726",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "通过多智能体强化学习实现超人类的安全与敏捷赛车",
+      "link": "https://arxiv.org/abs/2605.22748v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:15:54Z",
+      "summary": "一种新的强化学习方法，在竞争性自主车辆竞赛中实现了超人类的性能和安全性。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e08009c809d6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "基于代理的 Shapley 和 Banzhaf 交互近似方法",
+      "link": "https://arxiv.org/abs/2605.22738v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:09:45Z",
+      "summary": "引入一种用于近似 AI 模型中复杂合作博弈论指标的代理方法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "33fa9082e702",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "蒸馏博弈：自适应攻击与高效防御",
+      "link": "https://arxiv.org/abs/2605.22737v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:09:21Z",
+      "summary": "分析针对模型蒸馏的对抗性攻击策略，并提出有效的防御机制。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b8bb2e91101e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HarnessAPI：用于统一流式 API 和 MCP 工具的技能优先框架",
+      "link": "https://arxiv.org/abs/2605.22733v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:03:44Z",
+      "summary": "使 AI 智能体能够统一集成流式 API 和工具使用的框架。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6c07f3b907f6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "超越声学情感识别：利用基于 LLM 和声学情感模型的政治演讲多模态情感分析",
+      "link": "https://arxiv.org/abs/2605.22732v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:03:37Z",
+      "summary": "结合大语言模型和声学模型的多模态分析，用于检测政治演讲中的情感诉求。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4c4225490605",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "后训练关注的是状态而非 Token：SFT、RL 和在线策略蒸馏的状态分布视角",
+      "link": "https://arxiv.org/abs/2605.22731v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T17:03:22Z",
+      "summary": "一种通过状态分布而非 Token 序列重新诠释后训练过程的理论框架。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1009aa697b4a",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "高斯 DDPM 和 Lanczos 采样器中协方差匹配的价值",
+      "link": "https://arxiv.org/abs/2605.22723v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:57:27Z",
+      "summary": "利用协方差匹配和 Lanczos 迭代技术提高生成模型采样效率。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4679742aea34",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI 会加剧冲突吗？大语言模型在冲突背景下部署的对齐失败",
+      "link": "https://arxiv.org/abs/2605.22720v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:55:39Z",
+      "summary": "研究揭示了大语言模型在敏感地缘政治冲突环境中部署时存在的对齐失败问题。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "45c5c836ba2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "现场音乐扩散模型：交互式扩散音乐生成器的高效微调与后训练",
+      "link": "https://arxiv.org/abs/2605.22717v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:54:07Z",
+      "summary": "提出用于现场音乐制作的交互式扩散生成模型的微调方法。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a5204313b09c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "参数化模块化答案集程序及其声明式实现",
+      "link": "https://arxiv.org/abs/2605.22716v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:52:18Z",
+      "summary": "通过一种新的声明式、参数化模块化结构增强答案集编程（ASP）。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "34a94f56a070",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AnyMo：野外环境下几何感知且与设置无关的人体运动建模",
+      "link": "https://arxiv.org/abs/2605.22715v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:52:10Z",
+      "summary": "一种无需预定义角色设置即可在多样化环境中建模人体运动的新方法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4d501b01c138",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AMEL：累积信息对大语言模型判断的影响",
+      "link": "https://arxiv.org/abs/2605.22714v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:51:04Z",
+      "summary": "探讨累积信息如何影响大语言模型内部的决策过程。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0b434f129da3",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "离线目标条件强化学习的抽象化研究",
+      "link": "https://arxiv.org/abs/2605.22711v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:50:26Z",
+      "summary": "通过分层状态抽象技术改进离线强化学习。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a9befdb8c984",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "超越组织架构图：AI 与隐性工作的转型",
+      "link": "https://arxiv.org/abs/2605.22707v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:46:44Z",
+      "summary": "研究 AI 工具如何改变正式结构之外的运营效率和工作场所动态。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "58831bd29b3d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "部分已知环境下异构机器人团队的侦察辅助规划",
+      "link": "https://arxiv.org/abs/2605.22693v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:36:55Z",
+      "summary": "针对在不确定、部分映射环境中运行的异构团队的机器人协作策略。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3937b436d73b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Defense",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "利用人工智能预测科学进展",
+      "link": "https://arxiv.org/abs/2605.22681v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:23:36Z",
+      "summary": "开发 AI 驱动的模型，用于预测科学研究领域的轨迹和里程碑。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "849cba6241c3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "快速采样：通过泰勒级数选择时间惊喜",
+      "link": "https://arxiv.org/abs/2605.22678v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:20:31Z",
+      "summary": "利用泰勒级数展开识别时间数据异常的高效采样方法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "de5470d0f31f",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "能力是负担吗？能力更强的大语言模型在关键时刻反而做出更差的预测",
+      "link": "https://arxiv.org/abs/2605.22672v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:14:33Z",
+      "summary": "调查高级大语言模型在关键预测任务中性能下降的现象。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "082b1132add7",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "WorkstreamBench：评估金融领域端到端电子表格任务的大语言模型智能体",
+      "link": "https://arxiv.org/abs/2605.22664v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:06:34Z",
+      "summary": "用于评估大语言模型智能体在专业金融电子表格工作流中表现的新基准套件。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f2ce27223f59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Claw AI Lab：一个自主多智能体研究团队",
+      "link": "https://arxiv.org/abs/2605.22662v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:02:53Z",
+      "summary": "提出一个专为研究导向的协作问题解决任务而设计的多智能体系统自主框架。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ba2197ed7ae8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "道德语义在机器翻译中得以保留：来自道德基础语料库的跨语言证据",
+      "link": "https://arxiv.org/abs/2605.22660v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T16:02:15Z",
+      "summary": "研究发现道德语义结构在机器翻译系统中跨语言保持一致。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e177d539573",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AtelierEval：人类与大语言模型作为文生图提示词生成者的智能体评估",
+      "link": "https://arxiv.org/abs/2605.22645v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:51:53Z",
+      "summary": "评估人类和大语言模型在为文生图模型生成有效提示词方面的表现。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c3288bdddf2d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Creative Director"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Spreadsheet-RL：通过强化学习提升大语言模型智能体在实际电子表格任务中的表现",
+      "link": "https://arxiv.org/abs/2605.22642v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:47:41Z",
+      "summary": "利用强化学习改进大语言模型智能体在现实世界电子表格自动化任务中的表现。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f270c49a2115",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Accounting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "更多上下文、更大的模型还是道德知识？政治文本中施瓦茨价值检测的系统性研究",
+      "link": "https://arxiv.org/abs/2605.22641v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:46:54Z",
+      "summary": "调查影响使用大语言模型检测政治文本中道德价值的因素。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7d795eba325d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "契约技能：企业 AI 智能体的 GovernSpec 设计框架",
+      "link": "https://arxiv.org/abs/2605.22634v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:40:05Z",
+      "summary": "提出一种治理设计框架，用于规范企业 AI 智能体的行为和交互。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e4df91876e2d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "医疗大语言模型基准的质量取决于其明确的假设",
+      "link": "https://arxiv.org/abs/2605.22612v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:27:58Z",
+      "summary": "指出医疗大语言模型的评估需要对底层操作假设进行清晰、明确的定义。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9c2d3e38816c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Agentic CLEAR：大语言模型智能体的自动化多级评估",
+      "link": "https://arxiv.org/abs/2605.22608v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:26:02Z",
+      "summary": "引入一种用于跨任务自动化、分层评估大语言模型智能体性能的框架。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "53af522cfc7a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "无卡人工智能银行的创新：利用机器学习算法进行网络安全与欺诈缓解的综合框架",
+      "link": "https://arxiv.org/abs/2605.22604v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:17:50Z",
+      "summary": "部署安全、AI 驱动的无卡银行解决方案以减轻金融欺诈的框架。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f3b18016de5d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "三思而后言：用于说服性智能体的双重知识增强心智理论推理",
+      "link": "https://arxiv.org/abs/2605.22602v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:15:51Z",
+      "summary": "通过双重知识心智理论（Theory-of-Mind）推理改进说服性 AI 智能体的方法论。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9e1b127a0aa3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MoSA：通过学习残差各向异性缓解连续体动力学中现实与模拟差距的运动约束应力适配",
+      "link": "https://arxiv.org/abs/2605.22597v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T15:13:49Z",
+      "summary": "一种利用学习到的应力适配技术来减少机器人连续体动力学中现实与模拟差距的技术。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "57c56b9cf249",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SceneAligner：野外环境下的 3D 地面平面定位",
+      "link": "https://arxiv.org/abs/2605.22581v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T14:53:05Z",
+      "summary": "用于将平面图与现实世界 3D 环境对齐以进行室内定位任务的框架。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f7ae175ab2db",
+      "is_ai_relevant": true,
+      "industries": [
+        "Real Estate"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "超越温度：作为后期几何扩展的超拟合（Hyperfitting）",
+      "link": "https://arxiv.org/abs/2605.22579v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T14:52:48Z",
+      "summary": "探索一种称为超拟合的几何扩展方法，用于标准采样之外的模型优化。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e26ca4dee3c4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VGenST-Bench：通过主动视频合成进行时空推理的基准测试",
+      "link": "https://arxiv.org/abs/2605.22570v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T14:48:35Z",
+      "summary": "引入一个通过主动视频合成模型评估时空推理能力的基准测试。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2739a7af82bf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "在不自欺的情况下衡量安全性：为什么智能体基准测试如此困难",
+      "link": "https://arxiv.org/abs/2605.22568v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-05-21T14:47:54Z",
+      "summary": "讨论 AI 智能体标准安全基准测试过程中的挑战和漏洞。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d1e9bc5e874c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "劳动力准备差距：为什么大多数卫生系统无法将 AI 扩展到试点之外",
+      "link": "https://www.healthcareittoday.com/2026/05/22/the-workforce-readiness-gap-why-most-health-systems-cant-scale-ai-past-the-pilot/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-22T14:00:34Z",
+      "summary": "由于缺乏员工技术准备，卫生系统难以将 AI 解决方案扩展到试点阶段之后。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c73ee3917bb4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "IKS Health 宣布收购 AI 管理与技术公司 ARAI Solutions",
+      "link": "https://www.healthcareittoday.com/2026/05/22/iks-health-announces-acquisition-of-arai-solutions-an-ai-management-and-technology-company/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-05-22T13:00:27Z",
+      "summary": "IKS Health 收购 ARAI Solutions 以加强其在医疗保健领域的 AI 管理能力。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "13e4bcc2581a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "ARAI Solutions",
+        "IKS Health"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI 公告、法学院打击 AI 使用、法律创新者等",
+      "link": "https://www.artificiallawyer.com/2026/05/22/openai-announcement-law-school-crushes-ai-use-legal-innovators/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-05-22T08:54:47Z",
+      "summary": "AI 行业发展综述，包括 OpenAI 的新闻以及法律教育界对 AI 的反应。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "acee9b42daaa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LexisNexis AI 研讨会描绘变革性变化",
+      "link": "https://www.abajournal.com/columns/article/lexisnexis-ai-symposium-charts-transformative-change/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-05-22T14:36:27.052239+00:00Z",
+      "summary": "LexisNexis 举办研讨会，讨论 AI 在法律实践中的整合与影响。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1eef3c1c0654",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "LexisNexis"
+      ],
+      "job_titles": [
+        "Attorney",
+        "Technologist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "最终用户许可协议 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBNd2RLeUVHR2hRU1lnVHlXVVUxTElTQ3pOdlB6a0hWdkxjN3JMY1ctMjBtcTdpNFh4QUV1Si1Yaw?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-22T12:18:51Z",
+      "summary": "Sarvam AI 提供平台的官方最终用户许可协议。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "48ac3d163aed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "服务条款 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03Zk5kNlBIdlkwQ1NGQ2dCcFk5Y0QwUFE1T09Pc2l4enFMMjJqb3dCeVRvMk94bmY2TkIxZFVCOUhmNXhfWFptcnl4UjlHZU0?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-22T12:18:51Z",
+      "summary": "管理 Sarvam AI 软件和服务使用的官方服务条款。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "028d237aec13",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "在绝望的时代，毕业生在羞辱科技公司 CEO 中找到希望 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZEVwM2F0aFJRdjdjS1VpS1QtaU8tZjdUb1RGOERjOTllSVFYdDRHRVZzZXNtTVprMk9yX3dsZzQ2aTh4a2YwUm1vRnpGd2VwNXd1elprTk1HS25rOWZxLWE5aGQ0NTRSWVlzRkpzUVNDZXEwakZRUUx1Ql9od2lvNWRfZ0ZMT2M?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-21T20:00:06Z",
+      "summary": "应届毕业生正在利用公共论坛质疑和挑战科技行业的知名领导者。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "33d05c185728",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "HR Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "后搜索时代的 Google 时代开启 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHdRQlVYZ21vX21JUzJhMzdGcDAzb0NvbGczODNnb1hkTnpZMEE5QzVvUGJieUFCbWV5R1YwZGMteF9EcnBuVnpnckpLZnNnVHo2czQwOEROYXU3SjE0NHIxNTJvMUN5d2VSNHlPSE90azF1bGZNOGFXd0kyYThiT2RuOFc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-22T13:47:41Z",
+      "summary": "Google 的搜索结果正转向 AI 生成的答案，改变了在线发现的格局。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6d4da9ae51bb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "Data Scientist",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "特朗普推迟签署 AI 行政命令，因为他“不喜欢其中的某些方面” - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZkRsTlNfUWs5WVYzcHBoajFaSWlZNDRKc000UlR4SVlheHIzVTc3a25fd3VZZGJmU2hqMlZFb2k4dGtTdmtZYmw0Q0NMRUNLc0MxRld5bzNfZEhTNm1mbEF2RWdfLXJIc0ZhTVhzbjh6amsySHNkaUVLWEIxYWZwaW5Gamd6dGNYVF9BRXBBSnlTT0NESzRaZHpEMHhnc19XU3V4Vm10YXpEVjByWmVxZk5OT0NISTdQMExMc2EwZ1Y?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-21T21:02:15Z",
+      "summary": "由于唐纳德·特朗普的担忧，关于 AI 开发的行政命令面临延误。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "975472d6b9ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "AdventHealth 与 OpenAI 合作推进全人护理",
       "link": "https://openai.com/index/adventhealth",
