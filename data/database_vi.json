@@ -1,6 +1,619 @@
 {
-  "refreshed_at": "2026-05-28 15:50 UTC",
+  "refreshed_at": "2026-05-29 02:11 UTC",
   "items": [
+    {
+      "title": "Cách Endava xây dựng một tổ chức đại lý (agentic organization) với Codex",
+      "link": "https://openai.com/index/endava",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T12:00:00Z",
+      "summary": "Endava tận dụng Codex của OpenAI để tích hợp các quy trình làm việc đại lý vào hoạt động tổ chức của họ.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6b1fa8ae684f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Endava",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Điểm lại 12 khoảnh khắc quan trọng tại I/O 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T15:00:00Z",
+      "summary": "Google nêu bật các tiến bộ AI chính và các thông báo sản phẩm từ hội nghị nhà phát triển I/O 2026.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "3404b326f5b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Bảo mật Claude: Đưa Claude vào phục vụ công tác phòng thủ - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmhpYjBLYU90dC1EWU14dEYtQTQzZWdrdEFwVHA1NEwxaWdBdUhVdTRmYWtUOFV4eWhYNXFwa3h3NlpRVVlJb1JLYU5yeWNtbTRDaF9oTmVuaFpLbHFFaGp3VHB0enM1R21CWlF2T2V0WE5kTVoxTEczdkVCQ2cwLS1TQ2JRU1NORzdVdVF2M0w?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T17:00:00Z",
+      "summary": "Anthropic trình bày chi tiết cách mô hình Claude hỗ trợ các chuyên gia bảo mật trong các nhiệm vụ phòng thủ mạng.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "47b15d743233",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Data Formulator 0.7: Phân tích dữ liệu bằng AI cho dữ liệu doanh nghiệp",
+      "link": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T16:00:00Z",
+      "summary": "Microsoft phát hành Data Formulator 0.7, nâng cao khả năng phân tích dữ liệu dựa trên AI cho người dùng doanh nghiệp.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fafc6a0cd1ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Huấn luyện các mô hình ngôn ngữ tiếng Azerbaijan trên Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T21:54:06Z",
+      "summary": "Hướng dẫn từng bước về việc huấn luyện các mô hình ngôn ngữ cho tiếng Azerbaijan bằng Amazon SageMaker AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8e318485caa6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Xây dựng cổng thông tin tùy chỉnh với các ứng dụng MLflow nhúng trên Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T20:39:22Z",
+      "summary": "Hướng dẫn kỹ thuật về việc tạo cổng thông tin sử dụng các ứng dụng MLflow nhúng trên Amazon SageMaker.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4b1d861a9f9c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Hợp lý hóa quyền truy cập bên ngoài vào Amazon SageMaker MLflow bằng proxy REST API",
+      "link": "https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T20:35:44Z",
+      "summary": "Cải thiện khả năng truy cập vào Amazon SageMaker MLflow bằng cách triển khai proxy REST API.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "865422bf2fc1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Đánh giá các Deep Agents sử dụng LangSmith trên AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T20:32:23Z",
+      "summary": "Phương pháp đánh giá các hệ thống đại lý sử dụng LangSmith tích hợp với cơ sở hạ tầng AWS.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "68282038c803",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "LangChain"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Xây dựng bộ kiểm thử phát triển cùng đại lý của bạn với quản lý tập dữ liệu trong Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T18:10:47Z",
+      "summary": "Các tính năng quản lý tập dữ liệu mới trong Amazon Bedrock để mở rộng quy mô các bộ kiểm thử AI đại lý.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c370a5490f75",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Claude Opus 4.8 hiện đã có mặt trên AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/claude-opus-4-8-is-now-available-on-aws/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T17:51:32Z",
+      "summary": "Việc tích hợp mô hình Claude Opus 4.8 hiện đã khả dụng cho người dùng AWS.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1b1fd887955d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Tự động hóa phân loại cảnh báo AML với Amazon Quick và Snowflake Cortex AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-aml-alert-triage-with-amazon-quick-and-snowflake-cortex-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-28T16:41:07Z",
+      "summary": "Kết hợp Amazon Quick và Snowflake Cortex AI để tự động hóa các quy trình cảnh báo chống rửa tiền (AML).",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aeccfd61f879",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Amazon",
+        "Snowflake"
+      ],
+      "job_titles": [
+        "Compliance Officer",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Khi sự đồng cảm vượt xa độ chính xác: Mở rộng đánh giá chatbot trong chăm sóc sức khỏe hành vi - NEJM AI",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeWhndElqbWEzcDVuT1NIX1J1TmJkQllKNTIwdEZseXIzT2llblFHcjhWaDR4T3REa1EzNlJGQWpUMVYtWERnQkFlVzZrQXBCNjAyVUdTWkpMVFkwWWhtZ3dfUkZUb01kT196U0JWSERBOGtCWGFvSmlBcEV6ZGVYc0tYUHlaOGpxaUhZ?oc=5",
+      "source": "NEJM AI",
+      "region": "🏥",
+      "pub_date": "2026-05-28T16:34:47Z",
+      "summary": "Nghiên cứu xem xét sự khác biệt giữa sự đồng cảm của chatbot và độ chính xác chẩn đoán trong các bối cảnh chăm sóc sức khỏe hành vi.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "739cb19b0e88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "NEJM AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MEDS — Một tiêu chuẩn dữ liệu và hệ sinh thái mới nổi cho nghiên cứu AI y tế - NEJM AI",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50SXdkU012QmhsZ0RHTkc4R3ZaRGptTE5nRTA3WnpQNHU4UTNZMXFmcDNHMU05ZkRMYWNoVmtuNXpMRXBRb0hNMHRVTUlsaU5fWk02V093?oc=5",
+      "source": "NEJM AI",
+      "region": "🏥",
+      "pub_date": "2026-05-28T15:58:07Z",
+      "summary": "Giới thiệu một tiêu chuẩn dữ liệu mới nhằm cải thiện khả năng tương tác cho nghiên cứu AI y tế.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "103e7e9b08ff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "NEJM AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cách APAC nên triển khai AI để tìm ra ung thư phổi tiềm ẩn",
+      "link": "https://www.mobihealthnews.com/news/asia/how-apac-should-deploy-ai-find-hidden-lung-cancers",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-29T01:17:06Z",
+      "summary": "Các khuyến nghị chiến lược để tích hợp chẩn đoán AI vào các chương trình tầm soát ung thư phổi tại APAC.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6a293e394a2d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Asia"
+      ]
+    },
+    {
+      "title": "Hiện đại hóa khung làm việc mang lại lợi ích gì cho việc trao đổi dữ liệu y tế công cộng",
+      "link": "https://www.mobihealthnews.com/video/how-framework-modernization-benefits-public-health-data-exchange",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-28T19:13:51Z",
+      "summary": "Việc hiện đại hóa các khung dữ liệu giúp nâng cao đáng kể hiệu quả chia sẻ thông tin y tế công cộng.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "ef6caf5253ed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Doanh thu của Glean vượt mốc 300 triệu USD khi việc cắt giảm ngân sách AI trở thành điểm bán hàng chính",
+      "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T00:44:37Z",
+      "summary": "Glean đạt doanh thu 300 triệu USD, định vị các công cụ AI của mình là giải pháp cắt giảm ngân sách hiệu quả cho các doanh nghiệp.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c87f159dd82a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Glean"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Internet đang được xây dựng lại cho máy móc",
+      "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-28T21:24:01Z",
+      "summary": "Kiến trúc Internet đang chuyển dịch để thích ứng tốt hơn với các tương tác giữa máy với máy và các hệ thống tự động.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7b1aab1a5e8d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Asana mua lại StackAI, công cụ xây dựng đại lý không cần lập trình",
+      "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-28T20:06:07Z",
+      "summary": "Asana mở rộng nền tảng của mình bằng cách mua lại StackAI, công cụ xây dựng đại lý AI không cần lập trình.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0d22b3289c3b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Asana",
+        "StackAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic huy động được 65 tỷ USD, tiến gần mức định giá 1 nghìn tỷ USD trước khi IPO",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-28T18:52:51Z",
+      "summary": "Anthropic đảm bảo được 65 tỷ USD vốn đầu tư, tiến gần đến mức định giá 1 nghìn tỷ USD trước khi IPO.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fa304b3484d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Giống như vàng và dầu, chúng ta sẽ sớm có thể giao dịch hợp đồng tương lai token AI",
+      "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-28T18:32:25Z",
+      "summary": "Các thị trường tài chính mới đang nổi lên để tạo điều kiện thuận lợi cho việc giao dịch hợp đồng tương lai token AI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "407517f5fdbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Investor"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic phát hành Opus 4.8 với công cụ 'quy trình làm việc động' mới",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-28T17:00:09Z",
+      "summary": "Anthropic ra mắt Opus 4.8, giới thiệu một công cụ mới để quản lý các quy trình làm việc động.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9f1ac71754c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mô hình mới của Claude 'trung thực' hơn khi gặp lỗi - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUTZoRktINUtURTJ3RnQ1QXVmNE1raUlNc3R6bDBtbGZFbGZnaWZMMUE1M1Bwc29nRnhKN3VoTG9BN1hpUVFWa2ZpRGFfN1FkN3d2WDhsUGxvYWNsSURTaDEtblpkSWs0ZzRiVk9Tb0FERlg1Vk84OUVyVk14QTBXM3F5WUxGNFpfTndYMDNmSXFLa05kalN1Y1R6ZGZtQ3ow?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-28T17:00:00Z",
+      "summary": "Anthropic cập nhật Claude với độ chính xác được cải thiện và giảm các hành vi ảo tưởng trong kết quả đầu ra của mô hình.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "353dd72c7c6c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Microsoft 365 Copilot được tăng tốc độ và thiết kế gọn gàng hơn - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tdnhfT0o2SFNaT0JYRnhmbUx0Y09hanlFOHY0Nnh6c3RwWVozckJCQjN4ZVJlMTI3enJ1cnJUdmdXS1pELTVYak9wTWluZ182eS1Tc19fOGF6SnpYa2x3YnVKT2lhNk1nZFVCaklsYmlpZE1Xd0E?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-05-28T20:14:07Z",
+      "summary": "Microsoft nâng cấp 365 Copilot với các tối ưu hóa hiệu suất và giao diện người dùng được thiết kế lại.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "77467b4fc0f9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
     {
       "title": "Các tác nhân lập trình trong khoa học xã hội - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZOVA5Z3pKZ1JzSHJXaFl0LWdSQlZfZWhGb3AtY1R3MExZRm9KS2dfRmNzTE1XR2VXdjlPMVh6U25SU2JmcXBZQjlnSWRreHM2SGZmTnpQVzRLQVFmVFQyOExiR2o5dFhSb3A2WVBmV2RzQQ?oc=5",
