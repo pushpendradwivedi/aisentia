@@ -1,6 +1,479 @@
 {
-  "refreshed_at": "2026-05-29 15:07 UTC",
+  "refreshed_at": "2026-05-30 02:04 UTC",
   "items": [
+    {
+      "title": "Boston Children’s sử dụng AI để mở khóa các chẩn đoán mới",
+      "link": "https://openai.com/index/boston-childrens-hospital",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T12:00:00Z",
+      "summary": "Bệnh viện Boston Children's triển khai công nghệ AI để cải thiện tốc độ và độ chính xác của các chẩn đoán y tế.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "be876b176720",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Boston Children's Hospital",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Director"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Cách Braintrust biến yêu cầu của khách hàng thành mã nguồn với Codex",
+      "link": "https://openai.com/index/braintrust",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T12:00:00Z",
+      "summary": "Braintrust sử dụng mô hình Codex của OpenAI để tự động hóa việc chuyển đổi các yêu cầu của khách hàng thành mã nguồn.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ce0322c55738",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Braintrust",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tham gia bài kiểm tra I/O 2026 của chúng tôi, được lập trình bằng Google AI Studio.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T19:00:00Z",
+      "summary": "Google giới thiệu một bài kiểm tra tương tác được xây dựng bằng nền tảng phát triển Google AI Studio.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bb0319888f69",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "9 bản demo của Gemini Omni và Gemini 3.5 trong thực tế",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T17:30:00Z",
+      "summary": "Các video trình diễn giới thiệu những khả năng mới trong các mô hình Gemini Omni và Gemini 3.5.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "6aee6b02d3b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Tập dữ liệu LuxRemix - AI tại Meta",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFdkxWWU9fdDMyLU1yTTBsOHo1QzNLaFo5ckRMRWVtTXNrTDR0OVJ3V1NrbG1GbVdSUmdfNU5nREwtbnJ1Yk9CbHJuYUphTGpvUTlfbWtSWEp0Zw?oc=5",
+      "source": "Meta AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T22:13:19Z",
+      "summary": "Meta phát hành tập dữ liệu LuxRemix để sử dụng trong nghiên cứu trí tuệ nhân tạo.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "789181eddef0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Khả năng quan sát toàn diện cho suy luận LLM trên Amazon SageMaker AI: Từ việc sử dụng GPU đến chất lượng LLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T23:36:58Z",
+      "summary": "AWS giới thiệu các công cụ quan sát mới để theo dõi việc sử dụng GPU và hiệu suất LLM trong SageMaker.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5b6cca50542b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Suy luận LLM nhanh và hiệu quả với vLLM - DeepLearning.AI",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQek5qTUxBM2Ftc1pmUXNDRzllYmlRS0pEZUJDVU10aTB0UjJHMVpEZFJ1cTNFRTkyZERFWDVsTjYzZDJiY1BCaDBoYndPUFRFOUwzc2RSOEhvYmVYbmp5Y0xucm1kOGpqY2VKZ1JvZGxSNzM5ZV9HTHpsOFlySFQyY3RlOHQ?oc=5",
+      "source": "DeepLearning.AI",
+      "region": "📚",
+      "pub_date": "2026-05-29T19:31:26Z",
+      "summary": "Tổng quan kỹ thuật về việc tối ưu hóa hiệu suất suy luận của mô hình ngôn ngữ lớn bằng cách sử dụng khung vLLM.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c7c9e8601cc0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepLearning.AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Người tạo thay đổi đưa ra lời khuyên cho phụ nữ bước vào lĩnh vực CNTT y tế",
+      "link": "https://www.mobihealthnews.com/video/changemaker-offers-advice-women-entering-healthcare-it",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-29T17:44:48Z",
+      "summary": "Hướng dẫn nghề nghiệp chuyên môn dành cho phụ nữ đang theo đuổi các vai trò lãnh đạo trong lĩnh vực công nghệ thông tin y tế.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "6e15a13be2af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic huy động được 65 tỷ USD, vượt qua OpenAI về định giá",
+      "link": "https://www.mobihealthnews.com/news/anthropic-raises-65b-surpasses-openai-valuation",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-29T16:41:51Z",
+      "summary": "Anthropic đạt mức định giá 65 tỷ USD, vượt qua mức định giá thị trường hiện tại của OpenAI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "119e8e7f58dd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "H1 huy động được 40 triệu USD tài trợ cho danh mục nhà cung cấp dịch vụ y tế AI",
+      "link": "https://www.mobihealthnews.com/news/h1-secures-40m-funding-its-ai-healthcare-provider-directory",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-29T15:45:57Z",
+      "summary": "H1 huy động được 40 triệu USD để mở rộng cơ sở dữ liệu và danh mục nhà cung cấp dịch vụ y tế toàn cầu dựa trên AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "60bf8e40bd5f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "H1"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Giám đốc GTM, AI trên thiết bị - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85cURIb3pzRFJ5bDhmZnNaYm44R2JaLTF6ZFlxSGhUYzh0VmlMdVBsdkg3TVFGMmdLZmFHWjdJckZiX2w4N3c0dEllUXFzUVVPcXdUNnVTSy1GbC0ySkJrcEJPS2ROWHhmbEg0bFEzZDMzdUxYRXVwMlNUUQ?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-29T08:21:34Z",
+      "summary": "Sarvam AI đang tuyển dụng Giám đốc Go-To-Market tập trung vào công nghệ trí tuệ nhân tạo trên thiết bị.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ba778e92fe75",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Director"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Các lập trình viên từ chối làm việc nếu không có AI — và điều đó có thể gây tác dụng ngược",
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T22:14:22Z",
+      "summary": "Các nhà phát triển phần mềm ngày càng dựa vào các công cụ AI, làm dấy lên lo ngại về sự phụ thuộc chuyên môn và kỹ năng.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "62b1c2746533",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Điều gì xảy ra khi các công ty trở nên quá phụ thuộc vào AI?",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T17:57:05Z",
+      "summary": "Phân tích khám phá những hậu quả tiêu cực tiềm ẩn của việc các doanh nghiệp quá lạm dụng các công cụ AI tạo sinh.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "4fd5861e26d9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sau thương vụ 20 tỷ USD không thành của Nvidia, startup chip AI Groq được cho là đang huy động 650 triệu USD",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T17:27:13Z",
+      "summary": "Startup chip AI Groq được cho là đang tìm kiếm 650 triệu USD vốn đầu tư mạo hiểm mới.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe0f51562a56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Groq",
+        "Nvidia"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Scott Wu của Cognition cho biết các tác nhân lập trình AI không nên thay thế con người",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T16:13:47Z",
+      "summary": "CEO Scott Wu của Cognition thảo luận về vai trò cộng tác, thay vì thay thế, của các tác nhân AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4b1d7fc08047",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cognition"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CEO của bạn có mắc chứng 'cuồng AI' không? Aaron Levie nghĩ rằng hầu hết họ đều mắc phải.",
+      "link": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T14:00:00Z",
+      "summary": "Aaron Levie thảo luận về xu hướng các giám đốc điều hành doanh nghiệp cam kết quá mức với AI mà không có chiến lược rõ ràng.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f49b9b132fe5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Box"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Máy cho chim ăn chạy bằng AI của Kiwibit là người bạn sân sau mới của tôi",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T13:00:00Z",
+      "summary": "Một thiết bị điện tử tiêu dùng sử dụng AI để nhận diện và ghi lại các loài chim trong sân vườn.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a205088c9383",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Kiwibit"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Claude Opus 4.8 mới: 15 điều bạn có thể đã bỏ lỡ",
+      "link": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "source": "AI Explained",
+      "region": "📺",
+      "pub_date": "2026-05-29T15:07:35Z",
+      "summary": "Tổng quan về các tính năng và khả năng chính trong mô hình Claude Opus 4.8 mới được phát hành.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "f8016ce584af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "Tăng cường khả năng phục hồi xã hội với Rosalind Biodefense",
       "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",

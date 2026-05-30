@@ -1,6 +1,479 @@
 {
-  "refreshed_at": "2026-05-29 15:07 UTC",
+  "refreshed_at": "2026-05-30 02:04 UTC",
   "items": [
+    {
+      "title": "Boston Children’s ने नई बीमारियों का पता लगाने के लिए AI का उपयोग किया",
+      "link": "https://openai.com/index/boston-childrens-hospital",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T12:00:00Z",
+      "summary": "Boston Children's Hospital ने मेडिकल डायग्नोसिस की गति और सटीकता में सुधार के लिए AI तकनीक को लागू किया है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "be876b176720",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Boston Children's Hospital",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Director"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Braintrust कैसे Codex के साथ ग्राहक अनुरोधों को कोड में बदलता है",
+      "link": "https://openai.com/index/braintrust",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T12:00:00Z",
+      "summary": "Braintrust ग्राहक अनुरोधों को कोड में बदलने की प्रक्रिया को स्वचालित करने के लिए OpenAI के Codex मॉडल का उपयोग करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ce0322c55738",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Braintrust",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "हमारी I/O 2026 क्विज़ लें, जिसे Google AI Studio में कोड किया गया है।",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T19:00:00Z",
+      "summary": "Google अपने AI Studio डेवलपमेंट प्लेटफॉर्म का उपयोग करके बनाई गई एक इंटरैक्टिव क्विज़ प्रदर्शित करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bb0319888f69",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gemini Omni और Gemini 3.5 के 9 डेमो",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T17:30:00Z",
+      "summary": "डेमो वीडियो Gemini Omni और Gemini 3.5 मॉडल की नई क्षमताओं को प्रदर्शित करते हैं।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "6aee6b02d3b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "LuxRemix Dataset - AI at Meta",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFdkxWWU9fdDMyLU1yTTBsOHo1QzNLaFo5ckRMRWVtTXNrTDR0OVJ3V1NrbG1GbVdSUmdfNU5nREwtbnJ1Yk9CbHJuYUphTGpvUTlfbWtSWEp0Zw?oc=5",
+      "source": "Meta AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T22:13:19Z",
+      "summary": "Meta ने आर्टिफिशियल इंटेलिजेंस अनुसंधान में उपयोग के लिए LuxRemix डेटासेट जारी किया है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "789181eddef0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker AI LLM इन्फरेंस के लिए व्यापक ऑब्जर्वेबिलिटी: GPU उपयोग से लेकर LLM गुणवत्ता तक",
+      "link": "https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-05-29T23:36:58Z",
+      "summary": "AWS ने SageMaker में GPU उपयोग और LLM प्रदर्शन को ट्रैक करने के लिए नए ऑब्जर्वेबिलिटी टूल पेश किए हैं।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5b6cca50542b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "vLLM के साथ तेज़ और कुशल LLM इन्फरेंस - DeepLearning.AI",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQek5qTUxBM2Ftc1pmUXNDRzllYmlRS0pEZUJDVU10aTB0UjJHMVpEZFJ1cTNFRTkyZERFWDVsTjYzZDJiY1BCaDBoYndPUFRFOUwzc2RSOEhvYmVYbmp5Y0xucm1kOGpqY2VKZ1JvZGxSNzM5ZV9HTHpsOFlySFQyY3RlOHQ?oc=5",
+      "source": "DeepLearning.AI",
+      "region": "📚",
+      "pub_date": "2026-05-29T19:31:26Z",
+      "summary": "vLLM फ्रेमवर्क का उपयोग करके लार्ज लैंग्वेज मॉडल इन्फरेंस प्रदर्शन को अनुकूलित करने का तकनीकी अवलोकन।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c7c9e8601cc0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepLearning.AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Changemaker ने हेल्थकेयर IT में प्रवेश करने वाली महिलाओं को सलाह दी",
+      "link": "https://www.mobihealthnews.com/video/changemaker-offers-advice-women-entering-healthcare-it",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-29T17:44:48Z",
+      "summary": "हेल्थकेयर इंफॉर्मेशन टेक्नोलॉजी क्षेत्र में नेतृत्व की भूमिका निभाने वाली महिलाओं के लिए विशेषज्ञ करियर मार्गदर्शन।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "6e15a13be2af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic ने $65B जुटाए, वैल्यूएशन में OpenAI को पीछे छोड़ा",
+      "link": "https://www.mobihealthnews.com/news/anthropic-raises-65b-surpasses-openai-valuation",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-29T16:41:51Z",
+      "summary": "Anthropic ने $65 बिलियन का वैल्यूएशन हासिल किया है, जो OpenAI के वर्तमान बाजार मूल्यांकन से अधिक है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "119e8e7f58dd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "H1 ने अपनी AI हेल्थकेयर प्रदाता निर्देशिका के लिए $40M की फंडिंग हासिल की",
+      "link": "https://www.mobihealthnews.com/news/h1-secures-40m-funding-its-ai-healthcare-provider-directory",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-05-29T15:45:57Z",
+      "summary": "H1 ने अपने AI-संचालित वैश्विक हेल्थकेयर प्रदाता डेटाबेस और निर्देशिका का विस्तार करने के लिए $40 मिलियन जुटाए हैं।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "60bf8e40bd5f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "H1"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GTM डायरेक्टर, ऑन-डिवाइस AI - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85cURIb3pzRFJ5bDhmZnNaYm44R2JaLTF6ZFlxSGhUYzh0VmlMdVBsdkg3TVFGMmdLZmFHWjdJckZiX2w4N3c0dEllUXFzUVVPcXdUNnVTSy1GbC0ySkJrcEJPS2ROWHhmbEg0bFEzZDMzdUxYRXVwMlNUUQ?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-05-29T08:21:34Z",
+      "summary": "Sarvam AI ऑन-डिवाइस आर्टिफिशियल इंटेलिजेंस तकनीक पर केंद्रित एक गो-टू-मार्केट डायरेक्टर की भर्ती कर रहा है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ba778e92fe75",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Director"
+      ],
+      "locations": []
+    },
+    {
+      "title": "कोडर AI के बिना काम करने से इनकार कर रहे हैं — और यह उन पर भारी पड़ सकता है",
+      "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T22:14:22Z",
+      "summary": "सॉफ्टवेयर डेवलपर्स तेजी से AI टूल पर निर्भर हो रहे हैं, जिससे पेशेवर निर्भरता और कौशल को लेकर चिंताएं बढ़ रही हैं।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "62b1c2746533",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "जब कंपनियां बहुत अधिक AI-पिल्ड (AI-निर्भर) हो जाती हैं तो क्या होता है?",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T17:57:05Z",
+      "summary": "विश्लेषण जेनेरेटिव AI टूल पर अत्यधिक कॉर्पोरेट निर्भरता के संभावित नकारात्मक परिणामों की पड़ताल करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "4fd5861e26d9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nvidia की $20B की नॉट-अक्वायर-हायर के बाद, AI चिप स्टार्टअप Groq कथित तौर पर $650M जुटा रहा है",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T17:27:13Z",
+      "summary": "AI चिप स्टार्टअप Groq कथित तौर पर $650 मिलियन की नई वेंचर कैपिटल फंडिंग की तलाश कर रहा है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe0f51562a56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Groq",
+        "Nvidia"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Cognition के Scott Wu का कहना है कि AI कोडिंग एजेंटों को इंसानों की जगह नहीं लेनी चाहिए",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T16:13:47Z",
+      "summary": "Cognition के CEO Scott Wu AI एजेंटों की प्रतिस्थापन के बजाय सहयोगी भूमिका पर चर्चा करते हैं।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4b1d7fc08047",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cognition"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "क्या आपके CEO को AI साइकोसिस है? Aaron Levie का मानना है कि उनमें से अधिकांश को है।",
+      "link": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T14:00:00Z",
+      "summary": "Aaron Levie स्पष्ट रणनीति के बिना AI के प्रति अत्यधिक प्रतिबद्धता रखने वाले कॉर्पोरेट अधिकारियों के चलन पर चर्चा करते हैं।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f49b9b132fe5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Box"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kiwibit का AI-संचालित बर्ड फीडर मेरा नया बैकयार्ड बडी है",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-05-29T13:00:00Z",
+      "summary": "एक उपभोक्ता इलेक्ट्रॉनिक्स डिवाइस बैकयार्ड पक्षियों की प्रजातियों की पहचान करने और उन्हें रिकॉर्ड करने के लिए AI का उपयोग करता है।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a205088c9383",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Kiwibit"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "नया Claude Opus 4.8: 15 बातें जो शायद आपने मिस कर दी हों",
+      "link": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "source": "AI Explained",
+      "region": "📺",
+      "pub_date": "2026-05-29T15:07:35Z",
+      "summary": "हाल ही में जारी Claude Opus 4.8 मॉडल की प्रमुख विशेषताओं और क्षमताओं का अवलोकन।",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "f8016ce584af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "Rosalind Biodefense के साथ सामाजिक लचीलेपन को मजबूत करना",
       "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
