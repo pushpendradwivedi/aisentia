@@ -1,6 +1,989 @@
 {
-  "refreshed_at": "2026-06-10 02:21 UTC",
+  "refreshed_at": "2026-06-10 15:32 UTC",
   "items": [
+    {
+      "title": "Od danych do decyzji: jak LSEG skaluje zaufaną sztuczną inteligencję",
+      "link": "https://openai.com/index/lseg",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-06-10T00:00:00Z",
+      "summary": "LSEG współpracuje z OpenAI w celu integracji AI w celu usprawnienia analityki danych finansowych i podejmowania decyzji.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e527af61aff2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "LSEG",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Zbuduj asystenta naprawy sprzętu opartego na AI przy użyciu Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-06-10T15:21:35Z",
+      "summary": "Samouczek tworzenia asystenta napraw wykorzystującego Amazon Bedrock do zautomatyzowanego wsparcia technicznego.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a0560bd7b2d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ujednolicone spojrzenie na dostrajanie nadzorowane (Supervised Fine-Tuning) poprzez projektowanie rozkładu docelowego",
+      "link": "https://arxiv.org/abs/2606.11189v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:59:54Z",
+      "summary": "Badanie proponujące ujednolicone ramy optymalizacji dostrajania nadzorowanego w modelach LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "429431fe8d48",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "EEVEE: W stronę uczenia promptów w czasie rzeczywistym (test-time) dla samo-udoskonalających się agentów",
+      "link": "https://arxiv.org/abs/2606.11182v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:57:16Z",
+      "summary": "Prezentacja EEVEE, frameworka do uczenia promptów w czasie rzeczywistym dla autonomicznych agentów.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6e5800e5e678",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Rola dopasowania sprzężenia zwrotnego (feedback alignment) w samodestylacji",
+      "link": "https://arxiv.org/abs/2606.11173v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:50:09Z",
+      "summary": "Analiza mechanizmów dopasowania sprzężenia zwrotnego w celu poprawy wydajności metod treningowych opartych na samodestylacji.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "418d75b7afd5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Piper: Programowalny system treningu rozproszonego",
+      "link": "https://arxiv.org/abs/2606.11169v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:48:41Z",
+      "summary": "Prezentacja Piper, systemu zaprojektowanego do optymalizacji infrastruktury treningu rozproszonego.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1eb3b5f745b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Wady narracji o automatyzacji LLM",
+      "link": "https://arxiv.org/abs/2606.11166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:46:10Z",
+      "summary": "Krytyka obecnych założeń branżowych dotyczących wykonalności pełnej automatyzacji opartej na LLM.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "92bfc22845a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReasonAlloc: Hierarchiczna alokacja budżetu pamięci podręcznej KV w czasie dekodowania dla modeli wnioskujących",
+      "link": "https://arxiv.org/abs/2606.11164v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:44:23Z",
+      "summary": "Metoda zarządzania budżetami pamięci podręcznej KV w celu poprawy wydajności modeli wnioskujących podczas dekodowania.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a9c5585a38a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ABC-Bench: Benchmark zdolności agentowych w biologii na potrzeby bezpieczeństwa biologicznego",
+      "link": "https://arxiv.org/abs/2606.11150v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:35:37Z",
+      "summary": "Nowy benchmark zaprojektowany do oceny zagrożeń biologicznych związanych z agentami AI oraz bezpieczeństwa biologicznego.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c52a4d75a08e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Asymilacja danych dla przepływu podpowierzchniowego przy użyciu parametryzacji modelu dyfuzji utajonej: wydajność technik ensemble-Kalman i Monte Carlo",
+      "link": "https://arxiv.org/abs/2606.11140v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:29:47Z",
+      "summary": "Zastosowanie modeli dyfuzji utajonej do optymalizacji procesów asymilacji danych o przepływie podpowierzchniowym.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f76ab17bbed2",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gating oparty na pochodzeniu (provenance) i adaptacyjne odzyskiwanie w kuracji syntetycznych danych potreningowych",
+      "link": "https://arxiv.org/abs/2606.11127v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:24:27Z",
+      "summary": "Technika poprawy jakości danych syntetycznych przy użyciu mechanizmów gatingu i odzyskiwania opartych na pochodzeniu danych.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "892086b3634c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Monte Carlo Pass Search: Wykorzystanie generowania trajektorii do oceny kontrfaktycznych podań 3D w piłce nożnej",
+      "link": "https://arxiv.org/abs/2606.11120v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:16:30Z",
+      "summary": "Framework oceny podań w piłce nożnej przy użyciu generowania trajektorii i przeszukiwania Monte Carlo.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b92db9971956",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE: Ujednolicony framework alokacji budżetu rollout dla wydajnego agentowego uczenia przez wzmacnianie",
+      "link": "https://arxiv.org/abs/2606.11119v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:16:03Z",
+      "summary": "Framework optymalizacji obliczeniowych budżetów rollout w systemach agentowego uczenia przez wzmacnianie.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "41cca2728473",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "W stronę autonomicznego projektowania akceleratorów: Generowanie akceleratorów FPGA za pomocą SECDA",
+      "link": "https://arxiv.org/abs/2606.11117v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:14:44Z",
+      "summary": "Propozycja SECDA do zautomatyzowanego projektowania i generowania akceleratorów sprzętowych opartych na FPGA.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a03b8a141292",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Zaprojektowane przez dziennikarzy, ale czy dla czytelników? Przemyślenie ujawniania informacji o AI i przejrzystości w wiadomościach",
+      "link": "https://arxiv.org/abs/2606.11116v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:13:40Z",
+      "summary": "Badanie percepcji użytkowników dotyczącej ujawniania informacji o AI w treściach dziennikarskich.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "351388cb9389",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "FADA: Dostępna interpretacja i adnotacja USG płodu za pomocą selektywnie destylowanego, ujednoliconego modelu wizyjno-językowego",
+      "link": "https://arxiv.org/abs/2606.11106v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:03:37Z",
+      "summary": "Model AI do zautomatyzowanej interpretacji USG płodu przy użyciu destylowanych architektur wizyjno-językowych.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ec44d22c4d4c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PhantomBench: Benchmarkowanie nieistniejącego zagrożenia ze strony modeli językowych",
+      "link": "https://arxiv.org/abs/2606.11105v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:03:19Z",
+      "summary": "Benchmark stworzony w celu oceny potencjalnych ryzyk stwarzanych przez duże modele językowe.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b23e24718c28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RoboNaldo: Precyzyjne, stabilne i potężne strzelanie w piłce nożnej humanoidów dzięki uczeniu przez wzmacnianie z programem nauczania (curriculum reinforcement learning)",
+      "link": "https://arxiv.org/abs/2606.11092v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:51:13Z",
+      "summary": "Rozwój umiejętności strzeleckich humanoidów w piłce nożnej przy użyciu technik uczenia przez wzmacnianie z programem nauczania.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "575524d34485",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gradientowe naprowadzanie polityk przepływu (flow policies) w czasie rzeczywistym w uczeniu przez wzmacnianie",
+      "link": "https://arxiv.org/abs/2606.11087v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:45:57Z",
+      "summary": "Metoda wykorzystująca gradientowe naprowadzanie w czasie rzeczywistym do udoskonalania polityk przepływu w uczeniu przez wzmacnianie.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3898bbc7e696",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ujednolicenie komunikacji lokalnej i aktualizacji lokalnych dla wstępnego trenowania LLM",
+      "link": "https://arxiv.org/abs/2606.11081v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:40:54Z",
+      "summary": "Propozycja metody łączenia komunikacji lokalnej i aktualizacji w celu wydajnego wstępnego trenowania LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2d08d66160c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Krytyk świadomy historii i ugruntowany wizualnie dla agentów obsługujących komputer",
+      "link": "https://arxiv.org/abs/2606.11078v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:39:10Z",
+      "summary": "Wprowadzenie modelu krytyka dla agentów komputerowych, który wykorzystuje historię wizualną w celu poprawy wydajności.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "669ed805a8fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Modelowanie złożonych zachowań: Kompozycja wielu osobowości i dynamiczne przełączanie w modelach wizyjno-językowych",
+      "link": "https://arxiv.org/abs/2606.11074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:34:37Z",
+      "summary": "Prezentacja frameworka wizyjno-językowego wspierającego dynamiczne przełączanie między wieloma osobowościami modelu w złożonych zadaniach.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5f863d8b3f38",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "T1-Bench: Benchmarkowanie agentów wieloscenariuszowych w rzeczywistych domenach",
+      "link": "https://arxiv.org/abs/2606.11070v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:32:14Z",
+      "summary": "Framework benchmarkowy oceniający wydajność agentów w różnorodnych, złożonych środowiskach rzeczywistych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a9507972d35",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CIAware-Bench: Benchmarkowanie świadomości interwencji kontrolnych w czołowych modelach LLM",
+      "link": "https://arxiv.org/abs/2606.11063v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:24:16Z",
+      "summary": "Ocena sposobu, w jaki czołowe modele LLM radzą sobie z interwencjami kontrolnymi za pomocą nowego, ustandaryzowanego benchmarku.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4f688db94647",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Co pasuje (w kilka tokenów), nie ulega przeuczeniu: Kompresja i generalizacja w agentach badawczych ML",
+      "link": "https://arxiv.org/abs/2606.11045v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:12:55Z",
+      "summary": "Badanie związku między kompresją tokenów a zdolnościami generalizacji u agentów badawczych ML.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2ee0dfbb768",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Workflow-GYM: W stronę długoterminowej oceny zadań agentowych związanych z obsługą komputera w profesjonalnych dziedzinach",
+      "link": "https://arxiv.org/abs/2606.11042v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:10:16Z",
+      "summary": "Framework do oceny wydajności zadań agentowych o długim horyzoncie czasowym w profesjonalnych cyfrowych obiegach pracy.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "97f23d36c55b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AuRA: Internalizacja rozumienia dźwięku w LLM jako LoRA",
+      "link": "https://arxiv.org/abs/2606.11033v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:05:23Z",
+      "summary": "Umożliwienie rozumienia dźwięku w LLM poprzez wydajną metodę integracji opartą na LoRA.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "76cec2589d3c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Diffusion Forcing Planner: Planowanie z wyżarzaniem historii i zależnym od czasu naprowadzaniem dla autonomicznej jazdy",
+      "link": "https://arxiv.org/abs/2606.11019v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:56:41Z",
+      "summary": "Nowa architektura planowania wykorzystująca dyfuzję do poprawy przewidywania ruchu w pojazdach autonomicznych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d588063095f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Powierzchowne przekonania w podejmowaniu decyzji przez LLM",
+      "link": "https://arxiv.org/abs/2606.11016v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:54:35Z",
+      "summary": "Analiza sposobu, w jaki LLM tworzą i wykorzystują powierzchowne przekonania podczas procesów podejmowania decyzji.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bbdc9c5932f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Struktura z wnioskowania, liczby z przeszukiwania: Lokalne otwarte modele LLM jako priory dla strojenia kontrolerów MIMO",
+      "link": "https://arxiv.org/abs/2606.11015v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:53:40Z",
+      "summary": "Wykorzystanie otwartych modeli LLM do strojenia kontrolerów MIMO w kontekście automatyki przemysłowej.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d5d2575f2733",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Zrozumienie i ograniczanie ryzyk OpenClaw dla użytkowników nietechnicznych: Praktyczny przewodnik z Skill",
+      "link": "https://arxiv.org/abs/2606.11007v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:41:48Z",
+      "summary": "Praktyczny przewodnik ograniczania ryzyka dla nietechnicznych użytkowników systemu OpenClaw.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fe97d80ac791",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Sędzia federalny usuwa 4 prawników powoda i obrony z powodu błędów AI",
+      "link": "https://www.abajournal.com/news/article/federal-judge-terminates-4-plaintiff-and-defense-attorneys-over-ai-errors/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-06-10T15:29:08.676996+00:00Z",
+      "summary": "Sędzia nakłada sankcje na prawników za złożenie pism procesowych zawierających halucynacje wygenerowane przez narzędzia sztucznej inteligencji.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0a64b815dae3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Czy agenci głosowi poradzą sobie z dwujęzycznymi klientami? Benchmarkowanie czołowych modeli ASR na mowie mieszanej (code-switched)",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-06-09T19:38:28Z",
+      "summary": "Ocena wydajności modelu ASR na dwujęzycznej mowie mieszanej dla zastosowań agentów głosowych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "92ac31968c0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "ServiceNow"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Przedstawiamy North Mini Code: Pierwszy model Cohere dla programistów",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-06-09T15:56:23Z",
+      "summary": "Cohere wydaje North Mini Code, wyspecjalizowany model LLM zoptymalizowany pod kątem zadań związanych z tworzeniem oprogramowania.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2428838e44d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cohere"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Warner Music przejmuje startup zajmujący się atrybucją AI, Sureel AI",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T14:31:30Z",
+      "summary": "Warner Music Group przejmuje Sureel AI, aby wzmocnić swoje możliwości w zakresie atrybucji treści AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dd830105df2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Sureel AI",
+        "Warner Music"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jedify pozyskuje 24 mln USD, aby pomóc firmom wyposażyć agentów AI w kontekst biznesowy",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T13:33:09Z",
+      "summary": "Jedify zabezpiecza 24 miliony dolarów finansowania na poprawę RAG i kontekstu biznesowego dla agentów AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "761f89305599",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Jedify"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nowy model świata Decart potrafi symulować godziny fotorealistycznej jazdy — z pewnymi zastrzeżeniami",
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T13:07:56Z",
+      "summary": "Decart prezentuje generatywny model świata zdolny do fotorealistycznych symulacji jazdy o długim czasie trwania.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d1f0b3ef5691",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "Decart"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta podpisuje pierwszą umowę na centrum danych AI w Indiach z Reliance",
+      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T07:05:26Z",
+      "summary": "Meta nawiązuje współpracę z Reliance w celu stworzenia swojej pierwszej infrastruktury centrum danych skoncentrowanej na AI w Indiach.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "db7dea1c0ca6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta",
+        "Reliance"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "WhatsApp otrzymał nakaz darmowego udostępniania konkurencyjnych asystentów AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjAxUHlPclJMSURRSlFSVFh1Q0x2ak9Zc2RWU0xqVmt6cm13Qkw1bkIyeXNidzFaQ2M4TWVna2VyMjBqY2p4YjBsM1B6bGdPaU9CT2NBTEJrY1JOSWM3R1pPb2JFdFYtQVdMb3Y5WjVFdld3ZUVIclhXZ1NfdDJzSG5RM3gwVjVJMWp1aDY5Yw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T08:40:56Z",
+      "summary": "Decyzja regulacyjna nakazuje WhatsApp integrację konkurencyjnych asystentów AI bez pobierania opłat za dostęp.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6aec209e1222",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal",
+        "Government"
+      ],
+      "companies": [
+        "The Verge",
+        "WhatsApp"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Waymo zbudowało wirtualnego kierowcę, aby badać, jak ludzie reagują na niespodzianki na drodze - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTV4NVBZOHhrQURldUhFXy1kR19QUTYwbkpBZ3JwVzYta1ZYWUUxRW9rMWhLUnNxSlRfOElKMlRoS2I5c256N0FmT25RUjl3MmZfaVNRdEhuZ3BJblExQWxfYnBPSHNob2hURzR2Y0Q2djVRX2thXzA2ekxoX1J0QWtmSExyaS1WMlN2SnNVMHlGZHJORWcwSnoyRFY4eFRpT2c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T09:00:00Z",
+      "summary": "Waymo wykorzystuje symulację wirtualnego kierowcy do badania zachowań ludzkich podczas niespodzianek drogowych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe81417b37a8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "The Verge",
+        "Waymo"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Jak inżynierowie w Nextdoor używają Codex do budowania bez ograniczeń",
       "link": "https://openai.com/index/nextdoor",

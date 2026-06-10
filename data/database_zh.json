@@ -1,6 +1,989 @@
 {
-  "refreshed_at": "2026-06-10 02:21 UTC",
+  "refreshed_at": "2026-06-10 15:32 UTC",
   "items": [
+    {
+      "title": "从数据到决策：LSEG 如何扩展可信 AI",
+      "link": "https://openai.com/index/lseg",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-06-10T00:00:00Z",
+      "summary": "LSEG 与 OpenAI 合作，集成 AI 以增强金融数据分析和决策能力。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e527af61aff2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "LSEG",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "使用 Amazon Bedrock AgentCore 构建 AI 驱动的设备维修助手",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-06-10T15:21:35Z",
+      "summary": "关于利用 Amazon Bedrock 创建自动化技术支持维修助手的教程。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a0560bd7b2d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "通过目标分布设计统一监督微调视角",
+      "link": "https://arxiv.org/abs/2606.11189v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:59:54Z",
+      "summary": "提出了一种用于优化大语言模型（LLM）监督微调的统一框架的研究。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "429431fe8d48",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "EEVEE：迈向现实世界中用于自我改进智能体的测试时提示学习",
+      "link": "https://arxiv.org/abs/2606.11182v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:57:16Z",
+      "summary": "介绍了 EEVEE，这是一个用于自主智能体在现实世界中进行测试时提示学习的框架。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6e5800e5e678",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "反馈对齐在自蒸馏中的作用",
+      "link": "https://arxiv.org/abs/2606.11173v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:50:09Z",
+      "summary": "分析了旨在提高自蒸馏训练方法性能的反馈对齐机制。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "418d75b7afd5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Piper：一种可编程的分布式训练系统",
+      "link": "https://arxiv.org/abs/2606.11169v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:48:41Z",
+      "summary": "介绍了旨在优化分布式训练基础设施的系统 Piper。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1eb3b5f745b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM 自动化叙事中的缺陷",
+      "link": "https://arxiv.org/abs/2606.11166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:46:10Z",
+      "summary": "对当前行业关于实现完全 LLM 自动化的可行性假设进行了批判。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "92bfc22845a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReasonAlloc：推理模型中分层解码时 KV Cache 预算分配",
+      "link": "https://arxiv.org/abs/2606.11164v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:44:23Z",
+      "summary": "一种用于管理 KV Cache 预算以提高推理模型在解码过程中效率的方法。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a9c5585a38a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ABC-Bench：用于生物安全的智能体生物能力基准测试",
+      "link": "https://arxiv.org/abs/2606.11150v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:35:37Z",
+      "summary": "旨在评估智能体生物风险和生物安全性的新基准测试。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c52a4d75a08e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "基于潜在扩散模型参数化的地下流数据同化：集合卡尔曼和蒙特卡洛技术的性能",
+      "link": "https://arxiv.org/abs/2606.11140v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:29:47Z",
+      "summary": "应用潜在扩散模型来优化地下流数据同化流程。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f76ab17bbed2",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "合成后训练数据管理中的溯源门控与自适应恢复",
+      "link": "https://arxiv.org/abs/2606.11127v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:24:27Z",
+      "summary": "一种利用基于溯源的门控和恢复机制来提高合成数据质量的技术。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "892086b3634c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "蒙特卡洛传球搜索：利用轨迹生成进行足球 3D 反事实传球评估",
+      "link": "https://arxiv.org/abs/2606.11120v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:16:30Z",
+      "summary": "利用轨迹生成和蒙特卡洛搜索进行足球传球评估的框架。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b92db9971956",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE：一种用于高效智能体强化学习的统一 Rollout 预算分配框架",
+      "link": "https://arxiv.org/abs/2606.11119v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:16:03Z",
+      "summary": "用于优化智能体强化学习系统中计算 Rollout 预算的框架。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "41cca2728473",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "迈向自主加速器设计：使用 SECDA 进行 FPGA 加速器生成",
+      "link": "https://arxiv.org/abs/2606.11117v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:14:44Z",
+      "summary": "提出了用于自动化 FPGA 硬件加速器设计和生成的 SECDA。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a03b8a141292",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "由记者设计，但它适合读者吗？重新思考新闻中的 AI 披露与透明度",
+      "link": "https://arxiv.org/abs/2606.11116v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:13:40Z",
+      "summary": "调查用户对新闻内容中 AI 披露信息的感知。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "351388cb9389",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "FADA：通过选择性蒸馏统一视觉语言模型实现可访问的胎儿超声解释与标注",
+      "link": "https://arxiv.org/abs/2606.11106v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:03:37Z",
+      "summary": "使用蒸馏视觉语言架构进行自动胎儿超声解释的 AI 模型。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ec44d22c4d4c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PhantomBench：对语言模型非存在性威胁的基准测试",
+      "link": "https://arxiv.org/abs/2606.11105v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:03:19Z",
+      "summary": "为评估大语言模型带来的潜在风险而创建的基准测试。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b23e24718c28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RoboNaldo：通过运动引导课程强化学习实现精确、稳定且强力的类人足球射门",
+      "link": "https://arxiv.org/abs/2606.11092v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:51:13Z",
+      "summary": "利用课程强化学习技术开发类人足球射门技能。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "575524d34485",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "强化学习中流策略的测试时梯度引导",
+      "link": "https://arxiv.org/abs/2606.11087v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:45:57Z",
+      "summary": "一种利用测试时梯度引导来优化强化学习中流策略的方法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3898bbc7e696",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "统一 LLM 预训练的本地通信与本地更新",
+      "link": "https://arxiv.org/abs/2606.11081v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:40:54Z",
+      "summary": "提出了一种结合本地通信和更新以实现高效 LLM 预训练的方法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2d08d66160c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "一种用于计算机使用智能体的历史感知视觉基础评论家模型",
+      "link": "https://arxiv.org/abs/2606.11078v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:39:10Z",
+      "summary": "为计算机智能体引入了一种利用视觉历史来提高性能的评论家模型。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "669ed805a8fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "建模复杂行为：视觉语言模型中的多人格组合与动态切换",
+      "link": "https://arxiv.org/abs/2606.11074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:34:37Z",
+      "summary": "提出了一个视觉语言框架，支持在复杂任务中动态切换多种模型人格。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5f863d8b3f38",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "T1-Bench：现实领域中多场景智能体的基准测试",
+      "link": "https://arxiv.org/abs/2606.11070v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:32:14Z",
+      "summary": "一个评估智能体在多样化、复杂的现实环境中性能的基准测试框架。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a9507972d35",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CIAware-Bench：跨前沿 LLM 的控制干预意识基准测试",
+      "link": "https://arxiv.org/abs/2606.11063v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:24:16Z",
+      "summary": "通过新的标准化基准测试评估前沿 LLM 如何处理控制干预。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4f688db94647",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "适合（少量 Token）的就不会过拟合：ML 研究智能体中的压缩与泛化",
+      "link": "https://arxiv.org/abs/2606.11045v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:12:55Z",
+      "summary": "探讨了 ML 研究智能体中 Token 压缩与泛化能力之间的联系。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2ee0dfbb768",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Workflow-GYM：迈向现实专业领域中计算机使用智能体任务的长程评估",
+      "link": "https://arxiv.org/abs/2606.11042v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:10:16Z",
+      "summary": "用于评估专业数字工作流中长程智能体任务性能的框架。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "97f23d36c55b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AuRA：通过 LoRA 将音频理解内化到 LLM 中",
+      "link": "https://arxiv.org/abs/2606.11033v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:05:23Z",
+      "summary": "通过高效的基于 LoRA 的集成方法，使 LLM 具备音频理解能力。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "76cec2589d3c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "扩散强制规划器：自动驾驶中具有时间依赖引导的历史退火规划",
+      "link": "https://arxiv.org/abs/2606.11019v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:56:41Z",
+      "summary": "一种使用扩散技术来改善自动驾驶运动预测的新型规划架构。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d588063095f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM 决策中的肤浅信念",
+      "link": "https://arxiv.org/abs/2606.11016v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:54:35Z",
+      "summary": "分析 LLM 在决策过程中如何形成和利用肤浅信念。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bbdc9c5932f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "推理结构，搜索数字：作为耦合 MIMO 控制器调优结构先验的本地开源 LLM",
+      "link": "https://arxiv.org/abs/2606.11015v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:53:40Z",
+      "summary": "在工业自动化场景中利用开源 LLM 对 MIMO 控制器进行调优。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d5d2575f2733",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "理解并减轻非技术用户使用 OpenClaw 的风险：Skill 实用指南",
+      "link": "https://arxiv.org/abs/2606.11007v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:41:48Z",
+      "summary": "为 OpenClaw 系统的非技术用户提供的实用风险缓解指南。",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fe97d80ac791",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "联邦法官因 AI 错误撤换 4 名原告和辩护律师",
+      "link": "https://www.abajournal.com/news/article/federal-judge-terminates-4-plaintiff-and-defense-attorneys-over-ai-errors/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-06-10T15:29:08.676996+00:00Z",
+      "summary": "法官因律师提交的文件中包含由人工智能工具生成的幻觉内容而对其进行制裁。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0a64b815dae3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "语音智能体能处理双语客户吗？针对语码转换语音的前沿 ASR 基准测试",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-06-09T19:38:28Z",
+      "summary": "评估 ASR 模型在语音智能体应用中针对双语、语码转换语音的性能。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "92ac31968c0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "ServiceNow"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "推出 North Mini Code：Cohere 首款面向开发者的模型",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-06-09T15:56:23Z",
+      "summary": "Cohere 发布了 North Mini Code，这是一款针对软件开发任务优化的专用 LLM。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2428838e44d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cohere"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "华纳音乐收购 AI 归因初创公司 Sureel AI",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T14:31:30Z",
+      "summary": "华纳音乐集团收购 Sureel AI，以增强其 AI 内容归因能力。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dd830105df2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Sureel AI",
+        "Warner Music"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jedify 融资 2400 万美元，帮助企业为 AI 智能体提供业务背景信息",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T13:33:09Z",
+      "summary": "Jedify 获得 2400 万美元融资，旨在改善 AI 智能体的 RAG 和业务背景信息。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "761f89305599",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Jedify"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Decart 的新世界模型可以模拟数小时逼真的驾驶场景——但有一些注意事项",
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T13:07:56Z",
+      "summary": "Decart 发布了一款能够进行逼真、长时间驾驶模拟的生成式世界模型。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d1f0b3ef5691",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "Decart"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta 与信实工业签署在印度的首个 AI 数据中心协议",
+      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T07:05:26Z",
+      "summary": "Meta 与信实工业（Reliance）合作，在印度建立其首个以 AI 为重点的数据中心基础设施。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "db7dea1c0ca6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta",
+        "Reliance"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "WhatsApp 被要求免费托管竞争对手的 AI 助手 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjAxUHlPclJMSURRSlFSVFh1Q0x2ak9Zc2RWU0xqVmt6cm13Qkw1bkIyeXNidzFaQ2M4TWVna2VyMjBqY2p4YjBsM1B6bGdPaU9CT2NBTEJrY1JOSWM3R1pPb2JFdFYtQVdMb3Y5WjVFdld3ZUVIclhXZ1NfdDJzSG5RM3gwVjVJMWp1aDY5Yw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T08:40:56Z",
+      "summary": "监管裁决要求 WhatsApp 集成竞争对手的 AI 助手，且不得收取访问费用。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6aec209e1222",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal",
+        "Government"
+      ],
+      "companies": [
+        "The Verge",
+        "WhatsApp"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Waymo 构建虚拟驾驶员以研究人类对道路突发状况的反应 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTV4NVBZOHhrQURldUhFXy1kR19QUTYwbkpBZ3JwVzYta1ZYWUUxRW9rMWhLUnNxSlRfOElKMlRoS2I5c256N0FmT25RUjl3MmZfaVNRdEhuZ3BJblExQWxfYnBPSHNob2hURzR2Y0Q2djVRX2thXzA2ekxoX1J0QWtmSExyaS1WMlN2SnNVMHlGZHJORWcwSnoyRFY4eFRpT2c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T09:00:00Z",
+      "summary": "Waymo 使用虚拟驾驶员模拟来研究人类在交通突发状况下的行为。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe81417b37a8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "The Verge",
+        "Waymo"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Nextdoor 的工程师如何利用 Codex 实现无限制开发",
       "link": "https://openai.com/index/nextdoor",

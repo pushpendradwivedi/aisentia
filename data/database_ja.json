@@ -1,6 +1,989 @@
 {
-  "refreshed_at": "2026-06-10 02:21 UTC",
+  "refreshed_at": "2026-06-10 15:32 UTC",
   "items": [
+    {
+      "title": "データから意思決定へ：LSEGが信頼できるAIをどのように拡張しているか",
+      "link": "https://openai.com/index/lseg",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-06-10T00:00:00Z",
+      "summary": "LSEGはOpenAIと提携し、金融データ分析と意思決定を強化するためにAIを統合しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e527af61aff2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "LSEG",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Bedrock AgentCoreを使用してAI搭載の機器修理アシスタントを構築する",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-06-10T15:21:35Z",
+      "summary": "Amazon Bedrockを活用して自動化された技術サポートを行う修理アシスタントを作成するためのチュートリアル。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a0560bd7b2d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ターゲット分布設計を通じた教師ありファインチューニングへの統一的な視点",
+      "link": "https://arxiv.org/abs/2606.11189v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:59:54Z",
+      "summary": "LLMにおける教師ありファインチューニングを最適化するための統一フレームワークを提案する研究。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "429431fe8d48",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "EEVEE：自己改善エージェントのための実世界におけるテスト時プロンプト学習に向けて",
+      "link": "https://arxiv.org/abs/2606.11182v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:57:16Z",
+      "summary": "自律エージェントのための実世界テスト時プロンプト学習フレームワーク「EEVEE」を紹介。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6e5800e5e678",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "自己蒸留におけるフィードバックアライメントの役割",
+      "link": "https://arxiv.org/abs/2606.11173v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:50:09Z",
+      "summary": "自己蒸留トレーニング手法のパフォーマンスを向上させるための、フィードバックアライメントメカニズムの分析。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "418d75b7afd5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Piper：プログラム可能な分散トレーニングシステム",
+      "link": "https://arxiv.org/abs/2606.11169v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:48:41Z",
+      "summary": "分散トレーニングインフラを最適化するために設計されたシステム「Piper」の発表。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1eb3b5f745b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM自動化の物語における欠陥",
+      "link": "https://arxiv.org/abs/2606.11166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:46:10Z",
+      "summary": "完全なLLM自動化の実現可能性に関する、現在の業界の前提に対する批判的考察。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "92bfc22845a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReasonAlloc：推論モデルのためのデコード時階層型KVキャッシュ予算割り当て",
+      "link": "https://arxiv.org/abs/2606.11164v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:44:23Z",
+      "summary": "デコード中の推論モデルの効率を向上させるための、KVキャッシュ予算管理手法。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a9c5585a38a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ABC-Bench：バイオセキュリティのためのエージェント型生物学的能力ベンチマーク",
+      "link": "https://arxiv.org/abs/2606.11150v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:35:37Z",
+      "summary": "エージェントによる生物学的リスクとバイオセキュリティの安全性を評価するために設計された新しいベンチマーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c52a4d75a08e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "潜在拡散モデルのパラメータ化を用いた地下流動のデータ同化：アンサンブルカルマンフィルタとモンテカルロ手法の性能",
+      "link": "https://arxiv.org/abs/2606.11140v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:29:47Z",
+      "summary": "地下流動のデータ同化プロセスを最適化するための潜在拡散モデルの適用。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f76ab17bbed2",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "合成事後学習データキュレーションにおける来歴に基づいたゲーティングと適応的回復",
+      "link": "https://arxiv.org/abs/2606.11127v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:24:27Z",
+      "summary": "来歴ベースのゲーティングと回復メカニズムを使用して合成データの品質を向上させる技術。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "892086b3634c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "モンテカルロパス探索：サッカーにおける3D反事実パス評価のための軌道生成の利用",
+      "link": "https://arxiv.org/abs/2606.11120v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:16:30Z",
+      "summary": "軌道生成とモンテカルロ探索を用いたサッカーのパス評価フレームワーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b92db9971956",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE：効率的なエージェント型強化学習のための統一ロールアウト予算割り当てフレームワーク",
+      "link": "https://arxiv.org/abs/2606.11119v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:16:03Z",
+      "summary": "エージェント型強化学習システムにおける計算ロールアウト予算を最適化するためのフレームワーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "41cca2728473",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "自律アクセラレータ設計に向けて：SECDAによるFPGAアクセラレータ生成",
+      "link": "https://arxiv.org/abs/2606.11117v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:14:44Z",
+      "summary": "自動化されたFPGAベースのハードウェアアクセラレータ設計および生成のためのSECDAを提案。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a03b8a141292",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ジャーナリストによって設計されたが、読者のためのものか？ニュースにおけるAI開示と透明性の再考",
+      "link": "https://arxiv.org/abs/2606.11116v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:13:40Z",
+      "summary": "ジャーナリズムコンテンツ内でのAI開示に対するユーザーの認識に関する調査。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "351388cb9389",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "FADA：選択的に蒸留された統合視覚言語モデルによる胎児超音波検査の解釈とアノテーションのアクセシビリティ向上",
+      "link": "https://arxiv.org/abs/2606.11106v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:03:37Z",
+      "summary": "蒸留された視覚言語アーキテクチャを使用した、胎児超音波検査の自動解釈のためのAIモデル。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ec44d22c4d4c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PhantomBench：言語モデルの非実在的な脅威をベンチマークする",
+      "link": "https://arxiv.org/abs/2606.11105v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:03:19Z",
+      "summary": "大規模言語モデルがもたらす潜在的なリスクを評価するために作成されたベンチマーク。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b23e24718c28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RoboNaldo：モーション誘導カリキュラム強化学習による正確で安定した強力な人型サッカーシュート",
+      "link": "https://arxiv.org/abs/2606.11092v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:51:13Z",
+      "summary": "カリキュラム強化学習技術を用いた人型サッカーのシュートスキルの開発。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "575524d34485",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "強化学習におけるフローポリシーのテスト時勾配ガイダンス",
+      "link": "https://arxiv.org/abs/2606.11087v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:45:57Z",
+      "summary": "強化学習においてフローポリシーを改善するためにテスト時の勾配ガイダンスを使用する手法。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3898bbc7e696",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM事前学習のためのローカル通信とローカル更新の統合",
+      "link": "https://arxiv.org/abs/2606.11081v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:40:54Z",
+      "summary": "効率的なLLM事前学習のために、ローカル通信と更新を組み合わせる手法を提案。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2d08d66160c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "コンピュータ使用エージェントのための履歴を認識する視覚的根拠付き批評モデル",
+      "link": "https://arxiv.org/abs/2606.11078v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:39:10Z",
+      "summary": "パフォーマンス向上のために視覚的履歴を利用する、コンピュータエージェント向けの批評モデルを紹介。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "669ed805a8fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "複雑な行動のモデル化：視覚言語モデルにおける多重人格の構成と動的切り替え",
+      "link": "https://arxiv.org/abs/2606.11074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:34:37Z",
+      "summary": "複雑なタスクのために複数のモデル人格を動的に切り替えることをサポートする視覚言語フレームワークを提示。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5f863d8b3f38",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "T1-Bench：実世界のドメインにおけるマルチシナリオエージェントのベンチマーク",
+      "link": "https://arxiv.org/abs/2606.11070v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:32:14Z",
+      "summary": "多様で複雑な実世界環境全体でエージェントのパフォーマンスを評価するベンチマークフレームワーク。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a9507972d35",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CIAware-Bench：フロンティアLLM全体における制御介入認識のベンチマーク",
+      "link": "https://arxiv.org/abs/2606.11063v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:24:16Z",
+      "summary": "新しい標準化されたベンチマークを通じて、フロンティアLLMが制御介入をどのように処理するかを評価。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4f688db94647",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "（少数のトークンに）収まるものは過学習しない：ML研究エージェントにおける圧縮と汎化",
+      "link": "https://arxiv.org/abs/2606.11045v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:12:55Z",
+      "summary": "ML研究エージェントにおけるトークン圧縮と汎化能力の関連性を探る。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2ee0dfbb768",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Workflow-GYM：実世界の専門分野におけるコンピュータ使用エージェントタスクの長期評価に向けて",
+      "link": "https://arxiv.org/abs/2606.11042v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:10:16Z",
+      "summary": "専門的なデジタルワークフロー内での長期的なエージェントタスクのパフォーマンスを評価するためのフレームワーク。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "97f23d36c55b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AuRA：LoRAとしてLLMに音声理解を内部化する",
+      "link": "https://arxiv.org/abs/2606.11033v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:05:23Z",
+      "summary": "効率的なLoRAベースの統合手法を通じて、LLMでの音声理解を可能にする。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "76cec2589d3c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Diffusion Forcing Planner：自動運転のための時間依存ガイダンスを用いた履歴アニール型プランニング",
+      "link": "https://arxiv.org/abs/2606.11019v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:56:41Z",
+      "summary": "自動運転車におけるモーション予測を改善するための、拡散モデルを使用した新しいプランニングアーキテクチャ。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d588063095f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLMの意思決定における表面的な信念",
+      "link": "https://arxiv.org/abs/2606.11016v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:54:35Z",
+      "summary": "意思決定プロセスにおいてLLMがどのように表面的な信念を形成し利用するかについての分析。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bbdc9c5932f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "推論による構造、探索による数値：結合MIMOコントローラー調整のための構造的先行知識としてのオンプレミスオープンLLM",
+      "link": "https://arxiv.org/abs/2606.11015v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:53:40Z",
+      "summary": "産業オートメーションの文脈でMIMOコントローラーを調整するためにオープンLLMを活用。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d5d2575f2733",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "非技術系ユーザーのためのOpenClawのリスクの理解と軽減：Skillを用いた実践ガイド",
+      "link": "https://arxiv.org/abs/2606.11007v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:41:48Z",
+      "summary": "OpenClawシステムの非技術系ユーザー向けの実践的なリスク軽減ガイド。",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fe97d80ac791",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "連邦判事、AIの誤りを理由に原告および被告の弁護士4名を解任",
+      "link": "https://www.abajournal.com/news/article/federal-judge-terminates-4-plaintiff-and-defense-attorneys-over-ai-errors/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-06-10T15:29:08.676996+00:00Z",
+      "summary": "人工知能ツールによって生成されたハルシネーションを含む書類を提出したとして、判事が弁護士を制裁。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0a64b815dae3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "音声エージェントはバイリンガルの顧客に対応できるか？コードスイッチング音声におけるフロンティアASRのベンチマーク",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-06-09T19:38:28Z",
+      "summary": "音声エージェントアプリケーションのための、バイリンガルおよびコードスイッチング音声におけるASRモデルのパフォーマンス評価。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "92ac31968c0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "ServiceNow"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "North Mini Codeの紹介：開発者向けCohere初のモデル",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-06-09T15:56:23Z",
+      "summary": "Cohereがソフトウェア開発タスクに最適化された専門LLM「North Mini Code」をリリース。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2428838e44d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cohere"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Warner MusicがAI帰属スタートアップSureel AIを買収",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T14:31:30Z",
+      "summary": "Warner Music GroupがAIコンテンツ帰属機能を強化するためにSureel AIを買収。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dd830105df2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Sureel AI",
+        "Warner Music"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jedifyが2400万ドルを調達、企業がAIエージェントにビジネスの文脈を持たせることを支援",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T13:33:09Z",
+      "summary": "JedifyがAIエージェントのためのRAGとビジネスコンテキストを改善するために2400万ドルを調達。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "761f89305599",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Jedify"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Decartの新しい世界モデルは、いくつかの注意点はあるものの、数時間のフォトリアルな運転をシミュレート可能",
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T13:07:56Z",
+      "summary": "Decartが、フォトリアルで長時間の運転シミュレーションが可能な生成世界モデルを発表。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d1f0b3ef5691",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "Decart"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MetaがインドでRelianceと初のAIデータセンター契約を締結",
+      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T07:05:26Z",
+      "summary": "MetaがRelianceと提携し、インドで初のAI特化型データセンターインフラを構築。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "db7dea1c0ca6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta",
+        "Reliance"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "WhatsApp、競合するAIアシスタントを無料でホストするよう命令される - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjAxUHlPclJMSURRSlFSVFh1Q0x2ak9Zc2RWU0xqVmt6cm13Qkw1bkIyeXNidzFaQ2M4TWVna2VyMjBqY2p4YjBsM1B6bGdPaU9CT2NBTEJrY1JOSWM3R1pPb2JFdFYtQVdMb3Y5WjVFdld3ZUVIclhXZ1NfdDJzSG5RM3gwVjVJMWp1aDY5Yw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T08:40:56Z",
+      "summary": "規制当局の裁定により、WhatsAppはアクセス料金を課すことなく競合するAIアシスタントを統合することが義務付けられた。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6aec209e1222",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal",
+        "Government"
+      ],
+      "companies": [
+        "The Verge",
+        "WhatsApp"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Waymoが道路上の驚きに対する人間の反応を研究するために仮想ドライバーを構築 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTV4NVBZOHhrQURldUhFXy1kR19QUTYwbkpBZ3JwVzYta1ZYWUUxRW9rMWhLUnNxSlRfOElKMlRoS2I5c256N0FmT25RUjl3MmZfaVNRdEhuZ3BJblExQWxfYnBPSHNob2hURzR2Y0Q2djVRX2thXzA2ekxoX1J0QWtmSExyaS1WMlN2SnNVMHlGZHJORWcwSnoyRFY4eFRpT2c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T09:00:00Z",
+      "summary": "Waymoが交通上の予期せぬ事態における人間の行動を研究するために、仮想ドライバーシミュレーションを使用。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe81417b37a8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "The Verge",
+        "Waymo"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "NextdoorのエンジニアがCodexを使って制限なく開発する方法",
       "link": "https://openai.com/index/nextdoor",

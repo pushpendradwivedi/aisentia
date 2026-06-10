@@ -1,6 +1,989 @@
 {
-  "refreshed_at": "2026-06-10 02:21 UTC",
+  "refreshed_at": "2026-06-10 15:32 UTC",
   "items": [
+    {
+      "title": "Dari data ke keputusan: bagaimana LSEG meningkatkan AI tepercaya",
+      "link": "https://openai.com/index/lseg",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-06-10T00:00:00Z",
+      "summary": "LSEG bermitra dengan OpenAI untuk mengintegrasikan AI guna meningkatkan analitik data keuangan dan pengambilan keputusan.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e527af61aff2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "LSEG",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Membangun Asisten Perbaikan Peralatan Berbasis AI Menggunakan Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-equipment-repair-assistant-using-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-06-10T15:21:35Z",
+      "summary": "Tutorial tentang pembuatan asisten perbaikan yang memanfaatkan Amazon Bedrock untuk dukungan teknis otomatis.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a0560bd7b2d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lensa Penyatuan pada Supervised Fine-Tuning Melalui Desain Distribusi Target",
+      "link": "https://arxiv.org/abs/2606.11189v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:59:54Z",
+      "summary": "Penelitian yang mengusulkan kerangka kerja terpadu untuk mengoptimalkan supervised fine-tuning pada LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "429431fe8d48",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "EEVEE: Menuju Pembelajaran Prompt saat Pengujian di Dunia Nyata untuk Agen yang Mengembangkan Diri",
+      "link": "https://arxiv.org/abs/2606.11182v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:57:16Z",
+      "summary": "Memperkenalkan EEVEE, sebuah kerangka kerja untuk pembelajaran prompt saat pengujian di dunia nyata bagi agen otonom.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6e5800e5e678",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Peran Penyelarasan Umpan Balik dalam Self-Distillation",
+      "link": "https://arxiv.org/abs/2606.11173v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:50:09Z",
+      "summary": "Analisis mekanisme penyelarasan umpan balik untuk meningkatkan kinerja dalam metode pelatihan self-distillation.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "418d75b7afd5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Piper: Sistem Pelatihan Terdistribusi yang Dapat Diprogram",
+      "link": "https://arxiv.org/abs/2606.11169v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:48:41Z",
+      "summary": "Presentasi Piper, sebuah sistem yang dirancang untuk mengoptimalkan infrastruktur pelatihan terdistribusi.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1eb3b5f745b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cacat dalam Narasi Otomatisasi LLM",
+      "link": "https://arxiv.org/abs/2606.11166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:46:10Z",
+      "summary": "Kritik terhadap asumsi industri saat ini mengenai kelayakan otomatisasi LLM penuh.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "92bfc22845a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReasonAlloc: Alokasi Anggaran KV Cache Hierarkis saat Decoding untuk Model Penalaran",
+      "link": "https://arxiv.org/abs/2606.11164v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:44:23Z",
+      "summary": "Metode untuk mengelola anggaran KV cache guna meningkatkan efisiensi model penalaran selama proses decoding.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a9c5585a38a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ABC-Bench: Tolok Ukur Kemampuan Bio Agen untuk Keamanan Hayati",
+      "link": "https://arxiv.org/abs/2606.11150v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:35:37Z",
+      "summary": "Tolok ukur baru yang dirancang untuk menilai risiko biologis agen dan keamanan hayati.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c52a4d75a08e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Asimilasi data untuk aliran bawah permukaan menggunakan parameterisasi model difusi laten: kinerja teknik ensemble-Kalman dan Monte Carlo",
+      "link": "https://arxiv.org/abs/2606.11140v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:29:47Z",
+      "summary": "Penerapan model difusi laten untuk mengoptimalkan proses asimilasi data aliran bawah permukaan.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f76ab17bbed2",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gating Berbasis Provenans dan Pemulihan Adaptif dalam Kurasi Data Sintetis Pasca-Pelatihan",
+      "link": "https://arxiv.org/abs/2606.11127v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:24:27Z",
+      "summary": "Teknik untuk meningkatkan kualitas data sintetis menggunakan mekanisme gating dan pemulihan berbasis provenans.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "892086b3634c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Monte Carlo Pass Search: Menggunakan Pembuatan Lintasan untuk Evaluasi Operan Kontrafaktual 3D dalam Sepak Bola",
+      "link": "https://arxiv.org/abs/2606.11120v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:16:30Z",
+      "summary": "Kerangka kerja evaluasi untuk operan sepak bola menggunakan pembuatan lintasan dan pencarian Monte Carlo.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b92db9971956",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE: Kerangka Kerja Alokasi Anggaran Rollout Terpadu untuk Reinforcement Learning Agen yang Efisien",
+      "link": "https://arxiv.org/abs/2606.11119v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:16:03Z",
+      "summary": "Kerangka kerja untuk mengoptimalkan anggaran rollout komputasi dalam sistem reinforcement learning agen.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "41cca2728473",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Menuju Desain Akselerator Otonom: Pembuatan Akselerator FPGA dengan SECDA",
+      "link": "https://arxiv.org/abs/2606.11117v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:14:44Z",
+      "summary": "Mengusulkan SECDA untuk desain dan pembuatan akselerator perangkat keras berbasis FPGA secara otomatis.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a03b8a141292",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dirancang oleh Jurnalis, tapi Apakah untuk Pembaca? Memikirkan Kembali Pengungkapan AI dan Transparansi dalam Berita",
+      "link": "https://arxiv.org/abs/2606.11116v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:13:40Z",
+      "summary": "Investigasi terhadap persepsi pengguna mengenai pengungkapan AI dalam konten jurnalistik.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "351388cb9389",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "FADA: Interpretasi dan anotasi ultrasonografi janin yang dapat diakses dengan model visi-bahasa terpadu yang disuling secara selektif",
+      "link": "https://arxiv.org/abs/2606.11106v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:03:37Z",
+      "summary": "Model AI untuk interpretasi ultrasonografi janin otomatis menggunakan arsitektur visi-bahasa yang disuling.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ec44d22c4d4c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PhantomBench: Tolok Ukur Ancaman Non-eksistensial Model Bahasa",
+      "link": "https://arxiv.org/abs/2606.11105v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T17:03:19Z",
+      "summary": "Tolok ukur yang dibuat untuk mengevaluasi potensi risiko yang ditimbulkan oleh model bahasa besar.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b23e24718c28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RoboNaldo: Menembak Bola Sepak Humanoid yang Akurat, Stabil, dan Kuat melalui Reinforcement Learning Kurikulum Berpandu Gerakan",
+      "link": "https://arxiv.org/abs/2606.11092v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:51:13Z",
+      "summary": "Pengembangan keterampilan menembak bola sepak humanoid menggunakan teknik reinforcement learning kurikulum.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "575524d34485",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Panduan Gradien saat Pengujian untuk Kebijakan Aliran dalam Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2606.11087v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:45:57Z",
+      "summary": "Metode menggunakan panduan gradien saat pengujian untuk menyempurnakan kebijakan aliran dalam reinforcement learning.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3898bbc7e696",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Menyatukan Komunikasi Lokal dan Pembaruan Lokal untuk Pra-pelatihan LLM",
+      "link": "https://arxiv.org/abs/2606.11081v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:40:54Z",
+      "summary": "Mengusulkan metode untuk menggabungkan komunikasi dan pembaruan lokal untuk pra-pelatihan LLM yang efisien.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2d08d66160c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kritikus Berbasis Visual yang Sadar Riwayat untuk Agen Penggunaan Komputer",
+      "link": "https://arxiv.org/abs/2606.11078v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:39:10Z",
+      "summary": "Memperkenalkan model kritikus untuk agen komputer yang memanfaatkan riwayat visual untuk peningkatan kinerja.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "669ed805a8fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Memodelkan Perilaku Kompleks: Komposisi Multi-Kepribadian dan Peralihan Dinamis dalam Model Visi-Bahasa",
+      "link": "https://arxiv.org/abs/2606.11074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:34:37Z",
+      "summary": "Menyajikan kerangka kerja visi-bahasa yang mendukung peralihan dinamis antara berbagai kepribadian model untuk tugas-tugas kompleks.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5f863d8b3f38",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "T1-Bench: Tolok Ukur Agen Multi-Skenario di Domain Dunia Nyata",
+      "link": "https://arxiv.org/abs/2606.11070v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:32:14Z",
+      "summary": "Kerangka kerja tolok ukur yang mengevaluasi kinerja agen di berbagai lingkungan dunia nyata yang kompleks.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4a9507972d35",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CIAware-Bench: Tolok Ukur Kesadaran Intervensi Kontrol di Seluruh LLM Perbatasan",
+      "link": "https://arxiv.org/abs/2606.11063v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:24:16Z",
+      "summary": "Menilai bagaimana LLM perbatasan menangani intervensi kontrol melalui tolok ukur standar yang baru.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4f688db94647",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apa yang Pas (Dalam Beberapa Token) Tidak Overfit: Kompresi dan Generalisasi pada Agen Riset ML",
+      "link": "https://arxiv.org/abs/2606.11045v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:12:55Z",
+      "summary": "Mengeksplorasi hubungan antara kompresi token dan kemampuan generalisasi pada agen riset ML.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b2ee0dfbb768",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Workflow-GYM: Menuju Evaluasi Jangka Panjang tugas Agen penggunaan Komputer di Bidang Profesional Dunia Nyata",
+      "link": "https://arxiv.org/abs/2606.11042v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:10:16Z",
+      "summary": "Kerangka kerja untuk mengevaluasi kinerja tugas agen jangka panjang dalam alur kerja digital profesional.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "97f23d36c55b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AuRA: Menginternalisasi Pemahaman Audio ke dalam LLM sebagai LoRA",
+      "link": "https://arxiv.org/abs/2606.11033v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T16:05:23Z",
+      "summary": "Memungkinkan pemahaman audio dalam LLM melalui metode integrasi berbasis LoRA yang efisien.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "76cec2589d3c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Perencana Diffusion Forcing: Perencanaan dengan Riwayat yang Dianil dan Panduan Berbasis Waktu untuk Mengemudi Otonom",
+      "link": "https://arxiv.org/abs/2606.11019v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:56:41Z",
+      "summary": "Arsitektur perencanaan baru yang menggunakan difusi untuk prediksi gerakan yang lebih baik pada kendaraan otonom.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d588063095f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Keyakinan Dangkal dalam Pengambilan Keputusan LLM",
+      "link": "https://arxiv.org/abs/2606.11016v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:54:35Z",
+      "summary": "Analisis tentang bagaimana LLM membentuk dan menggunakan keyakinan dangkal selama proses pengambilan keputusan.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bbdc9c5932f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Struktur dari Penalaran, Angka dari Pencarian: LLM Terbuka Lokal sebagai Prior Struktural untuk Penyetelan Pengontrol MIMO Terkopel",
+      "link": "https://arxiv.org/abs/2606.11015v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:53:40Z",
+      "summary": "Memanfaatkan LLM terbuka untuk menyetel pengontrol MIMO dalam konteks otomatisasi industri.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d5d2575f2733",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Memahami dan memitigasi risiko OpenClaw bagi pengguna non-teknis: Panduan praktis dengan Skill",
+      "link": "https://arxiv.org/abs/2606.11007v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-06-09T15:41:48Z",
+      "summary": "Panduan mitigasi risiko praktis bagi pengguna non-teknis sistem OpenClaw.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fe97d80ac791",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Hakim federal mencopot 4 pengacara penggugat dan tergugat karena kesalahan AI",
+      "link": "https://www.abajournal.com/news/article/federal-judge-terminates-4-plaintiff-and-defense-attorneys-over-ai-errors/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-06-10T15:29:08.676996+00:00Z",
+      "summary": "Hakim memberikan sanksi kepada pengacara karena mengajukan dokumen yang berisi halusinasi yang dihasilkan oleh alat kecerdasan buatan.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0a64b815dae3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Legal Counsel"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Bisakah Agen Suara Menangani Pelanggan Bilingual? Tolok Ukur ASR Perbatasan pada Ucapan Code-Switched",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-06-09T19:38:28Z",
+      "summary": "Evaluasi kinerja model ASR pada ucapan bilingual dan code-switched untuk aplikasi agen suara.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "92ac31968c0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "ServiceNow"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Memperkenalkan North Mini Code: Model Pertama Cohere Untuk Pengembang",
+      "link": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-06-09T15:56:23Z",
+      "summary": "Cohere merilis North Mini Code, LLM khusus yang dioptimalkan untuk tugas pengembangan perangkat lunak.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2428838e44d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Cohere"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Warner Music mengakuisisi startup atribusi AI Sureel AI",
+      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T14:31:30Z",
+      "summary": "Warner Music Group mengakuisisi Sureel AI untuk memperkuat kemampuan atribusi konten AI-nya.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dd830105df2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Sureel AI",
+        "Warner Music"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jedify mengumpulkan $24 juta untuk membantu perusahaan membekali agen AI dengan konteks bisnis mereka",
+      "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T13:33:09Z",
+      "summary": "Jedify mendapatkan pendanaan sebesar $24 juta untuk meningkatkan RAG dan konteks bisnis bagi agen AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "761f89305599",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Jedify"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Model dunia baru Decart dapat mensimulasikan berjam-jam mengemudi fotorealistik — dengan beberapa catatan",
+      "link": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T13:07:56Z",
+      "summary": "Decart meluncurkan model dunia generatif yang mampu melakukan simulasi mengemudi fotorealistik berdurasi panjang.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d1f0b3ef5691",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "Decart"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta menandatangani kesepakatan pusat data AI pertama di India dengan Reliance",
+      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T07:05:26Z",
+      "summary": "Meta bermitra dengan Reliance untuk membangun infrastruktur pusat data yang berfokus pada AI pertamanya di India.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "db7dea1c0ca6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta",
+        "Reliance"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "WhatsApp diperintahkan untuk menampung asisten AI saingan secara gratis - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQjAxUHlPclJMSURRSlFSVFh1Q0x2ak9Zc2RWU0xqVmt6cm13Qkw1bkIyeXNidzFaQ2M4TWVna2VyMjBqY2p4YjBsM1B6bGdPaU9CT2NBTEJrY1JOSWM3R1pPb2JFdFYtQVdMb3Y5WjVFdld3ZUVIclhXZ1NfdDJzSG5RM3gwVjVJMWp1aDY5Yw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T08:40:56Z",
+      "summary": "Putusan regulasi mewajibkan WhatsApp mengintegrasikan asisten AI pesaing tanpa membebankan biaya akses.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6aec209e1222",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal",
+        "Government"
+      ],
+      "companies": [
+        "The Verge",
+        "WhatsApp"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Waymo membangun pengemudi virtual untuk mempelajari bagaimana manusia bereaksi terhadap kejutan di jalan - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTV4NVBZOHhrQURldUhFXy1kR19QUTYwbkpBZ3JwVzYta1ZYWUUxRW9rMWhLUnNxSlRfOElKMlRoS2I5c256N0FmT25RUjl3MmZfaVNRdEhuZ3BJblExQWxfYnBPSHNob2hURzR2Y0Q2djVRX2thXzA2ekxoX1J0QWtmSExyaS1WMlN2SnNVMHlGZHJORWcwSnoyRFY4eFRpT2c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-06-10T09:00:00Z",
+      "summary": "Waymo menggunakan simulasi pengemudi virtual untuk meneliti perilaku manusia saat menghadapi kejutan lalu lintas.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fe81417b37a8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "The Verge",
+        "Waymo"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Bagaimana para insinyur di Nextdoor menggunakan Codex untuk membangun tanpa batas",
       "link": "https://openai.com/index/nextdoor",
