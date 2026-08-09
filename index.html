@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI Sentia | Free Daily AI News Dashboard — 35+ Sources</title>
-<link rel="icon" type="image/png" href="logo.png">
+<link rel="icon" type="image/png" href="./logo.png">
 
 <!-- ============================================================
      SEO META TAGS
@@ -124,10 +124,17 @@
   // Get language from URL parameter
   const urlParams = new URLSearchParams(window.location.search);
   const lang = urlParams.get('lang') || 'en';
-  
-  // Only update if not English (default tags are English)
-  if (lang === 'en') return;
-  
+
+  // Ensure the canonical and OG URL are correct immediately for translated pages.
+  const canonical = document.querySelector('link[rel="canonical"]');
+  const canonicalHref = lang === 'en'
+    ? 'https://pushpendradwivedi.github.io/aisentia/'
+    : `https://pushpendradwivedi.github.io/aisentia/?lang=${lang}`;
+  if (canonical) canonical.setAttribute('href', canonicalHref);
+
+  const ogUrl = document.querySelector('meta[property="og:url"]');
+  if (ogUrl) ogUrl.setAttribute('content', canonicalHref);
+
   try {
     // Fetch SEO translations
     const response = await fetch('data/seo-translations.json');
@@ -202,8 +209,8 @@
 })();
 </script>
 
-<link rel="preload" as="image" href="logo.webp" type="image/webp">
-<link rel="preload" as="image" href="logo.png">
+<link rel="preload" as="image" href="./logo.webp" type="image/webp">
+<link rel="preload" as="image" href="./logo.png">
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 <link rel="dns-prefetch" href="https://www.clarity.ms">
@@ -296,8 +303,8 @@ window.addEventListener('load', function() {
     <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between gap-4 flex-wrap">
         <div class="flex items-center gap-3 flex-shrink-0 cursor-pointer" @click="scrollToTop()">
             <picture>
-              <source srcset="logo.webp" type="image/webp">
-              <img src="logo.png" alt="AI Sentia" class="w-10 h-10 object-contain rounded-lg shadow-sm" width="40" height="40" fetchpriority="high">
+              <source srcset="./logo.webp" type="image/webp">
+              <img src="./logo.png" alt="AI Sentia" class="w-10 h-10 object-contain rounded-lg shadow-sm" width="40" height="40" fetchpriority="high">
             </picture>
             <div class="flex flex-col">
                 <h1 class="text-2xl font-medium text-gray-800 tracking-tight uppercase">AI <span class="font-black text-g-blue">Sentia</span></h1>
@@ -423,22 +430,13 @@ window.addEventListener('load', function() {
                     <button @click="clearAllPersonas()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
                   </div>
                   <div class="overflow-y-auto flex-1">
-                    <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                      <input type="checkbox" :checked="selectedPersonas.includes('Developer')" @change="togglePersona('Developer')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                      <span class="text-xs text-gray-700">Developer</span>
-                    </label>
-                    <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                      <input type="checkbox" :checked="selectedPersonas.includes('Researcher')" @change="togglePersona('Researcher')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                      <span class="text-xs text-gray-700">Researcher</span>
-                    </label>
-                    <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                      <input type="checkbox" :checked="selectedPersonas.includes('Enterprise')" @change="togglePersona('Enterprise')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                      <span class="text-xs text-gray-700">Enterprise</span>
-                    </label>
-                    <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                      <input type="checkbox" :checked="selectedPersonas.includes('Healthcare')" @change="togglePersona('Healthcare')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                      <span class="text-xs text-gray-700">Healthcare</span>
-                    </label>
+                    <template x-for="persona in filteredPersonaOptions" :key="persona">
+                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                        <input type="checkbox" :checked="selectedPersonas.includes(persona)" @change="togglePersona(persona)" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
+                        <span class="text-xs text-gray-700" x-text="persona"></span>
+                      </label>
+                    </template>
+                    <p x-show="personas.length === 0" class="text-xs text-gray-400 italic p-3">No personas available yet</p>
                   </div>
                 </div>
             </div>
@@ -461,19 +459,13 @@ window.addEventListener('load', function() {
                     <button @click="clearAllIndustries()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
                   </div>
                   <div class="overflow-y-auto flex-1">
-                    <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                      <input type="checkbox" :checked="selectedIndustries.includes('AI')" @change="toggleIndustry('AI')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                      <span class="text-xs text-gray-700">AI</span>
-                    </label>
-                    <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                      <input type="checkbox" :checked="selectedIndustries.includes('ML')" @change="toggleIndustry('ML')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                      <span class="text-xs text-gray-700">ML</span>
-                    </label>
-                    <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                      <input type="checkbox" :checked="selectedIndustries.includes('Healthcare')" @change="toggleIndustry('Healthcare')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                      <span class="text-xs text-gray-700">Healthcare</span>
-                    </label>
-                  </div>
+                    <template x-for="industry in filteredIndustryOptions" :key="industry">
+                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                        <input type="checkbox" :checked="selectedIndustries.includes(industry)" @change="toggleIndustry(industry)" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
+                        <span class="text-xs text-gray-700" x-text="industry"></span>
+                      </label>
+                    </template>
+                    <p x-show="availableIndustries.length === 0" class="text-xs text-gray-400 italic p-3">No industries tagged yet</p>
                 </div>
             </div>
 
@@ -495,18 +487,13 @@ window.addEventListener('load', function() {
                       <button @click="clearAllCompanies()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
                     </div>
                     <div class="overflow-y-auto flex-1">
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedCompanies.includes('OpenAI')" @change="toggleCompany('OpenAI')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">OpenAI</span>
-                      </label>
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedCompanies.includes('Anthropic')" @change="toggleCompany('Anthropic')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">Anthropic</span>
-                      </label>
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedCompanies.includes('Google')" @change="toggleCompany('Google')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">Google</span>
-                      </label>
+                      <template x-for="company in filteredCompanyOptions" :key="company">
+                        <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                          <input type="checkbox" :checked="selectedCompanies.includes(company)" @change="toggleCompany(company)" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
+                          <span class="text-xs text-gray-700" x-text="company"></span>
+                        </label>
+                      </template>
+                      <p x-show="availableCompanies.length === 0" class="text-xs text-gray-400 italic p-3">No companies tagged yet</p>
                     </div>
                 </div>
             </div>
@@ -529,18 +516,13 @@ window.addEventListener('load', function() {
                       <button @click="clearAllTitles()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
                     </div>
                     <div class="overflow-y-auto flex-1">
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedTitles.includes('Engineer')" @change="toggleTitle('Engineer')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">Engineer</span>
-                      </label>
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedTitles.includes('Scientist')" @change="toggleTitle('Scientist')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">Scientist</span>
-                      </label>
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedTitles.includes('Manager')" @change="toggleTitle('Manager')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">Manager</span>
-                      </label>
+                      <template x-for="title in filteredTitleOptions" :key="title">
+                        <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                          <input type="checkbox" :checked="selectedTitles.includes(title)" @change="toggleTitle(title)" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
+                          <span class="text-xs text-gray-700" x-text="title"></span>
+                        </label>
+                      </template>
+                      <p x-show="availableTitles.length === 0" class="text-xs text-gray-400 italic p-3">No job titles tagged yet</p>
                     </div>
                 </div>
             </div>
@@ -563,18 +545,13 @@ window.addEventListener('load', function() {
                       <button @click="clearAllLocations()" class="flex-1 text-[10px] font-bold text-red-600 hover:bg-gray-50 py-1.5 rounded uppercase">Clear All</button>
                     </div>
                     <div class="overflow-y-auto flex-1">
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedLocations.includes('US')" @change="toggleLocation('US')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">US</span>
-                      </label>
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedLocations.includes('EU')" @change="toggleLocation('EU')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">EU</span>
-                      </label>
-                      <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
-                        <input type="checkbox" :checked="selectedLocations.includes('Asia')" @change="toggleLocation('Asia')" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
-                        <span class="text-xs text-gray-700">Asia</span>
-                      </label>
+                      <template x-for="location in filteredLocationOptions" :key="location">
+                        <label class="flex items-center gap-2 p-3 hover:bg-gray-50 cursor-pointer border-b border-gray-100">
+                          <input type="checkbox" :checked="selectedLocations.includes(location)" @change="toggleLocation(location)" class="rounded border-gray-300 text-g-blue focus:ring-g-blue">
+                          <span class="text-xs text-gray-700" x-text="location"></span>
+                        </label>
+                      </template>
+                      <p x-show="availableLocations.length === 0" class="text-xs text-gray-400 italic p-3">No locations tagged yet</p>
                     </div>
                 </div>
             </div>
