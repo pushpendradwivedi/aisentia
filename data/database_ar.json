@@ -1,6 +1,871 @@
 {
-  "refreshed_at": "2026-08-11 13:20 UTC",
+  "refreshed_at": "2026-08-12 02:03 UTC",
   "items": [
+    {
+      "title": "نماذج Daybreak متاحة الآن على AWS",
+      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T10:00:00Z",
+      "summary": "أعلنت OpenAI أن نماذج Daybreak الخاصة بها أصبحت متاحة الآن على Amazon Web Services.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ca8161387cd4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "يُظهر AMIE، نظامنا البحثي للذكاء الاصطناعي الطبي، إمكانيات الاستشارة الطبية عبر الفيديو في الوقت الفعلي في دراسة هي الأولى من نوعها.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T17:00:00Z",
+      "summary": "أظهر نظام AMIE للذكاء الاصطناعي الطبي من Google إمكانيات الاستشارة الطبية عبر الفيديو في الوقت الفعلي خلال الاختبارات البحثية.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "af6b566103fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "لماذا يتطلب توسيع أداء الحوسبة للذكاء الاصطناعي بنية طاقة جديدة",
+      "link": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T15:00:06Z",
+      "summary": "تشرح NVIDIA الحاجة إلى بنيات طاقة مبتكرة لتوسيع أداء حوسبة الذكاء الاصطناعي.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2fa7ca7a84f3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تقديم CARE-X: نحو نماذج رؤية ولغة (VLMs) مفيدة سريريًا لعلامات الأشعة باستخدام الإشراف المساعد، والتعلم المحاذي للمكافأة، والقياس المعزز بالأدوات",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T16:00:00Z",
+      "summary": "قدمت Microsoft نموذج CARE-X، وهو نموذج رؤية ولغة لطب الأشعة مُدرب باستخدام محاذاة المكافأة والأدوات.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3b329ba1d724",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تسريع الدفاع السيبراني مع OpenAI وAWS: يتوفر الآن Daybreak Red وDaybreak Blue للعملاء المؤهلين على Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T21:38:06Z",
+      "summary": "أتاحت OpenAI وAWS نموذجي Daybreak Red وBlue على Amazon Bedrock.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b700172133e0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "كيف قامت ONESTRUCTION ببناء نموذج الأساس Ishigaki-IDS باستخدام AWS GenAIIC",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-onestruction-built-the-ishigaki-ids-foundation-model-with-aws-genaiic/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T16:14:33Z",
+      "summary": "قامت ONESTRUCTION ببناء نموذج الأساس Ishigaki-IDS الخاص بها باستخدام مركز AWS لابتكار الذكاء الاصطناعي التوليدي.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "209edf12dad3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "ONESTRUCTION"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "كيف حققت Pixieset اعتمادًا بنسبة 35% لميزات الذكاء الاصطناعي من خلال حل المشكلة الصحيحة باستخدام Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-pixieset-achieved-35-ai-feature-adoption-by-solving-the-right-problem-with-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T16:11:15Z",
+      "summary": "وصلت Pixieset إلى اعتماد بنسبة خمسة وثلاثين بالمائة لميزات الذكاء الاصطناعي باستخدام أدوات توليدية من Amazon Bedrock.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2bf18881e971",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Pixieset"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تسارع First Orion أتمتة ضمان الجودة باستخدام Amazon Nova Act",
+      "link": "https://aws.amazon.com/blogs/machine-learning/first-orion-accelerates-qa-automation-using-amazon-nova-act/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T16:09:06Z",
+      "summary": "سرّعت First Orion أتمتة ضمان جودة البرمجيات من خلال اعتماد Amazon Nova Act.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d0fc3a462793",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "First Orion"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "نشر بوابة تطبيقات Anthropic Claude لـ AWS لأحمال العمل الخاصة بالمؤسسات",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-anthropic-claude-apps-gateway-for-aws-for-enterprise-workloads/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-11T15:59:22Z",
+      "summary": "نشرت AWS إرشادات النشر لتنفيذ بوابة تطبيقات Claude من Anthropic لأحمال العمل الخاصة بالمؤسسات.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9051aa41641b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: مقترح RAPID لتغطية الاختراقات الطبية، والممرضات يعترضن على الذكاء الاصطناعي",
+      "link": "https://www.statnews.com/2026/08/11/cms-rapid-breakthrough-device-coverage-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-08-11T13:15:49Z",
+      "summary": "تقترح CMS تغطية اختراق RAPID بينما تعرب ممرضات الرعاية الصحية عن قلقهن بشأن تبني الذكاء الاصطناعي.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2d192393886d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "CMS"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "شركة Vexev الأسترالية تجمع 6 ملايين دولار لجلب الموجات فوق الصوتية للأوعية الدموية بالروبوت والذكاء الاصطناعي إلى الولايات المتحدة - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFVXMHhXY19GYzVXSURRMG1rc3FGd095c1Y4RDNWMzhhYktkQXNKNExiRTgzcnhKN05VeUZDcF9rc1VaM3EyUjdyeW9yMUQ2Y0tDaHRiTGxxSGw3V2pYaTRNcVE5bDNIaGUtN3JQYVRTa2p2Z2RVTVlRR1F5VmZ5WjZuakFDN3VaX1JuMDNMc0ZNcDZ4UnNXVWhJQTZLQmRUTkM2ag?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-11T18:38:41Z",
+      "summary": "جمعت الشركة الناشئة الأسترالية Vexev مبلغ 6 ملايين دولار لتقديم تكنولوجيا الموجات فوق الصوتية الروبوتية المدعومة بالذكاء الاصطناعي إلى الولايات المتحدة.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7eeb1487ed9d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Vexev"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Australia",
+        "United States"
+      ]
+    },
+    {
+      "title": "الذكاء الاصطناعي يوفر السياق لتفسيرات الرفض - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXozY2JqTHpIeThLc0VKRWNTRjR2NjdQOWNGM3F2eDNMWUVLMWdBZGpheTYtVzc3VEdOY2Q1QkE0cC0tNkdOMVpaX2JtSnFSWEYwTWs1U0lCVlFUSzROYWtTbUJMczRVVlhZWDJfdm5qRzNNbktoR2UycjI3cnZUbWdB?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-11T13:58:49Z",
+      "summary": "يوفر الذكاء الاصطناعي السياق لتفسيرات رفض التأمين.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a401dd21d9ea",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Insurance"
+      ],
+      "companies": [
+        "MobiHealthNews"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CIO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Atlantic Health وK Health تطلقان PatientGPT المتكامل مع MyChart - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTdnVVQ0WklpM0xsR0ExUkNlb0VYV2dtZFlzcEtwZFJhRTF1cDJjY0M4ZUpFTFpFaTM1NWxtZ2w4ZUZtWVd3anN5eDI1WDBlLTdwYmpwdmI1d2JvZURWN2hCd3ZhUGdLQ3dpU3pBU3FSV3FSMEh2TnEzTGdzNGd3Y1BSeFhFd2hrZlJUYVI0ODRBYURCbUhEbll4cDQ5QQ?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-11T19:36:01Z",
+      "summary": "أطلقت Atlantic Health وK Health تطبيق PatientGPT المتكامل مع MyChart.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ee857b44cee1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Atlantic Health",
+        "K Health",
+        "MobiHealthNews",
+        "MyChart"
+      ],
+      "job_titles": [
+        "CIO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "حصرًا: Exer AI توسع شراكتها مع Mayo Clinic للنشر السريري - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUczcDZtc2piVU5HTUJDaHdGSVM0T0k1bERHVm5wZXlqa3NNQ0dKTG54S2JjSjA1Z05MZVdFSGhOOWZnd0tSWHQ3VkMxTmRtdzlXOFBVLUFkNVEzTzlhY3pMM2M0b1FTdUt4Q0lkekhUZjVkamxrMmdXVk1WQ19CdzcxMkl0X1RIemRVZWx5R3QzNzdxSFlaZm5GRzJMVUJFNnRZVG00LXo?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-11T11:00:00Z",
+      "summary": "توسع Exer AI شراكتها مع Mayo Clinic للنشر السريري.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1423b23dddb3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Exer AI",
+        "Mayo Clinic",
+        "MobiHealthNews"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تقليل الأعباء الإدارية والتكاليف التشغيلية في أنظمة المكاتب الخلفية باستخدام الأتمتة",
+      "link": "https://www.healthcareittoday.com/2026/08/11/reducing-administrative-burdens-and-operational-costs-in-back-office-systems-with-automation/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-08-11T15:00:51Z",
+      "summary": "تقلل الأتمتة من الأعباء الإدارية والتكاليف التشغيلية في أنظمة المكاتب الخلفية.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8786d140b676",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "الحوكمة هي العُنصر المميز الجديد في الذكاء الاصطناعي المكتنف بالسجلات الصحية الإلكترونية (EHR)",
+      "link": "https://www.healthcareittoday.com/2026/08/11/governance-is-the-new-differentiator-in-ehr-adjacent-ai/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-08-11T14:00:15Z",
+      "summary": "تبرز الحوكمة كمُعيار تمييز رئيسي في الذكاء الاصطناعي المرتبط بالسجلات الصحية الإلكترونية (EHR).",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8d4cb8c83513",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Aloi تجمع 7 ملايين دولار لـ «الحكم التنظيمي» + مقابلة مع الرئيس التنفيذي",
+      "link": "https://www.artificiallawyer.com/2026/08/11/aloi-raises-7m-for-organisational-judgment-ceo-interview/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-11T06:58:24Z",
+      "summary": "جمعت Aloi مبلغ 7 ملايين دولار لبرمجيات وتقنيات الحكم التنظيمي.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9b28cac62dee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Aloi"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "مارك زوكربرغ يفترض مستقبلاً يتضمن «محاميًا خارق الذكاء» يترافع في القضايا بالمحكمة",
+      "link": "https://www.abajournal.com/news/article/mark-zuckerberg-posits-a-future-with-a-superintelligent-lawyer-to-argue-your-case-in-the-courtroom/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T01:57:40.783715+00:00Z",
+      "summary": "تخيل مارك زوكربرغ التقاضي المستقبلي في قاعات المحاكم بإدارة وكلاء قانونيين من الذكاء الاصطناعي الخارق.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "46bd4c13af98",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ارتفاع تكاليف الذكاء الاصطناعي قد يعيق أداء BigLaw، وفقًا لمسح جديد",
+      "link": "https://www.abajournal.com/news/article/rising-ai-expenses-could-hinder-biglaw-performance-new-survey-shows/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T01:57:40.783738+00:00Z",
+      "summary": "يشير مسح جديد إلى أن تكاليف الذكاء الاصطناعي المتزايدة قد تؤثر سلبًا على أداء شركات المحاماة.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c625f0512861",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "هل تفكر في ACE؟ يمكننا القيام بذلك باستخدام رموز أقل (Tokens)",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-11T13:37:10Z",
+      "summary": "تقدم IBM Research أساليب فعالة في استخدام الرموز (tokens) للتطور التكيفي للسياق في نماذج LLMs.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e55e02c2188c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "IBM"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI تطلق تطبيق سطح المكتب ChatGPT لنظام Linux",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T19:15:35Z",
+      "summary": "أصدرت OpenAI رسمياً تطبيق سطح مكتب أصلي لـ ChatGPT لأنظمة التشغيل Linux.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c836abb2e392",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تطبيق Gemini من Google يقفز إلى مليار مستخدم",
+      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T18:49:12Z",
+      "summary": "وصل تطبيق مساعد الذكاء الاصطناعي Gemini من Google إلى إنجاز يبلغ مليار مستخدم عالميًا.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "61f03f2379bc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "براد لايتكاب، الرئيس التنفيذي للعمليات لفترة طويلة في OpenAI، يغادر لـ «بدء شيء جديد»",
+      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T17:41:34Z",
+      "summary": "يغادر براد لايتكاب، الرئيس التنفيذي للعمليات لفترة طويلة في OpenAI، الشركة لمتابعة مشاريع جديدة.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b8d07c245c74",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "COO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "General Catalyst تقود جولة تمويل بقيمة 1.1 مليار دولار في River AI البالغة من العمر شهرين",
+      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T17:41:22Z",
+      "summary": "جمعت الشركة الناشئة River AI جولة تمويل بقيمة 1.1 مليار دولار بقيادة General Catalyst.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3571ff97a4b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "General Catalyst",
+        "River AI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "نموذج غير معلن عنه من Anthropic يحقق تقدمًا في واحدة من أكبر المشكلات غير المحلولة في الرياضيات",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T16:25:20Z",
+      "summary": "حقق نموذج ذكاء اصطناعي غير معلن عنه من Anthropic تقدمًا في مشكلة رياضية رئيسية غير محلولة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a3990db1706f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تجاوز كل من ChatGPT وGemini للتو حاجز المليار مستخدم - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEdzTkFtVkZiVHVUMF9rQ3gzNTJickYzYllkSWNfTkl0TFZvQXNWc2xPRE1BdUZwTWZ5VVpNM3E1OE9QbEZKdVFZQUlwQ2VDcnR3NHByU21JNGRuZDdTdEdmOGRYOVN3bnFTTm1CYU1Oc3dtOG0teWlScjZDSDNKdElPU3Rxbl9kQmtLYW4wMEZieVU?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T19:41:42Z",
+      "summary": "تجاوز كل من ChatGPT من OpenAI وGemini من Google رسمياً حاجز المليار مستخدم.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9bf15258b17c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google",
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "الكشف عن اختراق «Zoomsday» باستخدام أقل من 20 موجهًا (prompts) للذكاء الاصطناعي - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdmlOTkNWSzdxMGltZlRjU0JUb1E2VEtKY0ZjVllnbVN3TDhyOE1kWlU1SUdfNkMwQVhoMDAtODZNSm5HTm9JbktSR2RiWE16TUt6ekZ4VXNFbmJRSWpkRV9Ed2JvLVYzamZuQTRzUDhCMG00Q0tEZkFGd2R6UXBsVWszVHYxRUxXcW8zdE92TlE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T14:45:44Z",
+      "summary": "عرض باحثو الأمن اختراقًا جديدًا باستخدام أقل من 20 موجهًا مستهدفًا للذكاء الاصطناعي.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f8940793acb5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تنفيذي آخر في OpenAI يغادر - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXhkeUJxamV6UEFYYnYzVGlncHl0Tm95djVidTBWdGJUZHBiMnRrTG1XalJUYkF0ZWxGb3pRYThvVHFjUTlIZ19tMVc4OWg5bFpvcHhRbVpvOGVXRUp4MmhKWFJYSWNjTHd2eU42bW1hejJOclJ4MTVwcXBNU2tkQnhqXzd0QzRSN05Bd1hKSzl3X2puWndIMFk4TmkyUXhN?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T17:50:01Z",
+      "summary": "أعلن مسؤول تنفيذي آخر رفيع المستوى في OpenAI مغادرته للمؤسسة.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f4fa48e316ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Spotify تقول إنها لن توصي بالموسيقى من «شخصيات الذكاء الاصطناعي» - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHc5bUo1RklSOV9oRGZhcU8wY2hMaWx4Yld1djcxMDhRcGNMR3A5ZG13czRXb2hwVktRaU95a3VGaXZFZ2FqV2NtMGxKOEhFV21aSVBHZkMzQ3d6akQzcTFqU1VqMVBiRWx1MkNWNTZ3SkpHSzZhLWM1MjAzZUdMeFRpQ0xSdVRQMzhFVG8wOA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T13:00:00Z",
+      "summary": "أعلنت Spotify أن توصياتها الخوارزمية لن تتضمن مقاطع صوتية تم إنشاؤها بواسطة شخصيات الذكاء الاصطناعي.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "262db0fc639a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Spotify"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "تنفي Saber استبدال كتاب Rideshare Stimulator بـ ChatGPT - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYmZfMDhRSlBHazZhYWtWQmZRWVgyQzNQdUdxUXJERlN5UzdvSFNaMmRSelk1U2F2QjYwNWRCck1ES2RZejItMEhTYkdKNHRxZFhPX1pSeU9GWDdTQWtseEgzbnh0aTJoSjNPRi1tdEJQbldVd18tNTRMdXlrUWt0MWdhdDQ5QTA0cll3TzY4cw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T00:39:26Z",
+      "summary": "تنفي Saber Interactive الادعاءات بأنها استبدلت كتاب الألعاب البشر بـ ChatGPT.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2b65419b84ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI",
+        "Saber"
+      ],
+      "job_titles": [
+        "Writer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "قد تساعدك Apple في إثبات أن صور iPhone الخاصة بك ليست تزييفًا عميقًا (deepfakes) - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTkdUTlNyMV9iZUkxRWIzbmx4enRkdC1NSTExV0lvRERrSWRLNjdQLXFialBybkRyMlE1cVF1dDQwei1TYTJuVkxoUm54WnhkZklDQTVvd2pYcWJITDhpVVFDbEh6MXVmY2VVbDFHc1ExVXFCdUo3RkVrak1VT1E?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-11T16:19:15Z",
+      "summary": "تطور Apple ميزات للتحقق من الأصالة واكتشاف التزييف العميق في صور iPhone.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0c73df2b6c5d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "وكلاء الذكاء الاصطناعي من OpenAI تجاوزوا الخط للتو",
+      "link": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-08-11T15:35:35Z",
+      "summary": "تحليل للتطورات والقدرات الأخيرة في أنظمة وكلاء الذكاء الاصطناعي المستقلة من OpenAI.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "02172f666253",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "قضيت 3 أيام في MIT... الضجة الإعلامية حول الروبوتات أسوأ مما تعتقد",
+      "link": "https://www.youtube.com/watch?v=aB5LGrHISqY",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-08-11T16:10:08Z",
+      "summary": "تقييم لتكنولوجيا الروبوتات الحالية في MIT مقارنة بالضجة الإعلامية العامة.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "8cf6d88adb88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "NVIDIA ومجتمع الذكاء الاصطناعي المحلي يعززان النماذج مفتوحة المصدر والوكلاء الأذكياء",
       "link": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
