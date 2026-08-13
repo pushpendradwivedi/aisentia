@@ -1,6 +1,738 @@
 {
-  "refreshed_at": "2026-08-12 13:27 UTC",
+  "refreshed_at": "2026-08-13 02:06 UTC",
   "items": [
+    {
+      "title": "手話AIをユーザーの手元に届ける",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T14:01:59Z",
+      "summary": "Google DeepMindは、手話の理解を支援するアクセシブルなAI技術を開発しています。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "618d4dfa5f6e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MindTopoがVLMの空間推論能力を明らかに",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T16:00:00Z",
+      "summary": "Microsoft Researchは、ビジョン言語モデル（VLM）における空間推論能力を測定するMindTopoを発表しました。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "63dd354e6f23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "パート2：Amazon AthenaとCUDOSを活用したAmazon Bedrockのコスト帰属",
+      "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T17:45:20Z",
+      "summary": "AWSは、Amazon AthenaとCUDOSダッシュボードを使用して生成AIモデルの支出を追跡する方法を実証します。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f272e09d1f2d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OneAdvancedが英国ソブリンAWS上に50以上のAIエージェントをデプロイした方法",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:46:28Z",
+      "summary": "OneAdvancedは、英国ソブリンAWSインフラストラクチャ上で50を超える自律型AIエージェントの立ち上げに成功しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fd506097ddae",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "OneAdvanced"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "安心して支払う：Solv LabsがAmazon Bedrock AgentCore payments上に検証可能で監査可能なエージェント決済を構築した方法",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:44:58Z",
+      "summary": "Solv Labsは、Amazon Bedrock上に自律型AIエージェント向けの検証可能な決済インフラを構築しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0df138f77f12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Solv Labs"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Curvineを活用したAmazon SageMaker HyperPod上の大規模LLM向け階層型KVキャッシュ",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:42:48Z",
+      "summary": "AWSは、SageMaker上での大規模言語モデル（LLM）の推論を最適化するため、階層型KVキャッシュを導入します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "36cd5172a414",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AbbottとGoogleがAIによる血糖値インサイトで提携 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlVOY3FZajdEU19IQzRmTU1pbjhRd3VZZkd1aEhIdm5SdklZOURHbjlnOHp1VmkzYTdGYkoxZjgzRU5kTUczbUZxS1pfMUV5dC1MWUFWVTJBdlZTMEJnZ21yTWpraVY0YzlsdHpkc1E0NmRWMFN2c2F4cFlhcnkxdWxicw?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-12T20:59:37Z",
+      "summary": "AbbottとGoogleは、血糖値モニタリングのインサイトに人工知能を統合するために提携します。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a9d399141f56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Abbott",
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Relativityが対話型AIシステム「claiR」を開発",
+      "link": "https://www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T14:00:41Z",
+      "summary": "Relativityは、法務ワークフロー向けの新しい対話型AIシステム「claiR」を開発しました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "11866a90de74",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Relativity"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "The L Suite：インハウスコミュニティ ＋ リーガルAI",
+      "link": "https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T06:41:51Z",
+      "summary": "社内法務コミュニティがどのようにリーガルAIソリューションを統合しているかを探求します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f53a92e0000d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "AIネイティブな法律事務所は未来の潮流となるか？",
+      "link": "https://www.abajournal.com/legalrebels/article/rebels-podcast-episode-127/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-08-13T01:59:37.078026+00:00Z",
+      "summary": "ポッドキャストの今エピソードでは、人工知能ネイティブな法律事務所が法務実務の未来を象徴するものかどうかを探ります。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3b48d1196cf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Sarvam AI x マハラシュトラ州政府 | 行政向けソブリンAI - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ERHRCUjlkX0l2REx6eWxLZmJZcFRSMV94dl9VaVZhVHpYaE1senFwOWU0MDh4WDZtVzhDTDhBQ3NhSTVMc0c0ZUpkc2hrT0Jyb3pmT2VqMXZRZnZCSDA0aUxHd3NwTGV4?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-12T14:30:24Z",
+      "summary": "Sarvam AIは、行政にソブリンAIを導入するためにマハラシュトラ州政府と提携します。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "532544ef9359",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "IDFC FIRST Bank x Sarvam | 自己改善型銀行 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRkU0VU9ydzdKUl9HeHFud3VPNUN1S21hLTQtcDJNOWdTY1hveEdZdXhQMEpSQm1EYnFFLUx1dDV2V1JITnMxVTd4eDFMY2tLdy0xR1FmWmU?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-12T14:30:24Z",
+      "summary": "IDFC FIRST Bankは、自己改善型のバンキングシステムを構築するためにSarvam AIと協力しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b6f7a3923d65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "IDFC FIRST Bank",
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "OlmoEarth埋め込みの紹介：ダウンストリーム分析のためのOlmoEarth Studioからのカスタム埋め込みエクスポート",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-12T16:14:36Z",
+      "summary": "OlmoEarth Studioは、ダウンストリームの機械学習分析用にカスタム埋め込みのエクスポート機能の提供を開始しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1110b810dc4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "エッジ向けに、より優れ高速なビジョン機能を提供するLFM2.5-VL-3B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-12T14:00:51Z",
+      "summary": "Liquid AIは、エッジデバイス向けにより高速なビジョン機能を提供するLFM2.5-VL-3Bを発表しました。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9fea4b35a86f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Liquid AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropicの新しいウォーターマークにより職場や授業での使用が検出されるとして、一部のClaudeユーザーが不満を抱く",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T22:26:37Z",
+      "summary": "Claudeに対するAnthropicの新しいウォーターマークは、職場や学校での利用検出を恐れるユーザーからの批判を集めています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "79ba0d5b9dda",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Amazon、オプトアウトしない限りデフォルトでTwitch配信者のコンテンツを学習に使用へ",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T20:10:40Z",
+      "summary": "Amazonはポリシーを更新し、オプトアウトしない限りTwitch配信者のコンテンツをAIモデルの学習に使用するようにしました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0e1a976108c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Twitch"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "AIコーディングスタートアップのCognition、すでに評価額400億ドルでの資金調達に向けて協議中と報道",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T18:19:12Z",
+      "summary": "AIコーディングスタートアップのCognitionは、400億ドルの評価額での資金調達ラウンドについて協議中であると報じられています。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fedb51cc07b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Cognition"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AIの安全性懸念が高まる中、3人のパイオニアがオープンであり続ける必要性を主張",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:51:00Z",
+      "summary": "人工知能の安全性懸念が高まる中、3人のAIパイオニアがオープンソース開発の継続を主張しています。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b77f0ff8e550",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAIが支援するThrive Holdings、エンタープライズにAIをもたらすために20億ドルを調達",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:41:29Z",
+      "summary": "Thrive Holdingsは、企業にAIを導入するためにOpenAIの支援を受けて20億ドルの資金を調達しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2fd40c918be8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI",
+        "Thrive Holdings"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "リングメーカーのSandbarがAIウェアラブルの未来は音声であると語る理由",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T16:46:02Z",
+      "summary": "リングメーカーのSandbarが、なぜ音声がAIウェアラブルの未来のインターフェースであるかを説明しています。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d4e662e0ffa5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sandbar"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lovable、新たな評価額133億ドルを確認し、さらに4億ドルを調達",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T16:04:27Z",
+      "summary": "Lovableはさらに4億ドルを調達し、新たな評価額が133億ドルであることを確認しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a8dd77df5184",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Lovable"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sandbarが自社の音声対応リングが「AIハードウェアの墓場」を回避できると考える理由",
+      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:22:00Z",
+      "summary": "Sandbarは、自社の音声対応スマートリングが他のAIハードウェアが失敗した分野で成功を目指す方法について議論しています。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1915a50c5cc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sandbar"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Made by Google ’26の全発表内容：Pixel 11、Pixel Watch 5、Pixel Tag、そして多数のGemini機能",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:20:33Z",
+      "summary": "GoogleはPixel 11、Pixel Watch 5、Pixel Tag、および新しいGemini AI機能を発表しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6a49c4b6a0a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Grokが仕事を割り振れるAIの「チームメイト」に - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjQ2Z3dqMkwyY0pqXzFsUGxYaTktWURieU55QkM3SXNtenFyQ3g5VTNqM054WjM0RjhhTzJLRnlycEhUcjF5Z29NQWJ4QnU3SGdUWnhwQUhoc01lY3haMUt5M1ZUU3lkVDNkOW5VdGd2Vkd6NmpnUWVoc2RKb3MxZFVBdlcyOHhBT3kxUzlLbEJrWDUxelYtRGpjRGU2dw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T11:58:54Z",
+      "summary": "Grokは、特定の仕事を割り振られるAIチームメイトとして機能する新機能を導入しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7d0892dd5411",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "xAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ギター会社のD’Addario、プロモーション動画でAI音楽が使用されたことを認める - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHcxYllULUtNNWdEUGF3UTluSS1BcnFBbkRFZUJRNnRDaGRXVjdHamh6N0kxUk9ESzlDd3dUeUhFQllfaktLaU1KeXpZeDFTZ1N2NTR6SE9ad3hmTFBfQVlxcm50d2ZzZElyNnhJMlhRRGpOSEtGWloxbWlPbElhT1ktVmVvYjVpVEFPUmZpamw2Zw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T15:52:07Z",
+      "summary": "D’Addarioは、最近のプロモーション動画キャンペーン内でAI生成の音楽を使用していたことを認めました。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cdc480fee4c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "D'Addario"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Twitch配信者がAmazonのAI学習からオプトアウト可能に - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDBrWGtZUEd3Ukw2M0hJamJjeTN2SjFSSFNBQ0dtT3ZOSDNNRFlNT0xld3JvQUNyRzJOd3RqMkt1OVBDUEh5WlB6bGFNRTU1Ump1VjFGRThDaF9iM0FYdHBrTGxqNktVYXd6enRhaUhQSkxaQnNDalpZNGpHU1gyUlpCUk5oNzJJSnBNR3VJR0NIOUlWeFQzUWln?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:29:10Z",
+      "summary": "Amazonは、Twitch配信者がAIモデルの学習を阻止できるようにするオプトアウト制御機能を追加しました。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "80b82614e21b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon",
+        "Twitch"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "GoogleのPixel Watch 5がAIと健康機能をさらに深掘り - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc201UldyYlBLY3dUTUZ2MFJEUFFTWTUzNUJzMEhTM19HRFNCVHNXSHhzT1BUUDNpUkFxZHpfQlhXUmdyZFE4bnBUNE5RZDlhQWpDcGZneTFaNGR2bkNSV1ZZZ1gzUzB6NkxyemZMdk13SVdsUjA5WEl3X0xkeWhOdzdFNnpuQnJkcnM0VjJoUjFwVE5aQXY5T3YyckdIUEtoZlR1Qw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:00:00Z",
+      "summary": "Googleは、強化された人工知能と健康機能を特徴とするPixel Watch 5を公開しました。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b3b1ea004525",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Metaの新しいモデルは、あなたの個人生活への「深いアクセス」を求めている…",
+      "link": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-08-12T18:29:41Z",
+      "summary": "Metaは、ユーザーの広範な個人データへのアクセスを必要とする新しい人工知能モデルを開発しています。",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "42e31be4dc88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "アシスタンスから実行へ：企業はどのようにAIを活用しているか",
       "link": "https://openai.com/index/how-enterprises-put-ai-to-work",

@@ -1,6 +1,738 @@
 {
-  "refreshed_at": "2026-08-12 13:27 UTC",
+  "refreshed_at": "2026-08-13 02:06 UTC",
   "items": [
+    {
+      "title": "İşaret dili yapay zekasını kullanıcıların hizmetine sunmak",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T14:01:59Z",
+      "summary": "Google DeepMind, işaret dilinin anlaşılmasına yardımcı olmak için erişilebilir yapay zeka teknolojileri geliştiriyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "618d4dfa5f6e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MindTopo, VLM'lerin mekansal akıl yürütme yeteneklerini ortaya çıkarıyor",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T16:00:00Z",
+      "summary": "Microsoft Research, vision-language modellerindeki mekansal akıl yürütme yeteneklerini ölçmek için MindTopo'yu sunuyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "63dd354e6f23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bölüm 2: Amazon Athena ve CUDOS ile Amazon Bedrock maliyet ataması",
+      "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T17:45:20Z",
+      "summary": "AWS, Amazon Athena ve CUDOS panolarını kullanarak üretken yapay zeka modeli harcamalarının nasıl takip edileceğini gösteriyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f272e09d1f2d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OneAdvanced, Birleşik Krallık egemenliğindeki AWS üzerinde 50'den fazla yapay zeka ajanını nasıl dağıttı",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:46:28Z",
+      "summary": "OneAdvanced, Birleşik Krallık egemenliğindeki AWS altyapısı üzerinde 50'den fazla otonom yapay zeka ajanını başarıyla hayata geçirdi.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fd506097ddae",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "OneAdvanced"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "Güvenle ödeyin: Solv Labs, Amazon Bedrock AgentCore payments üzerinde doğrulanabilir ve denetlenebilir ajan ödemelerini nasıl oluşturdu",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:44:58Z",
+      "summary": "Solv Labs, Amazon Bedrock üzerinde otonom yapay zeka ajanları için doğrulanabilir ödeme altyapısı inşa etti.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0df138f77f12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Solv Labs"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Curvine ile Amazon SageMaker HyperPod üzerindeki büyük LLM'ler için katmanlı KV cache",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:42:48Z",
+      "summary": "AWS, SageMaker üzerinde büyük dil modeli çıkarımını optimize etmek için katmanlı KV caching özelliğini sunuyor.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "36cd5172a414",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Abbott ve Google, yapay zeka destekli glikoz analizleri için ortaklık kuruyor - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlVOY3FZajdEU19IQzRmTU1pbjhRd3VZZkd1aEhIdm5SdklZOURHbjlnOHp1VmkzYTdGYkoxZjgzRU5kTUczbUZxS1pfMUV5dC1MWUFWVTJBdlZTMEJnZ21yTWpraVY0YzlsdHpkc1E0NmRWMFN2c2F4cFlhcnkxdWxicw?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-12T20:59:37Z",
+      "summary": "Abbott ve Google, glikoz izleme analizlerine yapay zekayı entegre etmek için ortaklık kuruyor.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a9d399141f56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Abbott",
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Relativity, claiR Sohbet Dayalı Yapay Zeka Sistemini Geliştirdi",
+      "link": "https://www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T14:00:41Z",
+      "summary": "Relativity, hukuki iş akışları için yeni bir sohbet dayalı yapay zeka sistemi olan claiR'i geliştirdi.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "11866a90de74",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Relativity"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "The L Suite: Inhouse Community + Legal AI",
+      "link": "https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T06:41:51Z",
+      "summary": "Kurum içi hukuk topluluklarının hukuki yapay zeka çözümlerini nasıl entegre ettiğine dair bir inceleme.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f53a92e0000d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Yapay zeka yerlisi (AI-native) hukuk büroları geleceğin dalgası mı?",
+      "link": "https://www.abajournal.com/legalrebels/article/rebels-podcast-episode-127/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-08-13T01:59:37.078026+00:00Z",
+      "summary": "Podcast bölümü, yapay zeka yerlisi hukuk bürolarının hukuk pratiğinin geleceğini temsil edip etmediğini araştırıyor.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3b48d1196cf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Sarvam AI x Maharashtra Hükümeti | Kamu Yönetimi için Egemen Yapay Zeka - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ERHRCUjlkX0l2REx6eWxLZmJZcFRSMV94dl9VaVZhVHpYaE1senFwOWU0MDh4WDZtVzhDTDhBQ3NhSTVMc0c0ZUpkc2hrT0Jyb3pmT2VqMXZRZnZCSDA0aUxHd3NwTGV4?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-12T14:30:24Z",
+      "summary": "Sarvam AI, kamu yönetiminde egemen yapay zekayı uygulamak için Maharashtra Hükümeti ile ortaklık kuruyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "532544ef9359",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "IDFC FIRST Bank x Sarvam | Kendi Kendini Geliştiren Banka - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRkU0VU9ydzdKUl9HeHFud3VPNUN1S21hLTQtcDJNOWdTY1hveEdZdXhQMEpSQm1EYnFFLUx1dDV2V1JITnMxVTd4eDFMY2tLdy0xR1FmWmU?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-12T14:30:24Z",
+      "summary": "IDFC FIRST Bank, kendi kendini geliştiren bankacılık sistemleri inşa etmek için Sarvam AI ile iş birliği yapıyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b6f7a3923d65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "IDFC FIRST Bank",
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "OlmoEarth embedding'leri sunuluyor: Aşağı akış analizleri için OlmoEarth Studio'dan özel embedding dışa aktarımları",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-12T16:14:36Z",
+      "summary": "OlmoEarth Studio artık aşağı akış makine öğrenimi analizleri için özel embedding dışa aktarımları sunuyor.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1110b810dc4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Uç Cihazlar (Edge) için Daha İyi ve Daha Hızlı Görsel Yetenekler Sunan LFM2.5-VL-3B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-12T14:00:51Z",
+      "summary": "Liquid AI, uç cihazlara daha hızlı görsel yetenekler sağlamak için LFM2.5-VL-3B'yi tanıtıyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9fea4b35a86f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Liquid AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bazı Claude kullanıcıları, Anthropic’in yeni filigranlarının onları işte veya derste kullanırken yakalayacak olmasından öfkeli",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T22:26:37Z",
+      "summary": "Anthropic'in Claude için geliştirdiği yeni filigranlar, işte ve okulda tespit edilmekten korkan kullanıcıların tepkisini çekiyor.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "79ba0d5b9dda",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Amazon, aksi tercih edilmedikçe varsayılan olarak Twitch yayıncılarının içerikleriyle eğitim yapacak",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T20:10:40Z",
+      "summary": "Amazon, kullanıcılar devre dışı bırakmadığı sürece yapay zeka modellerini Twitch yayıncılarının içerikleriyle eğitmek için politikasını güncelliyor.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0e1a976108c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Twitch"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Yapay zeka kodlama girişimi Cognition'ın 40 milyar dolar değerleme ile yatırım toplamak için görüşmelerde bulunduğu bildiriliyor",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T18:19:12Z",
+      "summary": "Yapay zeka kodlama girişimi Cognition'ın 40 milyar dolar değerleme üzerinden bir yatırım turunu görüştüğü bildiriliyor.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fedb51cc07b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Cognition"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yapay zeka güvenliği endişeleri artarken, üç öncü açık kalmayı savunuyor",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:51:00Z",
+      "summary": "Üç yapay zeka öncüsü, artan yapay zeka güvenliği endişelerinin ortasında açık kaynaklı geliştirmeyi savunuyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b77f0ff8e550",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI destekli Thrive Holdings, yapay zekayı kurumsal alana taşımak için 2 milyar dolar topladı",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:41:29Z",
+      "summary": "Thrive Holdings, yapay zekayı işletmelere getirmek için OpenAI destekli 2 milyar dolarlık fon sağladı.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2fd40c918be8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI",
+        "Thrive Holdings"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yüzük üreticisi Sandbar, yapay zeka giyilebilir cihazlarının geleceğinin neden ses olduğunu açıklıyor",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T16:46:02Z",
+      "summary": "Yüzük üreticisi Sandbar, yapay zeka giyilebilir cihazları için geleceğin arayüzünün neden ses olduğunu açıklıyor.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d4e662e0ffa5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sandbar"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lovable, 13.3 milyar dolarlık yeni değerlemesini doğruladı ve 400 milyon dolar daha topladı",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T16:04:27Z",
+      "summary": "Lovable, 13.3 milyar dolarlık yeni değerlemesini doğrulayarak 400 milyon dolar daha yatırım aldı.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a8dd77df5184",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Lovable"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sandbar, sesle çalışan yüzüğünün yapay zeka donanım mezarlığından nasıl kaçınabileceğini düşünüyor",
+      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:22:00Z",
+      "summary": "Sandbar, sesle çalışan akıllı yüzüğünün diğer yapay zeka donanımlarının başarısız olduğu yerde nasıl başarılı olmayı hedeflediğini tartışıyor.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1915a50c5cc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sandbar"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Made by Google ’26 etkinliğinde duyurulan her şey: Pixel 11, Pixel Watch 5, Pixel Tag ve çok sayıda Gemini özelliği",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:20:33Z",
+      "summary": "Google; Pixel 11, Pixel Watch 5, Pixel Tag ve yeni Gemini yapay zeka özelliklerini duyurdu.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6a49c4b6a0a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Grok artık iş atayabileceğiniz bir yapay zeka 'takım arkadaşı' - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjQ2Z3dqMkwyY0pqXzFsUGxYaTktWURieU55QkM3SXNtenFyQ3g5VTNqM054WjM0RjhhTzJLRnlycEhUcjF5Z29NQWJ4QnU3SGdUWnhwQUhoc01lY3haMUt5M1ZUU3lkVDNkOW5VdGd2Vkd6NmpnUWVoc2RKb3MxZFVBdlcyOHhBT3kxUzlLbEJrWDUxelYtRGpjRGU2dw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T11:58:54Z",
+      "summary": "Grok, belirli işlerin atanabildiği bir yapay zeka takım arkadaşı olarak işlev görmesini sağlayan yeni özellikler sunuyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7d0892dd5411",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "xAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gitar şirketi D’Addario, tanıtım videosunda yapay zeka müziği kullanıldığını itiraf etti - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHcxYllULUtNNWdEUGF3UTluSS1BcnFBbkRFZUJRNnRDaGRXVjdHamh6N0kxUk9ESzlDd3dUeUhFQllfaktLaU1KeXpZeDFTZ1N2NTR6SE9ad3hmTFBfQVlxcm50d2ZzZElyNnhJMlhRRGpOSEtGWloxbWlPbElhT1ktVmVvYjVpVEFPUmZpamw2Zw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T15:52:07Z",
+      "summary": "D’Addario, yakın zamandaki bir tanıtım videosu kampanyasında yapay zeka tarafından üretilen müzik kullandığını kabul etti.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cdc480fee4c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "D'Addario"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Twitch yayıncıları artık Amazon’un yapay zekasını eğitmekten vazgeçebiliyor - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDBrWGtZUEd3Ukw2M0hJamJjeTN2SjFSSFNBQ0dtT3ZOSDNNRFlNT0xld3JvQUNyRzJOd3RqMkt1OVBDUEh5WlB6bGFNRTU1Ump1VjFGRThDaF9iM0FYdHBrTGxqNktVYXd6enRhaUhQSkxaQnNDalpZNGpHU1gyUlpCUk5oNzJJSnBNR3VJR0NIOUlWeFQzUWln?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:29:10Z",
+      "summary": "Amazon, Twitch yayıncılarının yapay zeka modeli eğitimini engellemesine olanak tanıyan bir opt-out seçeneği ekledi.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "80b82614e21b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon",
+        "Twitch"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Google’ın Pixel Watch 5'i yapay zeka ve sağlığa daha derinlemesine iniyor - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc201UldyYlBLY3dUTUZ2MFJEUFFTWTUzNUJzMEhTM19HRFNCVHNXSHhzT1BUUDNpUkFxZHpfQlhXUmdyZFE4bnBUNE5RZDlhQWpDcGZneTFaNGR2bkNSV1ZZZ1gzUzB6NkxyemZMdk13SVdsUjA5WEl3X0xkeWhOdzdFNnpuQnJkcnM0VjJoUjFwVE5aQXY5T3YyckdIUEtoZlR1Qw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:00:00Z",
+      "summary": "Google, gelişmiş yapay zeka ve sağlık yeteneklerine sahip Pixel Watch 5'i tanıttı.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b3b1ea004525",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta'nın yeni modeli kişisel yaşamınıza \"derin erişim\" istiyor...",
+      "link": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-08-12T18:29:41Z",
+      "summary": "Meta, kapsamlı kişisel kullanıcı verisi erişimi gerektiren yeni bir yapay zeka modeli geliştiriyor.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "42e31be4dc88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Yardımdan uygulamaya: İşletmeler yapay zekayı nasıl iş başı yapıyor",
       "link": "https://openai.com/index/how-enterprises-put-ai-to-work",

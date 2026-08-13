@@ -1,6 +1,738 @@
 {
-  "refreshed_at": "2026-08-12 13:27 UTC",
+  "refreshed_at": "2026-08-13 02:06 UTC",
   "items": [
+    {
+      "title": "Gebärdensprachen-KI in die Hände der Nutzer bringen",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T14:01:59Z",
+      "summary": "Google DeepMind entwickelt zugängliche KI-Technologien zur Unterstützung des Verständnisses von Gebärdensprache.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "618d4dfa5f6e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MindTopo enthüllt die Fähigkeiten von VLMs zum räumlichen Denken",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T16:00:00Z",
+      "summary": "Microsoft Research präsentiert MindTopo zur Messung von Fähigkeiten zum räumlichen Denken in Vision-Language-Modellen.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "63dd354e6f23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Teil 2: Amazon Bedrock-Kostenzuordnung mit Amazon Athena und CUDOS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T17:45:20Z",
+      "summary": "AWS demonstriert die Nachverfolgung von Ausgaben für generative KI-Modelle mithilfe von Amazon Athena und CUDOS-Dashboards.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f272e09d1f2d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Wie OneAdvanced über 50 KI-Agenten auf UK-souveränem AWS bereitgestellt hat",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:46:28Z",
+      "summary": "OneAdvanced hat erfolgreich über 50 autonome KI-Agenten auf UK-souveräner AWS-Infrastruktur gestartet.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fd506097ddae",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "OneAdvanced"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "Mit Vertrauen bezahlen: Wie Solv Labs verifizierbare, prüfbare Agentenzahlungen auf Amazon Bedrock AgentCore payments aufgebaut hat",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:44:58Z",
+      "summary": "Solv Labs hat eine verifizierbare Zahlungsinfrastruktur für autonome KI-Agenten auf Amazon Bedrock aufgebaut.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0df138f77f12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Solv Labs"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tiered KV Cache für große LLMs auf Amazon SageMaker HyperPod mit Curvine",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:42:48Z",
+      "summary": "AWS führt gestuftes KV-Caching ein, um die Inferenz großer Sprachmodelle auf SageMaker zu optimieren.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "36cd5172a414",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Abbott und Google kooperieren bei KI-Glukose-Einsichten - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlVOY3FZajdEU19IQzRmTU1pbjhRd3VZZkd1aEhIdm5SdklZOURHbjlnOHp1VmkzYTdGYkoxZjgzRU5kTUczbUZxS1pfMUV5dC1MWUFWVTJBdlZTMEJnZ21yTWpraVY0YzlsdHpkc1E0NmRWMFN2c2F4cFlhcnkxdWxicw?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-12T20:59:37Z",
+      "summary": "Abbott und Google arbeiten zusammen, um künstliche Intelligenz in Glukose-Monitoring-Einsichten zu integrieren.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a9d399141f56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Abbott",
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Relativity entwickelt claiR Conversational AI System",
+      "link": "https://www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T14:00:41Z",
+      "summary": "Relativity hat claiR entwickelt, ein neues dialogorientiertes KI-System für rechtliche Arbeitsabläufe.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "11866a90de74",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Relativity"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "The L Suite: Inhouse Community + Legal AI",
+      "link": "https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T06:41:51Z",
+      "summary": "Eine Untersuchung darüber, wie interne Rechtsabteilungen und juristische Communities Legal-AI-Lösungen integrieren.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f53a92e0000d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Sind KI-native Anwaltskanzleien die Welle der Zukunft?",
+      "link": "https://www.abajournal.com/legalrebels/article/rebels-podcast-episode-127/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-08-13T01:59:37.078026+00:00Z",
+      "summary": "Eine Podcast-Folge untersucht, ob KI-native Anwaltskanzleien die Zukunft der Rechtspraxis darstellen.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3b48d1196cf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Sarvam AI x Regierung von Maharashtra | Souveräne KI für die öffentliche Verwaltung - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ERHRCUjlkX0l2REx6eWxLZmJZcFRSMV94dl9VaVZhVHpYaE1senFwOWU0MDh4WDZtVzhDTDhBQ3NhSTVMc0c0ZUpkc2hrT0Jyb3pmT2VqMXZRZnZCSDA0aUxHd3NwTGV4?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-12T14:30:24Z",
+      "summary": "Sarvam AI arbeitet mit der Regierung von Maharashtra zusammen, um souveräne KI in der öffentlichen Verwaltung zu implementieren.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "532544ef9359",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "IDFC FIRST Bank x Sarvam | Selbstverbessernde Bank - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRkU0VU9ydzdKUl9HeHFud3VPNUN1S21hLTQtcDJNOWdTY1hveEdZdXhQMEpSQm1EYnFFLUx1dDV2V1JITnMxVTd4eDFMY2tLdy0xR1FmWmU?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-12T14:30:24Z",
+      "summary": "IDFC FIRST Bank arbeitet mit Sarvam AI zusammen, um sich selbst verbessernde Bankensysteme zu entwickeln.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b6f7a3923d65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "IDFC FIRST Bank",
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Einführung von OlmoEarth-Embeddings: Benutzerdefinierte Embedding-Exporte aus OlmoEarth Studio für nachgelagerte Analysen",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-12T16:14:36Z",
+      "summary": "OlmoEarth Studio bietet jetzt benutzerdefinierte Embedding-Exporte für nachgelagerte Machine-Learning-Analysen.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1110b810dc4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LFM2.5-VL-3B für bessere und schnellere Vision-Fähigkeiten für die Edge",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-12T14:00:51Z",
+      "summary": "Liquid AI stellt LFM2.5-VL-3B vor, um schnellere Vision-Fähigkeiten für Edge-Geräte bereitzustellen.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9fea4b35a86f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Liquid AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Einige Claude-Nutzer sind verärgert, dass Anthropics neue Wasserzeichen sie bei der Nutzung bei der Arbeit oder in Kursen entlarven",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T22:26:37Z",
+      "summary": "Anthropics neue Wasserzeichen für Claude stoßen auf Kritik von Nutzern, die eine Aufdeckung am Arbeitsplatz und in der Schule befürchten.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "79ba0d5b9dda",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Amazon wird standardmäßig mit Inhalten von Twitch-Streamern trainieren, sofern diese nicht widersprechen",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T20:10:40Z",
+      "summary": "Amazon aktualisiert seine Richtlinie, um KI-Modelle mit den Inhalten von Twitch-Streamern zu trainieren, sofern diese dem nicht widersprechen.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0e1a976108c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Twitch"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "KI-Coding-Startup Cognition verhandelt Berichten zufolge bereits über Finanzierung bei 40 Mrd. USD Bewertung",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T18:19:12Z",
+      "summary": "Das KI-Coding-Startup Cognition verhandelt Berichten zufolge über eine Finanzierungsrunde bei einer Bewertung von 40 Milliarden Dollar.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fedb51cc07b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Cognition"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Angesichts wachsender Bedenken bezüglich KI-Sicherheit argumentieren drei Pioniere für Offenheit",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:51:00Z",
+      "summary": "Drei KI-Pioniere sprechen sich angesichts wachsender Bedenken bezüglich der Sicherheit künstlicher Intelligenz für Open-Source-Entwicklung aus.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b77f0ff8e550",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Von OpenAI unterstütztes Thrive Holdings sammelt 2 Mrd. USD ein, um KI in Unternehmen zu bringen",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:41:29Z",
+      "summary": "Thrive Holdings sichert sich mit Unterstützung von OpenAI eine Finanzierung in Höhe von 2 Milliarden Dollar, um KI in Unternehmen einzuführen.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2fd40c918be8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI",
+        "Thrive Holdings"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Warum Ring-Hersteller Sandbar sagt, dass die Zukunft von KI-Wearables in der Sprache liegt",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T16:46:02Z",
+      "summary": "Ring-Hersteller Sandbar erklärt, warum Sprache die zukünftige Schnittstelle für KI-Wearables ist.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d4e662e0ffa5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sandbar"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lovable bestätigt neue Bewertung von 13,3 Mrd. USD und sammelt weitere 400 Mio. USD ein",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T16:04:27Z",
+      "summary": "Lovable nimmt weitere 400 Millionen Dollar ein und bestätigt damit eine neue Bewertung von 13,3 Milliarden Dollar.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a8dd77df5184",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Lovable"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Warum Sandbar glaubt, dass sein sprachgesteuerter Ring dem KI-Hardware-Friedhof entgehen kann",
+      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:22:00Z",
+      "summary": "Sandbar erörtert, wie sein sprachgesteuerter Smart Ring dort erfolgreich sein soll, wo andere KI-Hardware gescheitert ist.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1915a50c5cc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sandbar"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Alles, was auf der Made by Google ’26 angekündigt wurde: Pixel 11, Pixel Watch 5, Pixel Tag und zahlreiche Gemini-Funktionen",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:20:33Z",
+      "summary": "Google kündigt Pixel 11, Pixel Watch 5, Pixel Tag und neue Gemini-KI-Funktionen an.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6a49c4b6a0a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Grok ist jetzt ein KI-„Teamkollege“, dem Sie Aufgaben zuweisen können - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjQ2Z3dqMkwyY0pqXzFsUGxYaTktWURieU55QkM3SXNtenFyQ3g5VTNqM054WjM0RjhhTzJLRnlycEhUcjF5Z29NQWJ4QnU3SGdUWnhwQUhoc01lY3haMUt5M1ZUU3lkVDNkOW5VdGd2Vkd6NmpnUWVoc2RKb3MxZFVBdlcyOHhBT3kxUzlLbEJrWDUxelYtRGpjRGU2dw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T11:58:54Z",
+      "summary": "Grok führt neue Funktionen ein, die es ermöglichen, als KI-Teamkollege zu fungieren, dem spezifische Aufgaben zugewiesen werden.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7d0892dd5411",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "xAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gitarrenhersteller D’Addario gibt zu, dass KI-Musik in einem Werbevideo verwendet wurde - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHcxYllULUtNNWdEUGF3UTluSS1BcnFBbkRFZUJRNnRDaGRXVjdHamh6N0kxUk9ESzlDd3dUeUhFQllfaktLaU1KeXpZeDFTZ1N2NTR6SE9ad3hmTFBfQVlxcm50d2ZzZElyNnhJMlhRRGpOSEtGWloxbWlPbElhT1ktVmVvYjVpVEFPUmZpamw2Zw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T15:52:07Z",
+      "summary": "D’Addario räumte ein, KI-generierte Musik in einer kürzlichen Werbevideokampagne verwendet zu haben.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cdc480fee4c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "D'Addario"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Twitch-Streamer können sich jetzt vom Training von Amazons KI abmelden - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDBrWGtZUEd3Ukw2M0hJamJjeTN2SjFSSFNBQ0dtT3ZOSDNNRFlNT0xld3JvQUNyRzJOd3RqMkt1OVBDUEh5WlB6bGFNRTU1Ump1VjFGRThDaF9iM0FYdHBrTGxqNktVYXd6enRhaUhQSkxaQnNDalpZNGpHU1gyUlpCUk5oNzJJSnBNR3VJR0NIOUlWeFQzUWln?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:29:10Z",
+      "summary": "Amazon hat eine Opt-out-Funktion hinzugefügt, mit der Twitch-Streamer das Training von KI-Modellen verhindern können.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "80b82614e21b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon",
+        "Twitch"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Googles Pixel Watch 5 taucht tiefer in KI und Gesundheit ein - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc201UldyYlBLY3dUTUZ2MFJEUFFTWTUzNUJzMEhTM19HRFNCVHNXSHhzT1BUUDNpUkFxZHpfQlhXUmdyZFE4bnBUNE5RZDlhQWpDcGZneTFaNGR2bkNSV1ZZZ1gzUzB6NkxyemZMdk13SVdsUjA5WEl3X0xkeWhOdzdFNnpuQnJkcnM0VjJoUjFwVE5aQXY5T3YyckdIUEtoZlR1Qw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:00:00Z",
+      "summary": "Google hat die Pixel Watch 5 mit erweiterten Funktionen für künstliche Intelligenz und Gesundheit vorgestellt.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b3b1ea004525",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Metas neues Modell will „tiefen Zugriff“ auf Ihr Privatleben...",
+      "link": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-08-12T18:29:41Z",
+      "summary": "Meta entwickelt ein neues Modell für künstliche Intelligenz, das umfassenden Zugriff auf persönliche Nutzerdaten erfordert.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "42e31be4dc88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Von der Assistenz zur Ausführung: Wie Unternehmen KI nutzbar machen",
       "link": "https://openai.com/index/how-enterprises-put-ai-to-work",

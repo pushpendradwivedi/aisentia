@@ -1,6 +1,738 @@
 {
-  "refreshed_at": "2026-08-12 13:27 UTC",
+  "refreshed_at": "2026-08-13 02:06 UTC",
   "items": [
+    {
+      "title": "Передавая ИИ для языка жестов в руки пользователей",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T14:01:59Z",
+      "summary": "Google DeepMind разрабатывает доступные технологии ИИ для распознавания и понимания языка жестов.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "618d4dfa5f6e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MindTopo раскрывает способности VLM к пространственному мышлению",
+      "link": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T16:00:00Z",
+      "summary": "Microsoft Research представляет MindTopo для оценки способностей пространственного мышления в vision-language models.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "63dd354e6f23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Часть 2: Распределение затрат Amazon Bedrock с помощью Amazon Athena и CUDOS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T17:45:20Z",
+      "summary": "AWS демонстрирует отслеживание расходов на модели генеративного ИИ с использованием Amazon Athena и дашбордов CUDOS.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f272e09d1f2d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Как OneAdvanced развернула более 50 ИИ-агентов в суверенном облаке AWS в Великобритании",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-oneadvanced-deployed-over-50-ai-agents-on-uk-sovereign-aws/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:46:28Z",
+      "summary": "OneAdvanced успешно запустила более 50 автономных ИИ-агентов на суверенной инфраструктуре AWS в Великобритании.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fd506097ddae",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "OneAdvanced"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "Платите с уверенностью: как Solv Labs создала проверяемые и аудируемые платежи агентов на базе Amazon Bedrock AgentCore payments",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:44:58Z",
+      "summary": "Solv Labs создала проверяемую платежную инфраструктуру для автономных ИИ-агентов на Amazon Bedrock.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0df138f77f12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Solv Labs"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Многоуровневый KV-кэш для больших LLM на Amazon SageMaker HyperPod с помощью Curvine",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tiered-kv-cache-for-large-llms-on-amazon-sagemaker-hyperpod-with-curvine/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-12T13:42:48Z",
+      "summary": "AWS представляет многоуровневое кэширование KV для оптимизации инференса больших языковых моделей на SageMaker.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "36cd5172a414",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Abbott и Google стали партнерами в области аналитики уровня глюкозы на базе ИИ — MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRlVOY3FZajdEU19IQzRmTU1pbjhRd3VZZkd1aEhIdm5SdklZOURHbjlnOHp1VmkzYTdGYkoxZjgzRU5kTUczbUZxS1pfMUV5dC1MWUFWVTJBdlZTMEJnZ21yTWpraVY0YzlsdHpkc1E0NmRWMFN2c2F4cFlhcnkxdWxicw?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-12T20:59:37Z",
+      "summary": "Abbott и Google объединяются для интеграции искусственного интеллекта в аналитику мониторинга глюкозы.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a9d399141f56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech",
+        "Medical Devices"
+      ],
+      "companies": [
+        "Abbott",
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Relativity разрабатывает систему разговорного ИИ claiR",
+      "link": "https://www.artificiallawyer.com/2026/08/12/relativity-develops-clair-conversational-ai-system/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T14:00:41Z",
+      "summary": "Компания Relativity разработала claiR — новую систему разговорного ИИ для юридических процессов.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "11866a90de74",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Relativity"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "The L Suite: Инхаус-сообщество + юридический ИИ",
+      "link": "https://www.artificiallawyer.com/2026/08/12/the-l-suite-inhouse-community-legal-ai/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-12T06:41:51Z",
+      "summary": "Исследование того, как юридические инхаус-сообщества внедряют юридические ИИ-решения.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f53a92e0000d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Являются ли юридические фирмы с ориентацией на ИИ будущим отрасли?",
+      "link": "https://www.abajournal.com/legalrebels/article/rebels-podcast-episode-127/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-08-13T01:59:37.078026+00:00Z",
+      "summary": "Выпуск подкаста исследует, представляют ли юридические фирмы, созданные на базе искусственного интеллекта, будущее юридической практики.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3b48d1196cf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Sarvam AI x Правительство Махараштры | Суверенный ИИ для государственного управления — Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ERHRCUjlkX0l2REx6eWxLZmJZcFRSMV94dl9VaVZhVHpYaE1senFwOWU0MDh4WDZtVzhDTDhBQ3NhSTVMc0c0ZUpkc2hrT0Jyb3pmT2VqMXZRZnZCSDA0aUxHd3NwTGV4?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-12T14:30:24Z",
+      "summary": "Sarvam AI сотрудничает с Правительством Махараштры для внедрения суверенного ИИ в государственное управление.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "532544ef9359",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "IDFC FIRST Bank x Sarvam | Самосовершенствующийся банк — Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KRkU0VU9ydzdKUl9HeHFud3VPNUN1S21hLTQtcDJNOWdTY1hveEdZdXhQMEpSQm1EYnFFLUx1dDV2V1JITnMxVTd4eDFMY2tLdy0xR1FmWmU?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-12T14:30:24Z",
+      "summary": "IDFC FIRST Bank сотрудничает с Sarvam AI для создания самообучающихся банковских систем.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b6f7a3923d65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [
+        "IDFC FIRST Bank",
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "Представляем эмбеддинги OlmoEarth: кастомный экспорт эмбеддингов из OlmoEarth Studio для последующего анализа",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-12T16:14:36Z",
+      "summary": "OlmoEarth Studio теперь предлагает кастомный экспорт эмбеддингов для последующего анализа с помощью машинного обучения.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1110b810dc4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LFM2.5-VL-3B для более качественного и быстрого компьютерного зрения на периферийных устройствах",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-12T14:00:51Z",
+      "summary": "Liquid AI представляет LFM2.5-VL-3B для обеспечения более быстрого компьютерного зрения на edge-устройствах.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9fea4b35a86f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Liquid AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Некоторые пользователи Claude возмущены тем, что новые водяные знаки Anthropic раскроют использование ИИ на работе и учебе",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T22:26:37Z",
+      "summary": "Новые водяные знаки Anthropic для Claude вызвали критику со стороны пользователей, опасающихся разоблачения на работе и учебе.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "79ba0d5b9dda",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Amazon будет по умолчанию обучать ИИ на контенте стримеров Twitch, если они не откажутся",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T20:10:40Z",
+      "summary": "Amazon обновляет свою политику, чтобы обучать модели ИИ на контенте стримеров Twitch, если они не откажутся от этого.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0e1a976108c7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Twitch"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ИИ-стартап для кодинга Cognition, по сообщениям, уже ведет переговоры о привлечении инвестиций при оценке в $40 млрд",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T18:19:12Z",
+      "summary": "По сообщениям, ИИ-стартап для программирования Cognition обсуждают раунд финансирования при оценке в 40 миллиардов долларов.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fedb51cc07b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Cognition"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "По мере роста опасений по поводу безопасности ИИ трое пионеров выступают за открытость",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:51:00Z",
+      "summary": "Трое пионеров ИИ выступают за разработку с открытым исходным кодом на фоне растущих опасений по поводу безопасности искусственного интеллекта.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b77f0ff8e550",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Компания Thrive Holdings при поддержке OpenAI привлекла $2 млрд для внедрения ИИ в корпоративный сектор",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:41:29Z",
+      "summary": "Thrive Holdings привлекает 2 миллиарда долларов финансирования при поддержке OpenAI для внедрения ИИ в корпоративный сектор.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2fd40c918be8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI",
+        "Thrive Holdings"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Почему производитель смарт-колец Sandbar считает голосовой интерфейс будущим носимых ИИ-устройств",
+      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T16:46:02Z",
+      "summary": "Производитель колец Sandbar объясняет, почему голос является будущим интерфейсом для носимых ИИ-устройств.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d4e662e0ffa5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sandbar"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lovable подтверждает новую оценку в $13,3 млрд и привлекает еще $400 млн",
+      "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T16:04:27Z",
+      "summary": "Lovable привлекает дополнительно 400 миллионов долларов, подтверждая новую оценку в 13,3 миллиарда долларов.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a8dd77df5184",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Lovable"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Почему Sandbar считает, что ее кольцо с голосовым управлением сможет избежать судьбы провалившихся ИИ-устройств",
+      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:22:00Z",
+      "summary": "Sandbar рассказывает о том, как ее смарт-кольцо с поддержкой голосового управления стремится добиться успеха там, где другие ИИ-устройства потерпели неудачу.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1915a50c5cc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sandbar"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Все анонсы с презентации Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag и множество функций Gemini",
+      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:20:33Z",
+      "summary": "Google анонсирует Pixel 11, Pixel Watch 5, Pixel Tag и новые функции Gemini AI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6a49c4b6a0a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Grok теперь становится ИИ-коллегой, которому можно поручать работу — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjQ2Z3dqMkwyY0pqXzFsUGxYaTktWURieU55QkM3SXNtenFyQ3g5VTNqM054WjM0RjhhTzJLRnlycEhUcjF5Z29NQWJ4QnU3SGdUWnhwQUhoc01lY3haMUt5M1ZUU3lkVDNkOW5VdGd2Vkd6NmpnUWVoc2RKb3MxZFVBdlcyOHhBT3kxUzlLbEJrWDUxelYtRGpjRGU2dw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T11:58:54Z",
+      "summary": "Grok внедряет новые функции, позволяющие ему работать в качестве ИИ-коллеги, выполняющего конкретные задачи.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7d0892dd5411",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "xAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Гитарный бренд D’Addario признал использование ИИ-музыки в рекламном видео — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMHcxYllULUtNNWdEUGF3UTluSS1BcnFBbkRFZUJRNnRDaGRXVjdHamh6N0kxUk9ESzlDd3dUeUhFQllfaktLaU1KeXpZeDFTZ1N2NTR6SE9ad3hmTFBfQVlxcm50d2ZzZElyNnhJMlhRRGpOSEtGWloxbWlPbElhT1ktVmVvYjVpVEFPUmZpamw2Zw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T15:52:07Z",
+      "summary": "Компания D’Addario признала использование музыки, сгенерированной ИИ, в своей недавней рекламной видеокампании.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cdc480fee4c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "D'Addario"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Стримеры Twitch теперь могут отказаться от участия в обучении ИИ компании Amazon — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDBrWGtZUEd3Ukw2M0hJamJjeTN2SjFSSFNBQ0dtT3ZOSDNNRFlNT0xld3JvQUNyRzJOd3RqMkt1OVBDUEh5WlB6bGFNRTU1Ump1VjFGRThDaF9iM0FYdHBrTGxqNktVYXd6enRhaUhQSkxaQnNDalpZNGpHU1gyUlpCUk5oNzJJSnBNR3VJR0NIOUlWeFQzUWln?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T17:29:10Z",
+      "summary": "Amazon добавила возможность отказа, позволяющую стримерам Twitch запретить использование их контента для обучения моделей ИИ.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "80b82614e21b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon",
+        "Twitch"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Часы Pixel Watch 5 от Google еще больше погружаются в тему ИИ и здоровья — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc201UldyYlBLY3dUTUZ2MFJEUFFTWTUzNUJzMEhTM19HRFNCVHNXSHhzT1BUUDNpUkFxZHpfQlhXUmdyZFE4bnBUNE5RZDlhQWpDcGZneTFaNGR2bkNSV1ZZZ1gzUzB6NkxyemZMdk13SVdsUjA5WEl3X0xkeWhOdzdFNnpuQnJkcnM0VjJoUjFwVE5aQXY5T3YyckdIUEtoZlR1Qw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-12T14:00:00Z",
+      "summary": "Google представила Pixel Watch 5 с расширенными возможностями искусственного интеллекта и функции отслеживания здоровья.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b3b1ea004525",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Новой модели Meta нужен «глубокий доступ» к вашей личной жизни...",
+      "link": "https://www.youtube.com/watch?v=G55HSGpuh1M",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-08-12T18:29:41Z",
+      "summary": "Meta разрабатывает новую модель искусственного интеллекта, требующую обширного доступа к личным данным пользователей.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "42e31be4dc88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "От помощи к исполнению: как предприятия внедряют ИИ в работу",
       "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
