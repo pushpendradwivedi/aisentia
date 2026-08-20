@@ -24,35 +24,33 @@ jobs:
           path = Path('index.html')
           text = path.read_text(encoding='utf-8')
 
-          # Keep the filter row horizontally scrollable when closed, but let
-          # open dropdown menus escape the row.
+          # Keep the working dropdown behaviour: the row scrolls horizontally
+          # only while no dropdown is open; an open dropdown can escape the row.
           old = '<div class="flex flex-nowrap items-center gap-3 overflow-x-auto pb-2">'
           new = '''<div class="filter-dropdown-row flex flex-nowrap items-center gap-3 pb-2" :class="openDropdown ? 'overflow-visible' : 'overflow-x-auto'">'''
           if old in text:
               text = text.replace(old, new, 1)
-              print('Applied dropdown overflow fix.')
 
-          # Remove any helper left by previous versions.
-          text = re.sub(
+          # Remove every previous placement of the helper. We will add exactly
+          # one copy OUTSIDE the white filter panel so it can never be clipped.
+          patterns = [
               r'\s*<!-- Helper Text \(shown for > 24h\).*?</div>',
-              '', text, count=1, flags=re.S
-          )
-          text = re.sub(
               r'\s*<div[^>]*x-text=["\']uiText\.timeframe_helper["\'][^>]*></div>',
-              '', text, count=1
-          )
+          ]
+          for pattern in patterns:
+              text = re.sub(pattern, '', text, count=1, flags=re.S)
 
-          # Restore the guidance AFTER the scrollable filter row has closed.
-          # It therefore remains visible without creating a scrollbar in the row.
-          marker = '''                </select>\n            </div>\n\n        </div>\n    </div>\n\n    <!-- Loading State (CLS-safe skeleton layout) -->'''
-          helper = '''                </select>\n            </div>\n\n        </div>\n\n        <div x-show="timeframe > 24" x-cloak x-transition\n            class="mt-1 px-1 text-[10px] text-gray-500 italic leading-tight"\n            x-text="uiText.timeframe_helper"></div>\n    </div>\n\n    <!-- Loading State (CLS-safe skeleton layout) -->'''
+          # The filter panel ends immediately before the loading-state comment.
+          # Put the guidance after that panel, not inside the scrollable filter row.
+          marker = '''    </div>\n\n    <!-- Loading State (CLS-safe skeleton layout) -->'''
+          helper = '''    </div>\n\n    <!-- Timeframe guidance: outside the filter panel so it never participates in filter scrolling -->\n    <div x-show="Number(timeframe) > 24" x-cloak x-transition\n        class="mb-6 px-1 text-[10px] text-gray-500 italic leading-tight"\n        x-text="uiText.timeframe_helper || '📌 Latest signals appear first. Scroll down to see older items from the selected timeframe.'"></div>\n\n    <!-- Loading State (CLS-safe skeleton layout) -->'''
 
           if marker not in text:
-              raise SystemExit('Expected timeframe/filter panel boundary was not found; refusing to modify index.html.')
+              raise SystemExit('Expected filter-panel/loading boundary was not found; refusing to modify index.html.')
           text = text.replace(marker, helper, 1)
 
           path.write_text(text, encoding='utf-8')
-          print('Timeframe guidance restored outside the scrollable row.')
+          print('Timeframe guidance is now outside the filter panel.')
 
       - name: Commit fix
         run: |
@@ -60,5 +58,5 @@ jobs:
           git config user.email 'bot@aipulse.ai'
           git add index.html
           git diff --cached --quiet && exit 0
-          git commit -m 'Restore timeframe scroll guidance outside filter overflow'
+          git commit -m 'Place timeframe guidance outside filter panel'
           git push origin main
