@@ -1,0 +1,43 @@
+name: Fix Filter Dropdown Layout
+
+on:
+  push:
+
+permissions:
+  contents: write
+
+jobs:
+  fix-layout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fix Industry wrapper
+        shell: python
+        run: |
+          from pathlib import Path
+
+          path = Path('index.html')
+          text = path.read_text(encoding='utf-8')
+
+          marker = '<!-- Company Dropdown -->'
+          before, after = text.split(marker, 1)
+
+          old = '''                    <p x-show="availableIndustries.length === 0" class="text-xs text-gray-400 italic p-3">No industries tagged yet</p>\n                </div>\n            </div>\n\n            '''
+          new = '''                    <p x-show="availableIndustries.length === 0" class="text-xs text-gray-400 italic p-3">No industries tagged yet</p>\n                  </div>\n                </div>\n            </div>\n\n            '''
+
+          if old in before:
+              path.write_text(before.replace(old, new, 1) + marker + after, encoding='utf-8')
+              print('Fixed Industry dropdown wrapper.')
+          else:
+              print('No matching broken wrapper found; layout may already be fixed.')
+
+      - name: Commit fix
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html
+          git diff --cached --quiet && exit 0
+          git commit -m 'Fix filter dropdown row layout'
+          git push
