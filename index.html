@@ -587,6 +587,11 @@ window.addEventListener('load', function() {
             x-text="uiText.timeframe_helper"></div>
     </div>
 
+    <!-- Timeframe guidance: outside the filter panel so it never participates in filter scrolling -->
+    <div x-show="Number(timeframe) > 24" x-cloak x-transition
+        class="mb-6 px-1 text-[10px] text-gray-500 italic leading-tight"
+        x-text="uiText.timeframe_helper || '📌 Latest signals appear first. Scroll down to see older items from the selected timeframe.'"></div>
+
     <!-- Loading State (CLS-safe skeleton layout) -->
     <div x-show="loading" class="py-4">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6" aria-hidden="true">
