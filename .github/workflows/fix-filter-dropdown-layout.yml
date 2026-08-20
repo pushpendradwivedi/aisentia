@@ -12,32 +12,45 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Fix Industry wrapper
         shell: python
         run: |
           from pathlib import Path
+          import re
 
           path = Path('index.html')
           text = path.read_text(encoding='utf-8')
 
-          marker = '<!-- Company Dropdown -->'
-          before, after = text.split(marker, 1)
+          # Between the Industry empty-state paragraph and Company Dropdown,
+          # three divs must close: option list, dropdown panel, outer wrapper.
+          pattern = re.compile(
+              r'(No industries tagged yet</p>)\n'
+              r'(\s*</div>)\n'
+              r'(\s*</div>)\n'
+              r'(\s*\n\s*<!-- Company Dropdown -->)'
+          )
 
-          old = '''                    <p x-show="availableIndustries.length === 0" class="text-xs text-gray-400 italic p-3">No industries tagged yet</p>\n                </div>\n            </div>\n\n            '''
-          new = '''                    <p x-show="availableIndustries.length === 0" class="text-xs text-gray-400 italic p-3">No industries tagged yet</p>\n                  </div>\n                </div>\n            </div>\n\n            '''
+          def fix(m):
+              return m.group(1) + '\n                    </div>\n                </div>\n            </div>' + m.group(4)
 
-          if old in before:
-              path.write_text(before.replace(old, new, 1) + marker + after, encoding='utf-8')
-              print('Fixed Industry dropdown wrapper.')
+          fixed, count = pattern.subn(fix, text, count=1)
+          if count:
+              path.write_text(fixed, encoding='utf-8')
+              print('Fixed Industry dropdown: restored missing closing wrapper.')
           else:
-              print('No matching broken wrapper found; layout may already be fixed.')
+              print('No broken Industry wrapper pattern found.')
 
-      - name: Commit fix
+      - name: Commit and push
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add index.html
-          git diff --cached --quiet && exit 0
+          if git diff --cached --quiet; then
+            echo 'No index.html change required.'
+            exit 0
+          fi
           git commit -m 'Fix filter dropdown row layout'
-          git push
+          git push origin main
