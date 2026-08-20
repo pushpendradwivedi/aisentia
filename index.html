@@ -581,6 +581,10 @@ window.addEventListener('load', function() {
             </div>
 
         </div>
+
+        <div x-show="timeframe > 24" x-cloak x-transition
+            class="mt-1 px-1 text-[10px] text-gray-500 italic leading-tight"
+            x-text="uiText.timeframe_helper"></div>
     </div>
 
     <!-- Loading State (CLS-safe skeleton layout) -->
