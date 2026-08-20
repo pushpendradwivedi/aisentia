@@ -294,6 +294,11 @@ window.addEventListener('load', function() {
   }
 }
 </script>
+
+<style id="timeframe-overflow-fix">
+.filter-dropdown-row { position: relative; overflow-y: visible !important; }
+.filter-dropdown-row:not(:has([x-show*="openDropdown"])) { overflow-y: visible !important; }
+</style>
 </head>
 
 <body x-data="app()" class="flex flex-col min-h-screen">
@@ -573,10 +578,6 @@ window.addEventListener('load', function() {
                     <option value="2160" x-text="uiText.timeframe_90d">Last 90 Days</option>
                     <option value="8760" x-text="uiText.timeframe_365d">Last 365 Days</option>
                 </select>
-                <!-- Helper Text (shown for > 24h) - positioned below, wraps in 2 lines -->
-                 <div x-show="timeframe > 24" x-cloak x-transition 
-                  class="absolute top-full left-0 mt-1 text-[9px] text-gray-500 italic max-w-[16rem] leading-tight" 
-                  x-text="uiText.timeframe_helper"></div>
             </div>
 
         </div>
