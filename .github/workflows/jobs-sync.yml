@@ -56,6 +56,7 @@ jobs:
 
       - name: Publish current jobs
         run: |
+          # Keep the generated data; remove only the temporary ingestion files.
           rm -f job_sources.json jobs_ingest.py
           git config user.name 'AI Sentia Jobs Bot'
           git config user.email 'bot@aipulse.ai'
