@@ -1,6 +1,755 @@
 {
-  "refreshed_at": "2026-08-19 13:05 UTC",
+  "refreshed_at": "2026-08-20 01:22 UTC",
   "items": [
+    {
+      "title": "นำเสนอ Zero Data Retention สำหรับโมเดลระดับ frontier",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-19T19:00:00Z",
+      "summary": "ตอนนี้ OpenAI นำเสนอตัวเลือก Zero Data Retention (การไม่เก็บรักษาข้อมูล) สำหรับโมเดล AI ระดับ frontier แล้ว",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7e1debc1bd0a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Replit ขยายการเข้าถึงการสร้างซอฟต์แวร์ด้วย GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-19T07:00:00Z",
+      "summary": "Replit ขยายการเข้าถึงการสร้างซอฟต์แวร์ด้วยการรวม GPT-5.6 Luna",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "09f9dc1b5215",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI",
+        "Replit"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "5 วิธีใหม่ในการยกระดับการเรียนรู้ของคุณด้วย Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-19T19:00:00Z",
+      "summary": "Google Search เปิดตัว 5 ฟีเจอร์ใหม่สำหรับเครื่องมือช่วยการเรียนรู้",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ffa128c00a29",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ตัวกรองโดเมนและวันที่เผยแพร่สำหรับ Web Search บน AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-19T22:13:20Z",
+      "summary": "AWS เพิ่มตัวกรองโดเมนและวันที่เผยแพร่สำหรับการค้นหา Web Search บน AgentCore",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4874851b064b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "พัฒนาระบบประมวลผลเอกสารอัตโนมัติด้วย Quick Automate และ IDP Accelerator",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-19T22:09:56Z",
+      "summary": "AWS เปิดตัว Quick Automate และ IDP Accelerator สำหรับการประมวลผลเอกสารแบบอัตโนมัติ",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5362a47d7bb9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "รูปแบบ Asynchronous สำหรับการเรียกใช้เอเจนต์ Amazon Bedrock AgentCore ใน serverless pipelines",
+      "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-19T22:06:09Z",
+      "summary": "AWS ให้รายละเอียดเกี่ยวกับรูปแบบ asynchronous สำหรับการเรียกใช้เอเจนต์ Amazon Bedrock AgentCore ใน serverless pipelines",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7d03b446a8f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Fanatics Betting and Gaming สร้างระบบสนับสนุนลูกค้าแบบ multi-agent อย่างไร",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-19T20:40:45Z",
+      "summary": "Fanatics Betting and Gaming สร้างระบบสนับสนุนลูกค้าแบบ multi-agent โดยใช้ AWS",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "725e55e14b82",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming",
+        "Retail",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Fanatics"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "KnowledgeForge: ขุดทองจากสุสานตั๋ว ITSM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-19T20:36:50Z",
+      "summary": "AWS สำรวจ KnowledgeForge สำหรับการสกัดข้อมูลเชิงลึกจากประวัติตั๋ว ITSM",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c998190b4654",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ชาวอเมริกันหลายล้านคนกำลังขอความช่วยเหลือทางการแพทย์จาก AI แต่ข้อมูลที่ไม่ดีกำลังเป็นอุปสรรค",
+      "link": "https://www.healthcareittoday.com/2026/08/19/millions-of-americans-are-asking-ai-for-medical-help-bad-data-is-standing-in-the-way/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-08-19T14:00:22Z",
+      "summary": "คุณภาพข้อมูลที่ไม่ดีขัดขวางเครื่องมือช่วยเหลือทางการแพทย์ด้วย AI ที่ใช้นับล้านคน",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d8ee7619bde1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Elevate ซื้อ Lupl ในการขยายธุรกิจซอฟต์แวร์",
+      "link": "https://www.artificiallawyer.com/2026/08/19/elevate-buys-lupl-in-software-business-expansion/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-08-19T07:00:49Z",
+      "summary": "Elevate เข้าซื้อกิจการ Lupl ผู้ให้บริการซอฟต์แวร์ด้านกฎหมาย เพื่อขยายข้อเสนอการบริการทางเทคโนโลยี",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4944744502db",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Elevate",
+        "Lupl"
+      ],
+      "job_titles": [
+        "CIO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Senior Manager, Growth Marketing - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92YTBfNVZ6clFKcENNcmJDSUYtMElYektoRFd4N0VxQWhsTUNWNjBzalMwT2tDYy1SNDJwVkpwd1N3T3VhcVlpYmFOZUlJUkZIRmtTWTBveTdHYWxTU2VqeXFDcUNQbTFqM3ZBWndBeUdzMDBJMmxtcWo5NA?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-08-19T11:22:41Z",
+      "summary": "Sarvam AI กำลังเปิดรับสมัครตำแหน่ง Senior Manager ด้าน growth marketing",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "04aa2b9eb2e3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เช็คพอยต์ LFM2.5 Q4_0 จาก Quantization-Aware Distillation",
+      "link": "https://huggingface.co/blog/LiquidAI/qad",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-19T13:48:49Z",
+      "summary": "Liquid AI ปล่อยเช็คพอยต์ quantization-aware distillation สำหรับ LFM2.5",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "34372b36cf13",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "Liquid AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Stripe ไม่ได้ซื้อ OpenRouter เพราะเรื่อง 'singularity' จริงๆ",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T23:32:00Z",
+      "summary": "Stripe เข้าซื้อ OpenRouter ด้วยแรงจูงใจทางยุทธศาสตร์ในทางปฏิบัติ มากกว่าข้อกล่าวอ้างเรื่อง singularity ที่เป็นการคาดเดา",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "42bbaa081fc3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "OpenRouter",
+        "Stripe"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI พยายามก้าวเหนือกว่า Anthropic ด้วยมาตรการคุ้มครองความเป็นส่วนตัวของลูกค้าใหม่",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T22:10:46Z",
+      "summary": "OpenAI แนะนำมาตรการคุ้มครองความเป็นส่วนตัวของลูกค้าที่ยกระดับขึ้นเพื่อแข่งขันกับ Anthropic",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d306eafa18af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CEO ของ Cognition ปฏิเสธรายงานข่าวที่ว่า SpaceX พยายามเข้าซื้อสตาร์ทอัพแห่งนี้",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T21:51:23Z",
+      "summary": "CEO ของ Cognition ปฏิเสธรายงานข่าวที่ว่า SpaceX พยายามขอซื้อกิจการสตาร์ทอัพปัญญาประดิษฐ์",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6aba2536a5ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [
+        "Cognition",
+        "SpaceX"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "จริง ๆ แล้ว AI ควรจะชนะใจผู้คนได้แล้วในตอนนี้ — แต่ก็ยังทำไม่ได้",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T19:11:40Z",
+      "summary": "การยอมรับและความกระตือรือร้นของสาธารณชนต่อปัญญาประดิษฐ์ยังไม่เป็นไปตามความคาดหวังในตอนแรก",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "88cde3112e54",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Google อัดแน่น Search และ Gemini ด้วยเครื่องมือการเรียนรู้ AI ใหม่",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T19:00:00Z",
+      "summary": "Google ผสานรวมฟีเจอร์การเรียนรู้ด้วยปัญญาประดิษฐ์ใหม่ๆ เข้าไปใน Search และ Gemini สำหรับนักเรียนนักศึกษา",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8656b8f78d55",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "นักวิจัยเผย OpenAI เพิกถอนการเข้าถึงโครงการไซเบอร์แบบจำกัดของพวกเขา",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T18:46:14Z",
+      "summary": "มีรายงานว่า OpenAI เพิกถอนการเข้าถึงโครงการความปลอดภัยทางไซเบอร์แบบจำกัดของเหล่านักวิจัย",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5276b3d7b615",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "พบกับสตาร์ทอัพที่ช่วย Wall Street ประเมินราคาของทรัพยากรคำนวณ AI",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T17:26:48Z",
+      "summary": "สตาร์ทอัพรายใหม่ช่วยเหลือ Wall Street ในการประเมินมูลค่าและกำหนดราคาสำหรับทรัพยากรการประมวลผลปัญญาประดิษฐ์",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "da3d698d8f48",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Amazon ให้บริการ Alexa+ ขับเคลื่อนด้วย AI ฟรีบน Fire TV โดยไม่จำเป็นต้องมี Prime",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T15:00:00Z",
+      "summary": "Amazon ให้บริการ Alexa+ ที่ขับเคลื่อนด้วย AI ฟรีบน Fire TV โดยไม่ต้องสมัครสมาชิก Prime",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "655769ab72fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Calendly กระโดดเข้าร่วมสนามเครื่องมือจดบันทึกการประชุม",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T14:09:39Z",
+      "summary": "Calendly เปิดตัวฟีเจอร์จดบันทึกการประชุมโดยใช้เครื่องมือถอดความอัตโนมัติ",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "759443956e5c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Calendly"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "VentureBeat แต่งตั้ง Rob Strechay เป็น Lead Analyst คนแรก เพื่อขยายการวิจัย AI สำหรับองค์กร",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "source": "VentureBeat AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T14:18:12Z",
+      "summary": "VentureBeat แต่งตั้ง Rob Strechay เป็น Lead Analyst เพื่อขยายขอบเขตการวิจัย AI สำหรับองค์กร",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f8a8e90f0b14",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "VentureBeat"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Meta AI กำลังจะมีแอปบน Mac - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQjMwR3BIdlZqSEEyQkx1OUFoVmZ1WkU3Z1BOajdJQ3g2OFFlZ3JZdFMtUW9naGlnU0RxU0FqYmg3UzBGcTVBRUxWWjhHRzdSdU1KdDNTWFVQUGNUbjd5dVpR?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T17:00:00Z",
+      "summary": "Meta กำลังเปิดตัวเดสก์ท็อปแอปพลิเคชันสำหรับ Meta AI บน macOS",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "82bf14b21b9e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "OpenAI แตะเบรกแล้ว แล้วไงต่อ? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVBpOGVMWlVRLTRvMkhuWndIZVBLRTdISmxRNXpQSk1kU0RHNWswNjVfeER4LS1JSkRuTXQ4T0FZQ1QwRzBMcG85TE5kNjlJcXBUM1QyYU1oMmtHS2RUS2RQaUxoS0p4YjhlWGM2VVR4aHBWVUdhUEtrZERPazBNb0NWSzFDZldieGc0Ul90bzVHUFoxM2hwZVN3QU8?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T17:10:09Z",
+      "summary": "บทวิเคราะห์การชะลอตัวทางยุทธศาสตร์ล่าสุดของ OpenAI และผลกระทบในอนาคต",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b40115d8cefb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "กลยุทธ์ทางการเงินใหม่ของ Nvidia ดูไม่สมเหตุสมผล - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0NVYzd6T0FCUjlHd0RmcWpURU9uZG14MFY1aWw4V1FHTzhPZjlzNHZQWlBjTWJMTXA1Qkk2UUMxZFg4eEI4SzF0dEFCaDNOdjBXV1hXT2lBTjBfWWlfa3Y3R3BYdDBtbDFCWHZEdXpCTU42RktDMFBTOXEyLU83QkZkNW9mU0R6NW9NVnpsaVVtQjh5d2o2LUZKbHFqUU9uaGZsWg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T12:00:00Z",
+      "summary": "การตรวจสอบกลยุทธ์ทางการเงินและการจัดวางตำแหน่งในตลาดในปัจจุบันของ Nvidia",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "392ea17ab264",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Finance"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Google Gemini กำลังจะมีศูนย์รวมสำหรับนักเรียนนักศึกษาโดยเฉพาะ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTczWml5cVVkdVhid0VJcFBWRGNLeHVNMGxCblhramlESDFJV2tadHJsU0ktQzdGc1ZXX0tZZXpyNmxaRmlic29hSVJkSm1NeWFrc25RdXNmcUhOaXBYS2R3b2VaMUJFVG91cXRVRVZJRlQwck8zV3RkcDFwQjNmckVaOWRpUFdWMUdxcQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T19:00:00Z",
+      "summary": "Google เปิดตัวศูนย์รวมสำหรับนักเรียนนักศึกษาโดยเฉพาะภายในแพลตฟอร์มปัญญาประดิษฐ์ Gemini",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a44f771088d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "อุปกรณ์ Amazon Fire TV กำลังได้รับการอัปเกรดเป็น Alexa Plus ฟรี - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yMzY5NHdHVktRaWhrbkdSb0tZN0RvVS1FWHhtai1ydkQ4UnE5ZzZGMkxBVnpraGU5ZjljS3lPZk1remM5X2lfcHlEVHctSENhbF9LbWpkYnZTMVdTek9YanBsSVhLLXZVVVI2M3BEbFkxbER4SlE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-19T15:00:00Z",
+      "summary": "Amazon กำลังทยอยเปิดให้อัปเกรด Alexa Plus ฟรีสำหรับอุปกรณ์ Fire TV",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "49fe9e4a0340",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepSeek เพิ่งทำให้ Closed AI ดูตลกไปเลย",
+      "link": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-08-19T18:02:46Z",
+      "summary": "บทวิเคราะห์ผลกระทบของ DeepSeek ต่อโมเดลปัญญาประดิษฐ์แบบ closed-source",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "c2589a6d0421",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepSeek"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ฤดูร้อนที่คณิตศาสตร์พ่ายแพ้ต่อเครื่องจักร...",
+      "link": "https://www.youtube.com/watch?v=iuZPTE5qsJY",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-08-19T18:45:57Z",
+      "summary": "การพูดคุยเกี่ยวกับความก้าวหน้าล่าสุดของความสามารถของ AI ในการแก้ปัญหาทางคณิตศาสตร์",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "66cb291e215b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
     {
       "title": "ChatGPT Ads ขยายตัวทั่วทวีปยุโรป",
       "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
