@@ -1,0 +1,65 @@
+name: AI Sentia Jobs Sync
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/jobs-sync.yml'
+      - 'jobs.html'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout AI Sentia
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Download the verified ingestion pipeline
+        run: |
+          curl -fsSL https://raw.githubusercontent.com/pushpendradwivedi/ai-pulse-dashboard/main/jobs_ingest.py -o jobs_ingest.py
+          curl -fsSL https://raw.githubusercontent.com/pushpendradwivedi/ai-pulse-dashboard/main/data/job_sources.json -o job_sources.json
+          mkdir -p data
+          cp job_sources.json data/job_sources.json
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Build complete current AI jobs snapshot
+        run: python jobs_ingest.py
+
+      - name: Validate snapshot before publishing
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          d=json.loads(Path('data/jobs.json').read_text())
+          assert d['successful_source_count'] == d['source_count']
+          assert d['job_count'] == len(d['jobs'])
+          urls=[j.get('job_url') or j.get('apply_url') for j in d['jobs']]
+          urls=[u for u in urls if u]
+          assert len(urls) == len(set(urls)), 'Duplicate canonical job URLs found'
+          keys=[j['source_key'] for j in d['jobs']]
+          assert len(keys) == len(set(keys)), 'Duplicate source job IDs found'
+          assert d['job_count'] > 0, 'Refusing to publish an empty job dataset'
+          print(f"Validated {d['job_count']} unique AI jobs from {d['source_count']} sources")
+          PY
+
+      - name: Publish current jobs
+        run: |
+          rm -f job_sources.json jobs_ingest.py
+          git config user.name 'AI Sentia Jobs Bot'
+          git config user.email 'bot@aipulse.ai'
+          git add data/jobs.json data/job_sources.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Jobs: refresh live AI job listings'
+          git push origin main
