@@ -15,7 +15,7 @@ jobs:
       - name: Checkout AI Sentia
         uses: actions/checkout@v4
 
-      - name: Fix timeframe overflow directly in index.html
+      - name: Fix dropdown and timeframe helper layout
         shell: python
         run: |
           from pathlib import Path
@@ -24,32 +24,35 @@ jobs:
           path = Path('index.html')
           text = path.read_text(encoding='utf-8')
 
-          # Keep the dropdown fix already deployed.
+          # Keep the filter row horizontally scrollable when closed, but let
+          # open dropdown menus escape the row.
           old = '<div class="flex flex-nowrap items-center gap-3 overflow-x-auto pb-2">'
           new = '''<div class="filter-dropdown-row flex flex-nowrap items-center gap-3 pb-2" :class="openDropdown ? 'overflow-visible' : 'overflow-x-auto'">'''
           if old in text:
               text = text.replace(old, new, 1)
+              print('Applied dropdown overflow fix.')
 
-          # Remove ANY version of the timeframe helper block. This is intentionally
-          # regex-based so formatting changes cannot leave the helper behind.
-          pattern = r'\s*<!-- Helper Text \(shown for > 24h\).*?</div>'
-          text, removed = re.subn(pattern, '', text, count=1, flags=re.S)
-          if removed:
-              print('Removed timeframe helper block.')
+          # Remove any helper left by previous versions.
+          text = re.sub(
+              r'\s*<!-- Helper Text \(shown for > 24h\).*?</div>',
+              '', text, count=1, flags=re.S
+          )
+          text = re.sub(
+              r'\s*<div[^>]*x-text=["\']uiText\.timeframe_helper["\'][^>]*></div>',
+              '', text, count=1
+          )
 
-          # Also remove an orphan helper div if the HTML comment was changed/removed.
-          pattern2 = r'\s*<div[^>]*x-text=["\']uiText\.timeframe_helper["\'][^>]*></div>'
-          text, removed2 = re.subn(pattern2, '', text, count=1, flags=re.S)
-          if removed2:
-              print('Removed orphan timeframe helper.')
+          # Restore the guidance AFTER the scrollable filter row has closed.
+          # It therefore remains visible without creating a scrollbar in the row.
+          marker = '''                </select>\n            </div>\n\n        </div>\n    </div>\n\n    <!-- Loading State (CLS-safe skeleton layout) -->'''
+          helper = '''                </select>\n            </div>\n\n        </div>\n\n        <div x-show="timeframe > 24" x-cloak x-transition\n            class="mt-1 px-1 text-[10px] text-gray-500 italic leading-tight"\n            x-text="uiText.timeframe_helper"></div>\n    </div>\n\n    <!-- Loading State (CLS-safe skeleton layout) -->'''
 
-          # Make the filter panel a fixed-height single-row control area. The cards
-          # below remain the only vertically scrollable page content.
-          css = '''\n<style id="timeframe-overflow-fix">\n.filter-dropdown-row { position: relative; overflow-y: visible !important; }\n.filter-dropdown-row:not(:has([x-show*=\"openDropdown\"])) { overflow-y: visible !important; }\n</style>\n'''
-          if 'id="timeframe-overflow-fix"' not in text:
-              text = text.replace('</head>', css + '</head>', 1)
+          if marker not in text:
+              raise SystemExit('Expected timeframe/filter panel boundary was not found; refusing to modify index.html.')
+          text = text.replace(marker, helper, 1)
 
           path.write_text(text, encoding='utf-8')
+          print('Timeframe guidance restored outside the scrollable row.')
 
       - name: Commit fix
         run: |
@@ -57,5 +60,5 @@ jobs:
           git config user.email 'bot@aipulse.ai'
           git add index.html
           git diff --cached --quiet && exit 0
-          git commit -m 'Fix timeframe filter overflow'
+          git commit -m 'Restore timeframe scroll guidance outside filter overflow'
           git push origin main
