@@ -294,11 +294,6 @@ window.addEventListener('load', function() {
   }
 }
 </script>
-
-<style id="timeframe-overflow-fix">
-.filter-dropdown-row { position: relative; overflow-y: visible !important; }
-.filter-dropdown-row:not(:has([x-show*="openDropdown"])) { overflow-y: visible !important; }
-</style>
 </head>
 
 <body x-data="app()" class="flex flex-col min-h-screen">
@@ -364,7 +359,6 @@ window.addEventListener('load', function() {
 
         <!-- Desktop Navigation Links -->
         <div class="hidden md:flex items-center gap-6 text-xs font-bold text-gray-500">
-            <a href="jobs.html" class="hover:text-g-blue transition">Jobs</a>
             <a href="about.html" class="hover:text-g-blue transition">About</a>
             <a href="sources.html" class="hover:text-g-blue transition">Sources</a>
             <a href="methodology.html" class="hover:text-g-blue transition">How It Works</a>
@@ -394,7 +388,6 @@ window.addEventListener('load', function() {
          x-transition:leave-end="opacity-0"
          class="md:hidden fixed top-[72px] left-0 right-0 mx-4 bg-white rounded-lg shadow-xl border border-gray-200 z-40 overflow-hidden">
         <div class="flex flex-col">
-            <a href="jobs.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 border-b border-gray-100 transition" @click="mobileMenuOpen = false">Jobs</a>
             <a href="about.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 border-b border-gray-100 transition" @click="mobileMenuOpen = false">About</a>
             <a href="sources.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 border-b border-gray-100 transition" @click="mobileMenuOpen = false">Sources</a>
             <a href="methodology.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 transition" @click="mobileMenuOpen = false">How It Works</a>
@@ -409,7 +402,7 @@ window.addEventListener('load', function() {
          FILTER BAR
          ============================================================ -->
     <div class="bg-white p-5 rounded-xl border border-gray-200 mb-8 shadow-sm min-h-[120px]">
-        <div class="filter-dropdown-row flex flex-nowrap items-center gap-3 pb-2" :class="openDropdown ? 'overflow-visible' : 'overflow-x-auto'">
+        <div class="flex flex-nowrap items-center gap-3 overflow-x-auto pb-2">
 
             <!-- All Signals / Reset -->
             <button
@@ -578,19 +571,14 @@ window.addEventListener('load', function() {
                     <option value="2160" x-text="uiText.timeframe_90d">Last 90 Days</option>
                     <option value="8760" x-text="uiText.timeframe_365d">Last 365 Days</option>
                 </select>
+                <!-- Helper Text (shown for > 24h) - positioned below, wraps in 2 lines -->
+                 <div x-show="timeframe > 24" x-cloak x-transition 
+                  class="absolute top-full left-0 mt-1 text-[9px] text-gray-500 italic max-w-[16rem] leading-tight" 
+                  x-text="uiText.timeframe_helper"></div>
             </div>
 
         </div>
-
-        <div x-show="timeframe > 24" x-cloak x-transition
-            class="mt-1 px-1 text-[10px] text-gray-500 italic leading-tight"
-            x-text="uiText.timeframe_helper"></div>
     </div>
-
-    <!-- Timeframe guidance: outside the filter panel so it never participates in filter scrolling -->
-    <div x-show="Number(timeframe) > 24" x-cloak x-transition
-        class="mb-6 px-1 text-[10px] text-gray-500 italic leading-tight"
-        x-text="uiText.timeframe_helper || '📌 Latest signals appear first. Scroll down to see older items from the selected timeframe.'"></div>
 
     <!-- Loading State (CLS-safe skeleton layout) -->
     <div x-show="loading" class="py-4">

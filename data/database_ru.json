@@ -1,6 +1,637 @@
 {
-  "refreshed_at": "2026-08-20 15:54 UTC",
+  "refreshed_at": "2026-08-21 01:26 UTC",
   "items": [
+    {
+      "title": "Представляем AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T07:00:00Z",
+      "summary": "OpenAI представила AI Futures.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2e8bfa2782e5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Расширение доступа к Skala ускоряет путь к предиктивной DFT",
+      "link": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T16:00:00Z",
+      "summary": "Microsoft расширяет доступ к Skala для рабочих процессов предиктивной DFT.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ca232bad2301",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Представляем межрегиональный инференс для моделей OpenAI GPT-5.6 в Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T21:46:03Z",
+      "summary": "Amazon Bedrock теперь поддерживает межрегиональный инференс для моделей OpenAI GPT-5.6.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1f6053c03046",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Создание ML-процесса без кода с помощью Snowflake, Amazon SageMaker Canvas и Amazon Quick — Часть 1: Настройка среды Snowflake",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T21:23:38Z",
+      "summary": "Первая часть руководства по настройке Snowflake для ML-процесса без кода.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d92a4677b289",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Snowflake"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Создание ML-процесса без кода с помощью Snowflake, Amazon SageMaker Canvas и Amazon Quick — Часть 2: Подготовка данных и создание модели с помощью Amazon SageMaker Canvas",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T21:23:29Z",
+      "summary": "Во второй части подробно описываются подготовка данных и создание моделей с использованием Amazon SageMaker Canvas.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a9c511d21d38",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Snowflake"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Создание ML-процесса без кода с помощью Snowflake, Amazon SageMaker Canvas и Amazon Quick — Часть 3: Визуализация аналитики с помощью Amazon Quick Sight",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T21:23:23Z",
+      "summary": "В третьей части рассматривается визуализация аналитики с использованием Amazon QuickSight в ML-процессе без кода.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1ed8e465a8d4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Snowflake"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Создание политик Dogwood на естественном языке в Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T16:31:28Z",
+      "summary": "Amazon Bedrock AgentCore позволяет создавать политики Dogwood на естественном языке.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "02ca2683ac0f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Масштабирование агентного ИИ: корпоративные паттерны без привязки к поставщику",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T16:24:12Z",
+      "summary": "AWS обсуждает корпоративные паттерны для масштабирования агентного ИИ без привязки к поставщику.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3d3326574d29",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Масштабирование облачных миграций с помощью агентного ИИ в Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T16:11:18Z",
+      "summary": "AWS подробно рассказывает о масштабировании облачной миграции с использованием агентного ИИ в Amazon Bedrock AgentCore.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "33d7e52a4596",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Векторные решения AWS: создавайте агентный ИИ там, где хранятся ваши данные",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-20T16:06:06Z",
+      "summary": "AWS освещает векторные решения для создания агентного ИИ непосредственно там, где находятся данные.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9a0b2b8f3939",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bioptimus и Cancer Research Horizons стали партнерами по созданию ИИ-модели для борьбы с раком — MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDNlSE4yLTdoVEx4eVpXMW9qODc0UzF1cFhjT1NjU19CWHp5a2FRcFdsVGFNOC12bEtudzlxWVp0aXNudWJWRzJuaERWZ2dtVUhLeHE4dGQtNTFHT3l4UmViSlBaTmZjdWpTRkNmcmNJZm9ua0d1MjlrS0NhbWp0NG9GSXdGbVpIOHpFUVYyX1hQbGxRcng2ekd3?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-20T19:19:14Z",
+      "summary": "Bioptimus заключила партнерство с Cancer Research Horizons для создания ИИ-модели для исследований рака.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3ea050c5b07b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Bioptimus",
+        "Cancer Research Horizons"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "FDA оценивает нормативный подход к медицинским устройствам на базе genAI — MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXdqcjl0c0JjOWFsdVZPMlJNbDN6ekxCb0xDSEY4OXhLQTNCSnFSbHljNWxQSXVqd1A3VzlabUJ1Vnp1SEVReDRXclVvaDVmNXZySUZ5Y01KQnFlOHZvaXlwN2Y0VTJLRXduc1FESmJOS2t1VE1LQWFCd1IxYnJrRUdBZkwxQ2h0c2NGU3JUbW5zUQ?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-08-20T18:30:46Z",
+      "summary": "FDA оценивает нормативно-правовую базу для медицинских устройств на базе генеративного ИИ.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3445b3ffa998",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices",
+        "Government"
+      ],
+      "companies": [
+        "FDA"
+      ],
+      "job_titles": [
+        "Chief Medical Officer",
+        "Product Manager",
+        "Regulatory Affairs"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Ускорение инференса до 3,2 раз с LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-08-20T16:52:57Z",
+      "summary": "LFM2.5-DSpark обеспечивает увеличение скорости инференса моделей машинного обучения до 3,2 раз.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b1eabc16d142",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "Liquid AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Стартап в сфере ИИ-данных Micro1 достиг валовой выручки в $500 млн на фоне бума обучения ИИ",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-21T00:13:44Z",
+      "summary": "Micro1 достигла валовой выручки в $500 млн благодаря резко выросшему спросу на обучение ИИ.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "715aa7b8d8cb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Micro1"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Новые данные показывают, что OpenAI догоняет Anthropic среди бизнес-пользователей",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-20T22:36:37Z",
+      "summary": "Данные показывают, что OpenAI увеличивает долю на корпоративном рынке по сравнению с конкурентом Anthropic.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "08dddb48c1bd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ChatGPT теперь может отправлять сообщения за вас с помощью нового плагина Apple Messages",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-20T22:09:51Z",
+      "summary": "Новый плагин для Apple Messages позволяет ChatGPT напрямую отправлять текстовые сообщения.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fc53f9f20e6e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google дает издателям новый способ борьбы с потерями трафика из-за ИИ",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-20T19:18:21Z",
+      "summary": "Google представила варианты для издателей по снижению потерь веб-трафика, вызванных ИИ.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b359671ae1bf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Grok продолжает отправлять пользователям бессмысленные ответы",
+      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-20T17:32:16Z",
+      "summary": "Пользователи сообщают, что ИИ-чат-бот Grok выдает бессмысленные ответы.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "90eae5e4b71e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "xAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Исследование показало, что треть веб-страниц, опубликованных с момента запуска ChatGPT, имеют признаки авторства ИИ",
+      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-20T17:18:58Z",
+      "summary": "Исследование показывает, что одна треть веб-страниц, созданных после появления ChatGPT, имеет признаки ИИ-авторства.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "072ab33f0182",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ramp запускает собственный роутер ИИ-моделей под названием Router",
+      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-20T16:46:00Z",
+      "summary": "Ramp выпустила проприетарный ИИ-инструмент под названием Router для оптимизации маршрутизации моделей.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "28cd1afbb67e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Ramp"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta предлагает пользователям из США Pocket — приложение, позволяющее вайб-кодить и делиться играми",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-20T16:07:26Z",
+      "summary": "Meta выпустила Pocket в США, позволяя пользователям вайб-кодить и делиться играми.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a73f5aa32c52",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Теперь это OpenAI Грега Брокмана — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1Rnck8wS3ZmSnVPVnRVeFJOWHRUR0N5V243VGc1eG1CaFlONUQ5RlRDR0JuZXY0djhUUHBWTm44MG1uakhNY01jdjhIXy1USEtkUWlMTEpUTDJDOXJ3YTJ1VUtVNmxWNHotTnluR3d3Wkp4Nm9UUU83SnQ2YjRWWTVfY2E4b0RhU0JQMndXT0VzR3FvQ184OHRB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-08-20T15:45:55Z",
+      "summary": "The Verge сообщает о меняющейся руководящей роли Грега Брокмана в OpenAI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6c3e51ad4bc2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI",
+        "The Verge"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepSeek возвращается... и Кремниевая долина в ужасе",
+      "link": "https://www.youtube.com/watch?v=xBByvFrqmWU",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-08-20T17:53:37Z",
+      "summary": "Видео, в котором обсуждается конкурентное влияние ИИ-моделей DeepSeek на Кремниевую долину.",
+      "persona": "🚀 Startup",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "c4ac9b44b93c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepSeek"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "Как ChatGPT Work помогает компании Stampli быстрее выводить идеи на рынок",
       "link": "https://openai.com/index/stampli",
