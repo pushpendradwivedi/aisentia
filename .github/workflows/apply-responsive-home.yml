@@ -1,0 +1,103 @@
+name: Apply Responsive Home Layout
+
+on:
+  push:
+    paths:
+      - '.github/workflows/apply-responsive-home.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  responsive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout AI Sentia
+        uses: actions/checkout@v4
+
+      - name: Apply responsive CSS safely
+        shell: python
+        run: |
+          from pathlib import Path
+
+          path = Path('index.html')
+          text = path.read_text(encoding='utf-8')
+
+          marker = '/* AI SENTIA RESPONSIVE LAYOUT v1 */'
+          css = r'''<style>
+/* AI SENTIA RESPONSIVE LAYOUT v1 */
+html, body { max-width: 100%; overflow-x: hidden; }
+*, *::before, *::after { box-sizing: border-box; }
+img, video, iframe, svg, canvas { max-width: 100%; }
+button, input, select, textarea { max-width: 100%; }
+
+/* Keep the page fluid; only intentional inner strips may scroll. */
+body { width: 100%; min-width: 0; }
+main, header, footer, section, article, nav, form { max-width: 100%; min-width: 0; }
+
+/* Prevent flex/grid children from forcing the viewport wider. */
+.flex > *, .grid > * { min-width: 0; }
+
+/* Long text must wrap instead of creating page-level overflow. */
+h1, h2, h3, h4, h5, h6, p, a, span { overflow-wrap: anywhere; }
+
+/* Mobile/tablet: compact the page without changing desktop styling. */
+@media (max-width: 767px) {
+  body { font-size: 15px; }
+  .max-w-7xl, .max-w-6xl, .max-w-4xl, .max-w-3xl {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* Containers using desktop side margins become viewport-safe. */
+  .mx-4 { margin-left: .75rem; margin-right: .75rem; }
+
+  /* Intentional horizontal filter strips remain scrollable; the page does not. */
+  .filter-dropdown-row {
+    max-width: 100%;
+    min-width: 0;
+    overflow-x: auto;
+    overflow-y: visible;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+
+  /* Cards/content become single-column where a multi-column layout exists. */
+  .grid { grid-template-columns: minmax(0, 1fr) !important; }
+
+  /* Fixed desktop dimensions should not force narrow screens. */
+  .w-72 { width: min(18rem, 100%); }
+  .h-\[360px\] { height: auto; min-height: 220px; }
+
+  /* Dropdown menus stay inside the viewport on phones. */
+  [x-show="openDropdown"] {
+    max-width: calc(100vw - 1.5rem);
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .max-w-7xl, .max-w-6xl, .max-w-4xl, .max-w-3xl {
+    width: 100%;
+    max-width: calc(100% - 2rem);
+  }
+  .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+</style>'''
+
+          if marker in text:
+              print('Responsive CSS already present; no change needed.')
+          else:
+              if '</head>' not in text:
+                  raise SystemExit('Could not find </head>; refusing to modify index.html.')
+              text = text.replace('</head>', css + '\n</head>', 1)
+              path.write_text(text, encoding='utf-8')
+              print('Responsive CSS applied.')
+
+      - name: Commit responsive layout
+        run: |
+          git config user.name 'AI Sentia Bot'
+          git config user.email 'bot@aipulse.ai'
+          git add index.html
+          git diff --cached --quiet && exit 0
+          git commit -m 'Improve responsive home layout'
+          git push origin main
