@@ -20,5 +20,30 @@
 <p class="note">Job titles and descriptions are displayed using the wording supplied by the source feed. AI Sentia does not rewrite or summarize job descriptions. Listings are removed when a successful source refresh no longer contains them.</p>
 </div>
 <script>
-const state={jobs:[],filters:{}};const $=id=>document.getElementById(id);function uniq(v){return[...new Set(v.filter(Boolean))].sort((a,b)=>a.localeCompare(b))}function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}function opts(el,vals){for(const v of uniq(vals)){const o=document.createElement('option');o.value=v;o.textContent=v;el.appendChild(o)}}function matches(j){const q=state.filters.search.toLowerCase();return(!q||[j.title,j.company,j.location,j.country,j.department,j.description_plain,(j.ai_categories||[]).join(' ')].join(' ').toLowerCase().includes(q))&&(!state.filters.country||j.country===state.filters.country)&&(!state.filters.company||j.company===state.filters.company)&&(!state.filters.category||(j.ai_categories||[]).includes(state.filters.category))&&(!state.filters.workplace||j.workplace_type===state.filters.workplace)}function render(){const jobs=state.jobs.filter(matches);$('count').textContent=jobs.length;$('empty').hidden=jobs.length!==0;$('grid').innerHTML=jobs.map(j=>`<article class="card"><div class="source">${esc(j.source)}</div><h2 class="title">${esc(j.title)}</h2><div class="line"><strong>${esc(j.company)}</strong></div><div class="line">${esc(j.location||j.country||'Location not specified')}</div><div class="tags">${(j.ai_categories||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}${j.workplace_type?`<span class="tag">${esc(j.workplace_type)}</span>`:''}${j.employment_type?`<span class="tag">${esc(j.employment_type)}</span>`:''}${j.salary?`<span class="tag">${esc(j.salary)}</span>`:''}</div><div class="desc">${esc(j.description_plain||'')}</div><div class="actions"><a href="${esc(j.job_url||j.apply_url)}" target="_blank" rel="noopener noreferrer">View original job →</a></div></article>`).join('')}async function init(){try{const r=await fetch('./data/jobs.json',{cache:'no-store'});const d=await r.json();state.jobs=d.jobs||[];$('updated').textContent=`Updated ${new Date(d.generated_at).toLocaleString()}`;opts($('country'),state.jobs.map(j=>j.country));opts($('company'),state.jobs.map(j=>j.company));opts($('category'),state.jobs.flatMap(j=>j.ai_categories||[]));opts($('workplace'),state.jobs.map(j=>j.workplace_type));['search','country','company','category','workplace'].forEach(id=>$(id).addEventListener('input',()=>{state.filters={search:$('search').value,country:$('country').value,company:$('company').value,category:$('category').value,workplace:$('workplace').value};render()}));render()}catch(e){$('updated').textContent='Job data unavailable';$('empty').hidden=false;$('empty').textContent='Job data is temporarily unavailable.'}}init();
+const state={jobs:[],filters:{}};
+const $=id=>document.getElementById(id);
+function uniq(v){return[...new Set(v.filter(Boolean))].sort((a,b)=>a.localeCompare(b))}
+function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function opts(el,vals){for(const v of uniq(vals)){const o=document.createElement('option');o.value=v;o.textContent=v;el.appendChild(o)}}
+function matches(j){const q=state.filters.search.toLowerCase();return(!q||[j.title,j.company,j.location,j.country,j.department,j.description_plain,(j.ai_categories||[]).join(' ')].join(' ').toLowerCase().includes(q))&&(!state.filters.country||j.country===state.filters.country)&&(!state.filters.company||j.company===state.filters.company)&&(!state.filters.category||(j.ai_categories||[]).includes(state.filters.category))&&(!state.filters.workplace||j.workplace_type===state.filters.workplace)}
+function render(){const jobs=state.jobs.filter(matches);$('count').textContent=jobs.length;$('empty').hidden=jobs.length!==0;$('grid').innerHTML=jobs.map(j=>`<article class="card"><div class="source">${esc(j.source)}</div><h2 class="title">${esc(j.title)}</h2><div class="line"><strong>${esc(j.company)}</strong></div><div class="line">${esc(j.location||j.country||'Location not specified')}</div><div class="tags">${(j.ai_categories||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}${j.workplace_type?`<span class="tag">${esc(j.workplace_type)}</span>`:''}${j.employment_type?`<span class="tag">${esc(j.employment_type)}</span>`:''}${j.salary?`<span class="tag">${esc(j.salary)}</span>`:''}</div><div class="desc">${esc(j.description_plain||'')}</div><div class="actions"><a href="${esc(j.job_url||j.apply_url)}" target="_blank" rel="noopener noreferrer">View original job →</a></div></article>`).join('')}
+async function fetchJobs(){
+  const sources=[
+    `https://raw.githubusercontent.com/pushpendradwivedi/ai-pulse-dashboard/main/data/jobs.json?ts=${Date.now()}`,
+    `https://raw.githubusercontent.com/pushpendradwivedi/aisentia/main/data/jobs.json?ts=${Date.now()}`,
+    './data/jobs.json'
+  ];
+  let lastErr=null;
+  for(const url of sources){
+    try{
+      const r=await fetch(url,{cache:'no-store'});
+      if(!r.ok) throw new Error(`HTTP ${r.status}`);
+      const d=await r.json();
+      if(!Array.isArray(d.jobs)||d.jobs.length===0) throw new Error('Empty job dataset');
+      return d;
+    }catch(e){lastErr=e}
+  }
+  throw lastErr||new Error('Unable to load jobs')
+}
+async function init(){try{const d=await fetchJobs();state.jobs=d.jobs||[];$('updated').textContent=`Updated ${new Date(d.generated_at).toLocaleString()}`;opts($('country'),state.jobs.map(j=>j.country));opts($('company'),state.jobs.map(j=>j.company));opts($('category'),state.jobs.flatMap(j=>j.ai_categories||[]));opts($('workplace'),state.jobs.map(j=>j.workplace_type));['search','country','company','category','workplace'].forEach(id=>$(id).addEventListener('input',()=>{state.filters={search:$('search').value,country:$('country').value,company:$('company').value,category:$('category').value,workplace:$('workplace').value};render()}));render()}catch(e){console.error('AI Jobs data load failed:',e);$('updated').textContent='Job data unavailable';$('empty').hidden=false;$('empty').textContent='Job data is temporarily unavailable.'}}init();
 </script></body></html>
