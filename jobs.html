@@ -20,7 +20,7 @@
 <p class="note">Job titles and descriptions are displayed using the wording supplied by the source feed. AI Sentia does not rewrite or summarize job descriptions. Listings are removed when a successful source refresh no longer contains them.</p>
 </div>
 <script>
-const state={jobs:[],filters:{}};
+const state={jobs:[],filters:{search:'',country:'',company:'',category:'',workplace:''}};
 const $=id=>document.getElementById(id);
 function uniq(v){return[...new Set(v.filter(Boolean))].sort((a,b)=>a.localeCompare(b))}
 function esc(s){return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
