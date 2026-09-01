@@ -1,6 +1,267 @@
 {
-  "refreshed_at": "2026-08-31 19:07 UTC",
+  "refreshed_at": "2026-09-01 03:58 UTC",
   "items": [
+    {
+      "title": "Polimill、日本の次世代パブリックAIインフラを構築",
+      "link": "https://openai.com/index/polimill",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-31T07:00:00Z",
+      "summary": "Polimillは日本においてパブリック人工知能インフラを開発しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6489dfdc164c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI",
+        "Polimill"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Japan"
+      ]
+    },
+    {
+      "title": "アライメントとセキュリティ対策の改善 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-31T22:43:26Z",
+      "summary": "Anthropicが自社のAIアライメントおよびセキュリティ対策に関する更新情報を詳しく説明します。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6cc95f3a7c1d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AgentCore RuntimeでホストされたMCPサーバーをAmazon Quickに接続する",
+      "link": "https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-31T22:47:53Z",
+      "summary": "AgentCore RuntimeでホストされたMCPサーバーをAmazon Quickに接続するためのガイド。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "83df0ea0c708",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AWS、「The Forrester Wave: AI Infrastructure Solutions, Q4 2025」においてリーダーに選出",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-31T19:50:12Z",
+      "summary": "Forresterは2025年第4四半期のAIインフラストラクチャソリューションにおいてAWSをリーダーとして評価しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "55663a53cde0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services",
+        "Forrester"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AWS Agent Registryでエージェント、ツール、スキルを大規模に管理",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-31T19:18:09Z",
+      "summary": "AWSは、エージェント、ツール、スキルを大規模に管理するためのAgent Registryを発表しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7f956133cebb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Managed Amazon Bedrock Knowledge BaseとAWS CloudFormationを使用して、可観測性のあるエンタープライズ向けエージェンティック検索を構築する",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-31T19:08:45Z",
+      "summary": "Amazon BedrockとAWS CloudFormationを使用して、エンタープライズ向けエージェンティック検索を構築するチュートリアル。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d375e59a20da",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Baseを使用してエンタープライズデータ上にマルチテナント型エージェンティックチャットアプリケーションを構築する",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-08-31T18:56:12Z",
+      "summary": "Amazon Bedrock Managed Knowledge Baseを使用した、マルチテナント型エージェンティックチャットアプリケーション構築のガイド。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2cc25949da6c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple、OpenAIへの社内データ盗難の疑いがある元従業員に対する「衝撃的な証拠」を提出",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-01T00:13:00Z",
+      "summary": "Appleは、OpenAIのためのデータ盗難で告発されている元従業員に対する証拠を提示しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "00adf4a54ce8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple",
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ペンタゴン、独自のChatGPTおよびGrokのバージョンを導入",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-31T20:13:45Z",
+      "summary": "米国防総省（ペンタゴン）は、ChatGPTやGrokに匹敵する独自のカスタム生成人工知能モデルを配備しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "77b770af978c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Instagram、AI利用を明示していないプロフィールに新たな制限を設定",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-08-31T19:16:59Z",
+      "summary": "Instagramは、人工知能の利用を開示していないアカウントを対象とした新たな制限を導入します。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "72b2e2fa1025",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Instagram"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "AIへのアクセス拡大におけるマイルストーン",
       "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
