@@ -1,6 +1,922 @@
 {
-  "refreshed_at": "2026-09-04 03:20 UTC",
+  "refreshed_at": "2026-09-04 16:17 UTC",
   "items": [
+    {
+      "title": "Compile by Training: การเปลี่ยนข้อกำหนดภาษาธรรมชาติให้เป็น Neural Functions เฉพาะที่",
+      "link": "https://arxiv.org/abs/2609.04199v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:59:49Z",
+      "summary": "นักวิจัยนำเสนอวิธีการฝึกฝนที่แปลงข้อกำหนดภาษาธรรมชาติให้เป็น neural functions",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9262027a5f42",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Clean Engineering, Unstable Measurement: ความล้มเหลวของความน่าเชื่อถือที่ลงทะเบียนไว้ล่วงหน้าของ Black-Box LLM Observers บน Shared Endpoints",
+      "link": "https://arxiv.org/abs/2609.04198v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:59:43Z",
+      "summary": "งานวิจัยนี้เน้นย้ำถึงความล้มเหลวของความน่าเชื่อถือเมื่อประเมิน black-box LLM observers บน shared endpoints",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a250bdfe2296",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ESPO: Error-Structured Prompt Optimization ผ่าน Diagnose, Diversify และ Stabilize",
+      "link": "https://arxiv.org/abs/2609.04197v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:59:37Z",
+      "summary": "ผู้เขียนเสนอ ESPO ซึ่งเป็นเฟรมเวิร์กที่ปรับแต่งพรอมต์ให้เหมาะสมด้วยการวิเคราะห์โครงสร้างข้อผิดพลาด",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "056870a8031e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "One Editor, Many Edits: เฟรมเวิร์กแบบรวมศูนย์ที่ไม่ต้องฝึกฝนสำหรับการตัดต่อวิดีโอที่หลากหลาย",
+      "link": "https://arxiv.org/abs/2609.04190v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:59:01Z",
+      "summary": "งานวิจัยนี้นำเสนอเฟรมเวิร์กที่ไม่ต้องฝึกฝนสำหรับการทำงานตัดต่อวิดีโอที่หลากหลาย",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9a9b5c9024e2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Seeing Before Synthesizing: การค้นหาเหตุการณ์การเปลี่ยนผ่านที่นำทางโดย VLM สำหรับ Weakly-Supervised Dense Video Captioning",
+      "link": "https://arxiv.org/abs/2609.04183v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:58:02Z",
+      "summary": "นักวิจัยเสนอเฟรมเวิร์กการค้นหาเหตุการณ์การเปลี่ยนผ่านที่นำทางโดย VLM สำหรับการทำแคปชันวิดีโอ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "851aa72a556d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การเรียนรู้ความรู้ระหว่าง Pre-training? โมเดลภาษาขนาดใหญ่เรียนรู้ได้ดีขึ้นด้วย Auxiliary Views",
+      "link": "https://arxiv.org/abs/2609.04180v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:57:02Z",
+      "summary": "งานวิจัยแสดงให้เห็นว่าการรวม auxiliary views ในช่วง pre-training ของ LLM ช่วยปรับปรุงการเรียนรู้ความรู้",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "803dbc4330b2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เฟรมเวิร์กที่คำนวณได้จริงสำหรับการอธิบายความน่าจะเป็นเชิงเหตุและผล (Causal Probabilistic Explanation)",
+      "link": "https://arxiv.org/abs/2609.04177v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:55:43Z",
+      "summary": "ผู้เขียนเสนอเฟรมเวิร์กที่คำนวณได้จริงสำหรับการสร้างคำอธิบายความน่าจะเป็นเชิงเหตุและผล",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "32d75107d040",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การทบทวน On-Policy Distillation ของโมเดลภาษาขนาดใหญ่ II: ตัวอย่างการฝึกฝนเดียว",
+      "link": "https://arxiv.org/abs/2609.04172v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:54:38Z",
+      "summary": "การศึกษานี้สำรวจการทำ on-policy distillation ของ LLM โดยใช้ตัวอย่างการฝึกฝนเพียงตัวอย่างเดียว",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e31f22b2b076",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "กรณีศึกษาเกี่ยวกับพฤติกรรมการโกงและการแจ้งเบาะแสที่เกิดขึ้นใน Autonomous Research Swarms",
+      "link": "https://arxiv.org/abs/2609.04170v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:54:09Z",
+      "summary": "งานวิจัยนี้สืบสวนพฤติกรรมการโกงและการแจ้งเบาะแส (whistleblowing) ที่เกิดขึ้นในฝูงเอเจนต์อัตโนมัติแบบหลายตัว",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bb09f0f0aea8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SWE-Gate: การผ่านการทดสอบฟังก์ชันยังไม่เพียงพอสำหรับเอเจนต์วิศวกรรมซอฟต์แวร์",
+      "link": "https://arxiv.org/abs/2609.04167v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:53:34Z",
+      "summary": "ผู้เขียนนำเสนอ SWE-Gate เพื่อประเมินเอเจนต์ AI สำหรับวิศวกรรมซอฟต์แวร์นอกเหนือจากการทดสอบขั้นพื้นฐาน",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "54beb0e38a4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "จากผลลัพธ์ที่ล่อลวงสู่กลไกที่ล่อลวง: กรอบแนวคิดเชิงเหตุผลสำหรับการวิจัยการหลอกลวงของโมเดลภาษา",
+      "link": "https://arxiv.org/abs/2609.04166v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:52:19Z",
+      "summary": "งานวิจัยนี้นำเสนอกรอบแนวคิดเชิงเหตุผลเพื่อสืบสวนกลไกการหลอกลวงในโมเดลภาษา",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cda9fd11ba56",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SENTINEL-RL: การถ่ายโอนงาน Topological Reasoning จาก LLM Agents ใน Security Operations Center",
+      "link": "https://arxiv.org/abs/2609.04159v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:49:12Z",
+      "summary": "SENTINEL-RL ถ่ายโอนงานเหตุผลเชิงโทโพโลยี (topological reasoning) จาก LLM agents ในศูนย์ปฏิบัติการความมั่นคงปลอดภัย",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a43188da63e9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Terminal-Universe: การเปลี่ยนวิถีของเอเจนต์ให้เป็นสภาพแวดล้อมเทอร์มินัลที่ขยายขนาดได้",
+      "link": "https://arxiv.org/abs/2609.04148v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:41:05Z",
+      "summary": "งานวิจัยนี้นำเสนอ Terminal-Universe สำหรับการแปลงวิถีของ AI agent ให้เป็นสภาพแวดล้อมเทอร์มินัลที่ขยายขนาดได้",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c6d8f752c7ff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "แพลตฟอร์มเปิดต้นทุนต่ำสำหรับการขับขี่อัตโนมัติแบบ End-to-End บนยานพาหนะ Ackermann ขนาดจิ๋ว",
+      "link": "https://arxiv.org/abs/2609.04147v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:40:20Z",
+      "summary": "นักวิจัยนำเสนอแพลตฟอร์มเปิดต้นทุนต่ำสำหรับการทดสอบการขับขี่อัตโนมัติบนยานพาหนะขนาดจิ๋ว",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2e677482329a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การปรับตัวในช่วงเวลาทดสอบอย่างมีประสิทธิภาพผ่านปฏิสัมพันธ์ระหว่างมนุษย์และ AI",
+      "link": "https://arxiv.org/abs/2609.04141v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:33:18Z",
+      "summary": "งานวิจัยนำเสนอกรอบการทำงานแบบ human-in-the-loop เพื่อปรับปรุงการปรับตัวในช่วงเวลาทดสอบสำหรับโมเดลการเรียนรู้ของเครื่อง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "05675a7664ae",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "โปรโตคอลและมาตรฐานปฏิสัมพันธ์ภาษาธรรมชาติสำหรับ AI Agents",
+      "link": "https://arxiv.org/abs/2609.04135v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:30:17Z",
+      "summary": "งานวิจัยเสนอโปรโตคอลการปฏิสัมพันธ์ด้วยภาษาธรรมชาติที่เป็นมาตรฐานเพื่ออำนวยความสะดวกในการสื่อสารระหว่าง AI agents",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "daa4b3e896e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "วิวัฒนาการสภาพแวดล้อมสำหรับ Terminal Agents",
+      "link": "https://arxiv.org/abs/2609.04128v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:26:33Z",
+      "summary": "งานวิจัยนำเสนอวิธีการพัฒนาสภาพแวดล้อมเพื่อฝึกฝน AI agents อัตโนมัติบนเทอร์มินัลได้อย่างมีประสิทธิภาพ",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6162388d7f67",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "หลักประกันเชิงความรู้สำหรับการแนะนำของ LLM: การระบุพื้นฐานของความไว้วางใจเมื่อไม่มี Ground Truth",
+      "link": "https://arxiv.org/abs/2609.04127v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:25:20Z",
+      "summary": "การศึกษาพิจารณาพื้นฐานเชิงความรู้ในการพึ่งพาคำแนะนำของ LLM เมื่อไม่มีฉลากความจริง (true labels)",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "edc9a4b90760",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sequential Beats Joint: ปฏิสัมพันธ์ระหว่าง On-Policy Distillation และ RLVR",
+      "link": "https://arxiv.org/abs/2609.04108v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:14:27Z",
+      "summary": "งานวิจัยแสดงให้เห็นว่าการฝึกแบบลำดับ (sequential training) มีประสิทธิภาพเหนือกว่าการปรับให้เหมาะสมแบบร่วม (joint optimization) ในการรวม on-policy distillation เข้ากับ RLVR",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b3d20d3c2edd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ทำไม Gated DeltaNet ถึงรอดจากการทำ 4-Bit Quantization: NVFP4 W4A4 สำหรับครึ่งหนึ่งที่เป็น Recurrent ของ Hybrid 27B LLM",
+      "link": "https://arxiv.org/abs/2609.04098v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:04:26Z",
+      "summary": "งานวิจัยตรวจวิเคราะห์ความทนทานต่อ 4-bit quantization ในสถาปัตยกรรม Gated DeltaNet สำหรับ hybrid 27B LLMs",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "701835f8f789",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Adaptive Vision-Language Grasping ผ่าน Composable Foundation Priors และ Generalizable Grasp Synthesis",
+      "link": "https://arxiv.org/abs/2609.04096v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:03:11Z",
+      "summary": "งานวิจัยนำเสนอกรอบการทำงาน vision-language ที่ใช้ foundation priors เพื่อการสังเคราะห์การหยิบจับของหุ่นยนต์ที่ปรับตัวได้",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2e3d21f490e8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DRACO: Fine-Grained Credit Assignment พร้อม Dynamic Rubrics สำหรับการฝึกเอเจนต์ระยะยาว",
+      "link": "https://arxiv.org/abs/2609.04094v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T17:02:20Z",
+      "summary": "การศึกษาเสนอ DRACO ซึ่งใช้เกณฑ์วัดแบบไดนามิก (dynamic rubrics) เพื่อปรับปรุงการจัดสรรเครดิตในการฝึกเอเจนต์ระยะยาว",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aa9045c5fcab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ทฤษฎีบทที่ไม่สามารถสร้างสูตรได้: ขีดจำกัดพื้นฐานของระบบไวยากรณ์จำกัด และผลกระทบต่อความมั่นคงปลอดภัยและ AI",
+      "link": "https://arxiv.org/abs/2609.04086v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T16:53:22Z",
+      "summary": "งานวิจัยพิสูจน์ข้อจำกัดทางทฤษฎีของระบบไวยากรณ์จำกัดพร้อมผลกระทบต่อ AI และความมั่นคงปลอดภัยไซเบอร์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "231900510492",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CORE: การปรับปรุง Compositional Reasoning ใน MLLM Embedding ผ่าน Reranker Distillation",
+      "link": "https://arxiv.org/abs/2609.04083v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T16:50:29Z",
+      "summary": "งานวิจัยนำเสนอ CORE เพื่อยกระดับการเหตุผลเชิงประกอบในเอนเบดดิงของโมเดลภาษาพหุโหมด (MLLM embedding) โดยใช้ reranker distillation",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d38fe7c47451",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PatchBench: การประเมิน AI Agents สำหรับการอุดช่องโหว่ซอฟต์แวร์",
+      "link": "https://arxiv.org/abs/2609.04075v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T16:44:22Z",
+      "summary": "งานวิจัยนำเสนอ PatchBench เพื่อเป็นเกณฑ์มาตรฐานในการประเมินความสามารถของ AI agents ในการแก้ไขช่องโหว่ซอฟต์แวร์โดยอัตโนมัติ",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "10ca82f5458d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TAP-Path: Task-Adaptive Structural and Token Pruning เพื่อโมเดลพื้นฐานพยาธิวิทยาที่ทรงประสิทธิภาพและน่าเชื่อถือ",
+      "link": "https://arxiv.org/abs/2609.04071v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-03T16:43:36Z",
+      "summary": "การศึกษาเสนอการตัดแต่ง (pruning) ด้วย TAP-Path เพื่อเพิ่มประสิทธิภาพและความน่าเชื่อถือในโมเดลพื้นฐานพยาธิวิทยาดิจิทัล",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "524d2789439a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "โรงพยาบาลแห่งนี้เริ่มการฝึกอบรม AI โดยเริ่มจาก CEO - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16dDRBNTY1MWFGbC1Vd3NWMVlPVGlBRFJuckNDOUZrR092d0RrODlpRFJIV3VrNHBmUDZ0LUk4eUNtR19felJRV1VRREIwS1hDcUhBT2EwN0dOLVdMYUM5cjdJbFJ6OElIcnFJQzNQRW1HbjE3NVEtd2hSQy1jb0U?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-04T14:06:48Z",
+      "summary": "ผู้บริหารโรงพยาบาลเริ่มโปรแกรมการฝึกอบรมความเข้าใจ AI โดยเริ่มจาก CEO เพื่อส่งเสริมการใช้งาน",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "747388535bad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "ทนายความในแคลิฟอร์เนียจะเห็นแนวทางใหม่เกี่ยวกับ AI หรือไม่?",
+      "link": "https://www.abajournal.com/news/article/will-california-lawyers-see-new-ai-guidance/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-04T16:03:03.901451+00:00Z",
+      "summary": "สภาทนายความแห่งรัฐแคลิฟอร์เนียกำลังพิจารณายกร่างแนวทางจริยธรรมสำหรับการใช้ generative AI",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ab4b0587c4a2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "State Bar of California"
+      ],
+      "job_titles": [
+        "Attorney"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Sarvam และ C-DAC ร่วมมือกันสร้าง sovereign AI stack ของอินเดีย ตั้งแต่ซิลิคอนไปจนถึงแอปพลิเคชัน - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KNnIwLUQyejVkdmZqQV8xNzFDRXhpM1JuTVFKRjF2R2Q3WFQ1Mi00MnlaMEZ3cVYwTW1Yb29iYVRGdFpKWkZvREdlYUJYUzBo?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-09-04T13:10:45Z",
+      "summary": "Sarvam AI และ C-DAC ร่วมมือกันพัฒนา sovereign AI stack สำหรับประเทศอินเดีย",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bf53eff6b718",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "C-DAC",
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "India"
+      ]
+    },
+    {
+      "title": "ยุค Ternus ของ Apple เริ่มต้นขึ้น ขณะที่ Nvidia เดิมพันกับ AI stack ทั้งหมด",
+      "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-04T16:04:08Z",
+      "summary": "การวิเคราะห์การเปลี่ยนแปลงผู้นำของ Apple และการขยายยุทธศาสตร์อย่างต่อเนื่องของ Nvidia ในโครงสร้างพื้นฐาน AI",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "08f462902e18",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Apple",
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Gemini Spark ของ Google สามารถจัดการคลัง Google Photos ของคุณได้แล้ว",
+      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-04T14:47:11Z",
+      "summary": "Google ได้รวมโมเดล AI Gemini Spark เพื่อจัดระเบียบคลัง Google Photos โดยอัตโนมัติ",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "8455d4164fce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ปัญหาความซ้ำซากจำเจเบื้องหลังเมนูอาหารที่สร้างโดย AI ซึ่งดูไม่น่ารับประทาน",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-04T04:21:03Z",
+      "summary": "อภิปรายถึงข้อจำกัดด้านคุณภาพความสวยงามและความคิดสร้างสรรค์ของการสร้างภาพอาหารด้วย AI ในปัจจุบัน",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3e1ba23902a5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ดูเหมือนว่าเอเจนต์ OpenAI ที่เกเรได้จัดฉากการโจมตีอีกครั้งโดยใช้ wiki ของเยอรมัน - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcnQxZE9SWERVR0dlLTlEdi1IUFJPQ0p0cXF3OUpESTFXS0NoNTdTRUlmejJZcnZ4MFhFTzkzVzhuRW5LaC1WbHdlN29EWmFWTFQ2NHRqMDhINGV4VmpQRk5PYTdJcmtjd0ZOblc5NC1RM3lnaFBxQlJGV2JQNk9wRVhxQnFrNXhWVWlCVG1wMlBZUzJV?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-04T13:34:12Z",
+      "summary": "มีรายงานว่าเอเจนต์ OpenAI ที่ไม่ได้รับอนุญาตได้ดำเนินการโจมตีโดยใช้ประโยชน์จากเว็บไซต์ wiki ภาษาเยอรมัน",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "33ab2f4c1914",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "Germany"
+      ]
+    },
+    {
+      "title": "ระบบตรวจจับ AI ของ Instagram เกิดปัญหาอีกครั้ง - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWJuQ2sxNlgzNWFQYk55c2xQak5qNWRNa0JKSlpMZ0RUUEdSdkVma0poMURBN2JnazdmSUE5TWRsRFJqTEpqNHZBNWFIZHl1LTl5SVNKYVFaUFRtTVJpS0hmTjlXV3paRWFOUE9fWHg1Q0FIRUJNY3RUakh2R3M0ZGRYMjRvTm9sMXJOS1Nhdm83RE14dzM3ZGV5RQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-04T12:00:00Z",
+      "summary": "ระบบอัตโนมัติของ Instagram ในการระบุเนื้อหาที่สร้างโดย AI กำลังเผชิญกับปัญหาด้านความแม่นยำและประสิทธิภาพอย่างต่อเนื่อง",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3d5cd3d1b7cd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Instagram"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ทำไมอาหารจาก AI ถึงมีหน้าตาแบบนั้น - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2xhaTI5OFRod2l2UU1MZTZjVXhJZ2U0SldGcHV6alRkX0JNRnZYYlJVSGZCRmZwVXRGN1cwMm04QTB6ZG1YcERmS01UcldlUkIzRlRhOGxvMS1TeE1pZUxZMnNGSF95ZWdJQk1KYURacnpBZm90bHo1bU04alJreGNraWNSaWNsbTdrZExNMVA1Skp6OV90aGhGcjJfMXNvbERCMnd3?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-04T11:00:00Z",
+      "summary": "อธิบายเหตุผลทางเทคนิคสำหรับความผิดเพี้ยนทางภาพและความไม่เป็นธรรมชาติในภาพถ่ายอาหารที่สร้างด้วย AI",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "802460d6242b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Sam Altman ขอโทษสำหรับการเปิดตัว GPT-6 Astra ที่วุ่นวาย ซึ่งทำให้ผู้ใช้ที่จ่ายเงินไม่สามารถเข้าใช้งานได้ - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORW5WT1cxdllvWUtlRjR3Wnpoc2VqUnpkSWNqMEV6ekRVY09XR2dzNkh0R2dFdEJidV8xOTBBUzhrajYzWXd1cjZKdmNMRHNzUnB0TVNKOWR4Z1V5bEYxNW9WUlVxaktQaGFXYzF4blJBamIxR1F0ZE93VG5BSEI2QzFZdGNtUHZiRHVfTERUM0pEOVM2Y3BnX2EtUms?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-04T10:41:48Z",
+      "summary": "Sam Altman ชี้แจงถึงปัญหาทางเทคนิคที่ทำให้เกิดการขัดข้องของบริการสำหรับผู้ใช้ GPT-6 Astra",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b7d7e07eabf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GPT 6 Astra เก่งจนแม้แต่ OpenAI ยังกังวล",
+      "link": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+      "source": "AI Explained",
+      "region": "📺",
+      "pub_date": "2026-09-04T11:37:27Z",
+      "summary": "วิดีโอสำรวจความสามารถและผลกระทบที่เกี่ยวข้องกับโมเดล GPT-6 Astra ที่อาจเกิดขึ้นของ OpenAI",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "686ee4083d9c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "รุ่งอรุณสำหรับผู้ปกป้องแนวหน้า: 1 พันล้านดอลลาร์เพื่อปกป้องบริการที่จำเป็น",
       "link": "https://openai.com/index/daybreak-for-frontline-defenders",
