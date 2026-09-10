@@ -294,7 +294,10 @@ window.addEventListener('load', function() {
   }
 }
 </script>
-\n
+
+
+
+
 <!-- AI_SENTIA_SAFE_THEME_V1 -->
 <style id="ai-sentia-safe-theme">
 html { color-scheme: light; }
@@ -323,7 +326,7 @@ html[data-theme="dark"] .text-cyan-700 { color:#67e8f9 !important; }
 html[data-theme="dark"] #ai-sentia-theme-toggle { background:#21262d; border-color:#484f58; color:#f0f6fc; }
 @media (max-width:767px) { #ai-sentia-theme-toggle { width:100%; margin-top:.5rem; } }
 </style>
-\n</head>
+</head>
 
 <body x-data="app()" class="flex flex-col min-h-screen">
 
@@ -335,7 +338,7 @@ html[data-theme="dark"] #ai-sentia-theme-toggle { background:#21262d; border-col
               <source srcset="./logo.webp" type="image/webp">
               <img src="./logo.png" alt="AI Sentia" class="w-10 h-10 object-contain rounded-lg shadow-sm" width="40" height="40" fetchpriority="high">
             </picture>
-            <div class="flex flex-col">\n            <a href="jobs.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 border-b border-gray-100 transition" @click="mobileMenuOpen = false">AI Jobs</a>
+            <div class="flex flex-col">
                 <h1 class="text-2xl font-medium text-gray-800 tracking-tight uppercase">AI <span class="font-black text-g-blue">Sentia</span></h1>
                 <span class="text-[9px] text-gray-400 font-bold uppercase tracking-widest mt-0.5 hidden md:inline">(sen-tee-uh • awareness)</span>
             </div>
@@ -387,7 +390,8 @@ html[data-theme="dark"] #ai-sentia-theme-toggle { background:#21262d; border-col
         </button>
 
         <!-- Desktop Navigation Links -->
-        <div class="hidden md:flex items-center gap-6 text-xs font-bold text-gray-500">\n            <a href="jobs.html" class="hover:text-g-blue transition">AI Jobs</a>
+        <div class="hidden md:flex items-center gap-6 text-xs font-bold text-gray-500">
+            <a href="jobs.html" class="hover:text-g-blue transition">AI Jobs</a>
             <a href="about.html" class="hover:text-g-blue transition">About</a>
             <a href="sources.html" class="hover:text-g-blue transition">Sources</a>
             <a href="methodology.html" class="hover:text-g-blue transition">How It Works</a>
@@ -417,6 +421,7 @@ html[data-theme="dark"] #ai-sentia-theme-toggle { background:#21262d; border-col
          x-transition:leave-end="opacity-0"
          class="md:hidden fixed top-[72px] left-0 right-0 mx-4 bg-white rounded-lg shadow-xl border border-gray-200 z-40 overflow-hidden">
         <div class="flex flex-col">
+            <a href="jobs.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 border-b border-gray-100 transition" @click="mobileMenuOpen = false">AI Jobs</a>
             <a href="about.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 border-b border-gray-100 transition" @click="mobileMenuOpen = false">About</a>
             <a href="sources.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 border-b border-gray-100 transition" @click="mobileMenuOpen = false">Sources</a>
             <a href="methodology.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 transition" @click="mobileMenuOpen = false">How It Works</a>
@@ -1438,7 +1443,10 @@ function app() {
 })();
 </script>
 
-\n
+
+
+
+
 <script id="ai-sentia-safe-theme-script">
 (function(){
   const K='ai-sentia-theme', r=document.documentElement;
@@ -1448,5 +1456,5 @@ function app() {
   apply(theme()); if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});else install();
 })();
 </script>
-\n</body>
+</body>
 </html>
