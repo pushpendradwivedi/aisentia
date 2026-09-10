@@ -294,130 +294,36 @@ window.addEventListener('load', function() {
   }
 }
 </script>
+\n
 <!-- AI_SENTIA_SAFE_THEME_V1 -->
 <style id="ai-sentia-safe-theme">
-  html { color-scheme: light; }
-  html[data-theme="dark"] { color-scheme: dark; }
-
-  html[data-theme="dark"] body {
-    background: #0d1117 !important;
-    color: #d0d7de !important;
-  }
-
-  html[data-theme="dark"] header,
-  html[data-theme="dark"] footer,
-  html[data-theme="dark"] .bg-white {
-    background-color: #161b22 !important;
-    border-color: #30363d !important;
-  }
-
-  /* News cards: charcoal surface, bright headings, readable summaries. */
-  html[data-theme="dark"] .google-card {
-    background: #161b22 !important;
-    color: #d0d7de !important;
-    border-color: #30363d !important;
-    box-shadow: 0 1px 3px rgba(0,0,0,.35) !important;
-  }
-  html[data-theme="dark"] .google-card:hover {
-    border-color: #484f58 !important;
-    box-shadow: 0 8px 24px rgba(0,0,0,.28) !important;
-  }
-  html[data-theme="dark"] .google-card .text-gray-900,
-  html[data-theme="dark"] .google-card .text-gray-800 {
-    color: #f0f6fc !important;
-  }
-  html[data-theme="dark"] .google-card .text-gray-600 {
-    color: #c9d1d9 !important;
-  }
-  html[data-theme="dark"] .google-card .text-gray-500,
-  html[data-theme="dark"] .google-card .text-gray-400 {
-    color: #8b949e !important;
-  }
-  html[data-theme="dark"] .google-card .border-gray-100,
-  html[data-theme="dark"] .google-card .border-gray-200 {
-    border-color: #30363d !important;
-  }
-
-  /* Main filter/search surfaces. */
-  html[data-theme="dark"] main > .bg-white,
-  html[data-theme="dark"] .bg-gray-50 {
-    background-color: #161b22 !important;
-    border-color: #30363d !important;
-  }
-  html[data-theme="dark"] input,
-  html[data-theme="dark"] select {
-    background-color: #0d1117 !important;
-    color: #f0f6fc !important;
-    border-color: #30363d !important;
-  }
-  html[data-theme="dark"] input::placeholder { color: #8b949e !important; }
-
-  /* Text and controls outside cards. */
-  html[data-theme="dark"] .text-gray-900,
-  html[data-theme="dark"] .text-gray-800 { color: #f0f6fc !important; }
-  html[data-theme="dark"] .text-gray-700 { color: #d0d7de !important; }
-  html[data-theme="dark"] .text-gray-600 { color: #c9d1d9 !important; }
-  html[data-theme="dark"] .text-gray-500,
-  html[data-theme="dark"] .text-gray-400 { color: #8b949e !important; }
-  html[data-theme="dark"] .border-gray-100,
-  html[data-theme="dark"] .border-gray-200,
-  html[data-theme="dark"] .border-gray-300 { border-color: #30363d !important; }
-
-  /* Dropdowns / menus. */
-  html[data-theme="dark"] [class*="shadow-xl"].bg-white,
-  html[data-theme="dark"] [class*="shadow-lg"].bg-white {
-    background-color: #161b22 !important;
-    border-color: #30363d !important;
-  }
-  html[data-theme="dark"] .hover\\:bg-gray-50:hover,
-  html[data-theme="dark"] .hover\\:bg-gray-100:hover {
-    background-color: #21262d !important;
-  }
-
-  /* Keep semantic/accent chips colourful. */
-  html[data-theme="dark"] .bg-blue-50 { background-color: #172554 !important; }
-  html[data-theme="dark"] .bg-purple-50 { background-color: #2e1065 !important; }
-  html[data-theme="dark"] .bg-green-50 { background-color: #052e16 !important; }
-  html[data-theme="dark"] .bg-amber-50 { background-color: #451a03 !important; }
-  html[data-theme="dark"] .bg-cyan-50 { background-color: #083344 !important; }
-  html[data-theme="dark"] .text-blue-700 { color: #93c5fd !important; }
-  html[data-theme="dark"] .text-purple-700 { color: #d8b4fe !important; }
-  html[data-theme="dark"] .text-green-700 { color: #86efac !important; }
-  html[data-theme="dark"] .text-amber-700 { color: #fcd34d !important; }
-  html[data-theme="dark"] .text-cyan-700 { color: #67e8f9 !important; }
-
-  /* Compact theme control beside the existing orange CTA. */
-  #ai-sentia-theme-toggle {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: .35rem;
-    min-height: 34px;
-    padding: .5rem .8rem;
-    border: 1px solid #d1d5db;
-    border-radius: 9999px;
-    background: #ffffff;
-    color: #374151;
-    font: inherit;
-    font-size: 11px;
-    font-weight: 700;
-    line-height: 1;
-    cursor: pointer;
-    white-space: nowrap;
-    transition: background-color .15s ease, border-color .15s ease, color .15s ease;
-  }
-  #ai-sentia-theme-toggle:hover { background: #f3f4f6; }
-  html[data-theme="dark"] #ai-sentia-theme-toggle {
-    background: #21262d;
-    border-color: #484f58;
-    color: #f0f6fc;
-  }
-  html[data-theme="dark"] #ai-sentia-theme-toggle:hover { background: #30363d; }
-
-  @media (max-width: 767px) {
-    #ai-sentia-theme-toggle { width: 100%; margin-top: .5rem; }
-  }
-</style>\n</head>
+html { color-scheme: light; }
+html[data-theme="dark"] body { background:#0d1117 !important; color:#d0d7de !important; }
+html[data-theme="dark"] header, html[data-theme="dark"] footer, html[data-theme="dark"] .bg-white { background:#161b22 !important; border-color:#30363d !important; }
+html[data-theme="dark"] .google-card { background:#161b22 !important; color:#d0d7de !important; border-color:#30363d !important; }
+html[data-theme="dark"] .google-card .text-gray-900, html[data-theme="dark"] .google-card .text-gray-800, html[data-theme="dark"] .text-gray-900, html[data-theme="dark"] .text-gray-800 { color:#f0f6fc !important; }
+html[data-theme="dark"] .google-card .text-gray-600, html[data-theme="dark"] .text-gray-600 { color:#c9d1d9 !important; }
+html[data-theme="dark"] .google-card .text-gray-500, html[data-theme="dark"] .google-card .text-gray-400, html[data-theme="dark"] .text-gray-500, html[data-theme="dark"] .text-gray-400 { color:#8b949e !important; }
+html[data-theme="dark"] .border-gray-100, html[data-theme="dark"] .border-gray-200, html[data-theme="dark"] .border-gray-300 { border-color:#30363d !important; }
+html[data-theme="dark"] main > .bg-white, html[data-theme="dark"] .bg-gray-50 { background:#161b22 !important; border-color:#30363d !important; }
+html[data-theme="dark"] input, html[data-theme="dark"] select { background:#0d1117 !important; color:#f0f6fc !important; border-color:#30363d !important; }
+html[data-theme="dark"] input::placeholder { color:#8b949e !important; }
+html[data-theme="dark"] [class*="shadow-xl"].bg-white, html[data-theme="dark"] [class*="shadow-lg"].bg-white { background:#161b22 !important; border-color:#30363d !important; }
+html[data-theme="dark"] .bg-blue-50 { background:#172554 !important; }
+html[data-theme="dark"] .bg-purple-50 { background:#2e1065 !important; }
+html[data-theme="dark"] .bg-green-50 { background:#052e16 !important; }
+html[data-theme="dark"] .bg-amber-50 { background:#451a03 !important; }
+html[data-theme="dark"] .bg-cyan-50 { background:#083344 !important; }
+html[data-theme="dark"] .text-blue-700 { color:#93c5fd !important; }
+html[data-theme="dark"] .text-purple-700 { color:#d8b4fe !important; }
+html[data-theme="dark"] .text-green-700 { color:#86efac !important; }
+html[data-theme="dark"] .text-amber-700 { color:#fcd34d !important; }
+html[data-theme="dark"] .text-cyan-700 { color:#67e8f9 !important; }
+#ai-sentia-theme-toggle { display:inline-flex; align-items:center; justify-content:center; min-height:34px; padding:.5rem .8rem; border:1px solid #d1d5db; border-radius:9999px; background:#fff; color:#374151; font:inherit; font-size:11px; font-weight:700; line-height:1; cursor:pointer; white-space:nowrap; }
+html[data-theme="dark"] #ai-sentia-theme-toggle { background:#21262d; border-color:#484f58; color:#f0f6fc; }
+@media (max-width:767px) { #ai-sentia-theme-toggle { width:100%; margin-top:.5rem; } }
+</style>
+\n</head>
 
 <body x-data="app()" class="flex flex-col min-h-screen">
 
@@ -429,7 +335,7 @@ window.addEventListener('load', function() {
               <source srcset="./logo.webp" type="image/webp">
               <img src="./logo.png" alt="AI Sentia" class="w-10 h-10 object-contain rounded-lg shadow-sm" width="40" height="40" fetchpriority="high">
             </picture>
-            <div class="flex flex-col">
+            <div class="flex flex-col">\n            <a href="jobs.html" class="px-4 py-3 text-sm font-bold text-gray-700 hover:bg-gray-50 border-b border-gray-100 transition" @click="mobileMenuOpen = false">AI Jobs</a>
                 <h1 class="text-2xl font-medium text-gray-800 tracking-tight uppercase">AI <span class="font-black text-g-blue">Sentia</span></h1>
                 <span class="text-[9px] text-gray-400 font-bold uppercase tracking-widest mt-0.5 hidden md:inline">(sen-tee-uh • awareness)</span>
             </div>
@@ -481,7 +387,7 @@ window.addEventListener('load', function() {
         </button>
 
         <!-- Desktop Navigation Links -->
-        <div class="hidden md:flex items-center gap-6 text-xs font-bold text-gray-500">
+        <div class="hidden md:flex items-center gap-6 text-xs font-bold text-gray-500">\n            <a href="jobs.html" class="hover:text-g-blue transition">AI Jobs</a>
             <a href="about.html" class="hover:text-g-blue transition">About</a>
             <a href="sources.html" class="hover:text-g-blue transition">Sources</a>
             <a href="methodology.html" class="hover:text-g-blue transition">How It Works</a>
@@ -1532,64 +1438,15 @@ function app() {
 })();
 </script>
 
+\n
 <script id="ai-sentia-safe-theme-script">
-(function () {
-  const KEY = 'ai-sentia-theme';
-  const root = document.documentElement;
-
-  function systemTheme() {
-    return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-  }
-
-  function currentTheme() {
-    return localStorage.getItem(KEY) || systemTheme();
-  }
-
-  function applyTheme(theme) {
-    root.setAttribute('data-theme', theme);
-    root.style.colorScheme = theme;
-    const button = document.getElementById('ai-sentia-theme-toggle');
-    if (button) {
-      button.textContent = theme === 'dark' ? 'Light mode' : 'Dark mode';
-      button.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
-      button.title = theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
-    }
-  }
-
-  function installToggle() {
-    if (document.getElementById('ai-sentia-theme-toggle')) return;
-
-    const cta = Array.from(document.querySelectorAll('a')).find(function (a) {
-      return a.textContent && a.textContent.includes('Get Daily AI News');
-    });
-    if (!cta || !cta.parentElement) return;
-
-    const button = document.createElement('button');
-    button.id = 'ai-sentia-theme-toggle';
-    button.type = 'button';
-    button.addEventListener('click', function () {
-      const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-      localStorage.setItem(KEY, next);
-      applyTheme(next);
-    });
-
-    const wrapper = document.createElement('div');
-    wrapper.style.display = 'inline-flex';
-    wrapper.style.alignItems = 'center';
-    wrapper.style.gap = '.5rem';
-    wrapper.appendChild(button);
-
-    cta.parentElement.insertBefore(wrapper, cta);
-    applyTheme(currentTheme());
-  }
-
-  // Apply before the page paints, then add the control once the header exists.
-  applyTheme(currentTheme());
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', installToggle, { once: true });
-  } else {
-    installToggle();
-  }
+(function(){
+  const K='ai-sentia-theme', r=document.documentElement;
+  function theme(){try{return localStorage.getItem(K)||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch(e){return 'light'}}
+  function apply(x){r.setAttribute('data-theme',x);r.style.colorScheme=x;const b=document.getElementById('ai-sentia-theme-toggle');if(b){b.textContent=x==='dark'?'Light mode':'Dark mode';b.setAttribute('aria-label',x==='dark'?'Switch to light mode':'Switch to dark mode')}}
+  function install(){if(document.getElementById('ai-sentia-theme-toggle'))return;const c=[...document.querySelectorAll('a')].find(a=>(a.textContent||'').includes('Get Daily AI News'));if(!c)return;const b=document.createElement('button');b.id='ai-sentia-theme-toggle';b.type='button';b.onclick=()=>{const x=r.getAttribute('data-theme')==='dark'?'light':'dark';try{localStorage.setItem(K,x)}catch(e){}apply(x)};const w=document.createElement('div');w.style.cssText='display:inline-flex;align-items:center;gap:.5rem';w.appendChild(b);c.parentElement.insertBefore(w,c);apply(theme())}
+  apply(theme()); if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});else install();
 })();
-</script>\n</body>
+</script>
+\n</body>
 </html>
