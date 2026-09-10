@@ -1,6 +1,3455 @@
 {
-  "refreshed_at": "2026-09-09 03:34 UTC",
+  "refreshed_at": "2026-09-10 16:11 UTC",
   "items": [
+    {
+      "title": "الآن يمكن للجميع الاستفادة من البيانات في العمل",
+      "link": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T15:00:00Z",
+      "summary": "تقدم OpenAI أدوات تمكّن المستخدمين من تحليل البيانات والعمل معها بكفاءة.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d86fa96aa31a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "توسيع نطاق الوصول إلى الذكاء الاصطناعي والدفاع السيبراني للحكومات الفيدرالية والولائية والمحلية والقبلية",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T07:00:00Z",
+      "summary": "توسع OpenAI نطاق الوصول إلى الذكاء الاصطناعي وحلول الأمن السيبراني للجهات الحكومية في جميع أنحاء الولايات المتحدة.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aa2ea623e7d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Defense",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "d-Matrix تعتمد تقنية NVIDIA NVLink Fusion لنشر أجهزة XPU على مستوى الرفوف",
+      "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T13:00:21Z",
+      "summary": "تعتمد d-Matrix تقنية NVIDIA NVLink Fusion لنشر أجهزة XPU على مستوى الرفوف (Rack-Scale).",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "774d76e42a92",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA",
+        "d-Matrix"
+      ],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA وPalantir تقدمان الذكاء السيادي لسلاسل التوريد الحيوية",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T09:00:00Z",
+      "summary": "تتعاون NVIDIA وPalantir لتقديم ذكاء سيادي مدعوم بالذكاء الاصطناعي لسلاسل التوريد الحيوية.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "320f365d528a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Defense"
+      ],
+      "companies": [
+        "NVIDIA",
+        "Palantir"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "مقياس تقييم الوكلاء (Agent Evaluation Metric) للمحادثات متعددة الجولات",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T15:55:41Z",
+      "summary": "تقدم AWS مقياس تقييم مخصصًا لوكلاء الذكاء الاصطناعي في المهام الحوارية متعددة الجولات.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9324ba397de4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "كيف تبني AvioBook رؤى التشغيل من البيانات التشغيلية باستخدام Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T15:53:05Z",
+      "summary": "تستفيد AvioBook من Amazon Bedrock AgentCore لتوليد رؤى تحول تشغيلية لشركات الطيران.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1c5ced450db7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "AvioBook"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: هل يمكن للذكاء الاصطناعي إنقاذ الرعاية الصحية في المناطق الريفية؟",
+      "link": "https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-10T14:53:06Z",
+      "summary": "يستكشف المقال إمكانات الذكاء الاصطناعي في معالجة التحديات التي تواجه أنظمة الرعاية الصحية الريفية وتحسين الوصول إليها.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2a034f402acf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Healthcare IT Professional"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "مسؤولون في إدارة ترامب يقولون إن الذكاء الاصطناعي سيساعد في إنقاذ الرعاية الصحية الريفية، وبعض القادة في هذا المجال لا يصدقون ذلك",
+      "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-10T08:30:00Z",
+      "summary": "يدور جدل حول دور الذكاء الاصطناعي في الرعاية الصحية الريفية؛ المسؤولون متفائلون، بينما يعرب قادة المجال عن شكوكهم بشأن اعتماده.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "202ff84b1504",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Healthcare Administrator",
+        "Policy Maker"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "استخدام اللغة الطبيعية و'vibe coding' للارتقاء بسير العمل السريري - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmhvUzJ3QUhZVDlfQmx0NEF2d0t0VXFTWTg4VHpmZmJxLWhObll3Zm9LS0k3eFNGNVV5SkJhMjRvalFfa2dYbDh0a2pURE4xanAtLUJLbHNIa21ILURjaEtFenAwbVlTWWpXM0xwVVh2Q1UxdGtJVmNGY1E0dmFKR1lKMnVzbi1mWHlLZGVQYVdZNU9FdlNFYWN5bVBMd2ljMEpYMXRWOWNMNUJLZ3c?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-10T13:56:33Z",
+      "summary": "يتم استخدام معالجة اللغة الطبيعية و'vibe coding' لتعزيز وتبسيط سير العمل السريري في مجال الرعاية الصحية.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "805457ace991",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "المبتكرون – ‘Memories’",
+      "link": "https://www.artificiallawyer.com/2026/09/10/the-innovators-memories/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T09:12:28Z",
+      "summary": "تقرير يسلط الضوء على الحلول التكنولوجية القانونية المبتكرة ومنصات الاحتفاظ بالمعرفة.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3796271e63c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "لماذا يحتاج البحث القانوني إلى طبقة متخصصة",
+      "link": "https://www.artificiallawyer.com/2026/09/10/why-legal-research-needs-a-specialist-layer/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T07:08:02Z",
+      "summary": "يستكشف ضرورة وجود طبقات خبرة مجالية متخصصة في أدوات البحث القانوني القائمة على الذكاء الاصطناعي.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f1f593b2e28f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "White & Case تستثمر في الشركة الناشئة السعودية Clauze",
+      "link": "https://www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T06:44:49Z",
+      "summary": "تستثمر شركة المحاماة White & Case في الشركة الناشئة للتكنولوجيا القانونية Clauze ومقرها السعودية.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b2d965223505",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Clauze",
+        "White & Case"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Saudi Arabia"
+      ]
+    },
+    {
+      "title": "منافسة إعلانات الذكاء الاصطناعي لجذب الانتباه: لوحة إعلانية لمحامٍ في تخطيط التركات تصل إلى الهدف مباشرة",
+      "link": "https://www.abajournal.com/news/article/fighting-for-attention-with-ai-ads-attorneys-estate-planning-billboard-gets-right-to-the-point/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T16:03:21.859584+00:00Z",
+      "summary": "يستخدم محامٍ الإعلانات التقليدية عبر اللوحات الإعلانية للتميز في مواجهة الإعلانات المنشأة بالذكاء الاصطناعي.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d4ecfb7c4d46",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "إعادة بناء AUTOMATIC1111 باستخدام Gradio Workflow",
+      "link": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-10T00:00:00Z",
+      "summary": "يعرض إعادة بناء واجهة ويب AUTOMATIC1111 باستخدام سير عمل Gradio لنماذج توليد الصور.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "549549603105",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "وكلاء الذكاء الاصطناعي يغمرون الخدمات العامة بطلبات جديدة",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T14:53:50Z",
+      "summary": "يقدم وكلاء الذكاء الاصطناعي المتمتعون بالعمل الآلي أحجامًا كبيرة من طلبات الخدمة إلى وكالات القطاع العام.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9ee5bacda2ce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Maven Robotics تسعى للقتال على صفقة نشر الروبوتات الخاصة بك",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T14:17:37Z",
+      "summary": "تتنافس Maven Robotics بشكل مباشر على عقود نشر الروبوتات التجارية عبر مختلف القطاعات.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d40cabdd4c17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Maven Robotics"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "علماء الرياضيات يطالبون بإثبات أن OpenAI لم تستخدم أعمالهم - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmhiYXhlY0o3c2d3QzFCZkNLaEZXUHRJNEMtV0FnNmtKWF9DZXFTOWtiNFdiQmFwWXB4TUJrUEtIbEs1bVBoTmtJWE9JU2FicmU5Zkppa0RXOHFsY0hDZmFFT3Z3aWJ0SWpOcEVDamc5d2dpRzFMenNObjhZS2lGZEhWa0RhQlNPSG50MFNuUTU2V1NidzBtWE1SMmdMQTJHNEU0cTRUVHNVZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T11:00:57Z",
+      "summary": "يطالب علماء الرياضيات بالتحقق من أن OpenAI لم تدرب نماذجها على أعمالهم المحمية بحقوق الطبع والنشر.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ff4a7a756b88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI",
+        "The Verge"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "بالتأكيد، يعمل AI Muse من Meta، ولكنه بالتأكيد يثير ريبتي - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T15:00:00Z",
+      "summary": "انطباع ومراجعة بشأن تجربة المستخدم مع منتج AI Muse الجديد من Meta.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "80cc964c1d19",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta",
+        "The Verge"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "فولفو تلغي EX40 في الولايات المتحدة وتحدث XC40 بأجهزة استشعار أفضل وGemini AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0Rkb0ltUEVaREgzajh0dTJrTjVFRUtqNFgtOXhiaG5ac2hDaGh3WHZUTDdJb1NBRWJlR1FUTjFBY0d2dFZVbUtsX3VuSWR5UC02UUJhVlFNTkRZb3ZVYWNpTXhFakQ0OVUzR0xGTFZHSmJaXzUtMWE0YnprV21IWVJvNmo3MlRQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T07:00:00Z",
+      "summary": "تحدث فولفو خط سيارات XC40 بدمج Gemini AI وأنظمة أجهزة استشعار محسنة.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8af9f4d8acc6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "Google",
+        "The Verge",
+        "Volvo"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "نافذة سياسات الذكاء الاصطناعي مفتوحة. يجب أن نتحرك.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T13:00:00Z",
+      "summary": "تدافع OpenAI عن ضرورة اتخاذ إجراءات بينما تظل فرصة وضع سياسات للذكاء الاصطناعي متاحة.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e50720e57461",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Policy Maker"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra: الجيل القادم من الذكاء المخصص للعمل",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T11:00:00Z",
+      "summary": "تکشف OpenAI النقاب عن GPT-6 Astra بهدف تعزيز الذكاء والإنتاجية في بيئات العمل.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dc8c3baa32f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "بول كريستيانو ينضم إلى مجلس إدارة مؤسسة OpenAI",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T17:00:00Z",
+      "summary": "انضم الباحث في مواءمة الذكاء الاصطناعي بول كريستيانو إلى مجلس إدارة مؤسسة OpenAI.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bb894e920169",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "سيناريو مستقبلنا الاقتصادي - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T13:43:30Z",
+      "summary": "تستعرض Anthropic السيناريوهات الاقتصادية المحتملة الناتجة عن تطورات الذكاء الاصطناعي المتقدم.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8076bc2b14d0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance",
+        "Government"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO",
+        "Policy Maker"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تقييم لمواءمة حوادث الأمن السيبراني الأخيرة - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T19:13:44Z",
+      "summary": "تحلل Anthropic حوادث الأمن السيبراني الأخيرة من منظور سلامة ومواءمة الذكاء الاصطناعي.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1bec39c0211",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA توسع قدرات البنية التحتية للذكاء الاصطناعي بشراكة مع النظام البيئي لمراكز البيانات في أستراليا",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T00:00:00Z",
+      "summary": "تشترك NVIDIA مع مراكز البيانات الاسترالية لتعزيز سعة البنية التحتية الوطنية لحوسبة الذكاء الاصطناعي.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c5f1fbd7a024",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": [
+        "Australia"
+      ]
+    },
+    {
+      "title": "نشر Qwen3.8-2.4T-A95B على Amazon SageMaker HyperPod باستخدام vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T22:26:29Z",
+      "summary": "دليل تقني حول استضافة نماذج Qwen الكبيرة على SageMaker HyperPod باستخدام تسريع vLLM.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "da326542c63a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "أبرز ما تم إطلاقه لمطوري الذكاء الاصطناعي في أغسطس 2026",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T20:01:03Z",
+      "summary": "ملخص لأدوات وميزات وإصدارات AWS للذكاء الاصطناعي المقدمة لمطوري التعلم الآلي.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fb91fdb57225",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "كيف بنت Heurist Finance منصة استثمار أصلية مدعومة بالذكاء الاصطناعي على Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T18:11:12Z",
+      "summary": "أنشأت Heurist Finance منصة عمل استثمارية تعتمد على الذكاء الاصطناعي مستفيدة من قدرات Amazon Bedrock AgentCore.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "98a2c94336b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Heurist Finance"
+      ],
+      "job_titles": [
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Show-Harness: وكيل نموذج رؤية-لغة واحد يمكنه التحكم في الروبوتات",
+      "link": "https://arxiv.org/abs/2609.10522v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T17:53:38Z",
+      "summary": "يقدم البحث إطار عمل لوكيل نموذج رؤية-لغة قادر على التحكم الروبوتاتي دون تدريب مسبق.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3ac266b4a983",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "IBIB: بروتوكول لقياس أنظمة الذكاء الاصطناعي للمؤسسات عبر مسار الخدمة وليس معرف النموذج",
+      "link": "https://arxiv.org/abs/2609.10494v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T17:31:29Z",
+      "summary": "تقترح الورقة البحثية IBIB لتقييم البنية التحتية للذكاء الاصطناعي في المؤسسات بناءً على مسار التوجيه بدلاً من النماذج.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e4464a74b025",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Semigroup-JEPA: اتساق الديناميكيات الكامنة للتعميم الفيزيائي الفوري",
+      "link": "https://arxiv.org/abs/2609.10464v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T17:08:13Z",
+      "summary": "يقدم البحث Semigroup-JEPA لتعزيز اتساق الديناميكيات الكامنة والتعميم الفيزيائي في النماذج.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0f9285f8df5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "JarvisGUI: نحو وكلاء واجهة مستخدم عبر الأجهزة مع تكوين المهام الديناميكي",
+      "link": "https://arxiv.org/abs/2609.10451v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:59:59Z",
+      "summary": "يقدم JarvisGUI للتحكم في واجهات المستخدم عبر أنواع متعددة من الأجهزة باستخدام وكلاء مستقلين.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d0da9344095",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ConvMem: الذاكرة التلافيفية للاستدلال السياقي الطويل",
+      "link": "https://arxiv.org/abs/2609.10441v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:53:02Z",
+      "summary": "يقترح هندسة ConvMem لتحسين كفاءة ذاكرة الاستدلال السياقي الطويل في الشبكات العصبية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a26254375175",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "نسيان ما يهم فقط: إلغاء التعلم الانتقائي للطبقات نحو نماذج لغة قوية",
+      "link": "https://arxiv.org/abs/2609.10439v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:50:41Z",
+      "summary": "يقدم إلغاء التعلم الانتقائي للطبقات لإزالة المعرفة غير المرغوب فيها بشكل مستهدف من نماذج اللغة الكبيرة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0613c5a855b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "مراجعة جودة مراجعات زيارات قسم الطوارئ: استكشاف اتخاذ القرار البشري ودعم الذكاء الاصطناعي",
+      "link": "https://arxiv.org/abs/2609.10421v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:37:35Z",
+      "summary": "فحص الدراسة لعملية صنع القرار البشري ودعم الذكاء الاصطناعي في فحص مراجعة جودة زيارات قسم الطوارئ.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aaf8226d381b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "التذكر المحظوظ: إدارة دورة حياة الذاكرة المستندة إلى علم المعاني للتناسق المستمر في نماذج اللغة الكبيرة",
+      "link": "https://arxiv.org/abs/2609.10413v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:31:45Z",
+      "summary": "نهج إدارة دورة حياة الذاكرة المستندة إلى علم المعاني يعزز التناسق المستمر في نماذج اللغة الكبيرة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eb12d69b1c76",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "هل يمكن للنماذج الأساسية تعديل المحتوى عبر الإنترنت؟ تقييم تفعيل السياسات المستند إلى التعليمات مقابل الأمثلة",
+      "link": "https://arxiv.org/abs/2609.10410v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:30:15Z",
+      "summary": "تقييم لتفعيل السياسات المستند إلى التعليمات مقابل الأمثلة لمواكبة تعديل المحتوى باستخدام النماذج الأساسية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8b4341581cf1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MOONWALK: العمليات الوسيطة مع مواءمة النية والدليل والفعل عبر سير عمل مراجعة المشرفين المبتدئين في مرحلة ما قبل الإنتاج للرسوم المتحركة والمؤثرات البصرية",
+      "link": "https://arxiv.org/abs/2609.10385v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:10:29Z",
+      "summary": "يقوم إطار العمل بالتوسط في سير عمل ما قبل الإنتاج للرسوم المتحركة والمؤثرات البصرية باستخدام مواءمة النية والدليل والفعل عبر مراحل المراجعة.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cfd49770333c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PACE: توجيه الخدمات المتتالية الواعية بزمن الانتقال المتوقع والتحكم في الحشو لخدمة الحوار المعزز بالاسترجاع الفعال من حيث جودة التجربة",
+      "link": "https://arxiv.org/abs/2609.10372v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:02:36Z",
+      "summary": "يعمل توجيه الخدمات المتتالية وطريقة التحكم في الحشو على تحسين زمن الانتقال لخدمة الحوار المعزز بالاسترجاع.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0f1ee4f2f9c6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OmniMed-FL: إطار عمل تعليمي اتحادى متعدد الوسائط وقوي للتشخيص السريري",
+      "link": "https://arxiv.org/abs/2609.10364v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:56:26Z",
+      "summary": "إطار عمل تعليمي اتحادى متعدد الوسائط وقوي مصمم خصيصاً لتطبيقات التشخيص السريري.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "40b132ff69fc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "العدوى السيبرانية المالية: نمذجة انتشار اختراق موردي الذكاء الاصطناعي عبر النظام المصرفي",
+      "link": "https://arxiv.org/abs/2609.10350v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:46:16Z",
+      "summary": "يستكشف نموذج رياضي كيف ينتشر اختراق موردي الذكاء الاصطناعي عبر النظام المصرفي.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b1e8aef2035f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "HR Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ما وراء الحلول الموحدة: توجيه الاستراتيجية المتكيفة مع العينات لتقليم رموز الرؤية في نماذج اللغة الكبيرة متعددة الوسائط",
+      "link": "https://arxiv.org/abs/2609.10346v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:44:32Z",
+      "summary": "نهج توجيه الاستراتيجية المتكيفة مع العينات يحسن تقليم رموز الرؤية في نماذج اللغة الكبيرة متعددة الوسائط.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ddb754e5d0e9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "من الإدراك الرمزي إلى الاستنتاج المنطقي: إطار لتوجيه نماذج اللغة في الاستدلال الهندسي",
+      "link": "https://arxiv.org/abs/2609.10335v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:33:25Z",
+      "summary": "يوجه الإطار نماذج اللغة من خلال الاستدلال الهندسي من الإدراك الرمزي إلى الاستنتاج المنطقي.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2919658c0f74",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE: تدريب وكلاء الاستدلال للاستكشاف السببي بمكافآت محفزة",
+      "link": "https://arxiv.org/abs/2609.10315v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:21:47Z",
+      "summary": "طريقة تدرب وكلاء الاستدلال للاستكشاف السببي مستخدمة مكافآت محفزة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f2e57a18aab3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "حلقة واحدة، مكاسب اثنتان: هل يمكن للتعلم النشط الفوز باليانصيب مجاناً؟",
+      "link": "https://arxiv.org/abs/2609.10311v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:18:37Z",
+      "summary": "بحث عما إذا كان التعلم النشط قادراً على تحقيق مكاسب التحسين وتوليد تذاكر اليانصيب في نفس الوقت.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "89d6719f1d12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RiLM: نمذجة لغة فعالة من حيث المعاملات عبر فك التشفير الجيوديسي",
+      "link": "https://arxiv.org/abs/2609.10305v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:16:31Z",
+      "summary": "طريقة فك التشفير الجيوديسي تحقق نمذجة لغة فعالة من حيث المعاملات.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bd543f2d3a23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تعلم استراتيجيات الاستجابة للاختراق لنظم التكنولوجيا التشغيلية",
+      "link": "https://arxiv.org/abs/2609.10298v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:12:52Z",
+      "summary": "تقنية تتعلم استراتيجيات الاستجابة للاختراق خصيصاً لنظم التكنولوجيا التشغيلية.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8c674f2fa424",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GANDR: تدقيق المطالبات لتوليد إجابات قانونية يمكن التحقق منها",
+      "link": "https://arxiv.org/abs/2609.10293v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:08:09Z",
+      "summary": "يقدم إطار عمل GANDR قدرات تدقيق المطالبات لتوليد إجابات قانونية يمكن التحقق منها.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "34a46c399f64",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ما الذي يجب أن ينساه الوكيل؟ فصل ما يتم تخزينه عما يتم استخدامه",
+      "link": "https://arxiv.org/abs/2609.10263v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:48:09Z",
+      "summary": "تحلل الدراسة ما يجب أن تنساه وكلاء الذكاء الاصطناعي عن طريق فصل المعلومات المخزنة عن المعلومات المستخدمة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1d1e870f442b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DiSCo: إطار عمل لتوجيه التوزيع الأول وتقييم الأولويات الثقافية لقياس انحياز التفضيل الثقافي في نماذج اللغة الكبيرة",
+      "link": "https://arxiv.org/abs/2609.10253v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:40:08Z",
+      "summary": "يقيس إطار التقييم انحياز التفضيل الثقافي في نماذج اللغة الكبيرة باستخدام التوجيه القائم على التوزيع أولاً.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f795d4a667b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "A-JIT: البناء البرمجى الوكيلي في الوقت المناسب",
+      "link": "https://arxiv.org/abs/2609.10248v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:36:51Z",
+      "summary": "يقدم الإطار منهجيات بناء البرمجيات الوكيلية في الوقت المناسب.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f0f89a14bc1e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LiteRAG: توليد معزز بالاسترجاع قائم على الرسم البياني وفعال من حيث التكلفة",
+      "link": "https://arxiv.org/abs/2609.10239v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:32:07Z",
+      "summary": "يقدم LiteRAG نهجاً قائماً على الرسم البياني وفعالاً من حيث التكلفة للتوليد المعزز بالاسترجاع.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c32b08e57242",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تعلم تحويل الميزات الهرمي وغير المتغير للتبادل عبر البحث عن التضمين الموجه بالسياسات",
+      "link": "https://arxiv.org/abs/2609.10225v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:23:34Z",
+      "summary": "تتعلم الطريقة تحويلات الميزات الهرمية وغير المتغيرة للتبادل من خلال البحث عن التضمين الموجه بالسياسات.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b3d5189cd640",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "لماذا تعاين ما يمكنك عده؟ التحسين الدقيق للسياسات لاختيار الأدوات الجينومية",
+      "link": "https://arxiv.org/abs/2609.10221v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:20:47Z",
+      "summary": "طريقة التحسين الدقيق للسياسات تحسن اختيار الأدوات الجينومية دون الحاجة للمعاينة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a26ce676cb66",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "هل يمكن لوكلاء الذكاء الاصطناعي تقديم نتائج يمكن التحقق منها عبر شبكة واسعة النطاق وعبر حدود السلطة؟",
+      "link": "https://arxiv.org/abs/2609.10181v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:51:15Z",
+      "summary": "تقيم الورقة عما إذا كان وكلاء الذكاء الاصطناعي قادرين على تقديم نتائج يمكن التحقق منها عبر حدود سلطة الشبكة المختلفة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0cb1295d769d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ما وراء محاكاة السطح: النمذجة التباينية لمواءمة مسار الاستدلال في التعلم السياقي متعدد الوسائط",
+      "link": "https://arxiv.org/abs/2609.10177v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:45:02Z",
+      "summary": "يقترح النمذجة التباينية لمواءمة مسارات الاستدلال في مهام التعلم السياقي متعدد الوسائط.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9fbf0f426c27",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "الذاكرة المشتركة المدارة بالنواة للتخصيص على مستوى النظام",
+      "link": "https://arxiv.org/abs/2609.10144v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:20:47Z",
+      "summary": "يقدم بنية ذاكرة مشتركة مدارة بالنواة لدعم التنفيذ الفعال للتخصيص على مستوى النظام.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ddf28c1b3a8f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "التكيف النشط، وليس الدفاع الثابت: الديناميكيات الزمنية للتوجيه الوقائي في الضبط الدقيق العدائي",
+      "link": "https://arxiv.org/abs/2609.10142v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:19:37Z",
+      "summary": "يفحص الديناميكيات الزمنية للتوجيه الوقائي أثناء الضبط الدقيق العدائي لنماذج اللغة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6cc2d94837af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "دمج التعلم الآلي ونماذج اللغة الكبيرة القائم على الوكلاء مع مطالبات ذاتية التحسين لتنبيهات الطقس في الهضاب",
+      "link": "https://arxiv.org/abs/2609.10135v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:15:46Z",
+      "summary": "يجمع بين التعلم الآلي ونماذج اللغة الكبيرة مع مطالبات ذاتية التحسين لتوليد تنبيهات طقس الهضاب.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0e1fd9b8d751",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "عمليات السياق لنمذجة العمارة المخرجة من نماذج اللغة الكبيرة ومعايير التقييم لاستخدامها في تصميم هندسة النظم",
+      "link": "https://arxiv.org/abs/2609.10132v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:09:01Z",
+      "summary": "يحدد عمليات السياق ومعايير التقييم لاستخدام مخرجات نماذج اللغة الكبيرة في تصميم هندسة النظم.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "57e337a7ea3b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SA-Profile: التوصيف التلقائي لزاوية الثلم من التصوير بالرنين المغناطيسي فائق الدقة",
+      "link": "https://arxiv.org/abs/2609.10125v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:01:59Z",
+      "summary": "يقدم SA-Profile للتوصيف التلقائي لزاوية الثلم باستخدام فحوصات التصوير بالرنين المغناطيسي فائقة الدقة.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ff8a8b4c2af7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "إطار تعلم تعاوني موثوق يعتمد على شبكة الثقة لتوقع ساعة الشيخوخة متعددة المراكز",
+      "link": "https://arxiv.org/abs/2609.10108v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T12:42:39Z",
+      "summary": "يقترح إطار تعلم تعاوني موثوق للتنبؤ بساعات الشيخوخة عبر مراكز متعددة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9ec793c74e32",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ما وراء التدريب: تصنيف الجدوى لحوكمة الذكاء الاصطناعي في وقت الاستدلال",
+      "link": "https://arxiv.org/abs/2609.10105v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T12:37:17Z",
+      "summary": "يطور تصنيفاً لتقييم جدوى آليات حوكمة الذكاء الاصطناعي المنفذة في وقت الاستدلال.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3eb7b99d488f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RAP: تنبؤ انتباه البحث يكشف عن تحيزات الحصول على الأدلة المشرطة بالهدف",
+      "link": "https://arxiv.org/abs/2609.10092v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T12:15:14Z",
+      "summary": "يقدم RAP للتنبؤ بانتباه البحث وفضح تحيزات الحصول على الأدلة المشرطة بالهدف.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "68f18cde1e06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "نهج إحصائي للانحياز في التعلم بدون تدريب مسبق: من منظور التعرف على خط اليد",
+      "link": "https://arxiv.org/abs/2609.10084v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T12:06:49Z",
+      "summary": "يحلل الانحياز الإحصائي في خوارزميات التعلم بدون تدريب مسبق من خلال مهام التعرف على خط اليد.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aa64270c508d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "كشف الانحياز القائم على المرجع في نماذج اللغة الكبيرة عبر التمثيلات النسبية للحالات المخفية",
+      "link": "https://arxiv.org/abs/2609.10060v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:33:35Z",
+      "summary": "يكتشف الانحياز في نماذج اللغة الكبيرة باستخدام التمثيلات النسبية لحالات الطبقة المخفية الداخلية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f34a1ae8d987",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NOPE-HYPE: سير عمل محاكاة منظم لتحويل الكلام إلى نص بشكل قوي عبر بيئات صوتية متنوعة",
+      "link": "https://arxiv.org/abs/2609.10058v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:32:18Z",
+      "summary": "يقدم سير عمل محاكاة لتحسين متانة تحويل الكلام إلى نص عبر بيئات صوتية متنوعة.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5e131d5981d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OntologyAligner: استرجاع متسق مع علم المعاني وإعادة ترتيب نماذج اللغة الكبيرة الموجهة بالتسلسل الهرمي لتطبيع علم المعاني البيومدئي",
+      "link": "https://arxiv.org/abs/2609.10055v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:30:25Z",
+      "summary": "يجمع بين الاسترجاع المتسق مع علم المعاني وإعادة ترتيب نماذج اللغة الكبيرة لتطبيع أنطولوجيات الكيانات الحيوية الطبية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0c2da780e4f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تحسين التنوع المباشر للمسارات الناجحة المتنوعة في التدريب اللاحق للتفضيل",
+      "link": "https://arxiv.org/abs/2609.10052v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:27:34Z",
+      "summary": "يقترح تحسين التنوع المباشر لتوليد مسارات متنوعة أثناء التدريب اللاحق لتفضيل البشر عبر التعلم التعزيزي.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9100220c14b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "محرك حالة الاعتقاد: تعزيز نماذج اللغة الكبيرة للتخطيط القائم على المبادئ تحت الملاحظة الجزئية",
+      "link": "https://arxiv.org/abs/2609.10036v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:07:47Z",
+      "summary": "يعزز نماذج اللغة الكبيرة بمحرك حالة الاعتقاد لتنفيذ التخطيط تحت ظروف الملاحظة الجزئية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "098c9d304f0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Elastoformer: تفعيل التكيف الديناميكي عبر التحويل المرن للنماذج",
+      "link": "https://arxiv.org/abs/2609.10018v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T10:52:21Z",
+      "summary": "يقدم Elastoformer للتكيف الديناميكي لهندسة الشبكات العصبية عبر التحويلات المرنة للنماذج.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b3caa48c091c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MetroLLM-Bench: تقييم نماذج اللغة كنظم تشغيل لأكشاك النقل العام",
+      "link": "https://arxiv.org/abs/2609.10016v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T10:46:56Z",
+      "summary": "يقيم الأداء والملاءمة لنماذج اللغة الكبيرة التي تعمل داخل بيئات أكشاك النقل العام.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "444be023af16",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ما الذي يجعل الأمثلة العدائية تنتقل عبر كاشفات التزييف العميق؟",
+      "link": "https://arxiv.org/abs/2609.10002v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T10:28:36Z",
+      "summary": "يبحث في العوامل التي تمكن الأمثلة العدائية من الانتقال بفعالية عبر كاشفات التزييف العميق المختلفة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "44e0b7176a15",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تحسين تمثيلات الرموز عبر اللغات بإضافة القليل من SALT",
+      "link": "https://arxiv.org/abs/2609.09953v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T09:43:41Z",
+      "summary": "يعزز تمثيلات الرموز العابرة للغات في نماذج اللغة باستخدام طريقة SALT.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "39fec12d3bde",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "الإشراف على العملية الهيكلية لاستدلال سلسلة التفكير الكامنة",
+      "link": "https://arxiv.org/abs/2609.09928v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T09:17:46Z",
+      "summary": "يقدم الإشراف على العملية الهيكلية لتحسين استدلال سلسلة التفكير الكامنة في نماذج الذكاء الاصطناعي.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "43df4ece1384",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "الاهتمام المتقاطع الهندسي للزمن والتردد لنماذج الرؤية واللغة والعمل المجزأة",
+      "link": "https://arxiv.org/abs/2609.09925v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T09:16:49Z",
+      "summary": "يقترح آلية اهتمام متقاطع هندسي للزمن والتردد لنماذج الرؤية واللغة والعمل.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d4a74df7dd3a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Computer Vision Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "FlowCPO: رؤية تباعد موحدة لمواءمة التفضيل لنماذج التدفق",
+      "link": "https://arxiv.org/abs/2609.09905v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T09:03:59Z",
+      "summary": "يقدم FlowCPO كرؤية تباعد موحدة لمواءمة التفضيل في النماذج القائمة على التدفق.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "edc071011ffe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "كلية شوارزمان للحوسبة في معهد ماساتشوستس للتقنية تطلق برنامجاً تجريبياً لمساعدة المعلمين على تدريس الذكاء الاصطناعي عبر التخصصات",
+      "link": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-09T20:40:00Z",
+      "summary": "أطلق معهد ماساتشوستس للتقنية برنامجاً تجريبياً للمعلمين لدمج تدريس الذكاء الاصطناعي عبر التخصصات الأكاديمية المختلفة.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "74ddff079299",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Educator",
+        "Professional"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: المملكة المتحدة تكشف عن توصيات لتنظيم الذكاء الاصطناعي في الطب",
+      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T23:01:00Z",
+      "summary": "أصدرت المملكة المتحدة توصيات تنظيمية جديدة للذكاء الاصطناعي في المجال الطبي.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1845a46138a1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "سياسة الذكاء الاصطناعي التي كتبتها نقابة المحامين مخصصة للشركات القانونية الكبرى؛ إليك ما يجب على المكاتب الفردية والصغيرة فعله بدلاً من ذلك",
+      "link": "https://www.abajournal.com/columns/article/the-ai-policy-your-bar-association-wrote-is-for-biglaw-what-solo-and-small-firms-should-do-instead/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T03:25:22.277013+00:00Z",
+      "summary": "يوفر إرشادات للمكاتب القانونية الفردية والصغيرة لتطبيق سياسات الذكاء الاصطناعي بفعالية.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0be51dd421ff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "شركة ناشئة لأبحاث الذكاء الاصطناعي تُدعى Listen Labs تلغي جولة تمويل بقيمة 1.5 مليار دولار لصالح محادثات مع Salesforce",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T00:00:37Z",
+      "summary": "تخلت Listen Labs عن جولة تمويل بقيمة 1.5 مليار دولار لمتابعة محادثات الاستحواذ مع Salesforce.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e9590b50c0bc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Listen Labs",
+        "Salesforce"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI تضيف شخصية بارزة في التحذير من مخاطر الذكاء الاصطناعي إلى مجلس إدارتها",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T22:25:22Z",
+      "summary": "عينت OpenAI مدافعاً بارزاً عن السلامة في مجلس إدارتها.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a62cdeb365cc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Board Member"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ماساتشوستس تفرض قواعد جديدة للطاقة النظيفة على مراكز البيانات",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T21:43:34Z",
+      "summary": "أدخلت ماساتشوستس لوائح جديدة للطاقة النظيفة تستهدف مراكز البيانات بشكل تحديدي.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7540bc2c5d65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "ميزات الذكاء الاصطناعي الجديدة في Apple Watch تطبع فكرة أن التكنولوجيا تستمع دائماً",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T20:24:48Z",
+      "summary": "تثير إمكانيات الذكاء الاصطناعي الجديدة في ساعة Apple Watch المخاوف بشأن المراقبة الصوتية المستمرة.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "24345bcea52a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "كل ما أعلنته Apple في مؤتمر آيفون الخريفي، بدءاً من آيفون Duo القابل للطي وحتى Apple Watch التي تستمع دائماً",
+      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T20:03:43Z",
+      "summary": "أعلنت Apple عن تحديثات الأجهزة بما في ذلك آيفون قابل للطي وساعة Apple Watch جديدة.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "30c9efdd025b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تم بناء مفصل هاتف Apple الجديد القابل للطي باستخدام الذكاء الاصطناعي",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T19:21:48Z",
+      "summary": "استخدمت Apple الذكاء الاصطناعي لتصميم مفصل هاتفها الجديد القابل للطي.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7d5a9a7d2077",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Developer",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تطبيق الصحة المحدث من Apple سيحسب \"عمرك الصحي\" ودرجة الاستعداد",
+      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T18:16:29Z",
+      "summary": "حدّثت Apple تطبيق الصحة الخاص بها ليشتمل على مقاييس محسوبة للعمر الصحي والاستعداد.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "41fc243c5eb6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "لدى Apple طريقة جديدة لإثبات أن صور آيفون الخاصة بك ليست مصطنعة بالذكاء الاصطناعي",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T18:08:35Z",
+      "summary": "قدمت Apple طريقة للتحقق من الأصالة وإثبات أن الصور لم يتم توليدها بواسطة الذكاء الاصطناعي.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c9b53fb8ed34",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "رئيس Apple التنفيذي جون تيرنوس يقول إن أفضل جهاز للذكاء الاصطناعي لا يزال هو آيفون",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T17:36:05Z",
+      "summary": "صرح التنفيذي في Apple جون تيرنوس أن آيفون يظل المنصة الأساسية للذكاء الاصطناعي.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "974e0dc97a17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Suno تطلق أول نموذج موسيقي للذكاء الاصطناعي تم إنشاؤه بمساعدة صناعة التسجيلات - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT3Uyb1lENGxyemxQRkZ4WHdwMGpydHBkTExlZER5TW55bW16bHJZNElZb1ZkOGtKSE04V2JpaDNBanREZXNzbmltUFNvNlJ6dEVSemVjYkV6cGF4dFh5VU5USEkwRzNGbU5CUDVPa3JISEx6aHl6OC03VE5pbFY2LVhlWU04eWJXbWI4eTVaZ3Q1Q0IwdkRVSmNDMHd4V1pTTi1ZYjloaHRCZFR4Z2RmUFA5TUdrS2ZuT1oyUjBfNGZpS2VEcXFZ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T21:42:19Z",
+      "summary": "أطلقت Suno أول نموذج موسيقي مولد بالذكاء الاصطناعي تم تطويره بالتعاون مع قطاع التسجيلات.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "26d7dbb6ccf7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Suno"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "اختراق OpenAI الرياضي الماكر يبعث بالقشعريرة في الأوساط الأكاديمية - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBRbHMzOG81LXlFczNuSmhkZDdiMURmX3hjazduZ1FoY2VVRU05aExoTmFtX0VrOHYtNEhGcURRR1lhMjdyQ01waGZ1UUdlNWw4eEJLaWNNS1oydkg4SFdmRXVoNFZ6UXVzSjJyWGJlb2JWV01TdFlKTl9qOUpvS0h2NzVpY25qOFVyUXFwekpfVlJLemJiXzE0UGcwWmNwYTNB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T21:16:34Z",
+      "summary": "أثار اختراق رياضي حققته OpenAI ردود فعل واسعة النطاق في المؤسسات الأكاديمية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "495330ced5dc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "لدى Microsoft قواعد جديدة لخصوصية الذكاء الاصطناعي للمدارس - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NRHhTbWxmeG52emphTXp3Sm5JcklxWDRuSzlXQXFRTnplcl9NY1NsVW1QZEN3cExzZzJyQWtDbzZMSUtxbHFTVWJRemFlSFUzT2g2U1JEbEpQczJ0bHFHTGwxX093UEhLV2p6a0xFOEkwMUFrOVhhcHZCdw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T17:07:48Z",
+      "summary": "نفذت Microsoft سياسات جديدة لخصوصية الذكاء الاصطناعي مصممة خصيصاً للمؤسسات التعليمية.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b031f6aafcca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "إطلاق iOS 27 في 14 سبتمبر مع مساعد Siri المدعوم بالذكاء الاصطناعي - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CTG55TjI3c004OUx0NUJLcVdOQmlSWU96UnppTXFLQVJqdzFtS2taaHl4RDN4a1dvRnU1eURxdmoxWXRIamQxWmJ0NklRd01EMGRmeU1MY2VVNXhtS0pIODE4TXNuRHJucHB5X1pIMXU4bzA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T17:41:49Z",
+      "summary": "تحدد موعد إطلاق نظام iOS 27 من Apple في 14 سبتمبر، مع ميزات Siri المدعومة بالذكاء الاصطناعي.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "73d8a33f4d43",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "وضع كاميرا آيفون الجديد من Apple يعد بإثبات أن صورتك ليست وليدة الذكاء الاصطناعي - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZDktdlh4UHk1cGJ1YW5zMWtlVmQ0emVza0pyWXRsQUo5ZjlKYXNQdklWZUdiOXJaTEFSalNnc0dsOHVSZm81LWt1Um5zWmo4MV83bnFIWlNnYnFnWXF6cUJ5TWZFVWo4SGJOeVJiR3l2anQwUVVQTGxUQVg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T19:30:12Z",
+      "summary": "يهدف وضع كاميرا آيفون الجديد إلى توفير دليل يمكن التحقق منه على أن الصور لم يتم توليدها بواسطة الذكاء الاصطناعي.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e6dc7239d6ac",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Apple Watch Series 12 تحتوي على Siri يعمل دائماً ويقوم بإنشاء ملخصات يومية بالذكاء الاصطناعي - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULXVlb0pTSWhOdEk4SmZqMTY1VG9OdVpJbHlzVERzUlNidHhKZ2R1RHktaHlhcVlTaHFYczhkbjlXX3BwT2JQYWRZTVplMGNpMW1UOXpWeUdNT2lVQ3V3U3VsTHBOSFlfVGpLNHlEek1tVVo4ZGNNcXhTMA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T17:37:55Z",
+      "summary": "تتميز ساعة Apple Watch Series 12 بوجود مساعد Siri يعمل دائماً ويقدم ملخصات يومية مولدة بالذكاء الاصطناعي.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "eb906a4e99de",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "لقد بنيت نفس اللعبة باستخدام Astra وFable 5.1... واحدة فقط كانت ممتعة",
+      "link": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-09-09T16:34:27Z",
+      "summary": "يقارن مطور بين تجارب إنشاء الألعاب باستخدام أدوات الذكاء الاصطناعي Astra وFable 5.1.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "f675a33cd23f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "إعادة إنشاء قصة حب دامت 70 عاماً إطاراً بإطار",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T16:00:00Z",
+      "summary": "تُستخدم تقنية AI لإعادة إنشاء قصة حب دامت 70 عاماً وتحريكها.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "32522e85f743",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA تجلب Real-Time AI إلى البث المباشر والرياضة والبث العالمي في IBC",
+      "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T16:00:42Z",
+      "summary": "تعرض NVIDIA حلول Real-Time AI للبث المباشر والرياضة والبث العالمي في IBC.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1ddba9d33f9e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تبسيط ودعم بيئات عمل TorchServe باستخدام Ray Serve Deep Learning Containers",
+      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T15:51:29Z",
+      "summary": "تقدم AWS حزم Ray Serve Deep Learning Containers لدعم وتبسيط بيئات عمل TorchServe.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "45816ac3e8c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TANGO: التنقل البشري (Humanoid) في البيئات المزدحمة باستخدام نموذج Whole-Body Vision-Language-Action",
+      "link": "https://arxiv.org/abs/2609.09158v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:59:55Z",
+      "summary": "يقدم TANGO نموذج whole-body vision-language-action للتنقل البشري في البيئات المزدحمة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "50bf39126310",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Procedural Graphs: هياكل تنفيذ ذاتية التطوير لوكلاء LLM",
+      "link": "https://arxiv.org/abs/2609.09153v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:59:41Z",
+      "summary": "تقدم Procedural Graphs هياكل تنفيذ ذاتية التطوير مصممة لوكلاء LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "14fa4baa21e0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NOAH: تعلم رحلة المريض الكاملة. نموذج Longitudinal Multimodal Time-Aware للتمثيل والتنبؤ",
+      "link": "https://arxiv.org/abs/2609.09140v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:56:13Z",
+      "summary": "يقترح NOAH نموذج longitudinal multimodal time-aware لتمثيل رحلة المريض والتنبؤ بها.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f131a6db9ef",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "إطار عمل قائم على البيانات لتحديد وأولويات فرص RPA في عمليات الرعاية الصحية",
+      "link": "https://arxiv.org/abs/2609.09137v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:55:28Z",
+      "summary": "تم تقديم إطار عمل قائم على البيانات لتحديد وأولويات أتمتة العمليات الروبوتية (RPA) في الرعاية الصحية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "26eafdff1c50",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "التطوير المشترك للـ Harnesses والنماذج: تصحيح On-Policy يساعد النماذج الأضعف على اللحاق حيث تفشل المحاكاة",
+      "link": "https://arxiv.org/abs/2609.09134v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:53:49Z",
+      "summary": "يساعد تصحيح On-Policy النماذج الأضعف على اللحاق باستخدام التطور المشترك للـ harnesses والنماذج.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8704e2c01187",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ExecCritic: تعلم الاختبار، واختبر للتحسين لوكلاء البرمجة (Coding Agents)",
+      "link": "https://arxiv.org/abs/2609.09133v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:53:37Z",
+      "summary": "ExecCritic هو إطار عمل صُمم لاختبار وتحسين وكلاء البرمجة من خلال التنفيذ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0924fe2846fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تعميم لثنائية Amari البايزية (Amari's Bayesian Duality)",
+      "link": "https://arxiv.org/abs/2609.09126v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:51:08Z",
+      "summary": "تقدم هذه الورقة تعميماً رياضياً لثنائية Amari البايزية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cfb6f4665569",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "اللون المعياري (Canonical Color) كعدسة لفهم قابلية فك شفرة المفاهيم في Vision Encoders وVLMs",
+      "link": "https://arxiv.org/abs/2609.09124v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:50:09Z",
+      "summary": "تم تحليل اللون المعياري كعدسة لدراسة قابلية فك شفرة المفاهيم في vision encoders وVLMs.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2ecd6b9c0aa1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeCAL: نحو نماذج Dexterous Vision-Language-Action ذات أساس فيزيائي عبر Contact-Aware Latent Co-Imagination",
+      "link": "https://arxiv.org/abs/2609.09119v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:47:43Z",
+      "summary": "يقدم DeCAL تقنية contact-aware latent co-imagination لنماذج dexterous vision-language-action ذات الأساس الفيزيائي.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "469d356695ab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MeClear: الإسناد القائم على نظرية الألعاب التعاونية وتصفية الذاكرة الواعية بالمخاطر لوكلاء LLM طويلة المدى",
+      "link": "https://arxiv.org/abs/2609.09115v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:46:00Z",
+      "summary": "يوفر MeClear إسناداً قائماً على نظرية الألعاب التعاونية وتصفية الذاكرة لوكلاء LLM طويلة المدى.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c0fd9a768341",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SAEScientist-Bench: هل يمكن لوكلاء AI إجراء أبحاث قابلية تفسير SAE بشكل مستقل؟",
+      "link": "https://arxiv.org/abs/2609.09113v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:45:09Z",
+      "summary": "يقيم SAEScientist-Bench قدرة وكلاء AI على إجراء أبحاث قابلية تفسير SAE بشكل مستقل.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0339f5601f7e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: ARPA-H تستثمر 62 مليون دولار لتطوير AI معتمد من FDA للمساعدة في علاج قصور القلب",
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T16:01:00Z",
+      "summary": "تستثمر ARPA-H مبلغ 62 مليون دولار لتطوير AI معتمد من FDA لعلاج قصور القلب.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f4f6976a7541",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "ARPA-H",
+        "FDA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Clinician",
+        "Director"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: هل يمكن لـ AI إصلاح غرف الطوارئ؟",
+      "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T14:58:55Z",
+      "summary": "استكشاف ما إذا كانت أدوات AI يمكنها تخفيف الضغوط عن غرف الطوارئ.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "56f1576ce69a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Director",
+        "Healthcare Administrator",
+        "Nurse"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: هل يمكن لـ AI إصلاح الرعاية الصحية؟ في فوضى غرف الطوارئ، التكنولوجيا تقصر عن تحقيق الهدف",
+      "link": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T08:30:00Z",
+      "summary": "تكشف الدراسة عن قيود أدوات والمدونين الطبيين بـ AI في غرف الطوارئ.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a38d1bee7f88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Clinician",
+        "Director"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "رأي: الرئيس التنفيذي لـ AMA: لن يحل AI محل الأطباء — بل سيعمل إلى جانبهم",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T08:30:00Z",
+      "summary": "صرح الرئيس التنفيذي لـ AMA بأن AI سيتعاون مع الأطباء بدلاً من استبدالهم.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "234bd95bb8f5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "American Medical Association"
+      ],
+      "job_titles": [
+        "CEO",
+        "Director",
+        "Physician"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "رأي: الـ AI المستقل سيتفوق على الأطباء المدعومين بـ AI في بعض المهام الطبية بحلول عام 2030",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T08:30:00Z",
+      "summary": "تشير الأبحاث إلى أن AI المستقل قد يتفوق على الأطباء المدعومين بـ AI في مهام طبية محددة بحلول عام 2030.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ff18b37d02eb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Director"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Implicity تجمع 40 مليون دولار للمراقبة القلبية عن بُعد المدعومة بـ AI - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1k2YTlNNjEzamFqa2RlMzZOZWFYdVNJRXhEdzhaSURjYzZYVm8zX2hMbjRkWjA1OXhLZzhkWGlnY3h1MnJqSk1FOEVrZ1N4TmNzYjlaTXhLX2NoSGwxbVJHMFZBMXdxZ01XX1Y5S0czRkVYYm1xcHJBV2F6VE9SX3FaT1lkSjFkcXR4ZVRB?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-09T15:32:14Z",
+      "summary": "جمعت Implicity مبلغ 40 مليون دولار لتمويل تكنولوجيا المراقبة القلبية عن بُعد المدعومة بـ AI.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4adca5aae987",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Implicity",
+        "MobiHealthNews"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "وعود ومخاطر ذاكرة AI - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBubHhnODIzbGVsSXZGaXNleWEtaWFGZTRoVVRKdlE3R3lVSXV4S0R0UjVESXctbGh2M2lBcEFNLXk3b3NaNEN1bHpxNHNzY0JEdC1ETktETG9UT3kxRV9LUHlOV0h4azZvVlJEQ2NzT0xldw?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-09T14:04:24Z",
+      "summary": "تحليل للفوائد المحتملة والمخاطر الأمنية المرتبطة بتطبيق أنظمة ذاكرة AI.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b129674782d6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "MobiHealthNews"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "أربعة أخطاء تقع فيها فرق الرعاية الصحية عند توقيع BAA مع موردي AI",
+      "link": "https://www.healthcareittoday.com/2026/09/09/four-things-healthcare-teams-get-wrong-when-signing-an-ai-vendor-baa/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-09-09T14:00:07Z",
+      "summary": "أربعة أخطاء شائعة ترتكبها فرق الرعاية الصحية عند التفاوض على اتفاقيات BAA مع موردي AI.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e40dbc7b30f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Harvey ضد Legora – سباق التقييم",
+      "link": "https://www.artificiallawyer.com/2026/09/09/harvey-vs-legora-the-valuation-race/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-09T15:14:31Z",
+      "summary": "نظرة مقارنة على التقييمات والمكانة السوقية للشركات الناشئة في مجال AI القانوني Harvey وLegora.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c5bc8da1970d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey",
+        "Legora"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Harvey تجمع 550 مليون دولار بتقييم 15.5 مليار دولار، وتستحوذ على Guardrails AI",
+      "link": "https://www.artificiallawyer.com/2026/09/09/harvey-raises-550m-at-15-5bn-val-buys-guardrails-ai/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-09T14:24:43Z",
+      "summary": "جمعت شركة AI القانونية Harvey مبلغ 550 مليون دولار بتقييم 15.5 مليار دولار واستحوذت على Guardrails AI.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f85f21346ad9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Guardrails",
+        "Harvey"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Caddi – أتمتة المكاتب الخلفية للمحامين",
+      "link": "https://www.artificiallawyer.com/2026/09/09/caddi-back-office-automation-for-lawyers/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-09T06:40:25Z",
+      "summary": "تقدم Caddi حلول سير العمل المكتبي الخلفي المؤتمتة المصممة خصيصاً للمحترفين القانونيين.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3778fd69154e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Caddi"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "IBM تطلق نموذج SOTA Granite Time Series PatchTST-FM-r2 بترخيص صديق للاستخدام التجاري",
+      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-09T15:36:24Z",
+      "summary": "أطلقت IBM نموذج Granite Time Series PatchTST-FM-r2 بترخيص صديق للاستخدام التجاري.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0e4c70248969",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "IBM"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "الذكاء الفائق (Superintelligence) قادم. هل يجب أن نسمح بذلك؟",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T16:05:35Z",
+      "summary": "يناقش الاستكشاف ما إذا كان ينبغي للمجتمع السماح بتطوير الذكاء الفائق (Superintelligence).",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "21c2a27323ca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Connor Leahy من ControlAI يشرح لماذا الذكاء الفائق 'ليس سلاحاً، بل خصماً'",
+      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T15:50:13Z",
+      "summary": "يشرح Connor Leahy من ControlAI لماذا يجب اعتبار الذكاء الفائق خصماً.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "76cee25131e1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "ControlAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "مساعد AI الشهير Instinct أصبح لديه الآن عنوان بريد إلكتروني خاص به",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T15:13:12Z",
+      "summary": "يمتلك مساعد AI الشهير Instinct الآن ميزة التكامل مع عنوان بريد إلكتروني خاص به.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "aea2bcdb83b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "’المقامرة بأرواحنا’: باحث في Anthropic يستقيل ويحذر من AI المطور ذاتياً",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T15:02:47Z",
+      "summary": "استقال باحث في Anthropic محذراً من مخاطر الذكاء الاصطناعي المطور ذاتياً.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "46698576bf59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Shipt تصبح أحدث تطبيق توصيل يدمج مساعد تسوق بـ AI",
+      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T14:51:45Z",
+      "summary": "قدمت Shipt مساعد تسوق جديد بـ AI لتطبيق التوصيل الخاص بها.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7b3bab8ff355",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Tech"
+      ],
+      "companies": [
+        "Shipt"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "انخفاض الإنفاق على AI لكل موظف في الشركات الكبرى في أغسطس — فترة ركود صيفي أم علامة تحذير؟",
+      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T14:18:34Z",
+      "summary": "انخفض الإنفاق على AI لكل موظف في الشركات الكبرى خلال شهر أغسطس.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5f6bd3058b0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CFO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sequoia تضاعف استثماراتها في Cymphony مع خلق وكلاء AI لمخاطر أمنية جديدة للمؤسسات",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T13:00:00Z",
+      "summary": "تستثمر Sequoia المزيد في Cymphony مع إدخال وكلاء AI لمخاطر أمنية في المؤسسات.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "12dcfd350baf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Cymphony",
+        "Sequoia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Instacart تطلق مساعد تسوق بقالة بـ AI يسمى Clementine",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T13:00:00Z",
+      "summary": "أطلقت Instacart مساعد تسوق بقالة مدعوم بـ AI باسم Clementine.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "489fd9472b6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Tech"
+      ],
+      "companies": [
+        "Instacart"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Suno تستبدل نماذج AI الخاصة بها بنموذج جديد مدرب على موسيقى مرخصة مع تراكم دعاوى حقوق النشر",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T12:05:34Z",
+      "summary": "استبدلت Suno نماذج AI الخاصة بها بنسخة مدربة على موسيقى مرخصة وسط دعاوى قضائية تتعلق بحقوق النشر.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "04755a5637fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Legal"
+      ],
+      "companies": [
+        "Suno"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "الطلاب الذين يستخدمون AI يحققون عموماً درجات أسوأ في المدرسة - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0NNcE1LRUN3ME1nVm5EOGU5U2dnR0pFLWZGVDBrRExiemx0dUFSNFNYdjVsWDJ0d2dJaVBDTHJndEhTamI1VGVJdmlXX2FpYjZBM0ljZEJCa3UzQWVqRlBLUERyLUZCT3h0YVpMQXhoT1pSRWNuSXRUbXNRdWVBS011VEJuZ3ludUV4MVpBWW1mZHlt?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T12:05:01Z",
+      "summary": "تشير الأبحاث إلى أن الطلاب الذين يستخدمون AI يحققون عموماً درجات أكاديمية أقل.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c81f0a94eb28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "باحثون قلقون في Anthropic يحذرون من أن AI 'قد يقضي على البشرية جمعاء' - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzV4WU5VTmNDYkltekZvM05WTGNOVTgwWG9RakppVGk2Q1RGMFE5ZC1pWG9DcWtpYWlrMEh6TWswdXBEUkFUZHJzNy1UaExWT0hHZ1dPeHRCc2t4VDRYaU5Zdl9jbndfUTVTYThOX2Q4MHBiR0poTDBiMzE1LThYaFc0NkJkNFI4UTdXZXZQQ0k?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T09:56:28Z",
+      "summary": "أثار باحثون في Anthropic مخاوف من أن AI المتقدم قد يشكل تهديداً وجودياً للبشرية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "275674185998",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تكنولوجيا AI الجديدة من Amazon Prime Video تطابق حركة الشفاه مع الصوت المدبلج - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDJ4NV9lWXJZVU5UdmxlOXAweUdpTGtvM29JRnhwSGtiQ2djdkNMWlpWT3RaQWF5U29vWTloTklnRXQzMTBoWTFobmxmZy1nWXJyM2dhNE1md0dWbmxZT1hrTWt6YUZNRG1yZm9UVDBTRzgyV0ZCODBjcjlCdFkzYg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T13:00:00Z",
+      "summary": "قدمت Amazon Prime Video تكنولوجيا AI لمطابقة حركة الشفاه مع الصوت المدبلج.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "656a73d32f0d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "مارك زوكربرغ يخبرك بضرورة الثقة في Muse. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTdsOWg2bzk3cllrNWtidURjcl9DTy05NmFNUURUQk1vQy1mazR0cnRlUWx0S3ZjRV96RFhNU29fQW9YSzZSMHB2OVd1dzR0TWgwbG1Nc3ZCZ0g4Q0ZqWjAxTERSVHlmbFBnUERaM29NcEROYjQ4dHcyamtFbU9Ma2ZJeDBVSGc4SUxwbUZFeTdGbVZfc2VTSHhJeTQ0QQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-08T20:02:23Z",
+      "summary": "يشجع مارك زوكربرغ على الثقة في Muse.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9024363de971",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ميزة Daily Brief من Gemini متاحة الآن للجميع في الولايات المتحدة. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLThmeW85VTNIaExQTWpieC1zdG15dVp1d2lCS2FyQm5GYmxoYVZoMHBZbU9sWDRlOHhnV2R2TmRpVnZJQlA0dHlkTWdtU0VwZmJjTDJLS05MMHdRTXg2Wlc5VWJKa0k5TldwaS1mOG1ZTm5kbFlEX0RBUXpSQWVDR3lMdW5GNGRjYmtici1rSmxvQUJmR0x4ODBZMA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-08T21:43:13Z",
+      "summary": "توسع Google نطاق توفر ميزة Daily Brief لـ Gemini لجميع المستخدمين في الولايات المتحدة.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d35b4c88847c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "كيف يساعد GPT-5.6 Sol في تشغيل تجارب الحوسبة الكمومية",
       "link": "https://openai.com/index/codex-quantum-computing-experiments",

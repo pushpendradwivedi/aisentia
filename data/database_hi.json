@@ -1,6 +1,3455 @@
 {
-  "refreshed_at": "2026-09-09 03:34 UTC",
+  "refreshed_at": "2026-09-10 16:11 UTC",
   "items": [
+    {
+      "title": "अब हर कोई डेटा को काम में ला सकता है",
+      "link": "https://openai.com/index/put-data-to-work",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T15:00:00Z",
+      "summary": "OpenAI ऐसे टूल पेश करता है जो उपयोगकर्ताओं को कुशलतापूर्वक डेटा का विश्लेषण करने और काम करने में सक्षम बनाते हैं।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d86fa96aa31a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "संघीय, राज्य, स्थानीय और आदिवासी सरकारों के लिए AI पहुँच और साइबर सुरक्षा का विस्तार",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T07:00:00Z",
+      "summary": "OpenAI पूरे संयुक्त राज्य में सरकारी संस्थाओं के लिए AI पहुँच और साइबर सुरक्षा समाधानों का विस्तार करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aa2ea623e7d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Defense",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "d-Matrix ने रैंक-स्केल XPU डिप्लॉयमेंट के लिए NVIDIA NVLink Fusion को अपनाया",
+      "link": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T13:00:21Z",
+      "summary": "d-Matrix रैंक-स्केल XPU हार्डवेयर डिप्लॉयमेंट के लिए NVIDIA NVLink Fusion तकनीक को अपनाता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "774d76e42a92",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA",
+        "d-Matrix"
+      ],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA और Palantir महत्वपूर्ण सप्लाई चेन्स में सोवरेन इंटेलिजेंस लाते हैं",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T09:00:00Z",
+      "summary": "NVIDIA और Palantir महत्वपूर्ण सप्लाई चेन्स के लिए AI-संचालित सोवरेन इंटेलिजेंस प्रदान करने के लिए साझेदारी करते हैं।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "320f365d528a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing",
+        "Defense"
+      ],
+      "companies": [
+        "NVIDIA",
+        "Palantir"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मल्टी-टर्न बातचीत के लिए एजेंट इवैल्यूएशन मीट्रिक",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agent-evaluation-metric-for-multi-turn-conversations/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T15:55:41Z",
+      "summary": "AWS मल्टी-टर्न संवादात्मक कार्यों में AI एजेंटों के लिए विशेष रूप से तैयार किया गया एक इवैल्यूएशन मीट्रिक पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9324ba397de4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AvioBook कैसे Amazon Bedrock AgentCore के साथ ऑपरेशनल डेटा से टर्नअराउंड इनसाइट्स बनाता है",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-aviobook-uses-generative-ai-to-drive-airline-turnaround-insights/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T15:53:05Z",
+      "summary": "AvioBook एयरलाइंस के लिए ऑपरेशनल टर्नअराउंड इनसाइट्स जनरेट करने के लिए Amazon Bedrock AgentCore का उपयोग करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1c5ced450db7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "AvioBook"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: क्या AI ग्रामीण स्वास्थ्य सेवा को बचा सकता है?",
+      "link": "https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-10T14:53:06Z",
+      "summary": "यह लेख ग्रामीण स्वास्थ्य सेवा प्रणालियों के सामने आने वाली चुनौतियों से निपटने और पहुँच में सुधार करने में AI की क्षमता की पड़ताल करता है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2a034f402acf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Healthcare IT Professional"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "ट्रम्प अधिकारियों का कहना है कि AI ग्रामीण स्वास्थ्य सेवा को बचाने में मदद करेगा। क्षेत्र के कुछ नेता इस पर विश्वास नहीं करते हैं",
+      "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-10T08:30:00Z",
+      "summary": "ग्रामीण स्वास्थ्य सेवा में AI की भूमिका पर बहस जारी है; अधिकारी आशावादी हैं, जबकि क्षेत्र के विशेषज्ञ इसे अपनाने को लेकर संशय व्यक्त करते हैं।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "202ff84b1504",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Healthcare Administrator",
+        "Policy Maker"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "क्लिनिकल वर्कफ़्लो को बदलने के लिए प्राकृतिक भाषा और 'vibe coding' का उपयोग - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmhvUzJ3QUhZVDlfQmx0NEF2d0t0VXFTWTg4VHpmZmJxLWhObll3Zm9LS0k3eFNGNVV5SkJhMjRvalFfa2dYbDh0a2pURE4xanAtLUJLbHNIa21ILURjaEtFenAwbVlTWWpXM0xwVVh2Q1UxdGtJVmNGY1E0dmFKR1lKMnVzbi1mWHlLZGVQYVdZNU9FdlNFYWN5bVBMd2ljMEpYMXRWOWNMNUJLZ3c?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-10T13:56:33Z",
+      "summary": "स्वास्थ्य सेवा में क्लिनिकल वर्कफ़्लो को बेहतर बनाने और सुव्यवस्थित करने के लिए नेचुरल लैंग्वेज प्रोसेसिंग और 'vibe coding' का उपयोग किया जा रहा है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "805457ace991",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "द इनोवेटर्स - ‘Memories’",
+      "link": "https://www.artificiallawyer.com/2026/09/10/the-innovators-memories/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T09:12:28Z",
+      "summary": "अभिनव लीगल टेक्नोलॉजी समाधानों और नॉलेज रिटेंशन प्लेटफॉर्म पर फीचर।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3796271e63c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "लीगल रिसर्च को स्पेशलिस्ट लेयर की आवश्यकता क्यों है",
+      "link": "https://www.artificiallawyer.com/2026/09/10/why-legal-research-needs-a-specialist-layer/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T07:08:02Z",
+      "summary": "AI लीगल रिसर्च टूल्स में स्पेशलाइज्ड डोमेन एक्सपर्टाइज लेयर्स की आवश्यकता की पड़ताल करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f1f593b2e28f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "White & Case ने सऊदी स्टार्टअप Clauze में निवेश किया",
+      "link": "https://www.artificiallawyer.com/2026/09/10/white-case-invests-in-saudi-startup-clauze/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T06:44:49Z",
+      "summary": "लॉ फर्म White & Case सऊदी स्थित लीगल टेक्नोलॉजी स्टार्टअप Clauze में निवेश करती है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b2d965223505",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Clauze",
+        "White & Case"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Saudi Arabia"
+      ]
+    },
+    {
+      "title": "AI विज्ञापनों के बीच ध्यान आकर्षित करने की होड़, वकील का एस्टेट प्लानिंग बिलबोर्ड सीधे मुद्दे की बात करता है",
+      "link": "https://www.abajournal.com/news/article/fighting-for-attention-with-ai-ads-attorneys-estate-planning-billboard-gets-right-to-the-point/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T16:03:21.859584+00:00Z",
+      "summary": "एक वकील AI-जनरेटेड विज्ञापनों के बीच अलग दिखने के लिए पारंपरिक बिलबोर्ड विज्ञापन का उपयोग करता है।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d4ecfb7c4d46",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Gradio Workflow के साथ AUTOMATIC1111 का पुननिर्माण",
+      "link": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-10T00:00:00Z",
+      "summary": "इमेज जनरेशन मॉडल के लिए Gradio वर्कफ़्लो का उपयोग करके AUTOMATIC1111 वेब इंटरफ़ेस को फिर से बनाने का प्रदर्शन करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "549549603105",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI एजेंट सार्वजनिक सेवाओं को नए अनुरोधों से भर रहे हैं",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T14:53:50Z",
+      "summary": "स्वचालित AI एजेंट सार्वजनिक क्षेत्र की एजेंसियों को बड़ी संख्या में सेवा अनुरोध जमा कर रहे हैं।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9ee5bacda2ce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Maven Robotics आपकी रोबोट डिप्लॉयमेंट डील छीनना चाहता है",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T14:17:37Z",
+      "summary": "Maven Robotics विभिन्न क्षेत्रों में कमर्शियल रोबोटिक्स डिप्लॉयमेंट कॉन्ट्रैक्ट्स के लिए सीधे प्रतिस्पर्धा कर रहा है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d40cabdd4c17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [
+        "Maven Robotics"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "गणितज्ञ प्रमाण चाहते हैं कि OpenAI ने उनके काम का उपयोग नहीं किया - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmhiYXhlY0o3c2d3QzFCZkNLaEZXUHRJNEMtV0FnNmtKWF9DZXFTOWtiNFdiQmFwWXB4TUJrUEtIbEs1bVBoTmtJWE9JU2FicmU5Zkppa0RXOHFsY0hDZmFFT3Z3aWJ0SWpOcEVDamc5d2dpRzFMenNObjhZS2lGZEhWa0RhQlNPSG50MFNuUTU2V1NidzBtWE1SMmdMQTJHNEU0cTRUVHNVZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T11:00:57Z",
+      "summary": "गणितज्ञ इस बात के सत्यापन का अनुरोध करते हैं कि OpenAI ने अपने मॉडल को उनके कॉपीराइट-संरक्षित कार्यों पर प्रशिक्षित नहीं किया है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ff4a7a756b88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI",
+        "The Verge"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ज़रूर, Meta का AI Muse काम करता है, लेकिन यह मुझे काफी अजीब लगता है - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMGROQ3VuellBTzM3QWd0ZjczMERnSDRyV0stQ1lsUWMwdFNkU3NyNFBrRzk0emQ3YUgzVDlTR201ZEx6UHBHY2ZXaXVyRWZTQlN0VmxNNFVwZHN3Y3ZBTEUxLXpSMEhRT1E?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T15:00:00Z",
+      "summary": "Meta के नए AI Muse उत्पाद के साथ उपयोगकर्ता अनुभव के संबंध में एक प्रतिक्रिया और समीक्षा।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "80cc964c1d19",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta",
+        "The Verge"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Volvo ने अमेरिका में EX40 को रद्द किया, बेहतर सेंसर और Gemini AI के साथ XC40 को अपडेट किया - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0Rkb0ltUEVaREgzajh0dTJrTjVFRUtqNFgtOXhiaG5ac2hDaGh3WHZUTDdJb1NBRWJlR1FUTjFBY0d2dFZVbUtsX3VuSWR5UC02UUJhVlFNTkRZb3ZVYWNpTXhFakQ0OVUzR0xGTFZHSmJaXzUtMWE0YnprV21IWVJvNmo3MlRQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T07:00:00Z",
+      "summary": "Volvo अपने XC40 वाहन लाइन को Gemini AI इंटीग्रेशन और उन्नत सेंसर सिस्टम के साथ अपडेट करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8af9f4d8acc6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [
+        "Google",
+        "The Verge",
+        "Volvo"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "एआई पॉलिसी विंडो खुली है। हमें कार्रवाई करने की आवश्यकता है।",
+      "link": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T13:00:00Z",
+      "summary": "OpenAI कृत्रिम बुद्धिमत्ता नीति का अवसर खुला रहने के दौरान कार्रवाई करने की वकालत करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e50720e57461",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Policy Maker"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra: काम के लिए बुद्धिमत्ता की अगली पीढ़ी",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T11:00:00Z",
+      "summary": "OpenAI ने कार्य वातावरण में बुद्धिमत्ता और उत्पादकता बढ़ाने के उद्देश्य से GPT-6 Astra पेश किया है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dc8c3baa32f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "पॉल क्रिस्टियानो OpenAI फाउंडेशन बोर्ड में शामिल हुए",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T17:00:00Z",
+      "summary": "एआई अलाइनमेंट शोधकर्ता पॉल क्रिस्टियानो OpenAI फाउंडेशन के निदेशक मंडल में शामिल हो गए हैं।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bb894e920169",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "हमारे आर्थिक भविष्य के लिए परिदृश्य - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T13:43:30Z",
+      "summary": "Anthropic उन्नत कृत्रिम बुद्धिमत्ता विकास के परिणामस्वरूप संभावित आर्थिक परिदृश्यों को रेखांकित करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8076bc2b14d0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance",
+        "Government"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO",
+        "Policy Maker"
+      ],
+      "locations": []
+    },
+    {
+      "title": "हाल की साइबर सुरक्षा घटनाओं का एक अलाइनमेंट आकलन - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T19:13:44Z",
+      "summary": "Anthropic एआई सुरक्षा और अलाइनमेंट के दृष्टिकोण से हाल की साइबर सुरक्षा घटनाओं का विश्लेषण करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1bec39c0211",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA ने ऑस्ट्रेलिया के डेटा सेंटर इकोसिस्टम के साथ साझेदारी में एआई बुनियादी ढांचे की क्षमता का विस्तार किया",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-10T00:00:00Z",
+      "summary": "NVIDIA राष्ट्रीय एआई कंप्यूटिंग बुनियादी ढांचे की क्षमता को बढ़ावा देने के लिए ऑस्ट्रेलियाई डेटा केंद्रों के साथ साझेदारी करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c5f1fbd7a024",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": [
+        "Australia"
+      ]
+    },
+    {
+      "title": "vLLM के साथ Amazon SageMaker HyperPod पर Qwen3.8-2.4T-A95B को तैनात करना",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T22:26:29Z",
+      "summary": "vLLM त्वरण का उपयोग करके SageMaker HyperPod पर बड़े Qwen मॉडल होस्ट करने पर तकनीकी गाइड।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "da326542c63a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ICYMI: अगस्त 2026 में एआई निर्माताओं के लिए क्या आया",
+      "link": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-august-2026/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T20:01:03Z",
+      "summary": "मशीन लर्निंग डेवलपर्स के लिए प्रदान किए गए AWS एआई टूल्स, फीचर्स और रिलीज़ का सारांश।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fb91fdb57225",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Heurist Finance ने Amazon Bedrock AgentCore पर एआई-नेटिव इन्वेस्टमेंट वर्कबेंच कैसे बनाया",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-heurist-finance-built-an-ai-native-investment-workbench-on-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T18:11:12Z",
+      "summary": "Heurist Finance ने Amazon Bedrock AgentCore क्षमताओं का लाभ उठाते हुए एक एआई इन्वेस्टमेंट वर्कबेंच बनाया।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "98a2c94336b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Heurist Finance"
+      ],
+      "job_titles": [
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Show-Harness: केवल एक VLM एजेंट रोबोट चला सकता है",
+      "link": "https://arxiv.org/abs/2609.10522v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T17:53:38Z",
+      "summary": "शोध में एक विजन-लैंग्वेज मॉडल एजेंट फ्रेमवर्क पेश किया गया है जो ज़ीरो-शॉट रोबोटिक नियंत्रण में सक्षम है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3ac266b4a983",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "IBIB: मॉडल पहचानकर्ता के बजाय सर्विसिंग रूट द्वारा एंटरप्राइज एआई सिस्टम को मापने के लिए एक प्रोटोकॉल",
+      "link": "https://arxiv.org/abs/2609.10494v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T17:31:29Z",
+      "summary": "पेपर IBIB का प्रस्ताव करता है, जो मॉडल के बजाय रूटिंग पथ के आधार पर एंटरप्राइज एआई बुनियादी ढांचे का मूल्यांकन करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e4464a74b025",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Semigroup-JEPA: ज़ीरो-शॉट भौतिकी सामान्यीकरण के लिए लेटेंट डायनेमिक्स कंसिस्टेंसी",
+      "link": "https://arxiv.org/abs/2609.10464v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T17:08:13Z",
+      "summary": "शोध मॉडल में लेटेंट डायनेमिक्स कंसिस्टेंसी और भौतिक सामान्यीकरण को बढ़ाने के लिए Semigroup-JEPA प्रस्तुत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0f9285f8df5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "JarvisGUI: गतिशील कार्य संरचना के साथ क्रॉस-डिफ़ाइस जीयूआई एजेंटों की ओर",
+      "link": "https://arxiv.org/abs/2609.10451v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:59:59Z",
+      "summary": "स्वायत्त एजेंटों का उपयोग करके कई डिवाइस प्रकारों में उपयोगकर्ता इंटरफेस को नियंत्रित करने के लिए JarvisGUI पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d0da9344095",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ConvMem: लॉन्ग-कॉन्टेक्स्ट रीज़निंग के लिए कनवोल्यूशनल मेमोरी",
+      "link": "https://arxiv.org/abs/2609.10441v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:53:02Z",
+      "summary": "न्यूरल नेटवर्क में लॉन्ग-कॉन्टेक्स्ट रीज़निंग मेमोरी दक्षता में सुधार के लिए ConvMem वास्तुकला का प्रस्ताव करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a26254375175",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "केवल वही भूलना जो मायने रखता है: मजबूत LLMs की ओर लेयर-सेलेक्टिव अनलर्निंग",
+      "link": "https://arxiv.org/abs/2609.10439v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:50:41Z",
+      "summary": "बड़े भाषा मॉडल से अवांछित ज्ञान को लक्षित रूप से हटाने के लिए लेयर-सेलेक्टिव अनलर्निंग पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0613c5a855b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "आपातकालीन विभाग रीविजिट क्वालिटी रिव्यू स्क्रीनिंग: मानव निर्णय लेने और कृत्रिम बुद्धिमत्ता सहायता की खोज",
+      "link": "https://arxiv.org/abs/2609.10421v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:37:35Z",
+      "summary": "अध्ययन आपातकालीन विभाग रीविजिट क्वालिटी रिव्यू स्क्रीनिंग में मानव निर्णय लेने और कृत्रिम बुद्धिमत्ता सहायता की जांच करता है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aaf8226d381b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "फॉर्च्यूनट रिकॉल: LLMs में लगातार सुसंगतता के लिए ऑन्टोलॉजी-संचालित मेमोरी लाइफसाइकिल मैनेजमेंट",
+      "link": "https://arxiv.org/abs/2609.10413v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:31:45Z",
+      "summary": "ऑन्टोलॉजी-संचालित मेमोरी लाइफसाइकिल मैनेजमेंट दृष्टिकोण बड़े भाषा मॉडल में निरंतर सुसंगतता को बढ़ाता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eb12d69b1c76",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "क्या फाउंडेशन मॉडल ऑनलाइन सामग्री को मॉडरेट कर सकते हैं? निर्देश- बनाम उदाहरण-संचालित नीति संचालन का मूल्यांकन",
+      "link": "https://arxiv.org/abs/2609.10410v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:30:15Z",
+      "summary": "फाउंडेशन मॉडल का उपयोग करके सामग्री मॉडरेशन के लिए निर्देश- बनाम उदाहरण-संचालित नीति संचालन का मूल्यांकन।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8b4341581cf1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MOONWALK: एनिमेशन/वीएफएक्स प्री-प्रोडक्शन में जूनियर-सुपरवाइजर समीक्षा वर्कफ़्लो में इंटेंट-एविडेंस-एक्शन अलाइनमेंट के साथ संचालन को मध्यस्थता करना",
+      "link": "https://arxiv.org/abs/2609.10385v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:10:29Z",
+      "summary": "फ्रेमवर्क समीक्षा चरणों में इंटेंट-एविडेंस-एक्शन अलाइनमेंट का उपयोग करके एनिमेशन और वीएफएक्स प्री-प्रोडक्शन वर्कफ़्लो को मध्यस्थता करता है।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cfd49770333c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PACE: QoE-कुशल रिट्रीवल-ऑगमेंटेड डायलॉग सर्विसिंग के लिए पर्सीव्ड-लेटेंसी-अवेयर कैस्केडिंग सर्विस रूटिंग और फिलर कंट्रोल",
+      "link": "https://arxiv.org/abs/2609.10372v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T16:02:36Z",
+      "summary": "कैस्केडिंग सर्विस रूटिंग और फिलर कंट्रोल विधि रिट्रीवल-ऑगमेंटेड डायलॉग सर्विसिंग के लिए विलंबता को अनुकूलित करती है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0f1ee4f2f9c6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OmniMed-FL: नैदानिक ​​निदान के लिए एक मजबूत मल्टीमोडल फ़ेडरेटेड लर्निंग फ्रेमवर्क",
+      "link": "https://arxiv.org/abs/2609.10364v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:56:26Z",
+      "summary": "नैदानिक ​​निदान अनुप्रयोगों के लिए विशेष रूप से डिज़ाइन किया गया मजबूत मल्टीमोडल फ़ेडरेटेड लर्निंग फ्रेमवर्क।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "40b132ff69fc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "साइबर-वित्तीय संक्रामक रोग: बैंकिंग प्रणाली के माध्यम से एआई वेंडर की कमी के प्रचार का मॉडलिंग",
+      "link": "https://arxiv.org/abs/2609.10350v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:46:16Z",
+      "summary": "गणितीय मॉडल यह पता लगाता है कि एआई वेंडर की कमी बैंकिंग प्रणाली के माध्यम से कैसे फैलती है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b1e8aef2035f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "HR Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "वन-साइज़-फ़िट्स-ऑल से परे: MLLMs में विजन टोकन प्रूनिंग के लिए सैंपल-एडेप्टिव स्ट्रेटेजी रूटिंग",
+      "link": "https://arxiv.org/abs/2609.10346v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:44:32Z",
+      "summary": "सैंपल-एडेप्टिव स्ट्रेटेजी रूटिंग दृष्टिकोण मल्टीमोडल बड़े भाषा मॉडल में विजन टोकन प्रूनिंग में सुधार करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ddb754e5d0e9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "प्रतीकात्मक धारणा से तार्किक कटौती तक: ज्यामितीय तर्क में भाषा मॉडल का मार्गदर्शन करने के लिए एक फ्रेमवर्क",
+      "link": "https://arxiv.org/abs/2609.10335v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:33:25Z",
+      "summary": "फ्रेमवर्क प्रतीकात्मक धारणा से तार्किक कटौती तक ज्यामितीय तर्क के माध्यम से भाषा मॉडल का मार्गदर्शन करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2919658c0f74",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TRACE: संश्लेषित पुरस्कारों के साथ कारण अन्वेषण के लिए रीज़निंग एजेंटों का प्रशिक्षण",
+      "link": "https://arxiv.org/abs/2609.10315v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:21:47Z",
+      "summary": "विधि संश्लेषित पुरस्कारों का उपयोग करके कारण अन्वेषण के लिए रीज़निंग एजेंटों को प्रशिक्षित करती है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f2e57a18aab3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "एक लूप, दो लाभ: क्या एक्टिव लर्निंग मुफ्त में लॉटरी जीत सकती है?",
+      "link": "https://arxiv.org/abs/2609.10311v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:18:37Z",
+      "summary": "इस जांच में कि क्या एक्टिव लर्निंग एक साथ अनुकूलन और लॉटरी टिकट जनरेशन लाभ प्राप्त कर सकती है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "89d6719f1d12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RiLM: जियोडिसिक डिकोडिंग के माध्यम से पैरामीटर-कुशल भाषा मॉडलिंग",
+      "link": "https://arxiv.org/abs/2609.10305v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:16:31Z",
+      "summary": "जियोडिसिक डिकोडिंग विधि पैरामीटर-कुशल भाषा मॉडलिंग प्राप्त करती है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bd543f2d3a23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OT सिस्टम के लिए घुसपैठ प्रतिक्रिया रणनीतियों को सीखना",
+      "link": "https://arxiv.org/abs/2609.10298v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:12:52Z",
+      "summary": "तकनीक विशेष रूप से ऑपरेशनल टेक्नोलॉजी सिस्टम के लिए घुसपैठ प्रतिक्रिया रणनीतियों को सीखती है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8c674f2fa424",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GANDR: सत्यापन योग्य कानूनी उत्तर सृजन के लिए दावा ऑडिटिंग",
+      "link": "https://arxiv.org/abs/2609.10293v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T15:08:09Z",
+      "summary": "GANDR फ्रेमवर्क सत्यापन योग्य कानूनी उत्तर सृजन के लिए दावा ऑडिटिंग क्षमताएं प्रदान करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "34a46c399f64",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "एजेंट को क्या भूलना चाहिए? संग्रहीत चीज़ों को उपयोग की जाने वाली चीज़ों से अलग करना",
+      "link": "https://arxiv.org/abs/2609.10263v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:48:09Z",
+      "summary": "अध्ययन इस बात का विश्लेषण करता है कि संग्रहीत जानकारी को उपयोग की गई जानकारी से अलग करके एआई एजेंटों को क्या भूलना चाहिए।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1d1e870f442b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DiSCo: LLMs में सांस्कृतिक पसंद के पूर्वाग्रह को मापने के लिए एक वितरण-प्रथम स्टीयरिंग और सांस्कृतिक पूर्व मूल्यांकन फ्रेमवर्क",
+      "link": "https://arxiv.org/abs/2609.10253v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:40:08Z",
+      "summary": "मूल्यांकन फ्रेमवर्क वितरण-प्रथम स्टीयरिंग का उपयोग करके बड़े भाषा मॉडल में सांस्कृतिक पसंद के पूर्वाग्रह को मापता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f795d4a667b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "A-JIT: एजेंटिक जस्ट-इन-टाइम सॉफ्टवेयर निर्माण",
+      "link": "https://arxiv.org/abs/2609.10248v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:36:51Z",
+      "summary": "फ्रेमवर्क एजेंटिक जस्ट-इन-टाइम सॉफ्टवेयर निर्माण पद्धतियों को पेश करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f0f89a14bc1e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LiteRAG: लागत प्रभावी ग्राफ-आधारित रिट्रीवल-ऑगमेंटेड जनरेशन",
+      "link": "https://arxiv.org/abs/2609.10239v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:32:07Z",
+      "summary": "LiteRAG रिट्रीवल-ऑगमेंटेड जनरेशन के लिए लागत प्रभावी ग्राफ-आधारित दृष्टिकोण प्रदान करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c32b08e57242",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "पॉलिसी-गाided एम्बेडिंग सर्च के माध्यम से पदानुक्रमित और पर्म्यूटेशन-इनवेरिएंट फीचर ट्रांसफॉर्मेशन लर्निंग",
+      "link": "https://arxiv.org/abs/2609.10225v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:23:34Z",
+      "summary": "विधि पॉलिसी-गाided एम्बेडिंग सर्च के माध्यम से पदानुक्रमित और पर्म्यूटेशन-इनवेरिएंट फीचर ट्रांसफॉर्मेशन सीखती है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b3d5189cd640",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "जो आप गिन सकते हैं उसका नमूना क्यों लें? जीनोमिक टूल चयन के लिए सटीक नीति अनुकूलन",
+      "link": "https://arxiv.org/abs/2609.10221v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T14:20:47Z",
+      "summary": "सटीक नीति अनुकूलन विधि नमूना लिए बिना जीनोमिक टूल चयन में सुधार करती है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a26ce676cb66",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "क्या एआई एजेंट अधिकार सीमाओं के पार सत्यापन योग्य नेटवर्क-व्यापी परिणाम दे सकते हैं?",
+      "link": "https://arxiv.org/abs/2609.10181v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:51:15Z",
+      "summary": "पेपर मूल्यांकन करता है कि क्या एआई एजेंट अलग-अलग नेटवर्क अधिकार सीमाओं के पार सत्यापन योग्य परिणाम दे सकते हैं।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0cb1295d769d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "सतह के अनुकरण से परे: मल्टीमोडल इन-कॉन्टेक्स्ट लर्निंग में रीज़निंग पाथ अलाइनमेंट के लिए कंट्रास्टेव मॉडलिंग",
+      "link": "https://arxiv.org/abs/2609.10177v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:45:02Z",
+      "summary": "मल्टीमोडल इन-कॉन्टेक्स्ट लर्निंग कार्यों में रीज़निंग पाथ को संरेखित करने के लिए कंट्रास्टेव मॉडलिंग का प्रस्ताव करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9fbf0f426c27",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "सिस्टम-व्यापी वैयक्तिकरण के लिए कर्नेल-प्रबंधित साझा मेमोरी",
+      "link": "https://arxiv.org/abs/2609.10144v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:20:47Z",
+      "summary": "सिस्टम-व्यापी वैयक्तिकरण कुशल निष्पादन का समर्थन करने के लिए कर्नेल-प्रबंधित साझा मेमोरी आर्किटेक्चर पेश करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ddf28c1b3a8f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "सक्रिय अनुकूलन, स्थिर रक्षा नहीं: adversarial fine-tuning में निवारक स्टीयरिंग की अस्थायी गतिशीलता",
+      "link": "https://arxiv.org/abs/2609.10142v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:19:37Z",
+      "summary": "भाषा मॉडल के adversarial fine-tuning के दौरान निवारक स्टीयरिंग की अस्थायी गतिशीलता की जांच करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6cc2d94837af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "पठार मौसम अलर्ट के लिए स्व-अनुकूलन संकेतों के साथ एजेंट-आधारित ML-LLM फ़्यूज़न",
+      "link": "https://arxiv.org/abs/2609.10135v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:15:46Z",
+      "summary": "पठार मौसम अलर्ट जनरेशन के लिए स्व-अनुकूलन संकेतों के साथ मशीन लर्निंग और LLMs को जोड़ता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0e1fd9b8d751",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "बड़े भाषा मॉडल से वास्तुकला मॉडलिंग आउटपुट के लिए संदर्भ संचालन और सिस्टम इंजीनियरिंग डिज़ाइन में उनके उपयोग के लिए मूल्यांकन मानदंड",
+      "link": "https://arxiv.org/abs/2609.10132v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:09:01Z",
+      "summary": "सिस्टम इंजीनियरिंग डिज़ाइन में LLM आउटपुट का उपयोग करने के लिए संदर्भ संचालन और मूल्यांकन मानदंड को परिभाषित करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "57e337a7ea3b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SA-Profile: सुपर-रिज़ॉल्यूशन MRI से स्वचालित सुलकस एंगल प्रोफाइलिंग",
+      "link": "https://arxiv.org/abs/2609.10125v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T13:01:59Z",
+      "summary": "सुपर-रिज़ॉल्यूशन MRI स्कैन का उपयोग करके स्वचालित सुलकस एंगल प्रोफाइलिंग के लिए SA-Profile प्रस्तुत करता है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ff8a8b4c2af7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मल्टी-सेंटर एजिंग क्लॉक प्रेडिक्शन के लिए एक ट्रस्ट-नेटवर्क-आधारित फ़ेडरेटेड लर्निंग फ्रेमवर्क",
+      "link": "https://arxiv.org/abs/2609.10108v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T12:42:39Z",
+      "summary": "कई केंद्रों में एजिंग क्लॉक की भविष्यवाणी करने के लिए ट्रस्ट-नेटवर्क फ़ेडरेटेड लर्निंग फ्रेमवर्क का प्रस्ताव करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9ec793c74e32",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "प्रशिक्षण से परे: अनुमान-समय एआई गवर्नेंस के लिए एक व्यवहार्यता वर्गीकरण",
+      "link": "https://arxiv.org/abs/2609.10105v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T12:37:17Z",
+      "summary": "अनुमान के समय लागू एआई गवर्नेंस तंत्र की व्यवहार्यता का आकलन करने वाला वर्गीकरण विकसित करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3eb7b99d488f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RAP: रिसर्च अटेंशन प्रेडिक्शन टारगेट-कंडीशंड एविडेंस एक्विजिशन बायस का खुलासा करता है",
+      "link": "https://arxiv.org/abs/2609.10092v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T12:15:14Z",
+      "summary": "शोध ध्यान की भविष्यवाणी करने और टारगेट-कंडीशंड एविडेंस एक्विजिशन बायस को उजागर करने के लिए RAP पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "68f18cde1e06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ज़ीरो-शॉट लर्निंग में पूर्वाग्रह के लिए एक सांख्यिकीय दृष्टिकोण: हस्तलेखन पहचान का लेंस",
+      "link": "https://arxiv.org/abs/2609.10084v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T12:06:49Z",
+      "summary": "हस्तलेखन पहचान कार्यों के माध्यम से ज़ीरो-शॉट लर्निंग एल्गोरिदम में सांख्यिकीय पूर्वाग्रह का विश्लेषण करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aa64270c508d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "छिपे हुए राज्यों के सापेक्ष प्रतिनिधित्व के माध्यम से LLMs में संदर्भ-आधारित पूर्वाग्रह का पता लगाना",
+      "link": "https://arxiv.org/abs/2609.10060v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:33:35Z",
+      "summary": "आंतरिक छिपी परत के राज्यों के सापेक्ष प्रतिनिधित्व का उपयोग करके LLMs में पूर्वाग्रह का पता लगाता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f34a1ae8d987",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NOPE-HYPE: विविध ध्वनिक वातावरणों में मजबूत स्पीच-टू-टेक्स्ट के लिए एक संरचित सिमुलेशन वर्कफ़्लो",
+      "link": "https://arxiv.org/abs/2609.10058v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:32:18Z",
+      "summary": "विविध ध्वनिक वातावरणों में स्पीच-टू-टेक्स्ट मजबूती में सुधार के लिए एक सिमुलेशन वर्कफ़्लो पेश करता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5e131d5981d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OntologyAligner: बायोमेडिकल ऑन्टोलॉजी सामान्यीकरण के लिए ऑन्टोलॉजी-संरेखित पुनर्प्राप्ति और पदानुक्रम-निर्देशित बड़े भाषा मॉडल रीरैंकिंग",
+      "link": "https://arxiv.org/abs/2609.10055v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:30:25Z",
+      "summary": "बायोमेडिकल एंटिटी ऑन्टोलॉजी को सामान्यीकृत करने के लिए LLM रीरैंकिंग के साथ ऑन्टोलॉजी-संरेखित पुनर्प्राप्ति को जोड़ता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0c2da780e4f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "पसंद पोस्ट-ट्रेनिंग में विविध सफल प्रक्षेपवक्र के लिए प्रत्यक्ष विविधता अनुकूलन",
+      "link": "https://arxiv.org/abs/2609.10052v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:27:34Z",
+      "summary": "RL मानव पसंद पोस्ट-ट्रेनिंग के दौरान विविध प्रक्षेपवक्र उत्पन्न करने के लिए डायरेक्ट डाइवर्सिटी ऑप्टिमाइजेशन का प्रस्ताव करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9100220c14b7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "बिलीफ-स्टेट इंजन: आंशिक निरीक्षण के तहत सैद्धांतिक योजना के लिए LLMs को संवर्धित करना",
+      "link": "https://arxiv.org/abs/2609.10036v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T11:07:47Z",
+      "summary": "आंशिक निरीक्षण के तहत योजना बनाने के लिए बिलीफ-स्टेट इंजन के साथ LLMs को बढ़ाता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "098c9d304f0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Elastoformer: लोचदार मॉडल परिवर्तन के माध्यम से गतिशील अनुकूलन को सक्षम करना",
+      "link": "https://arxiv.org/abs/2609.10018v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T10:52:21Z",
+      "summary": "लोचदार मॉडल परिवर्तनों के माध्यम से तंत्रिका नेटवर्क वास्तुकला को गतिशीलता से अनुकूलित करने के लिए Elastoformer प्रस्तुत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b3caa48c091c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MetroLLM-Bench: ट्रांजिट कियोस्क रनटाइम के रूप में भाषा मॉडल का मूल्यांकन",
+      "link": "https://arxiv.org/abs/2609.10016v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T10:46:56Z",
+      "summary": "ट्रांजिट कियोस्क वातावरण के भीतर चलने वाले बड़े भाषा मॉडल के प्रदर्शन और उपयुक्तता का मूल्यांकन करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "444be023af16",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "विभिन्न डीपफेक डिटेक्टरों में विरोधाभासी उदाहरणों को स्थानांतरित करने में क्या सक्षम बनाता है?",
+      "link": "https://arxiv.org/abs/2609.10002v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T10:28:36Z",
+      "summary": "विभिन्न डीपफेक डिटेक्टरों में प्रभावी ढंग से स्थानांतरित करने के लिए विरोधाभासी उदाहरणों को सक्षम करने वाले कारकों की जांच करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "44e0b7176a15",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SALT की एक चुटकी जोड़कर क्रॉस-लिंगुअल टोकन अभ्यावेदन में सुधार करना",
+      "link": "https://arxiv.org/abs/2609.09953v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T09:43:41Z",
+      "summary": "SALT विधि का उपयोग करके भाषा मॉडल में क्रॉस-लिंगुअल टोकन अभ्यावेदन को बढ़ाता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "39fec12d3bde",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "लेटेंट चेन-ऑफ-थॉट रीज़निंग के लिए संरचनात्मक प्रक्रिया पर्यवेक्षण",
+      "link": "https://arxiv.org/abs/2609.09928v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T09:17:46Z",
+      "summary": "एआई मॉडल में लेटेंट चेन-ऑफ-थॉट रीज़निंग में सुधार के लिए संरचनात्मक प्रक्रिया पर्यवेक्षण पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "43df4ece1384",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "चंक्ड विजन-लैंग्वेज-एक्शन मॉडल के लिए टाइम-फ्रीक्वेंसी ज्योमेट्रिक क्रॉस-अटेंशन",
+      "link": "https://arxiv.org/abs/2609.09925v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T09:16:49Z",
+      "summary": "विजन-लैंग्वेज-एक्शन मॉडल के लिए टाइम-फ्रीक्वेंसी ज्योमेट्रिक क्रॉस-अटेंशन तंत्र का प्रस्ताव करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d4a74df7dd3a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Computer Vision Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "FlowCPO: प्रवाह मॉडल के लिए पसंद संरेखण का एक एकीकृत विचलन दृश्य",
+      "link": "https://arxiv.org/abs/2609.09905v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-09T09:03:59Z",
+      "summary": "प्रवाह-आधारित मॉडल में पसंद संरेखण के लिए एक एकीकृत विचलन दृश्य के रूप में FlowCPO प्रस्तुत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "edc071011ffe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MIT श्वार्जमैन कॉलेज ऑफ कंप्यूटिंग ने शिक्षकों को सभी विषयों में एआई सिखाने में मदद करने के लिए पायलट लॉन्च किया",
+      "link": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-09T20:40:00Z",
+      "summary": "MIT ने विभिन्न शैक्षणिक विषयों में एआई शिक्षण को एकीकृत करने के लिए एक शिक्षक पायलट कार्यक्रम शुरू किया।",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "74ddff079299",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Educator",
+        "Professional"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: यूके ने चिकित्सा में एआई को विनियमित करने के लिए सिफारिशें का अनावरण किया",
+      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T23:01:00Z",
+      "summary": "यूनाइटेड किंगडम ने चिकित्सा में कृत्रिम बुद्धिमत्ता के लिए नए नियामक सुझाव जारी किए हैं।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1845a46138a1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "आपके बार एसोसिएशन द्वारा लिखी गई एआई पॉलिसी BigLaw के लिए है; एकल और छोटे फर्मों को इसके बजाय क्या करना चाहिए",
+      "link": "https://www.abajournal.com/columns/article/the-ai-policy-your-bar-association-wrote-is-for-biglaw-what-solo-and-small-firms-should-do-instead/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-10T03:25:22.277013+00:00Z",
+      "summary": "कृत्रिम बुद्धिमत्ता नीतियों को प्रभावी ढंग से लागू करने वाले एकल और छोटे लॉ फर्मों के लिए दिशा-निर्देश प्रदान करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0be51dd421ff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "एआई रिसर्च स्टार्टअप Listen Labs ने Salesforce की वार्ताओं के लिए $1.5B के फंडिंग दौर को रद्द किया",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-10T00:00:37Z",
+      "summary": "Listen Labs ने Salesforce के साथ अधिग्रहण वार्ताओं को आगे बढ़ाने के लिए 1.5 बिलियन डॉलर के फंडिंग दौर को छोड़ दिया।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e9590b50c0bc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Listen Labs",
+        "Salesforce"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI अपने निदेशक मंडल में एक प्रमुख एआई डूमर को जोड़ता है",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T22:25:22Z",
+      "summary": "OpenAI ने अपने निदेशक मंडल में एक प्रमुख सुरक्षा अधिवक्ता को नियुक्त किया।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a62cdeb365cc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Board Member"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मैसाचुसेट्स ने नए स्वच्छ ऊर्जा नियमों के साथ डेटा केंद्रों पर प्रहार किया",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T21:43:34Z",
+      "summary": "मैसाचुसेट्स ने विशेष रूप से डेटा केंद्रों को लक्षित करते हुए नए स्वच्छ ऊर्जा नियम पेश किए।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7540bc2c5d65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Apple Watch की नई एआई विशेषताएं इस विचार को सामान्य बना रही हैं कि तकनीक हमेशा सुन रही है",
+      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T20:24:48Z",
+      "summary": "Apple Watch में नई एआई क्षमताएं निरंतर ऑडियो निगरानी के संबंध में चिंताएं बढ़ाती हैं।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "24345bcea52a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple ने अपने शरद ऋतु के iPhone इवेंट में जो कुछ भी घोषित किया, फोल्डेबल iPhone Duo से लेकर हमेशा सुनने वाली Apple Watch तक",
+      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T20:03:43Z",
+      "summary": "Apple ने फोल्डेबल iPhone और एक नई Apple Watch सहित हार्डवेयर अपडेट की घोषणा की।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "30c9efdd025b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple के नए फोल्डेबल फोन का हिंग एआई के साथ बनाया गया था",
+      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T19:21:48Z",
+      "summary": "Apple ने अपने नए फोल्डेबल फोन के हिंग को डिज़ाइन करने के लिए कृत्रिम बुद्धिमत्ता का उपयोग किया।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7d5a9a7d2077",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Developer",
+        "QA Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple का नया हेल्थ ऐप आपकी 'हेल्थ एज' और तत्परता स्कोर की गणना करेगा",
+      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T18:16:29Z",
+      "summary": "Apple ने गणना की गई हेल्थ एज और तत्परता मेट्रिक्स को शामिल करने के लिए अपने हेल्थ ऐप को अपडेट किया।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "41fc243c5eb6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple के पास यह साबित करने का एक नया तरीका है कि आपकी iPhone तस्वीरें एआई स्लोप नहीं हैं",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T18:08:35Z",
+      "summary": "Apple ने प्रामाणिकता सत्यापित करने और यह साबित करने के लिए एक पद्धति पेश की कि तस्वीरें एआई द्वारा उत्पन्न नहीं हैं।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c9b53fb8ed34",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Apple के सीईओ जॉन टर्नस का कहना है कि सबसे अच्छा एआई डिवाइस अभी भी iPhone है",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T17:36:05Z",
+      "summary": "Apple के कार्यकारी जॉन टर्नस ने कहा कि iPhone एआई के लिए प्रमुख मंच बना हुआ है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "974e0dc97a17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Suno ने रिकॉर्ड उद्योग की मदद से बनाया गया अपना पहला एआई संगीत मॉडल जारी किया - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT3Uyb1lENGxyemxQRkZ4WHdwMGpydHBkTExlZER5TW55bW16bHJZNElZb1ZkOGtKSE04V2JpaDNBanREZXNzbmltUFNvNlJ6dEVSemVjYkV6cGF4dFh5VU5USEkwRzNGbU5CUDVPa3JISEx6aHl6OC03VE5pbFY2LVhlWU04eWJXbWI4eTVaZ3Q1Q0IwdkRVSmNDMHd4V1pTTi1ZYjloaHRCZFR4Z2RmUFA5TUdrS2ZuT1oyUjBfNGZpS2VEcXFZ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T21:42:19Z",
+      "summary": "Suno ने रिकॉर्ड उद्योग के सहयोग से विकसित अपना पहला एआई-जनित संगीत मॉडल लॉन्च किया।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "26d7dbb6ccf7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Suno"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "OpenAI की चालाक गणितीय सफलता ने शिक्षा जगत में सनसनी फैला दी - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBRbHMzOG81LXlFczNuSmhkZDdiMURmX3hjazduZ1FoY2VVRU05aExoTmFtX0VrOHYtNEhGcURRR1lhMjdyQ01waGZ1UUdlNWw4eEJLaWNNS1oydkg4SFdmRXVoNFZ6UXVzSjJyWGJlb2JWV01TdFlKTl9qOUpvS0h2NzVpY25qOFVyUXFwekpfVlJLemJiXzE0UGcwWmNwYTNB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T21:16:34Z",
+      "summary": "OpenAI द्वारा एक गणितीय सफलता ने शैक्षणिक संस्थानों में महत्वपूर्ण प्रतिक्रिया उत्पन्न की है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "495330ced5dc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Microsoft के स्कूलों के लिए नए एआई गोपनीयता नियम हैं - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NRHhTbWxmeG52emphTXp3Sm5JcklxWDRuSzlXQXFRTnplcl9NY1NsVW1QZEN3cExzZzJyQWtDbzZMSUtxbHFTVWJRemFlSFUzT2g2U1JEbEpQczJ0bHFHTGwxX093UEhLV2p6a0xFOEkwMUFrOVhhcHZCdw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T17:07:48Z",
+      "summary": "Microsoft ने शैक्षणिक संस्थानों के लिए विशेष रूप से डिज़ाइन की गई नई कृत्रिम बुद्धिमत्ता गोपनीयता नीतियां लागू कीं।",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b031f6aafcca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "iOS 27 सिरी एआई के साथ 14 सितंबर को लॉन्च हो रहा है - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CTG55TjI3c004OUx0NUJLcVdOQmlSWU96UnppTXFLQVJqdzFtS2taaHl4RDN4a1dvRnU1eURxdmoxWXRIamQxWmJ0NklRd01EMGRmeU1MY2VVNXhtS0pIODE4TXNuRHJucHB5X1pIMXU4bzA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T17:41:49Z",
+      "summary": "एकीकृत सिरी एआई क्षमताओं के साथ Apple के iOS 27 की रिलीज़ की तारीख 14 सितंबर तय की गई है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "73d8a33f4d43",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apple का नया iPhone कैमरा मोड आपकी फोटो के एआई न होने का सबूत देने का वादा करता है - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CZDktdlh4UHk1cGJ1YW5zMWtlVmQ0emVza0pyWXRsQUo5ZjlKYXNQdklWZUdiOXJaTEFSalNnc0dsOHVSZm81LWt1Um5zWmo4MV83bnFIWlNnYnFnWXF6cUJ5TWZFVWo4SGJOeVJiR3l2anQwUVVQTGxUQVg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T19:30:12Z",
+      "summary": "एक नया iPhone कैमरा मोड यह सत्यापन योग्य प्रमाण प्रदान करना है कि तस्वीरें एआई-जनित नहीं हैं।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e6dc7239d6ac",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Apple Watch Series 12 में हमेशा ऑन रहने वाली सिरी है जो आपके दिन का एआई रीकैप बनाती है - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULXVlb0pTSWhOdEk4SmZqMTY1VG9OdVpJbHlzVERzUlNidHhKZ2R1RHktaHlhcVlTaHFYczhkbjlXX3BwT2JQYWRZTVplMGNpMW1UOXpWeUdNT2lVQ3V3U3VsTHBOSFlfVGpLNHlEek1tVVo4ZGNNcXhTMA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T17:37:55Z",
+      "summary": "Apple Watch Series 12 में हमेशा ऑन रहने वाली सिरी है जो एआई-जनित दैनिक रीकैप प्रदान करती है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "eb906a4e99de",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मैंने Astra और Fable 5.1 के साथ एक ही गेम बनाया... केवल एक ही मजेदार था",
+      "link": "https://www.youtube.com/watch?v=2Xiljy4xzbc",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-09-09T16:34:27Z",
+      "summary": "एक डेवलपर Astra और Fable 5.1 एआई टूल्स का उपयोग करके गेम निर्माण अनुभवों की तुलना करता है।",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "f675a33cd23f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "70 साल पुरानी प्रेम कहानी को फ्रेम दर फ्रेम फिर से बनाना",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T16:00:00Z",
+      "summary": "70 साल पुरानी प्रेम कहानी को फिर से बनाने और एनिमेट करने के लिए AI तकनीक का उपयोग किया जाता है।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "32522e85f743",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA ने IBC में प्रसारण, खेल और वैश्विक स्ट्रीमिंग के लिए रियल-टाइम AI पेश किया",
+      "link": "https://blogs.nvidia.com/blog/ibc-news-2026/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T16:00:42Z",
+      "summary": "NVIDIA ने IBC में प्रसारण, खेल और वैश्विक स्ट्रीमिंग के लिए रियल-टाइम AI समाधान प्रदर्शित किए हैं।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1ddba9d33f9e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ray Serve Deep Learning Containers का उपयोग करके अपने TorchServe वर्कलोड को सरल बनाएं और समर्थन दें",
+      "link": "https://aws.amazon.com/blogs/machine-learning/simplify-and-support-your-torchserve-workloads-using-ray-serve-deep-learning-containers/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-09T15:51:29Z",
+      "summary": "AWS ने TorchServe वर्कलोड का समर्थन करने और उन्हें सरल बनाने के लिए Ray Serve Deep Learning Containers पेश किए हैं।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "45816ac3e8c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TANGO: होल-बॉडी विजन-लैंग्वेज-एक्शन मॉडल के साथ भीड़भाड़ वाले वातावरण में ह्यूमेनॉइड नेविगेशन",
+      "link": "https://arxiv.org/abs/2609.09158v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:59:55Z",
+      "summary": "TANGO भीड़भाड़ वाले वातावरण में ह्यूमेनॉइड नेविगेशन के लिए एक होल-बॉडी विजन-लैंग्वेज-एक्शन मॉडल प्रस्तुत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "50bf39126310",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "प्रोसीडरल ग्राफ्स: LLM एजेंट्स के लिए सेल्फ-इवॉल्विंग एक्जीक्यूशन स्ट्रक्चर्स",
+      "link": "https://arxiv.org/abs/2609.09153v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:59:41Z",
+      "summary": "प्रोसीडरल ग्राफ्स LLM एजेंट्स के लिए डिज़ाइन किए गए सेल्फ-इवॉल्विंग एक्जीक्यूशन स्ट्रक्चर्स पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "14fa4baa21e0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NOAH: संपूर्ण रोगी यात्रा को सीखना। प्रतिनिधित्व और पूर्वानुमान के लिए एक लोंगीट्यूडिनल मल्टीमोडल टाइम-अवेयर मॉडल",
+      "link": "https://arxiv.org/abs/2609.09140v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:56:13Z",
+      "summary": "NOAH रोगी यात्रा के प्रतिनिधित्व और पूर्वानुमान के लिए एक लोंगीट्यूडिनल मल्टीमोडल टाइम-अवेयर मॉडल प्रस्तावित करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f131a6db9ef",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "हेल्थकेयर प्रक्रियाओं में RPA के अवसरों की पहचान करने और उन्हें प्राथमिकता देने के लिए एक डेटा-संचालित फ्रेमवर्क",
+      "link": "https://arxiv.org/abs/2609.09137v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:55:28Z",
+      "summary": "हेल्थकेयर में रोबोटिक प्रोसेस ऑटोमेशन की पहचान करने और उसे प्राथमिकता देने के लिए एक डेटा-संचालित फ्रेमवर्क पेश किया गया है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "26eafdff1c50",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "को-इवॉल्विंग हार्नेस और मॉडल: ऑन-पॉलिसी करेक्शन कमजोर मॉडलों को वहां पकड़ने में मदद करता है जहां इमिटेशन विफल हो जाता है",
+      "link": "https://arxiv.org/abs/2609.09134v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:53:49Z",
+      "summary": "ऑन-पॉलिसी करेक्शन कमजोर मॉडलों को को-इवॉल्विंग हार्नेस और मॉडल का उपयोग करके आगे बढ़ने में मदद करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8704e2c01187",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ExecCritic: कोडिंग एजेंट्स के लिए टेस्ट करना सीखें, सुधारने के लिए टेस्ट करें",
+      "link": "https://arxiv.org/abs/2609.09133v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:53:37Z",
+      "summary": "ExecCritic निष्पादन के माध्यम से कोडिंग एजेंट्स का परीक्षण करने और उनमें सुधार करने के लिए डिज़ाइन किया गया एक फ्रेमवर्क है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0924fe2846fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "अमारी की बेजियन द्वैतकता का सामान्यीकरण",
+      "link": "https://arxiv.org/abs/2609.09126v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:51:08Z",
+      "summary": "यह शोध पत्र अमारी की बेजियन द्वैतकता का गणितीय सामान्यीकरण प्रस्तुत करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cfb6f4665569",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "विज़न एन्कोडर और VLM में कॉन्सेप्ट डिकोडेबिलिटी में एक लेंस के रूप में कैनोनिकल कलर",
+      "link": "https://arxiv.org/abs/2609.09124v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:50:09Z",
+      "summary": "विज़न एन्कोडर और VLM में कॉन्सेप्ट डिकोडेबिलिटी का अध्ययन करने के लिए कैनोनिकल कलर का विश्लेषण किया जाता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2ecd6b9c0aa1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeCAL: कॉन्टैक्ट-अवेयर लेटेंट को-इमैजिनेशन के माध्यम से फिजिकली-ग्राउंडेड डेक्सट्रेस विजन-लैंग्वेज-एक्शन मॉडल की ओर",
+      "link": "https://arxiv.org/abs/2609.09119v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:47:43Z",
+      "summary": "DeCAL फिजिकली-ग्राउंडेड डेक्सट्रेस विजन-लैंग्वेज-एक्शन मॉडल के लिए कॉन्टैक्ट-अवेयर लेटेंट को-इमैजिनेशन पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "469d356695ab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MeClear: लॉन्ग-हॉरिजन LLM एजेंट्स के लिए कोऑपरेटिव गेम-थियोरेटिक एट्रिब्यूशन और रिस्क-अवेयर मेमोरी क्लीयरेंस",
+      "link": "https://arxiv.org/abs/2609.09115v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:46:00Z",
+      "summary": "MeClear लॉन्ग-हॉरिजन LLM एजेंट्स के लिए कोऑपरेटिव गेम-थियोरेटिक एट्रिब्यूशन और मेमोरी क्लीयरेंस प्रदान करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c0fd9a768341",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SAEScientist-Bench: क्या AI एजेंट्स स्वायत्त SAE इंटरप्रिटेबिलिटी रिसर्च कर सकते हैं?",
+      "link": "https://arxiv.org/abs/2609.09113v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-08T17:45:09Z",
+      "summary": "SAEScientist-Bench स्वायत्त SAE इंटरप्रिटेबिलिटी रिसर्च करने की AI एजेंट्स की क्षमता का मूल्यांकन करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0339f5601f7e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: दिल की विफलता के इलाज में मदद के लिए FDA-अधिकृत AI विकसित करने के लिए ARPA-H $62 मिलियन का निवेश करेगा",
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T16:01:00Z",
+      "summary": "ARPA-H दिल की विफलता के इलाज के लिए FDA-अधिकृत AI विकसित करने में $62 मिलियन का निवेश करता है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f4f6976a7541",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "ARPA-H",
+        "FDA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Clinician",
+        "Director"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: क्या AI आपातकालीन कक्ष को ठीक कर सकता है?",
+      "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T14:58:55Z",
+      "summary": "इस बात की खोज कि क्या कृत्रिम बुद्धिमत्ता उपकरण आपातकालीन कक्ष के दबाव को कम कर सकते हैं।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "56f1576ce69a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Director",
+        "Healthcare Administrator",
+        "Nurse"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: क्या AI स्वास्थ्य सेवा को ठीक कर सकता है? आपातकालीन कक्षों की अराजकता में, तकनीक कम पड़ जाती है",
+      "link": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T08:30:00Z",
+      "summary": "अध्ययन आपातकालीन कक्षों में AI मेडिकल स्क्राइब और उपकरणों की सीमाओं को उजागर करता है।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a38d1bee7f88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Clinician",
+        "Director"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "राय: AMA CEO: AI डॉक्टरों की जगह नहीं लेगा — यह उनके साथ काम करेगा",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T08:30:00Z",
+      "summary": "AMA CEO का कहना है कि कृत्रिम बुद्धिमत्ता चिकित्सकों की जगह लेने के बजाय उनके साथ सहयोग करेगी।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "234bd95bb8f5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "American Medical Association"
+      ],
+      "job_titles": [
+        "CEO",
+        "Director",
+        "Physician"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "राय: 2030 तक स्वायत्त AI कुछ चिकित्सीय कार्यों में AI-सहायता प्राप्त चिकित्सकों को हरा देगा",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-09T08:30:00Z",
+      "summary": "शोध से पता चलता है कि स्वायत्त AI 2030 तक विशिष्ट चिकित्सीय कार्यों में AI-सहायता प्राप्त डॉक्टरों से बेहतर प्रदर्शन कर सकता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ff18b37d02eb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Director"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Implicity ने AI रिमोट कार्डियक मॉनिटरिंग के लिए $40M जुटाए - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1k2YTlNNjEzamFqa2RlMzZOZWFYdVNJRXhEdzhaSURjYzZYVm8zX2hMbjRkWjA1OXhLZzhkWGlnY3h1MnJqSk1FOEVrZ1N4TmNzYjlaTXhLX2NoSGwxbVJHMFZBMXdxZ01XX1Y5S0czRkVYYm1xcHJBV2F6VE9SX3FaT1lkSjFkcXR4ZVRB?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-09T15:32:14Z",
+      "summary": "Implicity ने अपनी AI-संचालित रिमोट कार्डियक मॉनिटरिंग तकनीक को निधि देने के लिए $40 मिलियन जुटाए।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4adca5aae987",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Implicity",
+        "MobiHealthNews"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI मेमोरी के वादे और जोखिम - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBubHhnODIzbGVsSXZGaXNleWEtaWFGZTRoVVRKdlE3R3lVSXV4S0R0UjVESXctbGh2M2lBcEFNLXk3b3NaNEN1bHpxNHNzY0JEdC1ETktETG9UT3kxRV9LUHlOV0h4azZvVlJEQ2NzT0xldw?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-09T14:04:24Z",
+      "summary": "AI मेमोरी सिस्टम को लागू करने से जुड़े संभावित लाभों और सुरक्षा जोखिमों का विश्लेषण।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b129674782d6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "MobiHealthNews"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "चार चीजें जो हेल्थकेयर टीमें AI वेंडर BAA पर हस्ताक्षर करते समय गलत समझती हैं",
+      "link": "https://www.healthcareittoday.com/2026/09/09/four-things-healthcare-teams-get-wrong-when-signing-an-ai-vendor-baa/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-09-09T14:00:07Z",
+      "summary": "हेल्थकेयर टीमें AI वेंडर के साथ बिजनेस एसोसिएट एग्रीमेंट पर बातचीत करते समय चार आम गलतियाँ करती हैं।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e40dbc7b30f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Harvey बनाम Legora – मूल्यांकन की दौड़",
+      "link": "https://www.artificiallawyer.com/2026/09/09/harvey-vs-legora-the-valuation-race/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-09T15:14:31Z",
+      "summary": "कानूनी AI स्टार्टअप Harvey और Legora के मूल्यांकन और बाजार स्थिति पर एक तुलनात्मक नजर।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c5bc8da1970d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey",
+        "Legora"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Harvey ने $15.5bn के मूल्यांकन पर $550m जुटाए, Guardrails AI को खरीदा",
+      "link": "https://www.artificiallawyer.com/2026/09/09/harvey-raises-550m-at-15-5bn-val-buys-guardrails-ai/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-09T14:24:43Z",
+      "summary": "कानूनी AI कंपनी Harvey ने $15.5 बिलियन के मूल्यांकन पर $550 मिलियन जुटाए और Guardrails AI का अधिग्रहण किया।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f85f21346ad9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Guardrails",
+        "Harvey"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Caddi – वकीलों के लिए बैक-ऑफिस ऑटोमेशन",
+      "link": "https://www.artificiallawyer.com/2026/09/09/caddi-back-office-automation-for-lawyers/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-09T06:40:25Z",
+      "summary": "Caddi विशेष रूप से कानूनी पेशेवरों के लिए डिज़ाइन किए गए स्वचालित बैक-ऑफिस वर्कफ़्लो समाधान प्रदान करता है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3778fd69154e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Caddi"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "IBM ने वाणिज्यिक रूप से अनुकूल लाइसेंस के साथ SOTA Granite Time Series PatchTST-FM-r2 मॉडल जारी किया",
+      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-09T15:36:24Z",
+      "summary": "IBM ने वाणिज्यिक रूप से अनुकूल लाइसेंस के साथ Granite Time Series PatchTST-FM-r2 मॉडल जारी किया।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0e4c70248969",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "IBM"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "सुपरइंटेलिजेंस आ रहा है। क्या हमें ऐसा होने देना चाहिए?",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T16:05:35Z",
+      "summary": "चर्चा में यह पता लगाया गया है कि क्या समाज को सुपरइंटेलिजेंस के विकास की अनुमति देनी चाहिए।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "21c2a27323ca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ControlAI के कॉनर लेही इस बारे में कि सुपरइंटेलिजेंस 'कोई हथियार नहीं है, यह एक विरोधी है'",
+      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T15:50:13Z",
+      "summary": "ControlAI के कॉनर लेही बताते हैं कि क्यों सुपरइंटेलिजेंस को एक विरोधी के रूप में देखा जाना चाहिए।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "76cee25131e1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "ControlAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "वायरल AI असिस्टेंट Instinct का अब अपना खुद का ईमेल पता है",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T15:13:12Z",
+      "summary": "वायरल AI असिस्टेंट Instinct में अब अपना खुद का ईमेल पता इंटीग्रेशन शामिल है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "aea2bcdb83b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "‘हमारे जीवन के साथ जुआ खेलना’: एंथ्रोपिक के शोधकर्ता ने इस्तीफा दिया, खुद को सुधारने वाले AI के खिलाफ चेतावनी दी",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T15:02:47Z",
+      "summary": "एक एंथ्रोपिक शोधकर्ता ने आत्म-सुधार करने वाले कृत्रिम बुद्धिमत्ता के खतरों के खिलाफ चेतावनी देते हुए इस्तीफा दे दिया।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "46698576bf59",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Shipt AI शॉपिंग असिस्टेंट वाला नवीनतम डिलीवरी ऐप बन गया है",
+      "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T14:51:45Z",
+      "summary": "Shipt ने अपने डिलीवरी एप्लिकेशन में एक नया AI शॉपिंग असिस्टेंट पेश किया।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7b3bab8ff355",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Tech"
+      ],
+      "companies": [
+        "Shipt"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "अगस्त में शीर्ष फर्मों में प्रति कर्मचारी AI खर्च में गिरावट आई — गर्मियों की सुस्ती या चेतावनी का संकेत?",
+      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T14:18:34Z",
+      "summary": "अगस्त के दौरान प्रमुख फर्मों में प्रति कर्मचारी AI खर्च में गिरावट आई।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5f6bd3058b0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CFO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "जैसे-जैसे AI एजेंट नए उद्यम सुरक्षा जोखिम पैदा करते हैं, Sequoia ने Cymphony पर दांव दोगुना कर दिया",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T13:00:00Z",
+      "summary": "Sequoia ने Cymphony में और अधिक निवेश किया क्योंकि AI एजेंट उद्यम सुरक्षा जोखिम पेश करते हैं।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "12dcfd350baf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Cymphony",
+        "Sequoia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Instacart ने Clementine नामक एक AI किराने की खरीदारी सहायक लॉन्च किया",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T13:00:00Z",
+      "summary": "Instacart ने Clementine नाम से एक AI-संचालित किराने की खरीदारी सहायक लॉन्च की।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "489fd9472b6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Tech"
+      ],
+      "companies": [
+        "Instacart"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "कॉपीराइट के मुकदमे बढ़ने के बीच Suno ने अपने AI मॉडल को लाइसेंस प्राप्त संगीत पर प्रशिक्षित एक नए मॉडल से बदला",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T12:05:34Z",
+      "summary": "कॉपीराइट मुकदमों के बीच Suno ने अपने AI मॉडल को लाइसेंस प्राप्त संगीत संस्करण से बदल दिया।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "04755a5637fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Legal"
+      ],
+      "companies": [
+        "Suno"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "जो छात्र AI का उपयोग करते हैं वे आमतौर पर स्कूल में बदतर अंक प्राप्त करते हैं - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0NNcE1LRUN3ME1nVm5EOGU5U2dnR0pFLWZGVDBrRExiemx0dUFSNFNYdjVsWDJ0d2dJaVBDTHJndEhTamI1VGVJdmlXX2FpYjZBM0ljZEJCa3UzQWVqRlBLUERyLUZCT3h0YVpMQXhoT1pSRWNuSXRUbXNRdWVBS011VEJuZ3ludUV4MVpBWW1mZHlt?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T12:05:01Z",
+      "summary": "शोध से संकेत मिलता है कि AI का उपयोग करने वाले छात्र आम तौर पर कम शैक्षणिक अंक प्राप्त करते हैं।",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c81f0a94eb28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "चिंतित एंथ्रोपिक शोधकर्ताओं ने चेतावनी दी है कि AI ‘सभी मनुष्यों को मार सकता है’ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzV4WU5VTmNDYkltekZvM05WTGNOVTgwWG9RakppVGk2Q1RGMFE5ZC1pWG9DcWtpYWlrMEh6TWswdXBEUkFUZHJzNy1UaExWT0hHZ1dPeHRCc2t4VDRYaU5Zdl9jbndfUTVTYThOX2Q4MHBiR0poTDBiMzE1LThYaFc0NkJkNFI4UTdXZXZQQ0k?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T09:56:28Z",
+      "summary": "एंथ्रोपिक के शोधकर्ताओं ने चिंता जताई कि उन्नत AI मानवता के लिए अस्तित्व संबंधी खतरे पैदा कर सकता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "275674185998",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Prime Video की नई AI तकनीक डब किए गए ऑडियो से होंठों का मिलान करती है - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDJ4NV9lWXJZVU5UdmxlOXAweUdpTGtvM29JRnhwSGtiQ2djdkNMWlpWT3RaQWF5U29vWTloTklnRXQzMTBoWTFobmxmZy1nWXJyM2dhNE1md0dWbmxZT1hrTWt6YUZNRG1yZm9UVDBTRzgyV0ZCODBjcjlCdFkzYg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-09T13:00:00Z",
+      "summary": "Amazon Prime Video ने डब किए गए ऑडियो के साथ होंठों की गतिविधियों का मिलान करने के लिए AI तकनीक पेश की।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "656a73d32f0d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मार्क जुकरबर्ग आपको Muse पर भरोसा करने के लिए कहते हैं। - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUTdsOWg2bzk3cllrNWtidURjcl9DTy05NmFNUURUQk1vQy1mazR0cnRlUWx0S3ZjRV96RFhNU29fQW9YSzZSMHB2OVd1dzR0TWgwbG1Nc3ZCZ0g4Q0ZqWjAxTERSVHlmbFBnUERaM29NcEROYjQ4dHcyamtFbU9Ma2ZJeDBVSGc4SUxwbUZFeTdGbVZfc2VTSHhJeTQ0QQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-08T20:02:23Z",
+      "summary": "मार्क जुकरबर्ग Muse में विश्वास को बढ़ावा देते हैं।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9024363de971",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gemini का डेली ब्रीफ अब अमेरिका में सभी के लिए उपलब्ध है। - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLThmeW85VTNIaExQTWpieC1zdG15dVp1d2lCS2FyQm5GYmxoYVZoMHBZbU9sWDRlOHhnV2R2TmRpVnZJQlA0dHlkTWdtU0VwZmJjTDJLS05MMHdRTXg2Wlc5VWJKa0k5TldwaS1mOG1ZTm5kbFlEX0RBUXpSQWVDR3lMdW5GNGRjYmtici1rSmxvQUJmR0x4ODBZMA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-08T21:43:13Z",
+      "summary": "Google ने संयुक्त राज्य अमेरिका में सभी उपयोगकर्ताओं के लिए Gemini की डेली ब्रीफ सुविधा की उपलब्धता का विस्तार किया।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d35b4c88847c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "GPT-5.6 Sol क्वांटम कंप्यूटिंग प्रयोगों को चलाने में कैसे मदद करता है",
       "link": "https://openai.com/index/codex-quantum-computing-experiments",
