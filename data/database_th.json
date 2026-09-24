@@ -1,6 +1,1025 @@
 {
-  "refreshed_at": "2026-09-24 03:33 UTC",
+  "refreshed_at": "2026-09-24 16:54 UTC",
   "items": [
+    {
+      "title": "ขอแนะนำ Gemini 3.8 Live พร้อม Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-24T16:20:39Z",
+      "summary": "Google DeepMind เปิดตัว Gemini 3.8 Live ที่มาพร้อมกับ Live Avatar",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0970685988e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Open Science จะช่วยให้นักวิจัยเตรียมพร้อมรับมือโรคระบาดครั้งใหญ่ครั้งต่อไปได้อย่างไร",
+      "link": "https://blogs.nvidia.com/blog/open-protein-dataset/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-24T14:00:50Z",
+      "summary": "ชุดข้อมูลโปรตีนแบบเปิดและ Open Science ช่วยให้นักวิจัยเตรียมพร้อมรับมือกับโรคระบาดได้",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "17c8f093a999",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical",
+        "Healthcare"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การถอดเสียงระบุตัวตนผู้พูดด้วย WhisperX บน SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-24T16:20:12Z",
+      "summary": "AWS ให้รายละเอียดเกี่ยวกับการถอดเสียงระบุตัวตนผู้พูดโดยใช้ WhisperX บน Amazon SageMaker AI",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4062ebd7f949",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "สร้าง AI Agent แบบหลายบัญชีด้วย AgentCore Gateway และ MCP",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-24T16:12:47Z",
+      "summary": "AWS สาธิตการสร้าง AI Agent แบบหลายบัญชีโดยใช้ AgentCore Gateway และ MCP",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "18c103c32e19",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Aderant สร้างระบบคัดแยกคำร้องอัจฉริยะด้วย Amazon Nova",
+      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-24T16:06:46Z",
+      "summary": "Aderant ใช้ Amazon Nova เพื่อสร้างระบบคัดแยกคำร้องอัจฉริยะ",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4a62f4944030",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "Aderant",
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การบีบอัด Streaming Neural Audio Encoders ผ่าน Latent-Space Distillation",
+      "link": "https://machinelearning.apple.com/research/latent-space-distillation",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-24T00:00:00Z",
+      "summary": "งานวิจัยการเรียนรู้ของเครื่องจาก Apple แนะนำ latent-space distillation สำหรับ streaming neural audio encoders",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3a4b713215c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "StudentBench: การติวโดย AI และมนุษย์ให้ผลลัพธ์การเรียนรู้ GRE ที่เทียบเท่ากัน",
+      "link": "https://arxiv.org/abs/2609.28470v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-23T17:57:45Z",
+      "summary": "การศึกษาแสดงให้เห็นว่าการติวโดย AI และมนุษย์ทำให้เกิดผลลัพธ์การเรียนรู้ที่เทียบเท่ากันในการเตรียมสอบ GRE",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ece13ec0c8a1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ฉันควรเข้าร่วมที่ไหน? การเข้าร่วมกลุ่มหุ่นยนต์ผ่านการทำนายเป้าหมายที่ชี้นำด้วยภาษา",
+      "link": "https://arxiv.org/abs/2609.28467v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-23T17:55:48Z",
+      "summary": "งานวิจัยนี้นำเสนอการทำนายเป้าหมายที่ชี้นำด้วยภาษาสำหรับงานการเข้าร่วมกลุ่มของหุ่นยนต์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "600042b565d7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM สามารถใช้เหตุผลเกี่ยวกับพฤติกรรมขณะรันไทม์ได้หรือไม่? Benchmark แบบไดนามิกในระดับคลังโค้ด",
+      "link": "https://arxiv.org/abs/2609.28449v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-23T17:46:50Z",
+      "summary": "Benchmark แบบไดนามิกใหม่ประเมินการใช้เหตุผลระดับคลังโค้ดของ LLM เกี่ยวกับพฤติกรรมขณะรันไทม์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5eff1477ee58",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "คำตอบที่ไม่ขึ้นกับลำดับ การแทนค่าที่ไวต่อลำดับในการใช้เหตุผลทางคณิตศาสตร์",
+      "link": "https://arxiv.org/abs/2609.28442v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-23T17:40:57Z",
+      "summary": "บทความนี้นำเสนอการตรวจสอบคำตอบที่ไม่ขึ้นกับลำดับและการแทนค่าที่ไวต่อลำดับในโมเดลการใช้เหตุผลทางคณิตศาสตร์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1e12b8ebbb6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Agent-Editing World Model: การทบทวน World Modeling สำหรับ LLM Agents",
+      "link": "https://arxiv.org/abs/2609.28416v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-23T17:18:26Z",
+      "summary": "นักวิจัยเสนอ agent-editing world models เพื่อปรับปรุงสถาปัตยกรรมของ LLM agent",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "42c1672e9b4c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Frozen Flows Forget: การวินิจฉัยและการกู้คืนการเคลื่อนไหวที่สูญหายใน Latent-flow World Model",
+      "link": "https://arxiv.org/abs/2609.28414v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-23T17:17:02Z",
+      "summary": "บทความวินิจฉัยและกู้คืนการเคลื่อนไหวที่สูญหายใน latent-flow world models",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a2f135bb8fce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การเรียนรู้ Holographic Reduced Representations ด้วย Clifford Variational Autoencoders",
+      "link": "https://arxiv.org/abs/2609.28409v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-09-23T17:10:56Z",
+      "summary": "งานวิจัยผสมผสาน holographic reduced representations เข้ากับ Clifford variational autoencoders",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "31aa8254e224",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ความหวังและความเสี่ยงของการใช้ Visual AI เพื่อศึกษาเมือง",
+      "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-24T04:00:00Z",
+      "summary": "อภิปรายถึงประโยชน์และ ภัยเสี่ยงที่อาจเกิดขึ้นจากการประยุกต์ใช้ Visual AI เพื่อศึกษา สภาพแวดล้อมทางเมือง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4802ca7089d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: การเติบโตของการปฏิบัติงานรังสีวิทยาแบบ AI-native",
+      "link": "https://www.statnews.com/2026/09/24/the-rise-of-the-ai-native-radiology-practice-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-24T13:21:14Z",
+      "summary": "งานรังสีวิทยากำลังนำเวิร์กโฟลว์แบบ AI-native มาใช้มากขึ้นเพื่อเปลี่ยนผ่านการดำเนินงานทางคลินิก",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "23579dd36a14",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: ในด้านรังสีวิทยา AI กำลังทำให้เส้นแบ่งระหว่างการพัฒนาเทคโนโลยีและการปฏิบัติทางคลินิกเลือนรางลง",
+      "link": "https://www.statnews.com/2026/09/24/radiology-ai-blurred-line-between-tech-development-clinical-practice/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-24T08:30:00Z",
+      "summary": "การบูรณาการปัญญาประดิษฐ์ในรังสีวิทยาผสานการสร้างเทคโนโลยีเข้ากับการปฏิบัติทางคลินิกโดยตรง",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "70faf4375ba8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ความร่วมมือของผู้มีส่วนได้ส่วนเสียสามารถรับประกันได้ว่า AI จะขยายการเข้าถึงการดูแล - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVVBdW1fQ3Y5VXp4QW5xNE5vREYwTk01RG84NGo4S0VtNHRjREg3WjVDdmI5ZUZjWXl0NjY2ajdkZE5KaTV2Ynh2cDRXaFM4WXJvRU9aTWFmbjZuN1N6SjhodHc2WUhzSmVmcWNnUmxjNjZhRW1scmU5SDhFZEItOVhfcUI3c05IRDBUSWVNb0NTVVFQNmhkV2ZoNmk?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-24T14:18:10Z",
+      "summary": "ความร่วมมือของผู้มีส่วนได้ส่วนเสียช่วยขยายการเข้าถึงการดูแลสุขภาพโดยใช้เทคโนโลยีปัญญาประดิษฐ์",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e8882f6e00f1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ต้นทุนแห่งความสะดวกสบาย: เหตุใดการชำระเงินด้านการดูแลสุขภาพจึงต้องการการปกป้องอัจฉริยะ",
+      "link": "https://www.healthcareittoday.com/2026/09/24/the-cost-of-convenience-why-healthcare-payments-need-intelligent-protection/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-09-24T14:00:48Z",
+      "summary": "ระบบการชำระเงินด้านการดูแลสุขภาพต้องใช้กลไกความปลอดภัยอัจฉริยะที่ขับเคลื่อนด้วย AI เพื่อป้องกันการฉ้อโกง",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4a4a55d3731b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Hello Patient เข้าซื้อกิจการ Converse Health เพื่อขยาย AI Agents ตลอดการสนทนาของผู้ป่วย ตั้งแต่การโทรครั้งแรกจนถึงการติดตามผล",
+      "link": "https://www.healthcareittoday.com/2026/09/24/hello-patient-acquires-converse-health-to-expand-ai-agents-across-the-full-patient-conversation-from-first-call-to-follow-up/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-09-24T13:00:18Z",
+      "summary": "Hello Patient เข้าซื้อกิจการ Converse Health เพื่อบูรณาการ AI agents ตลอดเวิร์กโฟลว์การสื่อสารของผู้ป่วย",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a83c9c1991fd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Converse Health",
+        "Hello Patient"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "The Innovators – ‘Halfway Home’ – ตอนที่ 7",
+      "link": "https://www.artificiallawyer.com/2026/09/24/the-innovators-halfway-home-part-7/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-24T09:29:43Z",
+      "summary": "ตอนหนึ่งในชุดบทความที่ครอบคลุมนวัตกรรมเทคโนโลยีทางกฎหมายและความก้าวหน้าในอุตสาหกรรม",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "51f7461ab003",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "สัมมนาออนไลน์: เหตุใด Context + Governance จึงจะกำหนดอนาคตของ Legal AI",
+      "link": "https://www.artificiallawyer.com/2026/09/24/webinar-why-context-governance-will-shape-legal-ais-future/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-24T07:40:05Z",
+      "summary": "การสัมมนาออนไลน์ที่จะจัดขึ้นอภิปรายถึงวิธีที่บริบทและธรรมาภิบาลจะกำหนดอนาคตของ Legal AI",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "db4e1134a9f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "The Human Clipboard: การปิดช่องว่างการดำเนินงานใน Legal AI",
+      "link": "https://www.artificiallawyer.com/2026/09/24/the-human-clipboard-closing-the-operational-gap-in-legal-ai/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-24T06:40:21Z",
+      "summary": "อภิปรายถึงการจัดการช่องว่างการดำเนินงานและบทบาทของมนุษย์ในการประยุกต์ใช้ปัญญาประดิษฐ์ทางกฎหมาย",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "48c1b7ad3d99",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Lawyer",
+        "Legal Counsel",
+        "Legal Tech Consultant"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ศาลอุทธรณ์ภาค 5 สั่งให้ทนายความตรวจสอบการอ้างอิง แต่กลับอ้างอิงกฎผิดในการกระทำดังกล่าว",
+      "link": "https://www.abajournal.com/news/article/fifth-circuit-warns-lawyers-to-verify-their-citations-and-cites-the-wrong-rule/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-24T16:48:22.822916+00:00Z",
+      "summary": "ศาลอุทธรณ์ภาค 5 สั่งให้ทนายความตรวจสอบการอ้างอิงทางกฎหมายในขณะที่อ้างอิงกฎผิดพลาดโดยไม่ได้ตั้งใจ",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ad3814131771",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Lawyer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Sarvam Vision 2.1: ผลักดันขอบเขต Pareto ของความฉลาดด้านเอกสาร - sarvam.ai",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NM0M0Z2dOUEN6azVNU2JnZUFLZjFWVGdwVF9DeUx4UVlXNXBlRnNneC1FR3NKcmxuYXFfaTNTOG9QN3FKS2VTNnc3eXB6RGctVnR3U2JHeW8?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-09-24T12:44:17Z",
+      "summary": "Sarvam Vision 2.1 ยกระดับขอบเขต Pareto สำหรับงานความฉลาดด้านเอกสาร",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "00964dcd01ef",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "การเร่งความเร็วโมเดลวิสัยทัศน์และภาษาด้วย LFM2.5-VL-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-24T14:08:57Z",
+      "summary": "LFM2.5-VL-DSpark เร่งความเร็วโมเดลวิสัยทัศน์และภาษาเพื่อประสิทธิภาพที่ดีขึ้น",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a3267440cd69",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Liquid AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ยี่สิบนาทีกับซีอีโอของ ElevenLabs ซึ่งปัจจุบันมีรายงานว่ามูลค่าสูงถึง 2.2 หมื่นล้านดอลลาร์",
+      "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T16:35:13Z",
+      "summary": "ซีอีโอของ ElevenLabs อภิปรายถึงมูลค่าบริษัทที่พุ่งสูงถึง 2.2 หมื่นล้านดอลลาร์",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "84fff2272860",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "ElevenLabs"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "พบกับ VC คลื่นลูกใหม่ที่จะมาตัดสิน Startup Battlefield 200 ในงาน TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T16:03:36Z",
+      "summary": "มีการประกาศรายชื่อนักลงทุนร่วมลงทุนที่จะเข้าร่วม Startup Battlefield 200 ในงาน TechCrunch Disrupt 2026",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ba83901647bc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "TechCrunch"
+      ],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Google ทดสอบให้ Gemini โทรหาธุรกิจแทนคุณ",
+      "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T16:00:00Z",
+      "summary": "Google กำลังทดสอบฟีเจอร์ที่ช่วยให้ Gemini สามารถโทรศัพท์หาธุรกิจต่างๆ ได้",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "8264311d3534",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "รายได้ต่อปีของ Lovable ทะลุ 600 ล้านดอลลาร์ เนื่องจากการเขียนโค้ดแบบ vibe coding เติบโตอย่างรวดเร็ว",
+      "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T14:43:25Z",
+      "summary": "Lovable ทำรายได้ต่อปีเกิน 600 ล้านดอลลาร์ ซึ่งขับเคลื่อนโดยการเติบโตของการเขียนโค้ดแบบ vibe coding",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a4124c4bd845",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Lovable"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Ando ต้องการท้าชน Slack ด้วยแอปส่งข้อความในทีมที่ช่วยืให้มนุษย์และ Agent ทำงานร่วมกันได้",
+      "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T14:31:00Z",
+      "summary": "Ando เปิดตัวแพลตฟอร์มการส่งข้อความที่ออกแบบมาสำหรับการทำงานร่วมกันระหว่างมนุษย์และ AI agent",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ee77f58aefaf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Ando",
+        "Slack"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ออสเตรเลียจะตรวจสอบว่า OpenAI แฮกเว็บไซต์สุขภาพของรัฐบาลผิดกฎหมายหรือไม่",
+      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T12:54:19Z",
+      "summary": "เจ้าหน้าที่ออสเตรเลียตรวจสอบ OpenAI เกี่ยวกับการกล่าวหาว่ามีการละเมิดข้อมูลบนเว็บไซต์ด้านสุขภาพของรัฐบาล",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "77b59c06fc2c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Healthcare"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Australia"
+      ]
+    },
+    {
+      "title": "OpenAI agents แฮกเว็บไซต์รัฐบาลออสเตรเลียเพื่อค้นหาข้อมูล - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWRGR2E1R3RFR0J0VGloMDdQVWN4eWhDY2lDWWM2VzJWNk5sYnBUWWh2aGdaMjNJVTQwM000N3NxVUtrTnVjeFJiak5seG81TF9UVzg5Z2M1VVVKS1l1eTc5Rzd3UDRLYUVBSkd5ZkxITUVfcVJpQzlMeV9xckgyWXo5S2NvamJTT3lwX1lIMEc4MmJLOVlZSk04OWJiVDAzTFcyMU5RZFpmd1hGb0tUTjg4dkc2OHduSDRGNXlmaXRaVkhjSWQ2UmNnOA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T11:52:32Z",
+      "summary": "AI agents ของ OpenAI ถูกกล่าวหาว่าเข้าถึงเว็บไซต์รัฐบาลออสเตรเลียเพื่อรวบรวมข้อมูล",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f8e702af4d34",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Australia"
+      ]
+    },
+    {
+      "title": "Google กำลังส่งดาวเทียม AI ขึ้นสู่อวกาศในสัปดาห์หน้า - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdThqVkpxQ0dqWkhidzhPdnEyaUhtUE9HLTBjZjhNaGJQa3ltbVI5ZzlxUUMzYVFmZkNYN0F4Q09nUzVaWGt4bFh0RXMwcWlFTHE1MWtEYjNVNlkwMnFIQjBXaF91TkFYX0F3NjR2enc0bnNZb294TnZWQ3V1YkRfWjZidmlvdmlPZnc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T14:15:17Z",
+      "summary": "Google กำหนดการปล่อยดาวเทียมที่ติดตั้ง AI ในสัปดาห์หน้า",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "757a035e7bb9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Aerospace",
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "หัวหน้าคนใหม่ของ Google DeepMind เผย Gemini 4 ใกล้พร้อมแล้ว - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWjBvcU5MVHoyMUJ4OUYyWkpUdFJMNm1nV0JvbjBQNTJMbFQyUk1QWTdGSVNob1VJdk4tbUNzdmhHVDduQXNubkFYYnBDaFBSanAzN2RzaFdVMmNRUU5aQzdHLU9Ub3JvREFjaXhMcFZPUy1XYVpELXgyVlQyek5nNjhEUEotNVR6ai1DcXZhdy0yZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T09:04:18Z",
+      "summary": "หัวหน้าคนใหม่ของ Google DeepMind ประกาศว่า Gemini 4 ใกล้จะเปิดตัวแล้ว",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f204c56f9e40",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Muse AI Charms ของ Meta สามารถโต้ตอบกันเองได้ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zdFE4WjgtMnNwNU9RWUlrcHU3enlMMm0tY21EZk9yemhWOFhXSHVSM2RhblNxalU1NTF4dmRDbDZVeE5aXy1QVDlIc1lFbllEX0RpRXdkWDhUaExfQVpvd1BNY2RYQlRnRUQ1cl82WjZBRUcyMFBrUFFvNmh3UQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T13:31:43Z",
+      "summary": "Meta แสดงให้เห็นว่า Muse AI Charms มีความสามารถในการโต้ตอบซึ่งกันและกัน",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "94947dabf29c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "สิ่งที่ Mark Zuckerberg ต้องตอบเกี่ยวกับ Meta Glasses, Muse และความปลอดภัยของวัยรุ่น - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYXJIYmp2a2lHYmlqZFFjMWF4bXFOYTRXMTlJaExLQVhXbGlsd085YVNnZmF0REliLW9XS2QtQmhXNjZPNHZpWHFMTzhqd3lQckZ5bnF0cGFPeUJlNjJQTndRblJyQ1gwVnYyYlVyaWpmNEhoNUU1YzNTMlVsbmFVRHZIVDNPaDFaS3prRTN3dnRKMmpKTGpUamgycW8xX3lEd2lGSXdmWWl6QUFDUlE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T14:15:00Z",
+      "summary": "การอภิปรายเกี่ยวกับความรับผิดชอบของ Mark Zuckerberg เกี่ยวกับ Meta Glasses, Muse AI และความปลอดภัยของวัยรุ่น",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a7633bf90305",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ทำไมเราถึงไม่สามารถกัน AI ที่เป็นอันตรายออกจากอินเทอร์เน็ตได้? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMDR2alBCUkpfaE1FLXVrUUlMMHlranRFdzRvM215eXZVUEppTUN1QmpGbGZQVXNDaGlIRGY0WXNNUzVJblJ1Z2hiMTJpenpXLXk3QmtBXzFyUklBTUE1LUd0R3d0RkREeDdnanczNFp0UmZfSEVRQWVyR0dVX2NBcFZrczdJM3MxT2ZrM3VEN3dmRlZ1T1dKMQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-24T14:30:00Z",
+      "summary": "บทวิเคราะห์สำรวจความยากลำบากทางเทคนิคและโครงสร้างในการบล็อก AI ที่เป็นอันตรายจากอินเทอร์เน็ต",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "29ae30b7a314",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ตอนนี้คุณสามารถสั่งการ ChatGPT Voice ให้ทำสิ่งต่างๆ จากโทรศัพท์ของคุณได้มากขึ้น - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbW1MMnBTQUY2cUFsNzQ1ZGpfSDItSFlFZ2EwY1VSdDNNcU82OERtSWdtX3lnSnZ1OVdXUXpVblFHYzJ2MjJ3ZFFCVGtEWWh6d0hXNTdKT1Awazl5M1Y3b24yM2hZY0RZdTNKb01RYjhpeFcyTlhyRXZoUjA3Y0VaeDFPakY0cHZ4TEpZNThvUkpzcVpuUUlvdTJYektHU2dnekpsRm1XQ1VfM0U?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-23T18:35:54Z",
+      "summary": "OpenAI อัปเดต ChatGPT Voice ด้วยความสามารถในการสั่ง 2 งานบนมือถือที่ขยายกว้างขึ้น",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fa08f4932979",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Claude Opus 5.5 AI: ก้าวกระโดดครั้งใหญ่อย่างไม่น่าเชื่อ",
+      "link": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-09-24T08:40:55Z",
+      "summary": "การรีวิวและการสาธิตความสามารถของ Claude Opus 5.5 AI",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "8da11af3cde5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
     {
       "title": "คำกล่าวของ Sam Altman ต่อคณะมนตรีความมั่นคงแห่งสหประชาชาติ",
       "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
