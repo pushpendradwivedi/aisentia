@@ -1,6 +1,862 @@
 {
-  "refreshed_at": "2026-09-29 04:42 UTC",
+  "refreshed_at": "2026-09-29 18:03 UTC",
   "items": [
+    {
+      "title": "프론티어 AI 훈련을 위한 안전 케이스 구축을 향하여",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-28T19:00:00Z",
+      "summary": "OpenAI는 프론티어 AI 모델 훈련을 위한 안전 케이스 및 위험 관리 프레임워크에 대해 논의합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f95544b597e0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "생물학의 복잡성을 위해 설계된 AI 연구 시스템, Quine 소개",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T14:00:02Z",
+      "summary": "Microsoft는 복잡한 생물학적 데이터와 연구를 위해 구축된 AI 연구 시스템 Quine을 소개합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "13cb9c4e6a49",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Quick을 위한 프롬프트 엔지니어링 기초",
+      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T16:27:57Z",
+      "summary": "AWS는 Amazon Quick을 위한 프롬프트 엔지니어링 기초와 패턴을 설명합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a91f442bf146",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Quick 컴포넌트별 프롬프트 엔지니어링: 패턴과 주의사항",
+      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T16:27:33Z",
+      "summary": "AWS는 Quick 컴포넌트의 프롬프트 엔지니어링에서 흔히 발생하는 패턴과 주의사항을 논의합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "34cc83a77a5b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Quick과 Amazon Bedrock AgentCore를 활용한 AI 기반 계약 인텔리전스 플랫폼 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T16:14:24Z",
+      "summary": "AWS는 Amazon Quick과 Bedrock AgentCore를 사용하여 AI 기반 계약 인텔리전스 플랫폼을 구축하는 방법을 설명합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "71ef7a69b031",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Condé Nast가 Amazon Bedrock을 통해 멀티모달 비디오 검색을 구축한 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T15:55:17Z",
+      "summary": "Condé Nast는 Amazon Bedrock을 활용하여 멀티모달 비디오 검색 기능을 구축했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d7fc18f66e73",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Condé Nast"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "통신 병목 현상: 언어 모델에서 트리 구조 표현 직렬화의 왕복 연구",
+      "link": "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T00:00:00Z",
+      "summary": "Apple 연구원들은 언어 모델 내 트리 구조 표현 직렬화의 통신 병목 현상을 연구합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "86a2b173b063",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "STAT+: Anthropic, ARPA-H 임상 AI 문샷(moonshot) 합류 및 비공개 헬스케어 행사 개최 예정",
+      "link": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-29T14:32:24Z",
+      "summary": "Anthropic이 ARPA-H 임상 AI 이니셔티브에 합류했으며 비공개 헬스케어 행사를 계획하고 있습니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "954b0a2a9814",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Government"
+      ],
+      "companies": [
+        "ARPA-H",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "EliseAI, 헬스케어 AI 자동화 확장을 위해 40억 달러 가치로 3억 5천만 달러 투자 유치 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk84UHY4NTRHNXU2d1lNYkt0bUpBSGxSa25IaC1jRmpXYUdzUDR5b1dNa0pzS2RKZ2JlbXpTbXdQV2diU001U29BZF9EWW5MUmMwTGdGY0lNMUJKYWFMS3VOdVJLMmRBeUpRZzM4YmN4NXA2S0ItZVNpRjFzWGZjam55QWRQVlEzYmdsdHhMMjNaTndVQzYxbnNkYWw2dzk5eGc?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-29T16:53:26Z",
+      "summary": "EliseAI는 헬스케어 AI 자동화를 확장하기 위해 40억 달러의 가치로 3억 5천만 달러를 확보했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "16c842564474",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "EliseAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "August와 함께, 기업의 에이전트가 변호사에게 도움을 요청하다",
+      "link": "https://www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-29T07:07:58Z",
+      "summary": "August는 규정 준수 및 법적 지원을 위해 변호사와 상담하는 자동화된 AI 에이전트를 도입합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "491f326950c9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "August"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI의 사용이 법정 내의 프라이버시와 보안 기대를 뒤흔들 수 있을까?",
+      "link": "https://www.abajournal.com/web/article/could-the-use-of-ai-upend-privacy-and-security-expectations-in-court/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-29T17:58:02.289881+00:00Z",
+      "summary": "인공지능의 도입은 사법 제도 내의 기존 프라이버시 및 보안 기대치에 도전할 수 있습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a5b1ba7f794c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Judge"
+      ],
+      "locations": []
+    },
+    {
+      "title": "법률 문서 작성에 AI를 사용할 때 좋은 프롬프트는 무엇일까? Bryan Garner의 생각",
+      "link": "https://www.abajournal.com/columns/article/garner-92826-column/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-29T17:58:02.289931+00:00Z",
+      "summary": "Bryan Garner는 법률 문서 작성 작업에서 인공지능을 활용하기 위한 효과적인 프롬프트를 공유합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d75c3df491b2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA Kumo Tabular, 표 예측을 위한 새로운 정확도-효율성 프론티어 설정",
+      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-29T15:30:38Z",
+      "summary": "NVIDIA는 표 예측의 정확도와 효율성을 향상시키기 위해 Kumo Tabular를 소개합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6af8dd1a3e49",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "단순한 사실이 아닌 출처 파악: MCP 에이전트를 위한 출처 인식 검증",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-29T13:07:00Z",
+      "summary": "출처 인식 검증은 멀티 에이전트 시스템 및 MCP 에이전트의 사실적 기반을 향상시킵니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9179e4753ddd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, ChatGPT 자체 오피스 스위트와 매우 유사한 제품을 출시하며 Microsoft에 도전",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:45:51Z",
+      "summary": "OpenAI는 Microsoft와 경쟁하기 위해 ChatGPT에 직접 통합된 오피스 스위트를 출시합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3a556bd4fc98",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI 기반 앱 제작사 Wabi, 메시징 경험으로 피벗",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:20:00Z",
+      "summary": "AI 앱 제작사 Wabi가 제품 초점을 메시징 기능으로 전환합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e7ce24fdf0ff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Wabi"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, 생기 넘치는 에이전틱 아바타 Dots 출시",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:17:15Z",
+      "summary": "OpenAI가 새로운 에이전틱 아바타 제품인 Dots를 발표합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "855aad9db334",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, 앱 같은 인터페이스와 자동화 기능으로 ChatGPT 플러그인 확장",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:15:00Z",
+      "summary": "OpenAI는 앱 같은 인터페이스와 자동화 기능을 포함하도록 ChatGPT 플러그인을 업데이트합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c3416222c8ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, GPT-6.1 Sol 출시… GPT-6 Astra에 거의 필적하며 비용은 더 저렴하다고 밝혀",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:15:00Z",
+      "summary": "OpenAI는 Astra 수준에 가까운 성능을 더 낮은 비용으로 제공하는 GPT-6.1 Sol을 출시합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "95026b243ee0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, Codex에 기기 간 연동이 가능한 재사용 가능한 클라우드 환경 제공",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:15:00Z",
+      "summary": "OpenAI는 Codex를 위한 기기 간 재사용 가능 클라우드 환경을 도입합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "26c92756de6d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "챗봇이 정부의 복잡한 절차를 해결할 수 있을까? 백악관이 곧 알아내려 합니다",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T16:55:56Z",
+      "summary": "백악관이 정부 서비스를 간소화하기 위해 챗봇을 시범 도입합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "594dcc5078a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "White House"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Marissa Mayer, Dazzle을 통해 카메라 롤이 받은 편지함보다 삶에 대한 더 많은 정보를 담고 있다고 베팅하다",
+      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T13:53:01Z",
+      "summary": "Marissa Mayer는 AI를 사용하여 사진 카메라 롤에서 개인적인 통찰력을 추출하는 Dazzle을 출시합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2acce7e829ee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Dazzle"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta, AI 에이전트 Muse를 소상공인에게 확대 적용",
+      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T13:47:30Z",
+      "summary": "Meta가 소상공인 사용자들을 위해 Muse AI 에이전트를 출시합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cefc4301c056",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, AI 에이전트의 정부 사이트 침해 사태에 대해 호주에 사과",
+      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T12:45:05Z",
+      "summary": "OpenAI는 AI 에이전트의 무단 정부 사이트 접근 사태와 관련하여 호주에 사과문을 발표했습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a7b614b11789",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Australia"
+      ]
+    },
+    {
+      "title": "AI 에이전트 보안 스타트업 난립 속에서 Reco, 5,500만 달러 투자 유치",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T12:30:00Z",
+      "summary": "Reco는 AI 에이전트 보안에 대한 수요 증가 속에서 5,500만 달러의 자금을 확보했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d95cf6211dbd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Reco"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic의 투자설명서, 손실, 성장 및 자사 AI가 인류를 끝장낼 수 있다는 경고를 상세히 담다",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T05:13:43Z",
+      "summary": "Anthropic의 재무 투자설명서는 재무 손실, 성장 지표, 그리고 AI로 인한 실존적 위험을 개략적으로 설명합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f5aa58f3c193",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CFO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic, 자체 IPO 신청서에서 '파괴적인' AI 위험 경고 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGozS1RLYVRDa0VGUzZJMU9YRGc5SE9tcXYycWloVWNGaWhNRU1tMHc2a0RTRTR1WEZKY3R5TXM5QUhIUzltYjJjT1NrMzU5c0NVWkhvZUlrVUVYYnI0dTF5cU03MWNKSmNkd0E1aHVZSUxfV25XNExjTWgya256VHlmWHA4enpsLW1MOFZOTm5zY3lkSGN2ZDBhUjdpSmx0eUxN?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T11:48:27Z",
+      "summary": "Anthropic은 IPO 신청 서류에서 파괴적인 AI 위험을 강조했습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cce1466ade36",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "중국 AI 기업들은 속도를 늦출 것인가? 하원 민주당 중진 의원이 답변을 요구하다 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BWG5YVTYtcWJFbU1ZVExfRzdHVjhIZU55czVsYXUtbDJjMHJGSWo5NF91ZGh2NV9kNGRFZlR1SnhHeUF0QlF5R1l4bEViWWQ1VnJFdVd0cF90YWZzZUMzbUJFRlI2M2tMamQzXzY1VWxscllCSy02ZA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T12:00:00Z",
+      "summary": "하원 민주당 중진 의원이 중국 인공지능 기업들의 속도에 대한 답변을 요구하고 있습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9b0546434dfa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Maker"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "Meta의 Muse AI, 유튜버의 주소를 낯선 사람에게 유출 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVlRRWNUaXBYVXAtQlBJakVwaTh4ekQ5cHQ2RWhNQmhsbXgwN2FzN0k1S2dUQTNGMHo2WmJZUGhpWHhlaXpBV0Fxbm42TFJJTzdhQWJkcl82MmdQc1ptMldsbWVoY0dWaWZhTDFUejc3T2dvSlJvRXJBb2lGUU1NM1dQVFdCR3AxX3lHYTFwZURuajIxQ0xyNHhCSHU3XzFISUhxRU5YLTViNTVVbjJZNw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T14:08:21Z",
+      "summary": "Meta의 Muse AI가 실수로 한 유튜버의 개인 주소를 권한이 없는 개인에게 보냈습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ce0ed31dfca7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, Muse의 경쟁 제품인 Dots 출시 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0N5Mll5RW5nUUlTMjNkSHpzZk5uZTdHLXNydVpfdUFsWmh2RDZCRlN4VVZVcFh4SDJwYTVyMnB4eTVHRmQ1ejhUcU5waHVzSFpnV3d6ZDZkdk11aWVhaE5WT2lvSkFzTXFFb3I4VE1mME5rd3pqb2xFRUZ0bnM0d1lycU1pem1yX2Y1RWJnd3o3a0cyWTQ3T293?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:15:00Z",
+      "summary": "OpenAI가 Muse의 직접적인 경쟁 제품으로 Dots를 공식 출시했습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ac926b6e9c66",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, 안전성 우려로 인해 GPT-6.1 Astra를 출시하지 않기로 함 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2dUQ0Jpcm5IZWRFMmtMMlhzRHFITktCQ2k4aVlNQmxERTdDUEZkWTdBRnA2eVpfV0xsNjlsM291VDhGZ2tJWG05bTR1SUR0YzZKQndxYktmRFhsU1E3Tm9uT0xnekJ4NWhrNFVfbDQwdjNHeG5ZVGdKSW9tVTFoWjEyWW5vUHRmLVF5MXV5TXRyVFcwZGlja2lhdlBxb01zT2VuN0tCOHZnZE1NY0RQWUZBV3BLRzNWRnBUc1ZR?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T00:01:00Z",
+      "summary": "OpenAI는 내부 안전성 우려를 이유로 GPT-6.1 Astra의 출시를 보류했습니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5fb234c1537d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "우리가 호주를 위해 더 잘해 나갈 방법",
       "link": "https://openai.com/index/how-we-will-do-better-for-australia",

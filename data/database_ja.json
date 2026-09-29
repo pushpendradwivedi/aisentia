@@ -1,6 +1,862 @@
 {
-  "refreshed_at": "2026-09-29 04:42 UTC",
+  "refreshed_at": "2026-09-29 18:03 UTC",
   "items": [
+    {
+      "title": "フロンティアAIトレーニングに向けたセーフティケースの構築に向けて",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-28T19:00:00Z",
+      "summary": "OpenAIは、フロンティアAIモデルのトレーニングに関するセーフティケースとリスク管理フレームワークについて議論しています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f95544b597e0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Quineの紹介：生物学の複雑性に対応するために設計されたAIリサーチシステム",
+      "link": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T14:00:02Z",
+      "summary": "Microsoftは、複雑な生物学的データと研究のために構築されたAIリサーチシステム「Quine」を発表しました。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "13cb9c4e6a49",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Quickのためのプロンプトエンジニアリングの基本",
+      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-fundamentals-for-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T16:27:57Z",
+      "summary": "AWSは、Amazon Quick向けのプロンプトエンジニアリングの基本とパターンについて解説しています。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a91f442bf146",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Quickコンポーネントによるプロンプトエンジニアリング：パターンと落とし穴",
+      "link": "https://aws.amazon.com/blogs/machine-learning/prompt-engineering-by-quick-component-patterns-and-pitfalls/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T16:27:33Z",
+      "summary": "AWSは、Quickコンポーネントにおけるプロンプトエンジニアリングの一般的なパターンと落とし穴について議論しています。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "34cc83a77a5b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon QuickとAmazon Bedrock AgentCoreを活用したAI駆動型契約インテリジェンスプラットフォームの構築",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-contract-intelligence-platform-with-amazon-quick-and-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T16:14:24Z",
+      "summary": "AWSは、Amazon QuickとBedrock AgentCoreを使用してAI駆動型の契約インテリジェンスプラットフォームを構築する方法を説明しています。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "71ef7a69b031",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Condé NastがAmazon Bedrockを活用してマルチモーダルな動画検出機能を構築した方法",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-conde-nast-built-multimodal-video-discovery-with-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T15:55:17Z",
+      "summary": "Condé Nastは、Amazon Bedrockを利用してマルチモーダルな動画検出機能を構築しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d7fc18f66e73",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Condé Nast"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "通信のボトルネック：言語モデルにおけるツリー構造表現シリアライゼーションのラウンドトリップ調査",
+      "link": "https://machinelearning.apple.com/research/communication-bottleneck-serialization",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-29T00:00:00Z",
+      "summary": "Appleの研究者らは、言語モデルにおけるツリー構造表現のシリアライゼーションにおける通信のボトルネックを調査しました。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "86a2b173b063",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "STAT+：AnthropicがARPA-Hの臨床AIムーンショットに参加、非公開のヘルスケアイベントを開催へ",
+      "link": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-29T14:32:24Z",
+      "summary": "AnthropicはARPA-Hの臨床AIイニシアチブに参加し、非公開のヘルスケア関連イベントを計画しています。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "954b0a2a9814",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Government"
+      ],
+      "companies": [
+        "ARPA-H",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "EliseAI、医療AIの自動化を拡大するため評価額40億ドルで3億5000万ドルを調達 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRk84UHY4NTRHNXU2d1lNYkt0bUpBSGxSa25IaC1jRmpXYUdzUDR5b1dNa0pzS2RKZ2JlbXpTbXdQV2diU001U29BZF9EWW5MUmMwTGdGY0lNMUJKYWFMS3VOdVJLMmRBeUpRZzM4YmN4NXA2S0ItZVNpRjFzWGZjam55QWRQVlEzYmdsdHhMMjNaTndVQzYxbnNkYWw2dzk5eGc?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-09-29T16:53:26Z",
+      "summary": "EliseAIは、医療AIの自動化を拡大するため、40億ドルの評価額で3億5000万ドルを調達しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "16c842564474",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "EliseAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Augustにより、企業のAIエージェントが弁護士に支援を求める",
+      "link": "https://www.artificiallawyer.com/2026/09/29/with-august-a-companys-agents-ask-lawyers-for-help/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-29T07:07:58Z",
+      "summary": "Augustは、コンプライアンスや法務支援のために弁護士に相談する自動AIエージェントを導入します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "491f326950c9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "August"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AIの活用は法廷におけるプライバシーとセキュリティの期待を覆す可能性があるか？",
+      "link": "https://www.abajournal.com/web/article/could-the-use-of-ai-upend-privacy-and-security-expectations-in-court/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-29T17:58:02.289881+00:00Z",
+      "summary": "人工知能の導入は、司法制度内における既存のプライバシーとセキュリティの期待に挑戦する可能性があります。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a5b1ba7f794c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney",
+        "Judge"
+      ],
+      "locations": []
+    },
+    {
+      "title": "法務ライティングにAIを使用する際の良いプロンプトとは？ブライアン・ガーナーの考察",
+      "link": "https://www.abajournal.com/columns/article/garner-92826-column/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-29T17:58:02.289931+00:00Z",
+      "summary": "ブライアン・ガーナー（Bryan Garner）が、人工知能を法務ライティングのタスクに活用するための効果的なプロンプトを紹介しています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d75c3df491b2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Attorney"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA Kumo Tabularが表データ予測における精度と効率性の新たなフロンティアを確立",
+      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-29T15:30:38Z",
+      "summary": "NVIDIAは、表データ予測の精度と効率性を向上させる「Kumo Tabular」を発表しました。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6af8dd1a3e49",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "事実だけでなくソースも正しく：MCPエージェントのためのソース認識型検証",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-29T13:07:00Z",
+      "summary": "ソース認識型の検証により、マルチエージェントシステムおよびMCPエージェントの事実の根拠付けが向上します。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9179e4753ddd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI、ChatGPT独自のオフィススイートを思わせる製品を発表しMicrosoftに挑戦",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:45:51Z",
+      "summary": "OpenAIは、Microsoftに対抗するため、ChatGPTに直接統合されたオフィススイートを発表しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3a556bd4fc98",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AIを活用したアプリメーカーのWabiがメッセージング体験へピボット",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:20:00Z",
+      "summary": "AIアプリメーカーのWabiは、製品の焦点をメッセージング機能へとピボット（転換）させました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e7ce24fdf0ff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Wabi"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI、ポップで生き生きとしたエージェント型アバター「Dots」を発表",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:17:15Z",
+      "summary": "OpenAIは、新しいエージェント型アバター製品「Dots」を発表しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "855aad9db334",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI、アプリのようなインターフェースと自動化機能を備えたChatGPTのプラグインを拡張",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:15:00Z",
+      "summary": "OpenAIは、ChatGPTのプラグインをアップデートし、アプリのようなインターフェースと自動化機能を追加しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c3416222c8ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAIがGPT-6.1 Solを発表、GPT-6 Astraに匹敵する性能を低価格で実現と主張",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:15:00Z",
+      "summary": "OpenAIはGPT-6.1 Solを発表し、低コストでAstraに近いパフォーマンスを実現していると述べています。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "95026b243ee0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI、Codexにデバイス間で動作する再利用可能なクラウド環境を提供",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:15:00Z",
+      "summary": "OpenAIは、Codex向けにデバイス間で利用可能な再利用可能なクラウド環境を導入しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "26c92756de6d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "チャットボットは行政の複雑な迷路を解決できるか？ホワイトハウスが検証へ",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T16:55:56Z",
+      "summary": "ホワイトハウスは、行政サービスを簡素化するためのチャットボットの実証実験を行います。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "594dcc5078a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "White House"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "マリッサ・メイヤーはDazzleを通じて、受信トレイよりもカメラロールに人生の情報が詰まっていると賭ける",
+      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T13:53:01Z",
+      "summary": "マリッサ・メイヤー（Marissa Mayer）は、AIを使用して写真のカメラロールから個人的なインサイトを抽出する「Dazzle」を立ち上げました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2acce7e829ee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Dazzle"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta、AIエージェント「Muse」を中小企業向けに拡大",
+      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T13:47:30Z",
+      "summary": "MetaはAIエージェント「Muse」を中小企業のユーザー向けに展開しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cefc4301c056",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI、AIエージェントが政府サイトに侵入した件についてオーストラリアに謝罪",
+      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T12:45:05Z",
+      "summary": "OpenAIは、自社のAIエージェントによる政府系サイトへの不正アクセスを受け、オーストラリアに謝罪を表明しました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a7b614b11789",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Australia"
+      ]
+    },
+    {
+      "title": "AIエージェントのセキュリティスタートアップが市場にひしめく中、Recoが5500万ドルを調達",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T12:30:00Z",
+      "summary": "AIエージェントのセキュリティに対する需要の高まりの中、Recoは5500万ドルの資金調達を確保しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d95cf6211dbd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Reco"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropicの目論見書に記載された損失、成長、そしてAIが人類を滅ぼすかもしれないという警告",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T05:13:43Z",
+      "summary": "Anthropicの財務目論見書には、財務上の損失、成長指標、そしてAIがもたらす存亡のリスクが概説されています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f5aa58f3c193",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CFO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic、自身のIPO申請書類の中で「壊滅的な」AIリスクについて警告 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGozS1RLYVRDa0VGUzZJMU9YRGc5SE9tcXYycWloVWNGaWhNRU1tMHc2a0RTRTR1WEZKY3R5TXM5QUhIUzltYjJjT1NrMzU5c0NVWkhvZUlrVUVYYnI0dTF5cU03MWNKSmNkd0E1aHVZSUxfV25XNExjTWgya256VHlmWHA4enpsLW1MOFZOTm5zY3lkSGN2ZDBhUjdpSmx0eUxN?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T11:48:27Z",
+      "summary": "Anthropicは、IPO申請書類の中で壊滅的なAIリスクについて強調しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cce1466ade36",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "中国のAI企業はペースを落とすのか？下院の主要民主党議員が回答を要求 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BWG5YVTYtcWJFbU1ZVExfRzdHVjhIZU55czVsYXUtbDJjMHJGSWo5NF91ZGh2NV9kNGRFZlR1SnhHeUF0QlF5R1l4bEViWWQ1VnJFdVd0cF90YWZzZUMzbUJFRlI2M2tMamQzXzY1VWxscllCSy02ZA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T12:00:00Z",
+      "summary": "下院の主要民主党議員が、中国の人工知能企業の発展ペースに関して回答を求めています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9b0546434dfa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Maker"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "MetaのMuse AIがYouTuberの住所を知らない第三者に送信 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVlRRWNUaXBYVXAtQlBJakVwaTh4ekQ5cHQ2RWhNQmhsbXgwN2FzN0k1S2dUQTNGMHo2WmJZUGhpWHhlaXpBV0Fxbm42TFJJTzdhQWJkcl82MmdQc1ptMldsbWVoY0dWaWZhTDFUejc3T2dvSlJvRXJBb2lGUU1NM1dQVFdCR3AxX3lHYTFwZURuajIxQ0xyNHhCSHU3XzFISUhxRU5YLTViNTVVbjJZNw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T14:08:21Z",
+      "summary": "MetaのMuse AIが、あるYouTuberの個人住所を誤って許可されていない個人に送信してしまいました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ce0ed31dfca7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI、Museの競合となる「Dots」を発表 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0N5Mll5RW5nUUlTMjNkSHpzZk5uZTdHLXNydVpfdUFsWmh2RDZCRlN4VVZVcFh4SDJwYTVyMnB4eTVHRmQ1ejhUcU5waHVzSFpnV3d6ZDZkdk11aWVhaE5WT2lvSkFzTXFFb3I4VE1mME5rd3pqb2xFRUZ0bnM0d1lycU1pem1yX2Y1RWJnd3o3a0cyWTQ3T293?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T17:15:00Z",
+      "summary": "OpenAIは、Museの直接の競合として「Dots」を正式に発表しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ac926b6e9c66",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI、安全性への懸念からGPT-6.1 Astraのリリースを見送り - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2dUQ0Jpcm5IZWRFMmtMMlhzRHFITktCQ2k4aVlNQmxERTdDUEZkWTdBRnA2eVpfV0xsNjlsM291VDhGZ2tJWG05bTR1SUR0YzZKQndxYktmRFhsU1E3Tm9uT0xnekJ4NWhrNFVfbDQwdjNHeG5ZVGdKSW9tVTFoWjEyWW5vUHRmLVF5MXV5TXRyVFcwZGlja2lhdlBxb01zT2VuN0tCOHZnZE1NY0RQWUZBV3BLRzNWRnBUc1ZR?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T00:01:00Z",
+      "summary": "OpenAIは、社内の安全性に対する懸念を理由に、GPT-6.1 Astraのリリースを見送りました。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5fb234c1537d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "オーストラリアにおける今後の取り組みについて",
       "link": "https://openai.com/index/how-we-will-do-better-for-australia",
