@@ -1,6 +1,805 @@
 {
-  "refreshed_at": "2026-09-30 04:24 UTC",
+  "refreshed_at": "2026-09-30 17:52 UTC",
   "items": [
+    {
+      "title": "مساعدة الشركات الصغيرة في توظيف الذكاء الاصطناعي",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T10:00:00Z",
+      "summary": "تشارك OpenAI مبادرات لمساعدة الشركات الصغيرة على دمج أدوات الذكاء الاصطناعي في عملياتها.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3cfffd6cc9d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "تقديم SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:03:07Z",
+      "summary": "Google DeepMind تقدم SynthID Bio لوضع العلامات المائية على التسلسلات البيولوجية.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c5fa622132a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical",
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "من التدريب إلى الإنتاج: NVIDIA و CoreWeave تغلقان الحلقة حول الذكاء الاصطناعي الوكيلي",
+      "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:00:00Z",
+      "summary": "تتعاون NVIDIA و CoreWeave في حلول البنية التحتية لتدريب وإنتاج الذكاء الاصطناعي الوكيلي.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dee9ae257b7d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "CoreWeave",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "التنبؤ بمخاطر الطقس الفضائي على شبكات الطاقة",
+      "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T16:00:00Z",
+      "summary": "Microsoft Research تفصل أساليب الذكاء الاصطناعي للتنبؤ بتأثيرات الطقس الفضائي على شبكات الطاقة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0d5a32de2e00",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "الاستعلام عن المطالبات باللغة الطبيعية باستخدام قواعد معارف Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:37:15Z",
+      "summary": "تضيف Amazon Bedrock مقدرة الاستعلام عن المطالبات باستخدام اللغة الطبيعية عبر قواعد المعارف.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e2324b2db4ed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "بناء خط أنابيب لإنتاج الموسيقى متعدد الوكلاء على مثيلات وقت تشغيل Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:21:57Z",
+      "summary": "دليل حول بناء خط أنابيب لإنتاج الموسيقى متعدد الوكلاء باستخدام Amazon Bedrock AgentCore.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "44580b7d8ed5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "حول المقايضة بين الفعالية والطلاقة في تهيئة نماذج اللغات الكبيرة: دراسة منهجية",
+      "link": "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T00:00:00Z",
+      "summary": "باحثو التعلم الآلي في Apple يدرسون المقايضة بين الفعالية والطلاقة في تهيئة نماذج اللغات الكبيرة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ba5e8fca3180",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "مختبر النقل في MIT يطور منصة ذكاء اصطناعي لوكالات النقل العام",
+      "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-30T15:15:00Z",
+      "summary": "مختبر النقل في MIT يطور منصة ذكاء اصطناعي مصممة خصيصاً لوكالات النقل العام.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f0a86ef09276",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Government",
+        "Automotive"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "هذا الذكاء الاصطناعي اللاعب هو البطل الجديد في لعبة Stratego",
+      "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-30T15:00:00Z",
+      "summary": "نظام ذكاء اصطناعي تم تطويره في MIT يحقق مرتبة البطولة في لعبة Stratego.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d17cd84df8ab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Gaming"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: ما يناقشه قادة تكنولوجيا الصحة في دوائر السياسة بواشنطن",
+      "link": "https://www.statnews.com/2026/09/30/health-tech-policy-conversations-washington-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-30T14:37:55Z",
+      "summary": "قادة تكنولوجيا الصحة يناقشون اتجاهات الذكاء الاصطناعي والسياسة في دوائر واشنطن.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "95b9b0e2ff93",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "فجوة قيمة الذكاء الاصطناعي: لماذا لا تؤتي استثماراتك ثمارها",
+      "link": "https://www.artificiallawyer.com/2026/09/30/the-ai-value-gap-why-your-investment-isnt-paying-off/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T07:00:36Z",
+      "summary": "تحليل يوضح سبب فشل الاستثمارات الحالية في الذكاء الاصطناعي في تحقيق العوائد المتوقعة.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f049fe692126",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "المدعي العام لولاية فلوريدا يطلب من قاضٍ منع OpenAI من تطوير نماذج ذكاء اصطناعي جديدة بدون تنظيم",
+      "link": "https://www.abajournal.com/news/article/florida-ag-asks-judge-to-bar-openai-from-developing-new-models-without-regulation/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T17:48:39.467046+00:00Z",
+      "summary": "المدعي العام لفلوريدا يطلب أمراً تقييدياً لوقف OpenAI عن تطوير نماذج ذكاء اصطناعي جديدة غير منظمة.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "15ccad8dbdbf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "الفرق القانونية تستخدم الذكاء الاصطناعي بشكل متزايد لكنها تشعر بالقلق إزاء تكلفته، وفقاً لتقرير جديد",
+      "link": "https://www.abajournal.com/news/article/legal-teams-increasingly-use-ai-but-worry-about-its-cost-new-report-shows/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T17:48:39.467061+00:00Z",
+      "summary": "يوضح التقرير أن الفرق القانونية تتبنى الذكاء الاصطناعي بشكل متكرر مع الاستمرار في القلق بشأن التكاليف.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9c88a4af2261",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "لوحة صدارة Open TTS: تقييم قابل للتطوير لتحويل النص إلى كلام متعدد اللغات واستنساخ الصوت",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-30T00:00:00Z",
+      "summary": "Hugging Face تطلق لوحة صدارة لتقييم نماذج تحويل النص إلى كلام متعدد اللغات واستنساخ الصوت.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "30ddd413a7e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "من التغييرات المنبعية إلى ثقة المصب: نظرة داخل تكامل Torch Spyre مع PyTorch CRCR",
+      "link": "https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-09-30T13:40:56Z",
+      "summary": "تفاصيل حول دمج Torch Spyre مع PyTorch CRCR لتحسين ثقة التطوير في المصب.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "19517d8b565e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "اقتصاديات الذكاء الاصطناعي للمستهلكين القبيحة",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T17:24:45Z",
+      "summary": "تحليل للمشهد المالي المليء بالتحديات وقضايا الاستدامة التي تواجه منتجات الذكاء الاصطناعي للمستهلكين.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "96de1cedcbff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ميتا تنازع الادعاء بأن Muse قرأت رسائل المستخدم الخاصة بدون إذن",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:24:23Z",
+      "summary": "ميتا تنفي المزاعم بأن وكيل الذكاء الاصطناعي Muse الخاص بها قد وصل إلى رسائل المستخدمين الخاصة بدون موافقة.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ade19e8bdc17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "DoorDash تطلق وكيل ذكاء اصطناعي يمكنك مراسلته لطلب الطعام",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:00:24Z",
+      "summary": "DoorDash تقدم وكيل محادثة مدعوماً بالذكاء الاصطناعي لطلب الطعام عبر النص.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "68dcdac188f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "السر الخفي لـ Destro AI هو وضع الروبوتات والبشر على نفس الصفحة",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:00:00Z",
+      "summary": "تركز Destro AI على تحسين التعاون بين البشر والروبوتات من خلال تقنية واجهة الاتصال الجديدة.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ac11aaa6e810",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Destro AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "توصيات منتجات Instinct الجديدة تصيب بعض المستخدمين بالإزعاج",
+      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T15:56:28Z",
+      "summary": "المستخدمون يبلغون عن عدم رضاهم عن نظام توصيات المنتجات الجديد المدعوم بالذكاء الاصطناعي في Instinct.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "20faff01be30",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Instinct"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Restate تحصل على 20 مليون دولار مع زيادة الحاجة إلى البنية التحتية المستدامة مع وكلاء الذكاء الاصطناعي",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:27:11Z",
+      "summary": "Restate تأمين تمويل بقيمة 20 مليون دولار لدعم البنية التحتية لتوسيع نطاق وكلاء الذكاء الاصطناعي المستقلين.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "34681645bc63",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Restate"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Airbnb تضيف بحث الذكاء الاصطناعي ومزيداً من الميزات الاجتماعية",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T12:00:00Z",
+      "summary": "Airbnb تدمج إمكانيات البحث الجديدة المدعومة بالذكاء الاصطناعي إلى جانب الوظائف الاجتماعية المحسنة للمستخدمين.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8d5d6dc5b1a2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Real Estate"
+      ],
+      "companies": [
+        "Airbnb"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تقارير تفيد بأن جوجل تختبر الدفع لناشري نتائج بحث الذكاء الاصطناعي - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmpXWUpvQllJWHR2cHZ0a2N2OUdLbUFCMG9CMDJWOVpGaDRFZWtkU0l2Wkk4dFBZN3ZWbFNTZVYwdzMxR0Z2NXQ1MkI2V2Q0Z2VJcGVPY3FKVFF0YXVfcjVHUm5sOHJLcEs4RFluSGVfeGM4YkxXLUJndFByQ21WUWtSdVY0M211?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:51:49Z",
+      "summary": "تخوض جوجل تجارب على نماذج التعويض المالي للناشرين ضمن نتائج البحث المولدة بالذكاء الاصطناعي.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a1d903b57756",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "جميع آخر الأخبار حول وكيل الذكاء الاصطناعي اللطيف والمرعب من ميتا Muse - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWUtkMVdfazhRYVRqeE84TkVSeXpSd2s5ZE9Wb0psMUd5MkRrMi1pdlAwenRfSlJJNGJaaFM1WDJQakJITU51S0R2Y1VUeUdkSk9ZOEFfQUc5V3M2c0pkU09Fek4teC1CTjVXX2FyOE9uQWh3R3NLYXBVOTU?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T15:19:39Z",
+      "summary": "ملخص للتحديثات الأخيرة والخطاب العام المحيط بوكيل الذكاء الاصطناعي Muse من ميتا.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f4c44b8a9114",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "إليك كيف سيقوم قادة التكنولوجيا بالتنظيم الذاتي لأمان الذكاء الاصطناعي بموجب صفقة ترامب - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1NScWNZNU1qdjh3eHpDUFVVd19Ma3o5dkIyZ1NQMkNzNFRDTnh6blM1Y0IyS3dJX0hzUXJqazNCMlg2T2lYRGJxNGdiV0dnbTJzeTdNRHZXa2c3clZwaXFjV2dEMnpGN2hoRktUQ1RpRkFhdy1BT1VaZTNuMFFzTEREMERhdmI5QkdHbmNLTTYtWUJNczhKbjJ2VG5YcnMwNVNDTFVGdG80UHc3U3Vn?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T12:24:32Z",
+      "summary": "نظرة عامة على اتفاقية طوعية بين قادة التكنولوجيا بشأن التنظيم الذاتي لأمان الذكاء الاصطناعي.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dfcc9bcb9b98",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "إنستغرام يضيف \"مساعداً\" للذكاء الاصطناعي ليخبرك كيف تنشر - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGR6bWNNd2Nja2I4MDJ1dXNEWFRpQndvYUo2VUxhcGxwY3Vic0ctZW9HS1k4NlowT3ByZEtRNzVjbW1vWEdhd0psMHJEYzMyeUhXUVhub0NEQVlSZDhzYUJnZjdmWmIza0t0cGc4N1JSTXNhenB4d0ZnaGdyYVZ3ZmZhaG5KUnVIVk52UnVySGRxT3VDb1Jzaw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:30:00Z",
+      "summary": "إنستغرام يطرح مساعد ذكاء اصطناعي مصمماً لتوفير إرشادات نشر المحتوى.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4ceacc94ff2c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Instagram"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تقارير تفيد بأن مسؤولي OpenAI تجاهلوا التحذيرات بشأن مخاطر اختراق الذكاء الاصطناعي. - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVgxWWo1Zy1oRkhxeVRrNzF3cmhENk9MS0twWGhvZWdVcjBFd2dWTTNBdWlJVnllemlyYkFYdHM0TUVYRjk0aEE1NFI2Z2NkTE5OYW1VcGFSUjRCZzN2UTJPZnRvZXZTaVgyd080YkhwYmNwQkYzT0s3NnlxbmVtRDBndVRiTkN3UW1fUlBBZkdKM0xPTUFZMWZsS0ZoeE04SkoxcW50T041WHBxbkxSZmhVZDN6Y2tGZW5FT1VzR0kyalRVc2c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T21:07:29Z",
+      "summary": "تشير التقارير إلى أن قيادة OpenAI قللت من شأن المخاوف الداخلية المتعلقة بالأمان ومخاطر الاختراق المرتبطة بالذكاء الاصطناعي.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "52ed6aff033f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تخطط OpenAI لجلب Dots إلى المستهلكين أيضاً. - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE1VNlh6c1R3cmV2TUYxVFduOGMycnZtWDYtRllqd0R1bVRqV21BVklXUFQyU01KVGNKYXQyY2VZeXNYU292M2Z1UG8xQmplbmU2aTk5d0NoUDE5V0h1bVFCak9DZ3RZQnFqcTZhSldSVkNZSTFqdS04SFBicTJRaElkQmp1cGR0d2p1YTNoeDN0bmxOZzZYekMweDV5X0ZaVnMxRFB3?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T23:52:11Z",
+      "summary": "تشير التقارير إلى أن OpenAI تخطط لتقديم نسخ موجهة للمستهلكين من مشاريع الذكاء الاصطناعي الخاصة بها.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5241f4771000",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "يمكنك مراسلة بوت الذكاء الاصطناعي الخاص بـ DoorDash لـ \"طلب المعتاد\" وسيتولى الباقي - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzFFTGhFam9wUWFraHVKOXRwU0hqamFKeHV1Y1N1SFB3QVc2RTdMWGpUSktfV1NLSnpYNmFkdG9aVndTOEF1c0FqdFlzU1ZBdk13UW9HTWxCNHNQdTV3WEpFV0FuTDNXOU5NQzcwbExyMU01ZUpwMUIwX0wxZTBoMFAwQ29mWFQxRVluV0ZxYWpIanQ0NlFrUw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T13:00:00Z",
+      "summary": "تقدم DoorDash بوت ذكاء اصطناعي يسمح للمستخدمين بطلب الطلبات عبر الرسائل النصية بناءً على التفضيلات.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b2a0b06af4f5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "هل حل سر عسكري بلغ من العمر 50 عاماً حقن موجه الوكيل للتو؟",
+      "link": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-09-30T17:16:43Z",
+      "summary": "استكشاف لمفهوم أمني يعالج محتملًا حقن موجه وكيل الذكاء الاصطناعي.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "2272cd26f53e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "إصدار GPT-6.1 Sol",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol",

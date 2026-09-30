@@ -1,6 +1,805 @@
 {
-  "refreshed_at": "2026-09-30 04:24 UTC",
+  "refreshed_at": "2026-09-30 17:52 UTC",
   "items": [
+    {
+      "title": "ช่วยให้ธุรกิจขนาดเล็กนำ AI ไปใช้งานจริง",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T10:00:00Z",
+      "summary": "OpenAI แบ่งปันโครงการริเริ่มเพื่อช่วยให้ธุรกิจขนาดเล็กผสานรวมเครื่องมือปัญญาประดิษฐ์เข้ากับการดำเนินงาน",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3cfffd6cc9d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ขอแนะนำ SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:03:07Z",
+      "summary": "Google DeepMind แนะนำ SynthID Bio สำหรับการใส่ลายน้ำลำดับทางชีวภาพ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c5fa622132a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical",
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ตั้งแต่การฝึกอบรมจนถึงการผลิต NVIDIA และ CoreWeave ปิดวงจร AI แบบเอเจนต์ (Agentic AI)",
+      "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:00:00Z",
+      "summary": "NVIDIA และ CoreWeave ร่วมมือกันด้านโซลูชันโครงสร้างพื้นฐานสำหรับการฝึกอบรมและการผลิต Agentic AI",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dee9ae257b7d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "CoreWeave",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การพยากรณ์ความเสี่ยงสภาพอากาศในอวกาศต่อ10โครงข่ายไฟฟ้า",
+      "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T16:00:00Z",
+      "summary": "Microsoft Research ลงรายละเอียดวิธีAI สำหรับการพยากรณ์ผลกระทบของสภาพอากาศในอวกาศที่มีต่อโครงข่ายไฟฟ้า",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0d5a32de2e00",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "สืบค้นข้อมูลการอ้างสิทธิ์ด้วยภาษาธรรมชาติผ่าน Amazon Bedrock Knowledge Bases",
+      "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:37:15Z",
+      "summary": "Amazon Bedrock เพิ่มความสามารถในการสืบค้นการอ้างสิทธิ์โดยใช้ภาษาธรรมชาติผ่าน Knowledge Bases",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e2324b2db4ed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "สร้างไปป์ไลน์การผลิตเพลงแบบหลายเอเจนต์บน Amazon Bedrock AgentCore Runtime Instances",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:21:57Z",
+      "summary": "คำแนะนำเกี่ยวกับการสร้างไปป์ไลน์การผลิตเพลงแบบหลายเอเจนต์โดยใช้ Amazon Bedrock AgentCore",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "44580b7d8ed5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ว่าด้วยการแลกเปลี่ยนระหว่างประสิทธิภาพและความคล่องแคล่วในการปรับสภาพ LLM: การศึกษาเชิงระบบ",
+      "link": "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T00:00:00Z",
+      "summary": "นักวิจัยด้านการเรียนรู้ของเครื่องของ Apple ศึกษาการแลกเปลี่ยนระหว่างประสิทธิภาพและความคล่องแคล่วในการปรับสภาพโมเดลภาษาขนาดใหญ่",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ba5e8fca3180",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MIT Transit Lab พัฒนาแพลตฟอร์ม AI สำหรับหน่วยงานขนส่งสาธารณะ",
+      "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-30T15:15:00Z",
+      "summary": "MIT Transit Lab กำลังพัฒนาแพลตฟอร์มปัญญาประดิษฐ์ที่ปรับแต่งมาสำหรับหน่วยงานขนส่งสาธารณะโดยเฉพาะ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f0a86ef09276",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Government",
+        "Automotive"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "AI เล่นเกมนี้คือแชมป์ใหม่ใน Stratego",
+      "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-30T15:00:00Z",
+      "summary": "ระบบปัญญาประดิษฐ์ที่พัฒนาขึ้นที่ MIT คว้าสถานะแชมป์ในเกม Stratego",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d17cd84df8ab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Gaming"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: สิ่งที่ผู้นำด้านเทคโนโลยีสุขภาพกำลังพูดถึงในแวดวงนโยบายของวอชิงตัน",
+      "link": "https://www.statnews.com/2026/09/30/health-tech-policy-conversations-washington-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-30T14:37:55Z",
+      "summary": "ผู้นำด้านเทคโนโลยีสุขภาพอภิปรายเกี่ยวกับแนวโน้ม AI และนโยบายในแวดวงวอชิงตัน",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "95b9b0e2ff93",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "ช่องว่างแห่งคุณค่าของ AI: เหตุใดการลงทุนของคุณจึงไม่คุ้มค่า",
+      "link": "https://www.artificiallawyer.com/2026/09/30/the-ai-value-gap-why-your-investment-isnt-paying-off/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T07:00:36Z",
+      "summary": "การวิเคราะห์ที่อธิบายว่าทำไมการลงทุน AI ในปัจจุบันจึงไม่สามารถสร้างผลตอบแทนตามที่คาดหวังได้",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f049fe692126",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "อัยการสูงสุดฟลอริดาขอให้ผู้พิพากษาสั่งห้าม OpenAI พัฒนาโมเดล AI ใหม่โดยไม่มีกฎระเบียบ",
+      "link": "https://www.abajournal.com/news/article/florida-ag-asks-judge-to-bar-openai-from-developing-new-models-without-regulation/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T17:48:39.467046+00:00Z",
+      "summary": "อัยการสูงสุดของฟลอริดายื่นคำร้องขอคำสั่งศาลเพื่อหยุดยั้ง OpenAI จากการพัฒนาโมเดลปัญญาประดิษฐ์ใหม่ที่ยังไม่มีการควบคุม",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "15ccad8dbdbf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "รายงานใหม่ชี้ทีมกฎหมายใช้ AI มากขึ้นแต่กังวลเรื่องต้นทุน",
+      "link": "https://www.abajournal.com/news/article/legal-teams-increasingly-use-ai-but-worry-about-its-cost-new-report-shows/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T17:48:39.467061+00:00Z",
+      "summary": "รายงานแสดงให้เห็นว่าทีมกฎหมายกำลังนำปัญญาประดิษฐ์มาใช้บ่อยขึ้นในขณะที่ยังคงกังวลเกี่ยวกับต้นทุน",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9c88a4af2261",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Open TTS Leaderboard: การประเมินที่ปรับขนาดได้สำหรับการแปลงข้อความ Text-to-Speech เป็นคำพูดหลายภาษาและการโคลนเสียง",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-30T00:00:00Z",
+      "summary": "Hugging Face เปิดตัวกระดานผู้นำสำหรับการประเมินโมเดลแปลงข้อความ Text-to-Speech เป็นเสียงหลายภาษาและการโคลนเสียง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "30ddd413a7e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "จากการเปลี่ยนแปลงต้นน้ำสู่ความมั่นใจปลายน้ำ: เจาะลึกการผสานรวมของ Torch Spyre กับ PyTorch CRCR",
+      "link": "https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-09-30T13:40:56Z",
+      "summary": "รายละเอียดเกี่ยวกับการผสานรวม Torch Spyre กับ PyTorch CRCR เพื่อปรับปรุงความมั่นใจในการพัฒนาปลายน้ำ",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "19517d8b565e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เศรษฐศาสตร์ที่น่าเกลียดของ Consumer AI",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T17:24:45Z",
+      "summary": "การวิเคราะห์ภูมิทัศน์ทางการเงินที่ท้าทายและปัญหาความยั่งยืนที่ผลิตภัณฑ์ Consumer AI กำลังเผชิญ",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "96de1cedcbff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Meta โต้แย้งข้อกล่าวหาที่ว่า Muse อ่านข้อความส่วนตัวของผู้ใช้โดยไม่ได้รับอนุญาต",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:24:23Z",
+      "summary": "Metaปฏิเสธข้อกล่าวหาที่ว่าเอเจนต์ Muse AI ของตนเข้าถึงข้อความส่วนตัวของผู้ใช้โดยไม่ได้รับความยินยอม",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ade19e8bdc17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "DoorDash เปิดตัว AI agent ที่คุณสามารถส่งข้อความหาเพื่อสั่งอาหารได้",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:00:24Z",
+      "summary": "DoorDash แนะนำเอเจนต์สนทนาที่ขับเคลื่อนด้วย AI สำหรับการสั่งอาหารผ่านข้อความ",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "68dcdac188f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เคล็ดลับความสำเร็จของ Destro AI คือการทำให้หุ่นยนต์และมนุษย์เข้าใจตรงกัน",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:00:00Z",
+      "summary": "Destro AI มุ่งเน้นไปที่การปรับปรุงการทำงานร่วมกันระหว่างมนุษย์และหุ่นยนต์ผ่านเทคโนโลยีอินเทอร์เฟซการสื่อสารใหม่",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ac11aaa6e810",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Destro AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "คำแนะนำผลิตภัณฑ์ใหม่ของ Instinct ทำให้ผู้ใช้บางคนรู้สึกยี้",
+      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T15:56:28Z",
+      "summary": "ผู้ใช้รายงานความไม่พอใจกับระบบแนะนำผลิตภัณฑ์ที่ขับเคลื่อนด้วย AI ตัวใหม่ใน Instinct",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "20faff01be30",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Instinct"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Restate คว้าเงินทุน 20 ล้านดอลลาร์ เนื่องจากความต้องการโครงสร้างพื้นฐานที่ทนทานเพิ่มขึ้นพร้อมกับ AI agents",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:27:11Z",
+      "summary": "Restate 10ระดมทุนได้ 20 ล้านดอลลาร์เพื่อสนับสนุนโครงสร้างพื้นฐานสำหรับการปรับขนาด AI agents แบบอัตโนมัติ",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "34681645bc63",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Restate"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Airbnb เพิ่มการค้นหาด้วย AI และฟีเจอร์โซเชียลเพิ่มเติม",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T12:00:00Z",
+      "summary": "Airbnb ผสานรวมความสามารถในการค้นหาใหม่ที่ขับเคลื่อนด้วย AI ควบคู่ไปกับฟังก์ชันการทำงานทางสังคมที่ได้รับการปรับปรุงสำหรับผู้ใช้",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8d5d6dc5b1a2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Real Estate"
+      ],
+      "companies": [
+        "Airbnb"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "รายงานระบุ Google กำลังทดสอบจ่ายเงินให้ผู้จัดพิมพ์สำหรับผลการค้นหา AI - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmpXWUpvQllJWHR2cHZ0a2N2OUdLbUFCMG9CMDJWOVpGaDRFZWtkU0l2Wkk4dFBZN3ZWbFNTZVYwdzMxR0Z2NXQ1MkI2V2Q0Z2VJcGVPY3FKVFF0YXVfcjVHUm5sOHJLcEs4RFluSGVfeGM4YkxXLUJndFByQ21WUWtSdVY0M211?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:51:49Z",
+      "summary": "Google กำลังทดลองโมเดลการชดเชยทางการเงินสำหรับผู้จัดพิมพ์ภายในผลการค้นหาที่สร้างโดย AI",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a1d903b57756",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ข่าวสารล่าสุดทั้งหมดเกี่ยวกับ Muse AI agent ของ Meta ทั้งน่ารักและน่าขนลุก - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWUtkMVdfazhRYVRqeE84TkVSeXpSd2s5ZE9Wb0psMUd5MkRrMi1pdlAwenRfSlJJNGJaaFM1WDJQakJITU51S0R2Y1VUeUdkSk9ZOEFfQUc5V3M2c0pkU09Fek4teC1CTjVXX2FyOE9uQWh3R3NLYXBVOTU?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T15:19:39Z",
+      "summary": "สรุปการอัปเดตล่าสุดและกระแสความสนใจของสาธารณชนรอบๆ เอเจนต์ Muse AI ของ Meta",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f4c44b8a9114",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "นี่คือวิธีที่ผู้นำด้านเทคโนโลยีจะควบคุมความปลอดภัยของ AI กันเองภายใต้ข้อตกลงของทรัมป์ - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1NScWNZNU1qdjh3eHpDUFVVd19Ma3o5dkIyZ1NQMkNzNFRDTnh6blM1Y0IyS3dJX0hzUXJqazNCMlg2T2lYRGJxNGdiV0dnbTJzeTdNRHZXa2c3clZwaXFjV2dEMnpGN2hoRktUQ1RpRkFhdy1BT1VaZTNuMFFzTEREMERhdmI5QkdHbmNLTTYtWUJNczhKbjJ2VG5YcnMwNVNDTFVGdG80UHc3U3Vn?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T12:24:32Z",
+      "summary": "ภาพรวมของข้อตกลงโดยสมัครใจระหว่างผู้นำด้านเทคโนโลยีเกี่ยวกับกฎระเบียบด้านความปลอดภัยของ AI ที่กำกับดูแลกันเอง",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dfcc9bcb9b98",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Instagram กำลังเพิ่ม 'ผู้ช่วย' AI เพื่อบอกวิธีโพสต์ - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGR6bWNNd2Nja2I4MDJ1dXNEWFRpQndvYUo2VUxhcGxwY3Vic0ctZW9HS1k4NlowT3ByZEtRNzVjbW1vWEdhd0psMHJEYzMyeUhXUVhub0NEQVlSZDhzYUJnZjdmWmIza0t0cGc4N1JSTXNhenB4d0ZnaGdyYVZ3ZmZhaG5KUnVIVk52UnVySGRxT3VDb1Jzaw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:30:00Z",
+      "summary": "Instagram กำลังเปิดตัวผู้ช่วย AI ที่ออกแบบมาเพื่อให้คำแนะนำในการโพสต์คอนเทนต์",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4ceacc94ff2c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Instagram"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "รายงานระบุผู้บริหาร OpenAI เมินเฉยต่อคำเตือนเกี่ยวกับความเสี่ยงด้านการแฮกของ AI - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVgxWWo1Zy1oRkhxeVRrNzF3cmhENk9MS0twWGhvZWdVcjBFd2dWTTNBdWlJVnllemlyYkFYdHM0TUVYRjk0aEE1NFI2Z2NkTE5OYW1VcGFSUjRCZzN2UTJPZnRvZXZTaVgyd080YkhwYmNwQkYzT0s3NnlxbmVtRDBndVRiTkN3UW1fUlBBZkdKM0xPTUFZMWZsS0ZoeE04SkoxcW50T041WHBxbkxSZmhVZDN6Y2tGZW5FT1VzR0kyalRVc2c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T21:07:29Z",
+      "summary": "รายงานชี้ว่าผู้บริหารระดับสูงของ OpenAI ลดทอนความสำคัญของความกังวลภายในเกี่ยวกับความเสี่ยงด้านความปลอดภัยและการแฮกที่เกี่ยวข้องกับ AI",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "52ed6aff033f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI วางแผนที่จะนำ Dots มาสู่ผู้บริโภคทั่วไปด้วยเช่นกัน - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE1VNlh6c1R3cmV2TUYxVFduOGMycnZtWDYtRllqd0R1bVRqV21BVklXUFQyU01KVGNKYXQyY2VZeXNYU292M2Z1UG8xQmplbmU2aTk5d0NoUDE5V0h1bVFCak9DZ3RZQnFqcTZhSldSVkNZSTFqdS04SFBicTJRaElkQmp1cGR0d2p1YTNoeDN0bmxOZzZYekMweDV5X0ZaVnMxRFB3?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T23:52:11Z",
+      "summary": "รายงานระบุว่า OpenAI วางแผนที่จะเปิดตัวโปรเจกต์ AI ในเวอร์ชันสำหรับผู้บริโภคทั่วไปด้วย",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5241f4771000",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "คุณสามารถส่งข้อความหา AI bot ของ DoorDash เพื่อ 'สั่งเมนูเดิมของฉัน' แล้วมันจะจัดการส่วนที่เหลือให้ - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzFFTGhFam9wUWFraHVKOXRwU0hqamFKeHV1Y1N1SFB3QVc2RTdMWGpUSktfV1NLSnpYNmFkdG9aVndTOEF1c0FqdFlzU1ZBdk13UW9HTWxCNHNQdTV3WEpFV0FuTDNXOU5NQzcwbExyMU01ZUpwMUIwX0wxZTBoMFAwQ29mWFQxRVluV0ZxYWpIanQ0NlFrUw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T13:00:00Z",
+      "summary": "DoorDash เปิดตัว AI bot ที่ช่วยให้ผู้ใช้สามารถส่งข้อความสั่งอาหารตามความชอบได้",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b2a0b06af4f5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ความลับทางทหารอายุ 50 ปีเพิ่งจะแก้ปัญหาการแทรกแซงคำสั่งของเอเจนต์ (agent prompt injection) ได้หรือไม่",
+      "link": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-09-30T17:16:43Z",
+      "summary": "การสำรวจแนวคิดด้านความปลอดภัยที่อาจแก้ไขปัญหาการแทรกแซงคำสั่งของ AI agent ได้",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "2272cd26f53e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "ขอแนะนำ GPT-6.1 Sol",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol",

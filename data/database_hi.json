@@ -1,6 +1,805 @@
 {
-  "refreshed_at": "2026-09-30 04:24 UTC",
+  "refreshed_at": "2026-09-30 17:52 UTC",
   "items": [
+    {
+      "title": "छोटे व्यवसायों को एआई (AI) का उपयोग करने में मदद करना",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T10:00:00Z",
+      "summary": "OpenAI छोटे व्यवसायों को अपने संचालन में आर्टिफिशियल इंटेलिजेंस टूल को एकीकृत करने में मदद करने के लिए पहल साझा करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3cfffd6cc9d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SynthID Bio का परिचय",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:03:07Z",
+      "summary": "Google DeepMind जैविक अनुक्रमों (biological sequences) को वॉटरमार्क करने के लिए SynthID Bio पेश करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c5fa622132a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical",
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ट्रेनिंग से लेकर प्रोडक्शन तक, NVIDIA और CoreWeave ने एजेंटिक एआई (Agentic AI) पर घेरा पूरा किया",
+      "link": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:00:00Z",
+      "summary": "NVIDIA और CoreWeave एजेंटिक एआई ट्रेनिंग और प्रोडक्शन के लिए बुनियादी ढांचा समाधानों पर सहयोग करते हैं।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dee9ae257b7d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "CoreWeave",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "पावर ग्रिड पर अंतरिक्ष के मौसम (space weather) के जोखिमों का अनुमान लगाना",
+      "link": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T16:00:00Z",
+      "summary": "Microsoft Research पावर ग्रिड पर अंतरिक्ष के मौसम के प्रभावों का अनुमान लगाने के लिए एआई विधियों का विवरण देता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0d5a32de2e00",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock Knowledge Bases के साथ प्राकृतिक भाषा में दावों (claims) की क्वेरी करें",
+      "link": "https://aws.amazon.com/blogs/machine-learning/query-claims-in-natural-language-with-amazon-bedrock-knowledge-bases/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:37:15Z",
+      "summary": "Amazon Bedrock नॉलेज बेस के माध्यम से प्राकृतिक भाषा का उपयोग करके दावों की क्वेरी करने की क्षमता जोड़ता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e2324b2db4ed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Runtime Instances पर मल्टी-एजेंट संगीत निर्माण पाइपलाइन बनाएं",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-agent-music-production-pipeline-on-amazon-bedrock-agentcore-runtime-instances/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T15:21:57Z",
+      "summary": "Amazon Bedrock AgentCore का उपयोग करके मल्टी-एजेंट संगीत निर्माण पाइपलाइन बनाने पर एक गाइड।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "44580b7d8ed5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "एलएलएम (LLM) कंडीशनिंग में प्रभावशीलता-धाराप्रवाह ट्रेड-ऑफ पर: एक व्यवस्थित अध्ययन",
+      "link": "https://machinelearning.apple.com/research/effectiveness-fluency-llm-conditioning",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-09-30T00:00:00Z",
+      "summary": "Apple मशीन लर्निंग शोधकर्ता बड़े भाषा मॉडल कंडीशनिंग में प्रभावशीलता-धाराप्रवाह ट्रेड-ऑफ का अध्ययन करते हैं।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ba5e8fca3180",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MIT Transit Lab सार्वजनिक पारगमन एजेंसियों के लिए एक AI प्लेटफॉर्म विकसित करेगा",
+      "link": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-30T15:15:00Z",
+      "summary": "MIT Transit Lab सार्वजनिक पारगमन एजेंसियों के लिए तैयार किया गया एक आर्टिफिशियल इंटेलिजेंस प्लेटफॉर्म विकसित कर रहा है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f0a86ef09276",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Government",
+        "Automotive"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "यह गेम खेलने वाला AI स्ट्रैटिगो (Stratego) में नया चैंपियन है",
+      "link": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-09-30T15:00:00Z",
+      "summary": "MIT में विकसित एक आर्टिफिशियल इंटेलिजेंस सिस्टम Stratego गेम में चैंपियन का दर्जा प्राप्त करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d17cd84df8ab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Gaming"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: वाशिंगटन की नीति मंडलों में स्वास्थ्य तकनीक के नेता किस बारे में बात कर रहे हैं",
+      "link": "https://www.statnews.com/2026/09/30/health-tech-policy-conversations-washington-ai-prognosis/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-09-30T14:37:55Z",
+      "summary": "हेल्थ टेक लीडर्स वाशिंगटन के हलकों में AI और नीतिगत रुझानों पर चर्चा करते हैं।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "95b9b0e2ff93",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "एआई वैल्यू गैप: आपका निवेश क्यों रंग नहीं ला रहा है",
+      "link": "https://www.artificiallawyer.com/2026/09/30/the-ai-value-gap-why-your-investment-isnt-paying-off/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T07:00:36Z",
+      "summary": "एक विश्लेषण जो बताता है कि वर्तमान एआई निवेश अपेक्षित रिटर्न क्यों नहीं दे पा रहे हैं।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f049fe692126",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "फ्लोरिडा के AG ने जज से बिना विनियमन के नए AI मॉडल विकसित करने से OpenAI को रोकने के लिए कहा",
+      "link": "https://www.abajournal.com/news/article/florida-ag-asks-judge-to-bar-openai-from-developing-new-models-without-regulation/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T17:48:39.467046+00:00Z",
+      "summary": "फ्लोरिडा के अटॉर्नी जनरल ने OpenAI को नए अनियमित आर्टिफिशियल इंटेलिजेंस मॉडल विकसित करने से रोकने के लिए निषेधाज्ञा का अनुरोध किया है।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "15ccad8dbdbf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "नई रिपोर्ट से पता चलता है कि कानूनी टीमें तेजी से AI का उपयोग कर रही हैं लेकिन इसकी लागत को लेकर चिंतित हैं",
+      "link": "https://www.abajournal.com/news/article/legal-teams-increasingly-use-ai-but-worry-about-its-cost-new-report-shows/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-09-30T17:48:39.467061+00:00Z",
+      "summary": "रिपोर्ट से पता चलता है कि कानूनी टीमें लागत को लेकर चिंतित रहते हुए भी आर्टिफिशियल इंटेलिजेंस को अधिक बार अपना रही हैं।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9c88a4af2261",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ओपन टीटीएस लीडरबोर्ड: बहुभाषी टेक्स्ट-टू-स्पीच और वॉयस क्लोनिंग के लिए स्केलेबल मूल्यांकन",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-09-30T00:00:00Z",
+      "summary": "Hugging Face बहुभाषी टेक्स्ट-टू-स्पीच और वॉयस क्लोनिंग मॉडल के मूल्यांकन के लिए एक लीडरबोर्ड लॉन्च करता है।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "30ddd413a7e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "अपस्ट्रीम परिवर्तनों से लेकर डाउनस्ट्रीम कॉन्फिडेंस तक: PyTorch CRCR के साथ Torch Spyre के इंटीग्रेशन के भीतर",
+      "link": "https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-09-30T13:40:56Z",
+      "summary": "डाउनस्ट्रीम विकास विश्वास को बेहतर बनाने के लिए PyTorch CRCR के साथ Torch Spyre को एकीकृत करने का विवरण।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "19517d8b565e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "उपभोक्ता AI का बदसूरत अर्थशास्त्र",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T17:24:45Z",
+      "summary": "उपभोक्ता AI उत्पादों के सामने आने वाले चुनौतीपूर्ण वित्तीय परिदृश्य और स्थिरता के मुद्दों का विश्लेषण।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "96de1cedcbff",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मेटा ने उस दावे का खंडन किया कि Muse ने अनुमति के बिना उपयोगकर्ता के निजी संदेश पढ़े",
+      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:24:23Z",
+      "summary": "मेटा उन आरोपों से इनकार करता है कि उसके Muse AI एजेंट ने सहमति के बिना निजी उपयोगकर्ता संदेशों तक पहुंच बनाई।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ade19e8bdc17",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "DoorDash एक AI एजेंट लॉन्च करता है जिसे आप खाना ऑर्डर करने के लिए टेक्स्ट कर सकते हैं",
+      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:00:24Z",
+      "summary": "DoorDash टेक्स्ट-आधारित भोजन ऑर्डर करने के लिए एक AI-संचालित संवादात्मक एजेंट पेश करता है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "68dcdac188f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Destro AI का गुप्त नुस्खा रोबोट और इंसानों को एक ही पृष्ठ पर लाना है",
+      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T16:00:00Z",
+      "summary": "Destro AI नए संचार इंटरफ़ेस तकनीक के माध्यम से मानव-रोबोट सहयोग को बेहतर बनाने पर ध्यान केंद्रित करता है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ac11aaa6e810",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Destro AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Instinct की नई उत्पाद सिफ़ारिशें कुछ उपयोगकर्ताओं को परेशान कर रही हैं",
+      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T15:56:28Z",
+      "summary": "उपयोगकर्ता Instinct में नई AI-संचालित उत्पाद अनुशंसा प्रणाली से असंतोष की रिपोर्ट करते हैं।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "20faff01be30",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Instinct"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Restate को $20M मिले क्योंकि AI एजेंटों के साथ टिकाऊ बुनियादी ढांचे की आवश्यकता बढ़ रही है",
+      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:27:11Z",
+      "summary": "Restate स्वायत्त AI एजेंटों को स्केल करने के लिए बुनियादी ढांचे का समर्थन करने के लिए फंडिंग में $20M सुरक्षित करता है।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "34681645bc63",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Restate"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Airbnb ने AI सर्च, अधिक सामाजिक सुविधाएँ जोड़ीं",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T12:00:00Z",
+      "summary": "Airbnb उपयोगकर्ताओं के लिए बेहतर सामाजिक कार्यक्षमता के साथ नई AI-संचालित खोज क्षमताओं को एकीकृत करता है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8d5d6dc5b1a2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Real Estate"
+      ],
+      "companies": [
+        "Airbnb"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "खबर है कि Google AI खोज परिणामों के लिए प्रकाशकों को भुगतान करने का परीक्षण कर रहा है - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmpXWUpvQllJWHR2cHZ0a2N2OUdLbUFCMG9CMDJWOVpGaDRFZWtkU0l2Wkk4dFBZN3ZWbFNTZVYwdzMxR0Z2NXQ1MkI2V2Q0Z2VJcGVPY3FKVFF0YXVfcjVHUm5sOHJLcEs4RFluSGVfeGM4YkxXLUJndFByQ21WUWtSdVY0M211?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:51:49Z",
+      "summary": "Google AI-उत्पन्न खोज परिणामों के भीतर प्रकाशकों के लिए वित्तीय मुआवजा मॉडल के साथ प्रयोग कर रहा है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a1d903b57756",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "मेटा के प्यारे, डरावने Muse AI एजेंट पर सभी नवीनतम समाचार - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlWUtkMVdfazhRYVRqeE84TkVSeXpSd2s5ZE9Wb0psMUd5MkRrMi1pdlAwenRfSlJJNGJaaFM1WDJQakJITU51S0R2Y1VUeUdkSk9ZOEFfQUc5V3M2c0pkU09Fek4teC1CTjVXX2FyOE9uQWh3R3NLYXBVOTU?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T15:19:39Z",
+      "summary": "मेटा के Muse AI एजेंट के आसपास हाल के अपडेट और सार्वजनिक चर्चा का सारांश।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f4c44b8a9114",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "यहाँ बताया गया है कि ट्रंप के समझौते के तहत तकनीकी नेता AI सुरक्षा का खुद पुलिसिंग कैसे करेंगे - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN1NScWNZNU1qdjh3eHpDUFVVd19Ma3o5dkIyZ1NQMkNzNFRDTnh6blM1Y0IyS3dJX0hzUXJqazNCMlg2T2lYRGJxNGdiV0dnbTJzeTdNRHZXa2c3clZwaXFjV2dEMnpGN2hoRktUQ1RpRkFhdy1BT1VaZTNuMFFzTEREMERhdmI5QkdHbmNLTTYtWUJNczhKbjJ2VG5YcnMwNVNDTFVGdG80UHc3U3Vn?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T12:24:32Z",
+      "summary": "AI सुरक्षा स्व-नियमन के संबंध में तकनीकी नेताओं के बीच स्वैच्छिक समझौते का अवलोकन।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dfcc9bcb9b98",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "इंस्टाग्राम एक AI 'सहायक' जोड़ रहा है जो आपको बताएगा कि कैसे पोस्ट करना है - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGR6bWNNd2Nja2I4MDJ1dXNEWFRpQndvYUo2VUxhcGxwY3Vic0ctZW9HS1k4NlowT3ByZEtRNzVjbW1vWEdhd0psMHJEYzMyeUhXUVhub0NEQVlSZDhzYUJnZjdmWmIza0t0cGc4N1JSTXNhenB4d0ZnaGdyYVZ3ZmZhaG5KUnVIVk52UnVySGRxT3VDb1Jzaw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T14:30:00Z",
+      "summary": "इंस्टाग्राम एक AI सहायक को रोल आउट कर रहा है जिसे सामग्री पोस्ट करने मार्गदर्शन प्रदान करने के लिए डिज़ाइन किया गया है।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4ceacc94ff2c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Instagram"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "खबर है कि OpenAI के अधिकारियों ने AI हैकिंग जोखिमों के बारे में चेतावनियों को खारिज कर दिया। - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVVgxWWo1Zy1oRkhxeVRrNzF3cmhENk9MS0twWGhvZWdVcjBFd2dWTTNBdWlJVnllemlyYkFYdHM0TUVYRjk0aEE1NFI2Z2NkTE5OYW1VcGFSUjRCZzN2UTJPZnRvZXZTaVgyd080YkhwYmNwQkYzT0s3NnlxbmVtRDBndVRiTkN3UW1fUlBBZkdKM0xPTUFZMWZsS0ZoeE04SkoxcW50T041WHBxbkxSZmhVZDN6Y2tGZW5FT1VzR0kyalRVc2c?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T21:07:29Z",
+      "summary": "रिपोर्टों से पता चलता है कि OpenAI नेतृत्व ने AI-संबद्ध सुरक्षा और हैकिंग जोखिमों के बारे में आंतरिक चिंताओं को कम करके आंका।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "52ed6aff033f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI डॉट्स को उपभोक्ताओं तक भी पहुँचाने की योजना बना रहा है। - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSE1VNlh6c1R3cmV2TUYxVFduOGMycnZtWDYtRllqd0R1bVRqV21BVklXUFQyU01KVGNKYXQyY2VZeXNYU292M2Z1UG8xQmplbmU2aTk5d0NoUDE5V0h1bVFCak9DZ3RZQnFqcTZhSldSVkNZSTFqdS04SFBicTJRaElkQmp1cGR0d2p1YTNoeDN0bmxOZzZYekMweDV5X0ZaVnMxRFB3?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-29T23:52:11Z",
+      "summary": "खबर है कि OpenAI अपनी AI परियोजनाओं के उपभोक्ता-सामने वाले संस्करण पेश करने की योजना बना रहा है।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5241f4771000",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "आप 'मेरा सामान्य ऑर्डर दें' के लिए DoorDash के AI बॉट को टेक्स्ट कर सकते हैं और यह बाकी का पता लगा लेगा - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzFFTGhFam9wUWFraHVKOXRwU0hqamFKeHV1Y1N1SFB3QVc2RTdMWGpUSktfV1NLSnpYNmFkdG9aVndTOEF1c0FqdFlzU1ZBdk13UW9HTWxCNHNQdTV3WEpFV0FuTDNXOU5NQzcwbExyMU01ZUpwMUIwX0wxZTBoMFAwQ29mWFQxRVluV0ZxYWpIanQ0NlFrUw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-09-30T13:00:00Z",
+      "summary": "DoorDash एक AI बॉट पेश करता है जो उपयोगकर्ताओं को प्राथमिकताओं के आधार पर टेक्स्ट ऑर्डर करने की अनुमति देता है।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b2a0b06af4f5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "DoorDash"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "क्या 50 साल पुराने सैन्य रहस्य ने अभी-अभी एजेंट प्रॉम्प्ट इंजेक्शन को हल किया है?",
+      "link": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-09-30T17:16:43Z",
+      "summary": "एक सुरक्षा अवधारणा की खोज जो संभावित रूप से AI एजेंट प्रॉम्प्ट इंजेक्शन को संबोधित करती है।",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "2272cd26f53e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "GPT-6.1 Sol का परिचय",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol",
