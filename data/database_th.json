@@ -1,6 +1,951 @@
 {
-  "refreshed_at": "2026-10-02 04:23 UTC",
+  "refreshed_at": "2026-10-02 17:46 UTC",
   "items": [
+    {
+      "title": "คู่มือโมเดลสำหรับตระกูล GPT-6",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T16:15:00Z",
+      "summary": "แนวทางปฏิบัติสำหรับการสร้างและใช้งานโมเดลภายในตระกูล GPT-6",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d8bea22f6536",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Chatham ขยายความเชี่ยวชาญด้านตลาดทุนด้วย OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T00:00:00Z",
+      "summary": "Chatham Financial ผสานรวมเทคโนโลยีของ OpenAI เพื่อขยายการดำเนินงานและความเชี่ยวชาญในตลาดทุน",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f5331f1181a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking",
+        "Tech"
+      ],
+      "companies": [
+        "Chatham Financial",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "NVIDIA DGX Spark 64GB มอบทางเลือกที่มากขึ้นแก่ให้นักพัฒนาในการสร้างและขยายขนาด AI ท้องถิ่น",
+      "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T13:00:39Z",
+      "summary": "NVIDIA เปิดตัว DGX Spark 64GB เพื่อให้นักพัฒนาสามารถสร้างและขยายขนาด AI ท้องถิ่นได้",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e9d4e012b46c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ตรวจสอบสัญญาเช่าหลายพันรายการเพื่อความสอดคล้องโดยใช้ Amazon Quick และรูปแบบ Adjudicated Query",
+      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T15:48:26Z",
+      "summary": "自动การตรวจสอบความสอดคล้องของสัญญาเช่าโดยใช้ Amazon Quick และรูปแบบ Adjudicated Query",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f69b1dffbd86",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Real Estate",
+        "Legal"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "เพิ่มการค้นหาเว็บที่ปลอดภัยให้กับ Claude Desktop ด้วย Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T15:46:05Z",
+      "summary": "ผสานรวมความสามารถในการค้นหาเว็บที่ปลอดภัยเข้ากับ Claude Desktop โดยใช้ Amazon Bedrock AgentCore",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bbe1dff5ecb6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ปรับแต่งเอเจนต์การค้นหาด้วย multi-turn RL บน Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T15:44:20Z",
+      "summary": "การปรับแต่งเอเจนต์การค้นหาโดยใช้การเรียนรู้เสริมกำลังแบบหลายเทิร์น (multi-turn reinforcement learning) บน Amazon SageMaker AI",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5e9a8051977f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "การแยกแยะภาษาช่วยปรับปรุงการเรียนรู้ทางภาษาในโมเดลคำพูดหลายภาษา",
+      "link": "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T00:00:00Z",
+      "summary": "เทคนิคการแยกแยะภาษาช่วยยกระดับผลลัพธ์การเรียนรู้ทางภาษาในโมเดลคำพูดหลายภาษา",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a0d77d557cc1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "หนึ่งฐานเพื่อเคลื่อนไหวทั้งหมด: การกลั่น Gaussian Blendshape สำหรับอ바ตาร์แบบเรียลไทม์",
+      "link": "https://arxiv.org/abs/2610.02207v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:58Z",
+      "summary": "แนะนำวิธีการกลั่น Gaussian blendshape สำหรับการสร้างแอนิเมชันอ바ตาร์แบบเรียลไทม์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1e68eac7795b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "KaliBench: เกณฑ์มาตรฐานแบบละเอียดยิบสำหรับการใช้เครื่องมือความปลอดภัยทางไซเบอร์บน Kali Linux พร้อมรางวัลที่ตรวจสอบได้โดยไม่ต้องใช้รันไทม์",
+      "link": "https://arxiv.org/abs/2610.02206v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:55Z",
+      "summary": "KaliBench นำเสนอเกณฑ์มาตรฐานแบบละเอียดยิบสำหรับการประเมินการใช้เครื่องมือความปลอดภัยทางไซเบอร์บน Kali Linux",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0361898d3d05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "สร้างใหม่ ฝึกฝน ไปสู่ของจริง: การพัฒนาตนเองแบบมีคำแนะนำสำหรับเอเจนต์ที่มีร่าง (Embodied Agents)",
+      "link": "https://arxiv.org/abs/2610.02204v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:50Z",
+      "summary": "เสนอโครงสร้างการพัฒนาตนเองแบบมีคำแนะนำสำหรับการฝึกอบรมและเสริมประสิทธิภาพเอเจนต์ AI ที่มีร่าง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0874515e0a4a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer",
+        "Robotics Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ScholarCatalyst: เกณฑ์มาตรฐานสำหรับการดึงข้อมูลบทความวิจัยที่สร้างแรงบันดาลใจให้กับการวิจัยใหม่",
+      "link": "https://arxiv.org/abs/2610.02202v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:47Z",
+      "summary": "เกณฑ์มาตรฐาน ScholarCatalyst ประเมินระบบในการดึงข้อมูลบทความวิจัยที่สร้างแรงบันดาลใจให้กับงานใหม่ๆ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f296db4e391e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SILSA: Sliding-Window Slice Latents สำหรับการสร้างภาพ 3 มิติความละเอียดสูงที่รักษาโทโพโลยี",
+      "link": "https://arxiv.org/abs/2610.02201v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:46Z",
+      "summary": "แนะนำวิธี sliding-window slice latents สำหรับการสร้างเนื้อหา 3 มิติความละเอียดสูงที่ยังคงรักษาโทโพโลยีไว้",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "56e2958ad7e1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "VISTA: ชุดเครื่องมือภาพสำหรับการใช้เหตุผลในโลกแบบโต้ตอบ",
+      "link": "https://arxiv.org/abs/2610.02200v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:45Z",
+      "summary": "ชุดเครื่องมือภาพ VISTA ออกแบบมาเพื่อปรับปรุงความสามารถในการใช้เหตุผลในสภาพแวดล้อมแบบโต้ตอบ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aaed9f7025b6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "FERPO: Forward Entropy-Regularized Policy Optimization",
+      "link": "https://arxiv.org/abs/2610.02198v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:41Z",
+      "summary": "นำเสนอวิธี optimization นโยบายแบบ forward entropy-regularized รูปแบบใหม่สำหรับการเรียนรู้เสริมกำลัง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0d738597014",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "โมเดลภาษา Diffusion แบบต่อเนื่องแบบลำดับชั้น",
+      "link": "https://arxiv.org/abs/2610.02193v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:39Z",
+      "summary": "แนะนำโมเดลภาษา diffusion แบบต่อเนื่องแบบลำดับชั้นเพื่อการสร้างข้อความที่ดีขึ้น",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "533ef08bbb62",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "DMAD: Distribution Matching เป็น Adversarial Distillation สำหรับการสร้างภาพอย่างรวดเร็ว",
+      "link": "https://arxiv.org/abs/2610.02188v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:01Z",
+      "summary": "เสนอ DMAD สำหรับการสร้างภาพอย่างรวดเร็วโดยใช้ distribution matching เป็น adversarial distillation",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ebefb9498d15",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ไวยากรณ์โมเลกุลลำดับสูงสำหรับโมเดลเชิงกำเนิดและโมเดลพื้นฐานในเคมี",
+      "link": "https://arxiv.org/abs/2610.02186v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:58:45Z",
+      "summary": "สำรวจไวยากรณ์โมเลกุลลำดับสูงสำหรับโมเดลเชิงกำเนิดและโมเดลพื้นฐานในสาขาเคมี",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2b58dacc8a02",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SoftServe: วิธี Quasi-Newton ที่ปรับขนาดได้สำหรับการเรียนรู้เชิงลึก",
+      "link": "https://arxiv.org/abs/2610.02182v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:58:24Z",
+      "summary": "นำเสนอ SoftServe ซึ่งเป็นวิธี optimization แบบ quasi-Newton ที่ปรับขนาดได้ซึ่งออกแบบมาสำหรับโมเดลการเรียนรู้เชิงลึก",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3686baff440b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ผู้กำกับภาพยนตร์เชิงกำเนิด: การจัดองค์ประกอบการเคลื่อนไหวของกล้องและวัตถุใน 3 มิติ",
+      "link": "https://arxiv.org/abs/2610.02180v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:58:09Z",
+      "summary": "แนะนำโครงสร้างผู้กำกับภาพยนตร์เชิงกำเนิดเพื่อจัดองค์ประกอบการเคลื่อนไหวของกล้องและวัตถุในระบบ 3 มิติ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eadf27ee953a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Heidi เปิดตัว AI เอเจนต์และข้อมูลสรุปเพิ่มเติม - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW1ONnBFbm9xQUlidWt5NlA4NGpPVk9mc2xCZkE3WFVlcjRUQzlRUWY1ZlAyaWU3dXJ1OG1KZzJDM0k5dTl1d0FCSDV2TGctdVl4eHdaZHZ1WTh0b3VZV0NXM2lOZVIyMG1FVDdmMkRTaGpXVm9RcTBuNzg5NThyTGZZQnZwU09B?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-02T04:59:57Z",
+      "summary": "Heidi แนะนำ AI เอเจนต์ใหม่สำหรับการใช้งานด้านการดูแลสุขภาพ",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "69d2512bb0b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Heidi"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "มุมมองของแพทย์ต่อการคาดการณ์ AI ของ Bill Gates - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSXhYZzlvYVZWeWtERU9hNjc1elJObk9Kb2hEM0tObFkzdHA3SFA2RmM2MDBOblp5TVc4dmFWSkZOaVBvQmpNRm5rN0o4MTNJeHJicmZWRnZoOFc4MkptVFVpcGVNU3VLTTd0d2c1N3phcG1kOFk3ZXdldms?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-02T15:21:52Z",
+      "summary": "แพทย์ท่านหนึ่งแบ่งปันมุมมองเกี่ยวกับการคาดการณ์ปัญญาประดิษฐ์ล่าสุดโดย Bill Gates",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "30c0fb906129",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Bill & Melinda Gates Foundation"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "สิ่งที่ต้องมีในการประเมินระบบอย่างเข้มงวดมากขึ้น – Life Sciences Today Podcast ตอนที่ 81",
+      "link": "https://www.healthcareittoday.com/2026/10/02/what-it-takes-to-evaluate-systems-more-rigorously-life-sciences-today-podcast-episode-81/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-02T15:00:26Z",
+      "summary": "ตอนพอดแคสต์ที่อภิปรายเกี่ยวกับมาตรฐานการประเมินที่เข้มงวดสำหรับระบบวิทยาศาสตร์ชีวภาพ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "baa129731e4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "โมเดล AI ไม่ใช่ข้อได้เปรียบของคุณ แต่ความรู้เบื้องหลังต่างหากคือข้อได้เปรียบ",
+      "link": "https://www.healthcareittoday.com/2026/10/02/the-ai-model-isnt-your-advantage-the-knowledge-behind-it-is/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-02T14:00:57Z",
+      "summary": "บทวิเคราะห์ที่ให้เหตุผลว่าความรู้ที่เป็นกรรมสิทธิ์คือความแตกต่างที่สำคัญยิ่งกว่าโมเดล AI ทั่วไป",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "76b332cebff3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DexCare เข้าซื้อกิจการ Mila Health ขยาย AI เอเจนต์จากการนัดหมายสู่การประสานงานการดูแล",
+      "link": "https://www.healthcareittoday.com/2026/10/02/dexcare-acquires-mila-health-extending-ai-agents-from-scheduling-to-care-coordination/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-02T13:00:20Z",
+      "summary": "DexCare เข้าซื้อกิจการ Mila Health เพื่อขยายขีดความสามารถด้าน AI เอเจนต์เข้าสู่การประสานงานการดูแลรักษา",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e80353a11c01",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "DexCare",
+        "Mila Health"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jev + การปฏิวัติ SOM, บัตรงาน Legal Innovators UK และอื่นๆ",
+      "link": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-02T07:56:34Z",
+      "summary": "การครอบคลุมข่าวเกี่ยวกับการปฏิวัติ SOM ในเทคโนโลยีกฎหมายและการอัปเดตของ Legal Innovators UK",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a3766d87ca54",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "Wim Dejonghe อดีตหัวเรือใหญ่ A&O สนับสนุน Falcon + บทสัมภาษณ์พิเศษ AL",
+      "link": "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-02T06:29:26Z",
+      "summary": "Wim Dejonghe อดีตผู้นำ A&O สนับสนุนริเริ่มเทคโนโลยีกฎหมาย Falcon ซึ่งปรากฏในบทสัมภาษณ์พิเศษ",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "36bc0d04f83d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Falcon"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เปิดซอร์สโค้ด AstaBrief โมเดลสร้างรายงานความเร็วสูงใน Asta",
+      "link": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-10-02T15:19:50Z",
+      "summary": "AstaBrief โมเดลสร้างรายงานความเร็วสูงใน Asta ได้รับการเปิดซอร์สโค้ดแล้ว",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e5ba9a829e20",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Circuit Breaker Labs หวังทำให้ AI ปลอดภัยยิ่งขึ้นสำหรับเด็กๆ (และตัวคุณเอง)",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T17:00:00Z",
+      "summary": "Circuit Breaker Labs พัฒผลิตภัณฑ์เพื่อปรับปรุงความปลอดภัยของปัญญาประดิษฐ์สำหรับผู้ใช้",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0b1cf3414054",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Circuit Breaker Labs"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Founder"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "สมเด็จพระสันตะปาปาลีโอที่ 14 ไม่ทรงโปรดศิลปะที่สร้างโดย AI",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T15:39:41Z",
+      "summary": "สมเด็จพระสันตะปาปาลีโอที่ 14 ทรงแสดงความไม่เห็นด้วยกับงานศิลปะที่สร้างโดยปัญญาประดิษฐ์",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "acfe1bdd02da",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Artist",
+        "Creator"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ภาพหลอนของ AI กำลังทำให้ลูกค้าที่เอาแต่ใจแย่ลงไปอีก - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHdXVHRvX2NOcVNCd0xoZWpKenVlaFVwamozMGFOaG1qcEFuQVM0YXZqanphcnJrRjd2aDU5bmYtOGJHQVpFX0NaOHVPY2QzdXZFcVY3X29MTVc5UVZXYTlndUhBTk1nb3Zfbi1qbzhLbUQ3ZFNYRU40aC1JNjlGWjVMQVZYSmxZc1BmS1VnUQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T12:00:00Z",
+      "summary": "รายงานระบุว่าภาพหลอนของปัญญาประดิษฐ์กำลังทำให้การปฏิสัมพันธ์ในการบริการลูกค้าแย่ลง",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b6610a06efbf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Customer Experience Manager",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Suno เครื่องมือสร้างเพลงด้วย AI สามารถสร้างคำพูดแล้ว - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXYwVWx1akN4aHlqc3A5bjh5V3BUTkVjMXd1dFlMOU92T0lBUVplTzBuWEVuVnc2anNtYm9uOGdjd3NYdldxWjBmUXcxSGpkODZMU2Vwb0R2dlAxcmlTZGY4ei1ZaEpnaGs5SFk3M0RvWUVPNGE0alZtb1dPLU9xT05XdzQ0WjhwMTU0Z0RFU1dUdEN6R0ZyZ3lwZEpfVWg1NGttWC1OYWZ1dw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T09:42:19Z",
+      "summary": "Suno ผู้สร้างเพลงด้วย AI เพิ่มความสามารถในการสร้างคำพูดออกมาได้",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "342d4cc04578",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Suno"
+      ],
+      "job_titles": [
+        "Creator",
+        "Developer",
+        "Physician"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon เขียนบล็อกเตือนชุมชนไม่ให้ขัดขวางศูนย์ข้อมูล - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IUVpNMmktWjB5amZGNjRDRGZ2eEhMNkRERjBPOS1JQlJDY0s1M29faVlEOExWVXFtRUdvUEJLam9venREYWxBLXdVaVFyZTFLdlZBd2NsSWNabHQzRHotWUtZTlNJT2lpTE41ZEVmMTZyeGI5eTNVTkhMY04?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T11:52:20Z",
+      "summary": "Amazon เผยแพร่คำเตือนถึงชุมชนเกี่ยวกับการขัดขวางการพัฒนาศูนย์ข้อมูลแห่งใหม่",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2d7b328336c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Infrastructure Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ดาวเทียม AI ของ Google ปล่อยสู่อวกาศสำเร็จ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFNtR0NxN3c5VTJ5VkNSYXdkZzd6Umt3NnE0YWh0a3MydWtZMmpldEFoN3p4d1F6OUYyU2J0bmhfM2U0LS1XV1M2UFhlSndoN0VVM091RUdEeVdDdloxV3JMb0l4NG5uQkdWV2RSOTVGc2hEQXBzS2k2cXdOYlRkRXpVWTNhSnk2U18tOEN3OHFqVzd3dHc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-01T21:33:59Z",
+      "summary": "Google ปล่อยดาวเทียมที่ขับเคลื่อนด้วยปัญญาประดิษฐ์สู่อวกาศได้สำเร็จ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "10c2a17d731a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "QA Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "หากศูนย์ข้อมูลถูกพรางตัวอยู่ในป่า จะยังมีใครเกลียดมันไหม? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlkzNERFTnNRRkxrdko3dzZGeUwxZTRITE1WdHVYenk2VzRQRWxiLXhndS13aHRmSXJKSHNvOWNSTXlVaUZCYi1uQ29zZzlsUDAtY2ZGX2lWOEk0azh2dFI0b0ZabmdpZW1xWHRWRXl4ZUxOZk9sNGlJTVBBWVBlMkNoMXZFYXlaR1U5SHQyVQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T12:00:00Z",
+      "summary": "สำรวจการพรางตัวทางกายภาพของศูนย์ข้อมูลและการต่อต้านจากสาธารณชน",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "02fcded20409",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "The Verge"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
     {
       "title": "วิทยาศาสตร์ในรูปแบบ Claude - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",

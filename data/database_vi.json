@@ -1,6 +1,978 @@
 {
-  "refreshed_at": "2026-10-02 04:23 UTC",
+  "refreshed_at": "2026-10-02 17:46 UTC",
   "items": [
+    {
+      "title": "Hướng dẫn mô hình cho họ GPT-6",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T16:15:00Z",
+      "summary": "Cung cấp các hướng dẫn thực tiễn để xây dựng và triển khai các mô hình trong họ GPT-6.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d8bea22f6536",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Chatham mở rộng chuyên môn về thị trường vốn cùng OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T00:00:00Z",
+      "summary": "Chatham Financial tích hợp công nghệ của OpenAI để mở rộng quy mô hoạt động và chuyên môn trên thị trường vốn.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f5331f1181a0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking",
+        "Tech"
+      ],
+      "companies": [
+        "Chatham Financial",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "NVIDIA DGX Spark 64GB mang đến cho các nhà phát triển nhiều cách hơn để xây dựng và mở rộng AI cục bộ",
+      "link": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T13:00:39Z",
+      "summary": "NVIDIA phát hành DGX Spark 64GB để cho phép các nhà phát triển xây dựng và mở rộng AI cục bộ.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e9d4e012b46c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Rà soát hàng ngàn hợp đồng thuê để kiểm tra tuân thủ bằng Amazon Quick và mô hình Adjudicated Query",
+      "link": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T15:48:26Z",
+      "summary": "Tự động hóa việc kiểm tra tuân thủ hợp đồng thuê bằng Amazon Quick và mô hình Adjudicated Query.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f69b1dffbd86",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Real Estate",
+        "Legal"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Thêm tìm kiếm Web an toàn vào Claude Desktop với Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T15:46:05Z",
+      "summary": "Tích hợp khả năng tìm kiếm web an toàn vào Claude Desktop bằng Amazon Bedrock AgentCore.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bbe1dff5ecb6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Tinh chỉnh agent tìm kiếm bằng RL đa lượt trên Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T15:44:20Z",
+      "summary": "Tinh chỉnh các agent tìm kiếm bằng học tăng cường đa lượt trên Amazon SageMaker AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5e9a8051977f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Khả năng phân biệt ngôn ngữ cải thiện việc học ngôn ngữ trong các mô hình giọng nói đa ngôn ngữ",
+      "link": "https://machinelearning.apple.com/research/language-discrimination-multilingual-learning",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-02T00:00:00Z",
+      "summary": "Các kỹ thuật phân biệt ngôn ngữ nâng cao kết quả học ngôn ngữ trong các mô hình giọng nói đa ngôn ngữ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a0d77d557cc1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Một cơ sở để diễn họa tất cả: Chưng cất Gaussian Blendshape cho Avatar thời gian thực",
+      "link": "https://arxiv.org/abs/2610.02207v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:58Z",
+      "summary": "Phương pháp chưng cất Gaussian blendshape được giới thiệu cho việc diễn họa avatar thời gian thực.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1e68eac7795b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "KaliBench: Bộ chuẩn đánh giá chi tiết cho việc sử dụng công cụ an ninh mạng trên Kali Linux với phần thưởng có thể xác minh không phụ thuộc thời gian chạy",
+      "link": "https://arxiv.org/abs/2610.02206v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:55Z",
+      "summary": "KaliBench cung cấp một bộ chuẩn đánh giá chi tiết để đánh giá việc sử dụng công cụ an ninh mạng trên Kali Linux.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0361898d3d05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer",
+        "Security Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Tái thiết, Thực hành, Tiến vào thực tế: Tự cải thiện có hướng dẫn cho các Embodied Agent",
+      "link": "https://arxiv.org/abs/2610.02204v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:50Z",
+      "summary": "Khung tự cải thiện có hướng dẫn được đề xuất để huấn luyện và nâng cao các agent AI thể hóa.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0874515e0a4a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer",
+        "Robotics Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "ScholarCatalyst: Bộ chuẩn đánh giá việc truy xuất các bài báo truyền cảm hứng cho nghiên cứu mới",
+      "link": "https://arxiv.org/abs/2610.02202v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:47Z",
+      "summary": "Bộ chuẩn đánh giá ScholarCatalyst đánh giá các hệ thống trong việc truy xuất các bài báo nghiên cứu truyền cảm hứng cho công trình mới.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f296db4e391e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SILSA: Latents lát cắt cửa sổ trượt cho việc tạo 3D độ phân giải cao bảo toàn hình học topo",
+      "link": "https://arxiv.org/abs/2610.02201v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:46Z",
+      "summary": "Phương pháp latent lát cắt cửa sổ trượt được giới thiệu cho việc tạo tài sản 3D độ phân giải cao bảo toàn hình học topo.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "56e2958ad7e1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "VISTA: Bộ công cụ thị giác cho suy luận trong thế giới tương tác",
+      "link": "https://arxiv.org/abs/2610.02200v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:45Z",
+      "summary": "Bộ công cụ thị giác VISTA được thiết kế để cải thiện khả năng suy luận trong các môi trường tương tác.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "aaed9f7025b6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "FERPO: Tối ưu hóa chính sách chính quy hóa entropy tiến",
+      "link": "https://arxiv.org/abs/2610.02198v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:41Z",
+      "summary": "Trình bày phương pháp tối ưu hóa chính sách chính quy hóa entropy tiến mới cho học tăng cường.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0d738597014",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Mô hình ngôn ngữ khuếch tán liên tục phân cấp",
+      "link": "https://arxiv.org/abs/2610.02193v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:39Z",
+      "summary": "Giới thiệu các mô hình ngôn ngữ khuếch tán liên tục phân cấp nhằm cải thiện việc tạo văn bản.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "533ef08bbb62",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "DMAD: Khớp phân phối dưới dạng chưng cất đối kháng cho việc tạo hình ảnh nhanh",
+      "link": "https://arxiv.org/abs/2610.02188v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:59:01Z",
+      "summary": "Đề xuất DMAD cho việc tạo hình ảnh nhanh bằng cách sử dụng khớp phân phối làm chưng cất đối kháng.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ebefb9498d15",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Ngữ pháp phân tử bậc cao cho các mô hình sinh và mô hình nền tảng trong hóa học",
+      "link": "https://arxiv.org/abs/2610.02186v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:58:45Z",
+      "summary": "Khám phá các ngữ pháp phân tử bậc cao cho các mô hình sinh và mô hình nền tảng trong hóa học.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2b58dacc8a02",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SoftServe: Phương pháp Quasi-Newton có thể mở rộng cho học sâu",
+      "link": "https://arxiv.org/abs/2610.02182v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:58:24Z",
+      "summary": "Trình bày SoftServe, một phương pháp tối ưu hóa quasi-Newton có thể mở rộng được thiết kế cho các mô hình học sâu.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3686baff440b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Generative Cinematographer: Bố cục chuyển động của máy ảnh và vật thể trong 3D",
+      "link": "https://arxiv.org/abs/2610.02180v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:58:09Z",
+      "summary": "Giới thiệu khung nhà quay phim sinh (generative cinematographer) để bố cục chuyển động của máy ảnh và vật thể trong không gian 3D.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eadf27ee953a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Quan sát, Suy luận, Phối hợp: Suy luận các ràng buộc của đối tác robot cho việc phối hợp Zero-Shot",
+      "link": "https://arxiv.org/abs/2610.02170v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-01T17:56:04Z",
+      "summary": "Trình bày phương pháp suy luận các ràng buộc của đối tác robot để cho phép phối hợp zero-shot.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cd3f96262584",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Heidi triển khai các agent AI và các tin ngắn khác - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW1ONnBFbm9xQUlidWt5NlA4NGpPVk9mc2xCZkE3WFVlcjRUQzlRUWY1ZlAyaWU3dXJ1OG1KZzJDM0k5dTl1d0FCSDV2TGctdVl4eHdaZHZ1WTh0b3VZV0NXM2lOZVIyMG1FVDdmMkRTaGpXVm9RcTBuNzg5NThyTGZZQnZwU09B?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-02T04:59:57Z",
+      "summary": "Heidi giới thiệu các agent AI mới cho các ứng dụng chăm sóc sức khỏe.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "69d2512bb0b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Heidi"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Góc nhìn của một bác sĩ về các dự đoán AI của Bill Gates - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSXhYZzlvYVZWeWtERU9hNjc1elJObk9Kb2hEM0tObFkzdHA3SFA2RmM2MDBOblp5TVc4dmFWSkZOaVBvQmpNRm5rN0o4MTNJeHJicmZWRnZoOFc4MkptVFVpcGVNU3VLTTd0d2c1N3phcG1kOFk3ZXdldms?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-02T15:21:52Z",
+      "summary": "Một bác sĩ chia sẻ góc nhìn về các dự đoán trí tuệ nhân tạo gần đây của Bill Gates.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "30c0fb906129",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Bill & Melinda Gates Foundation"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Những gì cần có để đánh giá hệ thống một cách nghiêm ngặt hơn – Podcast Life Sciences Today Tập 81",
+      "link": "https://www.healthcareittoday.com/2026/10/02/what-it-takes-to-evaluate-systems-more-rigorously-life-sciences-today-podcast-episode-81/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-02T15:00:26Z",
+      "summary": "Tập podcast thảo luận về các tiêu chuẩn đánh giá nghiêm ngặt cho các hệ thống khoa học đời sống.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "baa129731e4d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mô hình AI không phải là lợi thế của bạn, tri thức đằng sau nó mới là lợi thế",
+      "link": "https://www.healthcareittoday.com/2026/10/02/the-ai-model-isnt-your-advantage-the-knowledge-behind-it-is/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-02T14:00:57Z",
+      "summary": "Một bài phân tích lập luận rằng tri thức độc quyền là yếu tố tạo nên sự khác biệt lớn hơn so với các mô hình AI tiêu chuẩn.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "76b332cebff3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DexCare thâu tóm Mila Health, mở rộng các AI agent từ lên lịch trình đến điều phối chăm sóc",
+      "link": "https://www.healthcareittoday.com/2026/10/02/dexcare-acquires-mila-health-extending-ai-agents-from-scheduling-to-care-coordination/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-02T13:00:20Z",
+      "summary": "DexCare đã thâu tóm Mila Health để mở rộng khả năng agent AI của mình sang lĩnh vực điều phối chăm sóc.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e80353a11c01",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "DexCare",
+        "Mila Health"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Jev + Cuộc cách mạng SOM, Vé Express Legal Innovators UK +",
+      "link": "https://www.artificiallawyer.com/2026/10/02/jev-the-som-revolution-legal-innovators-uk-express-tickets/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-02T07:56:34Z",
+      "summary": "Đưa tin về cuộc cách mạng SOM trong công nghệ pháp lý và cập nhật về Legal Innovators UK.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a3766d87ca54",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "Wim Dejonghe, cựu lãnh đạo A&O, ủng hộ Falcon + Phỏng vấn AL",
+      "link": "https://www.artificiallawyer.com/2026/10/02/wim-dejonghe-ex-ao-boss-backs-falcon-al-interview/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-02T06:29:26Z",
+      "summary": "Cựu lãnh đạo A&O Wim Dejonghe đã ủng hộ sáng kiến công nghệ pháp lý Falcon, xuất hiện trong một cuộc phỏng vấn riêng.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "36bc0d04f83d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Falcon"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mã nguồn mở AstaBrief, mô hình tạo báo cáo nhanh trong Asta",
+      "link": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-10-02T15:19:50Z",
+      "summary": "AstaBrief, mô hình tạo báo cáo nhanh trong Asta, đã được mở mã nguồn.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e5ba9a829e20",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Circuit Breaker Labs hy vọng làm cho AI an toàn hơn cho con bạn (và bạn)",
+      "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T17:00:00Z",
+      "summary": "Circuit Breaker Labs phát triển các sản phẩm nhằm cải thiện độ an toàn của trí tuệ nhân tạo cho người dùng.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0b1cf3414054",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Circuit Breaker Labs"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Founder"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Đức Giáo hoàng Leo XIV không ưa thích nghệ thuật do AI tạo ra",
+      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T15:39:41Z",
+      "summary": "Đức Giáo hoàng Leo XIV bày tỏ sự không đồng tình với nghệ thuật do trí tuệ nhân tạo tạo ra.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "acfe1bdd02da",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Artist",
+        "Creator"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Ảo giác AI đang khiến những khách hàng hống hách trở nên tệ hơn - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHdXVHRvX2NOcVNCd0xoZWpKenVlaFVwamozMGFOaG1qcEFuQVM0YXZqanphcnJrRjd2aDU5bmYtOGJHQVpFX0NaOHVPY2QzdXZFcVY3X29MTVc5UVZXYTlndUhBTk1nb3Zfbi1qbzhLbUQ3ZFNYRU40aC1JNjlGWjVMQVZYSmxZc1BmS1VnUQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T12:00:00Z",
+      "summary": "Ảo giác trí tuệ nhân tạo được cho là đang làm tồi tệ hơn các tương tác dịch vụ khách hàng.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b6610a06efbf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Customer Experience Manager",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Công cụ tạo nhạc AI Suno hiện đã có thể tạo ra lời nói - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXYwVWx1akN4aHlqc3A5bjh5V3BUTkVjMXd1dFlMOU92T0lBUVplTzBuWEVuVnc2anNtYm9uOGdjd3NYdldxWjBmUXcxSGpkODZMU2Vwb0R2dlAxcmlTZGY4ei1ZaEpnaGs5SFk3M0RvWUVPNGE0alZtb1dPLU9xT05XdzQ0WjhwMTU0Z0RFU1dUdEN6R0ZyZ3lwZEpfVWg1NGttWC1OYWZ1dw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T09:42:19Z",
+      "summary": "Công cụ tạo nhạc AI Suno bổ sung khả năng tạo ra lời nói.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "342d4cc04578",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "Suno"
+      ],
+      "job_titles": [
+        "Creator",
+        "Developer",
+        "Physician"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon viết bài blog đáng sợ cảnh báo các cộng đồng không nên ngăn cản trung tâm dữ liệu - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IUVpNMmktWjB5amZGNjRDRGZ2eEhMNkRERjBPOS1JQlJDY0s1M29faVlEOExWVXFtRUdvUEJLam9venREYWxBLXdVaVFyZTFLdlZBd2NsSWNabHQzRHotWUtZTlNJT2lpTE41ZEVmMTZyeGI5eTNVTkhMY04?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T11:52:20Z",
+      "summary": "Amazon xuất bản lời cảnh báo tới các cộng đồng về việc ngăn cản sự phát triển của các trung tâm dữ liệu mới.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2d7b328336c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Infrastructure Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Vệ tinh AI của Google phóng thành công vào vũ trụ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFNtR0NxN3c5VTJ5VkNSYXdkZzd6Umt3NnE0YWh0a3MydWtZMmpldEFoN3p4d1F6OUYyU2J0bmhfM2U0LS1XV1M2UFhlSndoN0VVM091RUdEeVdDdloxV3JMb0l4NG5uQkdWV2RSOTVGc2hEQXBzS2k2cXdOYlRkRXpVWTNhSnk2U18tOEN3OHFqVzd3dHc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-01T21:33:59Z",
+      "summary": "Google phóng thành công một vệ tinh tích hợp trí tuệ nhân tạo vào vũ trụ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "10c2a17d731a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "QA Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Nếu một trung tâm dữ liệu được ngụy trang trong rừng, liệu có ai ghét nó không? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMlkzNERFTnNRRkxrdko3dzZGeUwxZTRITE1WdHVYenk2VzRQRWxiLXhndS13aHRmSXJKSHNvOWNSTXlVaUZCYi1uQ29zZzlsUDAtY2ZGX2lWOEk0azh2dFI0b0ZabmdpZW1xWHRWRXl4ZUxOZk9sNGlJTVBBWVBlMkNoMXZFYXlaR1U5SHQyVQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-02T12:00:00Z",
+      "summary": "Khám phá sự ngụy trang vật lý của các trung tâm dữ liệu và phản ứng đối lập từ công chúng.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "02fcded20409",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "The Verge"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
     {
       "title": "Khoa học theo định hướng Claude - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UWno0NFZ1Y0JIWFRYSFZoRE9iVmx5Z093dlk0aXVQc2JHSVFocFZuelQ3azV3Mm1vcnhiLXZ5d213R0RPc29ia0NYd1VvTUJjWWZUWi1qVHItQmRnVFRyZzRUWENXV28?oc=5",
