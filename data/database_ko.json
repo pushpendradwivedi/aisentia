@@ -1,6 +1,920 @@
 {
-  "refreshed_at": "2026-10-05 04:28 UTC",
+  "refreshed_at": "2026-10-05 20:31 UTC",
   "items": [
+    {
+      "title": "EU 텍스트 출처 규칙에 대한 OpenAI의 접근 방식",
+      "link": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T15:00:00Z",
+      "summary": "OpenAI는 유럽연합의 텍스트 출처 규정에 대한 자사의 접근 방식을 설명합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f9545c4ec00f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Compliance Officer",
+        "Legal Counsel",
+        "Privacy Officer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "사용자의 AI 활용 방식을 위한 광고 구축",
+      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T10:00:00Z",
+      "summary": "OpenAI는 AI 사용자 행동에 맞춘 새로운 광고 형식 개발에 대해 논의합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b0c4983426b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Creative Director",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "스캔에서 치료 계획까지, AI가 유방암의 가장 치명적인 격차를 줄이는 데 기여",
+      "link": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T13:00:57Z",
+      "summary": "AI 애플리케이션이 유방암 진단 및 치료의 격차를 해소하는 데 도움을 줍니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "303ff9e9753c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Medical Devices"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Claude Code와 Amazon Bedrock으로 규제 대상 워크로드 강화하기",
+      "link": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T17:25:20Z",
+      "summary": "AWS는 규제 대상 워크로드에 Claude Code와 Amazon Bedrock을 사용하는 방법을 상세히 설명합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ee19a18979bf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance",
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "Amazon",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "새로운 에이전트 스킬: 코딩 에이전트를 위한 Amazon SageMaker 최적화 생성형 AI 추론",
+      "link": "https://aws.amazon.com/blogs/machine-learning/new-agent-skill-amazon-sagemaker-optimized-generative-ai-inference-for-your-coding-agent/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T17:23:19Z",
+      "summary": "Amazon SageMaker는 코딩 에이전트를 위한 최적화된 생성형 AI 추론 스킬을 소개합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3ce4a87b7b57",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Quick의 엔터프라이즈 준비 완료: 자동화되고 감사 가능한 교차 계정 리소스 프로모션",
+      "link": "https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T15:56:28Z",
+      "summary": "AWS는 Amazon Quick을 위한 자동화된 교차 계정 리소스 프로모션 기능을 소개합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dd5568e426a5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LangChain과 Amazon Bedrock Knowledge Bases를 활용한 에이전틱 리트리벌",
+      "link": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T15:53:56Z",
+      "summary": "LangChain과 Amazon Bedrock Knowledge Bases를 사용하여 에이전틱 리트리벌을 구현하는 방법에 대한 튜토리얼입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "be9d63207dca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "LangChain"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock AgentCore를 통한 설명 가능성 및 유용성 측면의 멀티 에이전트 시스템 평가",
+      "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T15:50:01Z",
+      "summary": "AWS는 Amazon Bedrock AgentCore를 사용하여 설명 가능성을 중심으로 멀티 에이전트 시스템을 평가하는 방안을 논의합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a4e9329f8b62",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "사용자 제작 개인 센싱 시스템에서의 존재론적 경계 협상",
+      "link": "https://machinelearning.apple.com/research/ontological-boundary-negotiation",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T00:00:00Z",
+      "summary": "Apple 연구진은 사용자 제작 개인 센싱 시스템에서의 존재론적 경계 협상을 탐구합니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9fdc362110ec",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: 유타주, 처방전 및 여성 건강을 위한 더 많은 헬스케어 AI 파일럿 도입 추진",
+      "link": "https://www.statnews.com/2026/10/05/utah-expands-health-ai-sandbox-picks-third-party-auditors/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-10-05T16:00:14Z",
+      "summary": "유타주는 처방전 및 여성 건강 분야의 새로운 파일럿 프로그램을 통해 헬스케어 AI 샌드박스를 확대합니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a9d759b1284e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "오피니언: Claude가 의학 분야에서 노벨상을 받을 수 있을까?",
+      "link": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-10-05T08:30:00Z",
+      "summary": "Claude AI 모델이 노벨상을 수상할 수 있을지에 대해 논의하는 오피니언 기사입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "80f6db9828bc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI 도구들이 직면한 출처 표기(Attribution) 과제 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xR28zSFhLSkFSbmZndk1VakRtLU1TRm5IRmVXT3h4Qk52R3VZU2Nuc2c2NmpGcnpKVldLQTRJR0FveEVSYjNKa2s2blEyam5URTFQSV9BbkU1MzU5WU9kVllZY2trS2Rnd2tCYWZqeXliZlFvZlhqcFJ6WTZBdw?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-05T15:14:03Z",
+      "summary": "인공지능 도구들이 콘텐츠 출처 표기와 관련하여 지속적인 난제에 직면해 있습니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2d3355449ea8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Nolla Health, AI 여드름 처방을 위한 유타주 파일럿 프로그램 출시 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMk9yNEg3X2tTNEhoS2c1YzNwTmM1SlBib1lKTlBWU0pqYWxKRWlsamlHWkl6ZzNPNTFlRWdvdFdaU2hmaHJDM2t6U1JjTW1JOER0SkdFR3RnZ1VHTDZBUmE0SERNaVNGNjRzSGx6WG1DS2RlenZicTlmNURnOGZ6LUxtUTVyS3dJWXoxQ0tGV1lkUk1C?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-05T19:55:27Z",
+      "summary": "Nolla Health는 AI를 활용한 여드름 처방 파일럿 프로그램을 유타주에서 출시합니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d44d72b49950",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Nolla Health"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "유타주, August AI의 AI 기반 처방전 갱신 파일럿 승인 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZzNLY3FTenNkU09BY2tKalloM2pfZG5qZDBTdjhhUnZvSTJyay1QYWNoaXZWLWdPU0xDS2JMcVIxUDZPdHZKcnhtTV85R0YzZE9WcTNucFI1QjVEa250S1NwNlpDYTNUNVJ5MnVyTmk2ZW5rZndhZWVMc3NKU2oyQlc3aXIzeFpXSlpOVHJkanRIV2dq?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-05T16:00:00Z",
+      "summary": "유타주는 August AI가 인공지능 기반 처방전 갱신 파일럿을 진행하도록 승인했습니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "19a2279f52f6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "August AI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "CIO 포드캐스트 – 에피소드 123: Joe Diver와 함께하는 AI 거버넌스 및 보안",
+      "link": "https://www.healthcareittoday.com/2026/10/05/cio-podcast-episode-123-ai-governance-and-security-with-joe-diver/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-05T15:00:56Z",
+      "summary": "게스트 Joe Diver와 함께 AI 거버넌스 및 보안 조치에 대해 논의하는 팟캐스트 에피소드입니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1a079250159",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CIO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "의료 실습을 위한 차세대 AI 직원은 대기열(Queue)을 관리해야 한다",
+      "link": "https://www.healthcareittoday.com/2026/10/05/the-next-ai-employee-for-a-medical-practice-should-own-a-queue/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-05T14:00:00Z",
+      "summary": "의료 기관이 작업 대기열을 관리하기 위해 AI 직원을 활용하는 방안에 대한 논의입니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9b3b5182ab01",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "EliseAI, 주거 및 헬스케어 운영 분야로 AI 확장을 위해 40억 달러 가치로 3억 5,000만 달러 투자 유치",
+      "link": "https://www.healthcareittoday.com/2026/10/05/eliseai-raises-350-million-at-4-billion-valuation-to-bring-ai-deeper-into-housing-and-healthcare-operations/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-05T13:00:09Z",
+      "summary": "EliseAI는 주거 및 헬스케어 AI 확장을 위해 40억 달러의 기업 가치로 3억 5,000만 달러를 확보했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "13dd56476c81",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Real Estate",
+        "Tech"
+      ],
+      "companies": [
+        "EliseAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PyTorch 하드웨어 활성화: 가속기 통합 실무 그룹의 업데이트",
+      "link": "https://pytorch.org/blog/pytorch-hardware-enablement-updates-from-the-acceleration-integration-working-group/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-05T13:12:59Z",
+      "summary": "PyTorch는 하드웨어 활성화와 관련하여 가속기 통합 실무 그룹의 업데이트를 공유했습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4a3a3f345313",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Reflection, 중국 모델과 경쟁하기 위한 더 낮은 연산 비용의 오픈 웨이트 AI 모델 Beam 공개",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T19:33:53Z",
+      "summary": "Reflection은 중국 모델과 효율적으로 경쟁하도록 설계된 오픈 웨이트 AI 모델인 Beam을 출시했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "13557b75794f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Reflection"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Instinct, 계정이 없는 친구들을 포함해 단체 채팅에 AI 에이전트 도입",
+      "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T18:54:30Z",
+      "summary": "Instinct는 비사용자도 참여할 수 있도록 단체 채팅에 AI 에이전트를 통합합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a8ac03afa12d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Instinct"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TikTok, AI 쇼핑 어시스턴트 및 원클릭 결제 기능 출시",
+      "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T18:29:00Z",
+      "summary": "TikTok은 원클릭 결제 기능이 포함된 AI 쇼핑 어시스턴트를 도입합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1278561c2128",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "TikTok"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI 시대의 '디어 애비(Dear Abby)' 같은 존재인 핫 걸 핫라인(Hot Girl Hotline)",
+      "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T17:29:22Z",
+      "summary": "Hot Girl Hotline이 AI 기반 조언 칼럼으로 출시되었습니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d31c63ac3bf4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Hot Girl Hotline"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "HackerRank의 AI 면접관이 보여주는 미래의 구직 면접 모습",
+      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T16:43:35Z",
+      "summary": "HackerRank는 구직자를 위한 AI 기반 면접관 도구를 출시합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9b91fcda04f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "HackerRank"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, 이미지 생성 결과물 옆에 노출되는 시각 광고 출시",
+      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T15:14:24Z",
+      "summary": "OpenAI는 이미지 생성 출력 결과 옆에 시각 광고를 표시하기 시작합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e36223c0def0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "연구원들이 중국의 AI '에이전트 함대'를 추적 중",
+      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T14:35:09Z",
+      "summary": "연구원들이 중국에서 시작된 조정된 AI 에이전트 집단을 모니터링하고 있습니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b70963ac4f5c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "China"
+      ]
+    },
+    {
+      "title": "Safeworld는 생성형 AI 로봇이 인간을 해치지 않을 것이라고 사람들을 설득할 수 있을까?",
+      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T12:00:00Z",
+      "summary": "Safeworld는 생성형 AI 기반 로봇에 대한 대중의 신뢰를 구축하려고 시도합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a733d4518e7a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Safeworld"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "우리의 두뇌는 AI를 감당할 준비가 되어 있지 않다 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbk96WWh1eUxOUjhwX0VtdV9UQlNrdzRTeldSOFl6ODBKVUVWNjVmU0R0ZmZocklWdmxLWG5YQk0wQW1VSGE4N0Q0YVowd3RSS2J3ZFNvZ3lYeFBnanVxSFdTbFpzSjNqcXF4Um9POHdMME8xZWhuY3BWNEhYOC15dFRGQkVwQTVNOVpqLU9NdlY2YWZHMjZBSkdWLW1aN3BfWVE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T10:00:00Z",
+      "summary": "인공지능 적응에 있어서 인간이 가진 심리적 한계를 논의하는 오피니언 기사입니다.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c033b05573ac",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "샘 알트만, '일부 나쁜 일들'이 발생하겠지만 AI는 전적으로 그럴 가치가 있다고 말하다 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT0FuZ3hRVkRqSU5UOXhXNUlDUXI5a0w2UWp4dlJpdDNFdjRzelV3NjhTMFNFWXZQTDlTQXF0YXhsNm9qYXJaWG5LNl8tejdxNFFBdXp1WUItdVY0TlBDZENyOXhuU3l2WWQ5SUVJMU5iRzJ0T0t0UjB2cDZvY1M5XzRBcXdualROcnRtM3pEMVBsaHpqRExNZW9XWV8?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T16:44:21Z",
+      "summary": "샘 알트만은 AI의 전반적인 가치를 옹호하는 한편, AI의 잠재적인 부정적 결과도 인정합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "60c11337e5fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "macOS에서 12GB의 Apple Intelligence 데이터를 삭제할 수 있는 오픈소스 도구 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclNLMktrMmxadFc2Mk43NFNYVld5N0JvR1dJVl9ESXFqWmhMWlhuaVpqdkRXb2tUclp5dmxULTZjcy1BZzBkWXdFcWd6NlkwemdIcExVQzlkVjl3VDRHU2JGZ202UzQzTHFLTzhyMkRsS3I2ckpNV2JuRlJGN2hjVU53SnB6dlFOYWxhVzFaLUFJaWRVN1ZYLWExOTdPUQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T13:47:14Z",
+      "summary": "오픈소스 유틸리티를 통해 사용자는 macOS에서 Apple Intelligence 데이터 파일을 제거할 수 있습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "14c27d58452a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, ChatGPT에 더 많은 광고 삽입 중 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanE5MHRKZzF0M1Y0eW1EbURoSVhFV3hPaC1PTDFnWjJiRHBuQWlPSC1NdmtkVm4xSEJKN1hPR3JIV0dFVk85ZzBRdFlyQTNha054ZmdNT2FYQTlvZHdCSEhPT1BrNXhoMWU3QkVvbWJrTnZWZkV4LU81Mk9Md3VESVF0ZjBhWGhwdUxQdUpB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T13:09:48Z",
+      "summary": "OpenAI는 ChatGPT 플랫폼 내 광고 통합을 확대하고 있습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7fbce5f7bde6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "AI 채팅에서 협박 발언을 한 혐의로 체포된 플로리다 여성 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTUdMTmplVkpBUExXMHJlMmpJR0ZIeDBqcG5Qc0p6MXJCb3BEN0NtTjZOcG5RdFkxZ0JvTnF2d3E1QzFDV09xcXJMV0Y4eXdQRjAxZHVNM2dILWhnWlRSLUxUNjB3S0ZvbndqNkVfWE5WeG9BZ1hCVDJTWTBPdEFTVDNsd1VfektxT0pZa01Uc2g5ZHhFeGwzRk1JLV9IUEZ6YjhIN0ZDMEt0UFpSa0RLQlZrbjY5SzltRTNaQm1OcWZuQUk?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T15:00:09Z",
+      "summary": "플로리다 거주자가 AI 채팅 인터페이스를 통해 전달된 것으로 추정되는 협박 발언 혐의로 체포되었습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6001f886b993",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "OpenAI, ChatGPT와 Codex에 텍스트 워터마킹 추가 중 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX1B6TVRGeG5BLS0yd3pBTzNnb1hqcG5nTW1WSndCN2stUkFFVVktZVZRdktCM0dwR29IU2thbEtfUmNKQjhGRGFJT1VteGJPTEh3aVd0OFpaQkdCTGJKZmlvQ3VtV1FZZEw3RDVkQTl3cHduNWRmSzcyMzlQQXQwY0JiaWtkUmJmMVlOOGpqTzI3QXZTVVBwa1ZyU0ppQk5mbWc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T18:08:39Z",
+      "summary": "OpenAI는 ChatGPT와 Codex가 생성한 결과물에 텍스트 워터마킹 기능을 구현하고 있습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c8c7e54e7ce1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI 시대에 의회의 역할을 재정립하는 것에 대해 이야기하는 애덤 시프(Adam Schiff) 상원의원 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlVjd0xqcXBVVVo4R3E4X08zLUhGU1hkMjZYX0dsck85bmhRejdtb0xwQ0ViVFpWckdicl9naXczVDBYYlU5NFBLRldiNTNRNGJyY1JwN3Noc01EcTJqd0dEY0IwOEhYZzNPeWtSQnkxNWJ5RDJfZ3FpRWVyUlhhbVg3N2JsRUNDODlsaXgtUmwyQkNKOXc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T14:30:00Z",
+      "summary": "애덤 시프 상원의원은 인공지능을 규제하기 위한 입법 전략을 논의합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "68ba723f8bb1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "샘 알트만, AI의 이익을 위해 '세상은 일부 나쁜 일들이 일어나는 것을 받아들여야 한다'고 생각하다 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNamFXRFB1Q1AtY2F1QVMxMEZISHVzQVdmZl9hOTl3aHZNcnBBcGFpcjN0TFZvU29SekZVYV9Kdk94ei14ZUtEbWx4WkRLSnl2TGFnSGdzeWEyTl9vN09NNHhCQ2FmYzZSbTJNU1VUeklLeHg1eG1xWmJ1SU5wTTkyTUQxUXFLaXVQSlJRNF9GcFhhSVJSQkFLQVdITjJkN2NfRXZsUUt2QjhZajFDem1IdHM1TVhKQTFDblpaTjgtUi1FMmxUV28wTVdueFh3aW5VV3Z1UzQwVGJKZUowUUVV?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-04T21:39:02Z",
+      "summary": "OpenAI CEO 샘 알트만은 사회적 위험이 AI 발전을 위해 감수할 수 있는 허용 가능한 트레이드오프라고 주장합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d432acc86fc8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ChatGPT 사용자 자살 사건에 대해 샘 알트만에게 묻자 '그만 넘어가라'고 말한 OpenAI 홍보 담당자 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUQ4QmxRcjVLeGVYdV84X0pBQndRMUl2MEp1UlJ6TzJ2Vk9GdHFHeENZSDVsSEtaRS1YMTM5dV9CbFpfc1otNDZmS0pNc2h3VXpyenRDMVdjTTFORjNhVDlpbU44NUhMbUdybGRkRDdvRTJORW5hZzktSVJPeTJtV2haeUpmeGxuZUJ2MTBNUU82eWllVGIycUZzLU52UGR2SlZlVg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T16:55:42Z",
+      "summary": "OpenAI 홍보팀은 ChatGPT와 연관된 사용자 자살 사건에 관한 질문을 일축했습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1edeee0a6641",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "수십억 달러 규모의 AI 우위가 사라지고 있다",
+      "link": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-10-05T09:53:12Z",
+      "summary": "초기 인공지능 도입에 따른 재정적 우위가 어떻게 줄어들고 있는지에 대한 논의입니다.",
+      "persona": "🚀 Startup",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "52fbb93acc5c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
     {
       "title": "Google이 AI 제출물의 '상당한 증가'로 인해 오픈소스 버그 바운티 프로그램을 일시 중단했습니다.",
       "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
