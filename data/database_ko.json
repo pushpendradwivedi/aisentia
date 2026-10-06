@@ -1,6 +1,600 @@
 {
-  "refreshed_at": "2026-10-06 05:19 UTC",
+  "refreshed_at": "2026-10-06 18:13 UTC",
   "items": [
+    {
+      "title": "Atlassian과 OpenAI, 기업 지식을 실행으로 전환하기 위해 파트너십 확대",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-06T16:00:00Z",
+      "summary": "Atlassian과 OpenAI가 파트너십을 확대하여 엔터프라이즈 워크플로에 AI 기능을 통합합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a444153ab109",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Atlassian",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "통신 사업자들이 오픈 모델 기반으로 AI 전략을 구축하는 이유",
+      "link": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-06T13:00:19Z",
+      "summary": "통신 사업자들이 확장 가능한 기업 전략을 구축하기 위해 오픈 AI 모델을 채택하고 있습니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a61c63bfcf3c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AI가 오해하는 것과 실패가 우리에게 가르쳐 주는 교훈",
+      "link": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-06T16:19:06Z",
+      "summary": "AI의 오류, 한계, 그리고 시스템 실패로부터 얻은 교훈에 대해 논의하는 팟캐스트입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7b338a923726",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "책임감 있는 AI 거버넌스: AWS가 고객의 ISO/IEC 42005:2025 준수를 지원하는 방법",
+      "link": "https://aws.amazon.com/blogs/machine-learning/responsible-ai-governance-how-aws-positions-customers-to-align-with-iso-iec-420052025/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-06T15:53:28Z",
+      "summary": "AWS는 책임감 있는 AI 거버넌스를 위한 ISO/IEC 42005:2025 표준을 고객이 준수할 수 있도록 지원하는 방안을 설명합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6becfe32fefc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal",
+        "Government"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Compliance Officer",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker HyperPod 관리 및 거버넌스를 위한 모범 사례",
+      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-amazon-sagemaker-hyperpod-administration-and-governance/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-06T15:50:23Z",
+      "summary": "AWS는 Amazon SageMaker HyperPod에서 관리 및 거버넌스를 관리하기 위한 모범 사례를 공유합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c64f29f68aca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SageMaker Studio에서 직접 Amazon SageMaker HyperPod Spaces 관리하기",
+      "link": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-spaces-directly-from-sagemaker-studio/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-06T15:47:02Z",
+      "summary": "이제 사용자는 SageMaker Studio 내에서 직접 Amazon SageMaker HyperPod Spaces를 관리할 수 있습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "70b427df969d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock AgentCore, Managed Knowledge Base, Nova Sonic을 이용한 음성 여행 컨시어지 구축",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-voice-travel-concierge-with-amazon-bedrock-agentcore-managed-knowledge-base-and-nova-sonic/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-06T15:45:42Z",
+      "summary": "Amazon Bedrock 도구와 Nova Sonic을 사용하여 음성 여행 컨시어지를 구축하는 가이드입니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e00f5f8da646",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: FDA, 2027년 AI 가이드라인 계획 발표",
+      "link": "https://www.statnews.com/2026/10/06/fda-spells-out-2027-ai-guidance-plans-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-10-06T13:59:08Z",
+      "summary": "FDA가 2027년 인공지능 관련 향후 규제 가이드라인 계획을 밝혔습니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "483459070cf6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "FDA"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "오피니언: 저는 의사입니다. AI 도구와 헬스케어 비용에 대해 대중이 알았으면 하는 점",
+      "link": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-10-06T08:30:00Z",
+      "summary": "한 의사가 헬스케어 비용에 미치는 AI 도구의 영향에 대해 논합니다.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cd278e990ccb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Insurance"
+      ],
+      "companies": [
+        "BCBS"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "WhiteLab Genomics, AI 설계 의약품 개발을 위해 2,600만 달러 투자 유치 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEJIT2s0Z2dwY3E0b3RWNlkza1BwWkZGWEZnVkdETkUwTUU3TnBXWVhWZHRJOEY1dlFJVTVmc0dPcTJYM3BvbTZhX1BEcEsxU2tUa0owRmJHSHRidkIxd3ZRT1V3UWlwS2hBVHdDNmd1MTdjeW5Sall0UHM2S3RmM0MyTC1QRVROUC1QZkhMRQ?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-06T16:39:06Z",
+      "summary": "WhiteLab Genomics가 AI 기반 치료제 개발을 위해 2,600만 달러의 자금을 확보했습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2fbae57a77d5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Pharmaceutical",
+        "Healthcare"
+      ],
+      "companies": [
+        "WhiteLab Genomics"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Alight, 데이터, 지능, 실행을 통한 복리후생 성과 가속화를 위해 Abett 인수 발표",
+      "link": "https://www.healthcareittoday.com/2026/10/06/alight-announces-acquisition-of-abett-to-accelerate-benefits-outcomes-through-data-intelligence-and-action/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-06T13:00:57Z",
+      "summary": "Alight가 데이터와 지능을 활용하여 직원 복리후생 성과를 개선하기 위해 Abett를 인수합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "748963f30f58",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Insurance"
+      ],
+      "companies": [
+        "Abett",
+        "Alight"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "연방 소송, AI를 이용해 가격을 인상한 혐의로 맥도날드 제소",
+      "link": "https://www.abajournal.com/news/article/federal-lawsuit-targets-mcdonalds-for-alleged-use-of-ai-to-hike-prices/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-10-06T18:07:30.932443+00:00Z",
+      "summary": "연방 소송에서 맥도날드가 인공지능 알고리즘을 사용해 가격을 인위적으로 인상했다고 주장합니다.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7d6c6ab1118d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail"
+      ],
+      "companies": [
+        "McDonald's"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "스태프 엔지니어 - 텔레포니 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zOFhNdXUzUUxQRGtxaHA0THZFWjhPT3Z6eEFSeFZNTHBVMl9SODAtRVVMRkN1Y0FndG1UbG9YRDU5WENhX05HanlRcmh0WUNRLTh3RWV3ZTUxMk56ZVZwMXlhVXhvazl4WTR5ZGo5aWZOMUQwUm9zT0RFaw?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-10-06T07:55:16Z",
+      "summary": "Sarvam AI에서 텔레포니 전문 스태프 엔지니어를 채용합니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "25c5609440df",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TII, 음성 및 시각적 텍스트 이해를 위한 새로운 아랍어 AI 모델과 함께 Falcon-Emirati 출시 - 기술혁신연구소",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmRxMlZWR2VKNFNJN2RGNmdLcjBTNjU2Q2VQcnRwMW8zdjNZU25kQnVWRG41dDBOcndNcjYtQ2hGMEJ4elVaNENWYkF3V0dzWW1BWEk2WUQ3LUtNXzVqY0dMQ3pfQ3VfazVIcGg5ZjVNNGZIdl8zZXg5VjlhaWUtYzU5dllTaWpNYy1BWWFjZExrM3NSV2lRZ2l0YmxhSU5IRXY2cVRzY3Q3eWR3MWc?oc=5",
+      "source": "TII Falcon",
+      "region": "🇦🇪",
+      "pub_date": "2026-10-06T12:46:58Z",
+      "summary": "TII가 음성 및 시각적 텍스트 이해를 위한 Falcon-Emirati와 새로운 아랍어 AI 모델을 출시했습니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1cf56c72ae6f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Technology Innovation Institute"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Falcon-Emirati: LLM이 방언, 문화, 뉘앙스를 학습할 때",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-10-06T06:44:39Z",
+      "summary": "Falcon-Emirati는 지역 방언, 문화, 언어적 미묘함을 포착하도록 설계된 LLM입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "807faee26a0e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mirror Particle, 인간 행동의 '월드 모델' 구축 중",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-06T16:35:00Z",
+      "summary": "Mirror Particle이 인간 행동을 시뮬레이션하는 것을 목표로 하는 월드 모델을 개발하고 있습니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "23d4205c2c0b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Mirror Particle"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic, 스타트업에 Claude Team 1년 무료 이용권 및 1,000달러 크레딧 제공",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-06T16:00:00Z",
+      "summary": "Anthropic이 스타트업에 Claude Team 1년 무료 이용권과 토큰 크레딧을 제공합니다.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e5ed95e929ea",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LibreOffice, 'AI 없음'이 이제 소프트웨어 기능이라고 밝혀",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-06T15:25:00Z",
+      "summary": "LibreOffice가 소프트웨어 기능의 일환으로 차별화된 'AI 없음' 포지셔닝을 소개합니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2823d2b903a5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "LibreOffice"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mistral의 새로운 1T 모델, 폐쇄형 및 개방형 라이벌 추월 목표",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-06T14:33:16Z",
+      "summary": "Mistral이 선두의 개방형 및 폐쇄형 라이벌과 경쟁하기 위해 새로운 1조 파라미터 모델을 선보입니다.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "8653701588de",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Mistral AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Pinterest의 AI, 뷰티 핀을 실행 계획으로 변환",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-06T14:00:49Z",
+      "summary": "Pinterest가 뷰티 핀을 사용자가 실행 가능한 계획으로 변환하도록 AI 기능을 업데이트했습니다.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8a2aa9dafacd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment",
+        "Retail"
+      ],
+      "companies": [
+        "Pinterest"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Google, Gemini Flash 및 Pro 무료 이용 중단 예정 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWFlczZaSnhDWk1iZmdxM25BckJCd0FfYjFqa1VXcV9Tb3gwM2t5WGRBZlVtdDAtT0NCOThtbmw3R1hodGhvX1JIQ29kX01DMzUwQVBzRkVwbUFaYUtnV0VQS0JnUDVDRFpkSFZDcm5xX2RlLXIyQTd6UGd3X1QxdkhqQi0xdHV0bkNBRkllaUp2elhwU2M1SW5B?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-06T13:19:01Z",
+      "summary": "Google이 Gemini Flash 및 Pro 모델의 무료 이용 등급을 폐지할 계획입니다.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8c9134ed78df",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "주목받는 차세대 오픈 AI 모델의 이름은 Le Chonk입니다. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGd3MFNrQ1F1WnpSdm11a0VsZW1UU2g2MmVhRmVtRFZYZ1ZqUlVlYmt4TlRySWRTa0pBeF9tRTV4aDZ0cS11M2w0eTVQMTdOU1JId2lNMzR4aTlhRXlWc3B2dGQ2UFlWZXBkX2h5OV8xczMyZ21BcUxySmVlay1kTVBKZThZOTlGLWh0ZnIwdjhCNGdrd1BOME91eEdyQ0lHeXl3OEZpWQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-06T14:48:24Z",
+      "summary": "Le Chonk라는 이름의 새로운 오픈 인공지능 모델이 주목을 받고 있습니다.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bdb278c6db9e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
     {
       "title": "Amazon Quick에서 사용자 역할 다운그레이드하기",
       "link": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/",
