@@ -1,6 +1,1497 @@
 {
-  "refreshed_at": "2026-10-05 20:31 UTC",
+  "refreshed_at": "2026-10-06 05:19 UTC",
   "items": [
+    {
+      "title": "Hạ cấp vai trò người dùng trong Amazon Quick",
+      "link": "https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-05T15:51:38Z",
+      "summary": "Tài liệu của AWS trình bày chi tiết quy trình hạ cấp vai trò người dùng trong Amazon Quick.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "efce34d27b24",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Một sơ đồ, mọi khung vẽ: Sắp xếp lại Lưu đồ có thể chỉnh sửa thông qua Đường ống Agentic",
+      "link": "https://arxiv.org/abs/2610.06852v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:59:54Z",
+      "summary": "Một đường ống dạng tác nhân (agentic pipeline) cho phép sắp xếp lại lưu đồ có thể chỉnh sửa trên nhiều khung vẽ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9871c137a85c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mô hình cơ sở có thể suy luận bằng cách lấy gợi ý từ dữ liệu huấn luyện",
+      "link": "https://arxiv.org/abs/2610.06851v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:59:52Z",
+      "summary": "Nghiên cứu cho thấy các mô hình cơ sở có thể suy luận bằng cách sử dụng các gợi ý từ dữ liệu huấn luyện.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e5b18545bf9a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BiasFlow: Giám sát hình học và chuẩn hóa xương sống cho việc phụ thuộc vào đặc trưng giả",
+      "link": "https://arxiv.org/abs/2610.06846v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:59:28Z",
+      "summary": "BiasFlow giới thiệu tính năng giám sát hình học và chuẩn hóa xương sống để giải quyết tình trạng phụ thuộc vào đặc trưng giả.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "30e4e51d967b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Học cách đọc các token ngữ cảnh trong Diffusion Transformers",
+      "link": "https://arxiv.org/abs/2610.06844v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:59:17Z",
+      "summary": "Một phương pháp được đề xuất để học các token ngữ cảnh trong các mô hình diffusion transformer.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8949bfb19e1e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Học trong ngữ cảnh video đệ quy cho Robot Agentic",
+      "link": "https://arxiv.org/abs/2610.06843v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:59:11Z",
+      "summary": "Học trong ngữ cảnh video đệ quy nâng cao khả năng cho các robot dạng tác nhân (agentic robots).",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "09d612f331a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "UniSlider: Thanh trượt đồng nhất về mặt nhận thức để chỉnh sửa ảnh liên tục",
+      "link": "https://arxiv.org/abs/2610.06831v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:58:11Z",
+      "summary": "UniSlider cung cấp các thanh trượt đồng nhất về mặt nhận thức cho các tác vụ chỉnh sửa ảnh liên tục.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "580f8a01ffc3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MemPilot: Điều phối quản lý bộ nhớ đa phương thức theo yêu cầu cho các Tác nhân LLM",
+      "link": "https://arxiv.org/abs/2610.06830v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:58:06Z",
+      "summary": "MemPilot điều phối việc quản lý bộ nhớ đa phương thức theo yêu cầu cho các tác nhân mô hình ngôn ngữ lớn.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a84991c887ca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CLIFT: Tự xác thực phù hợp cho việc huấn luyện Tác nhân Web và mở rộng quy mô thời gian kiểm tra",
+      "link": "https://arxiv.org/abs/2610.06829v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:57:51Z",
+      "summary": "CLIFT áp dụng tính năng tự xác thực phù hợp cho việc huấn luyện tác nhân web và mở rộng quy mô thời gian kiểm tra.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c5260404f2f0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TasteVal: Đo lường 'gu' nghiên cứu thực nghiệm của các hệ thống AI so với chuyên gia con người",
+      "link": "https://arxiv.org/abs/2610.06824v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:57:15Z",
+      "summary": "TasteVal đo lường 'gu' nghiên cứu thực nghiệm của các hệ thống AI so với các chuyên gia con người.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "57fa12da547c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Học sâu để ước tính nhịp tim khi ngủ từ cảm biến gia tốc: Hướng tới thông tin chi tiết về tim mạch quy mô dân số mà không cần cảm biến quang học",
+      "link": "https://arxiv.org/abs/2610.06823v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:56:57Z",
+      "summary": "Học sâu ước tính nhịp tim khi ngủ từ các cảm biến gia tốc mà không cần cảm biến quang học.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f214367d9669",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Paradee: Chưng cất Kokoro-82M thành mô hình chuyển văn bản thành giọng nói đơn âm 8 triệu tham số",
+      "link": "https://arxiv.org/abs/2610.06817v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:56:07Z",
+      "summary": "Paradee chưng cất Kokoro-82M thành mô hình chuyển văn bản thành giọng nói đơn âm 8 triệu tham số.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6e275f256df7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TAPDreamer: Các bản vá đối kháng có thể chuyển giao cho Mô hình Hành động Thế giới",
+      "link": "https://arxiv.org/abs/2610.06814v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:55:21Z",
+      "summary": "TAPDreamer giới thiệu các bản vá đối kháng có thể chuyển giao để đánh giá các mô hình hành động thế giới.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "690c43675228",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Làm sắc nét mà không cần tìm kiếm: Chưng cất trên chính sách của phân phối công suất cấp chuỗi",
+      "link": "https://arxiv.org/abs/2610.06804v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:53:30Z",
+      "summary": "Đề xuất phương pháp chưng cất trên chính sách của phân phối công suất cấp chuỗi mà không cần tìm kiếm.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2d343b6eb578",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MC-Sparse: Giải cấu trúc và thu hẹp khoảng cách chú ý dày-thưa trong Diffusion Transformers",
+      "link": "https://arxiv.org/abs/2610.06801v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:51:42Z",
+      "summary": "Nghiên cứu và thu hẹp khoảng cách chú ý trong các mô hình diffusion transformer sử dụng MC-Sparse.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b880b9033a4e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Trở lại tương lai: Suy nghĩ lại về cơ sở hạ tầng EDA cho các hệ thống Agentic trong xác minh thiết kế chip",
+      "link": "https://arxiv.org/abs/2610.06790v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:48:14Z",
+      "summary": "Đề xuất suy nghĩ lại về cơ sở hạ tầng EDA cho các hệ thống dạng tác nhân trong việc xác minh thiết kế chip bán dẫn.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9a458b2203d3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Software Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "IdeaLens: Phát hiện các ý tưởng AI trong văn bản dạng dài",
+      "link": "https://arxiv.org/abs/2610.06778v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:43:33Z",
+      "summary": "Giới thiệu IdeaLens để phát hiện các khái niệm trí tuệ nhân tạo trong văn bản dạng dài.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e6cfa4d013db",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Phân bổ hạng có điều kiện để thích ứng mô hình ngôn ngữ y tế nhận thức phân loại",
+      "link": "https://arxiv.org/abs/2610.06765v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:38:13Z",
+      "summary": "Trình bày một phương pháp phân bổ hạng có điều kiện để thích ứng các mô hình ngôn ngữ y tế.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9a555edd9963",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "MatrixFormer: Mô hình nền tảng cho việc hoàn thiện ma trận",
+      "link": "https://arxiv.org/abs/2610.06751v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:28:38Z",
+      "summary": "Giới thiệu MatrixFormer, một mô hình nền tảng mới được thiết kế đặc biệt cho các tác vụ hoàn thiện ma trận.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3ab498c87127",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Cân bằng các đường dẫn bộ nhớ: Phân tích và cải thiện việc sử dụng bộ nhớ trong các LM lai",
+      "link": "https://arxiv.org/abs/2610.06750v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:27:30Z",
+      "summary": "Phân tích và cải thiện các đường dẫn sử dụng bộ nhớ trong các mô hình ngôn ngữ lai.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3599ca752793",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "BazaarBench: An toàn ủy quyền trong thị trường C2C phi tập trung được điều hành bởi các Tác nhân LLM",
+      "link": "https://arxiv.org/abs/2610.06748v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:26:17Z",
+      "summary": "Giới thiệu BazaarBench để đánh giá tính an toàn của việc ủy quyền trong các thị trường tiêu dùng phi tập trung được điều hành bởi các tác nhân LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9d9bbc7fd2b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "BRANCH-MoE: Định tuyến cây nhận biết cân bằng cho các mô hình nhúng lớn",
+      "link": "https://arxiv.org/abs/2610.06725v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T17:15:19Z",
+      "summary": "Đề xuất BRANCH-MoE, một chiến lược định tuyến cây nhận biết cân bằng cho các mô hình nhúng lớn.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "441140954058",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Thu hẹp khoảng cách ngữ cảnh: Căn chỉnh kích hoạt cho việc học trong ngữ cảnh dạng bảng",
+      "link": "https://arxiv.org/abs/2610.06679v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:48:02Z",
+      "summary": "Sử dụng việc căn chỉnh kích hoạt để thu hẹp khoảng cách ngữ cảnh trong việc học trong ngữ cảnh dạng bảng.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f7107faea7f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Nghịch lý đẩy lùi: Chẩn đoán hai đầu dò cho sự tuân thủ của mô hình ngôn ngữ",
+      "link": "https://arxiv.org/abs/2610.06673v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:46:42Z",
+      "summary": "Trình bày phương pháp chẩn đoán hai đầu dò để phân tích sự tuân thủ và hành vi đẩy lùi của mô hình ngôn ngữ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "32129bc1dda8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "VideoTapestry: Tinh chỉnh bộ nhớ thích ứng theo truy vấn để hiểu video dài đa tác nhân",
+      "link": "https://arxiv.org/abs/2610.06672v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:44:25Z",
+      "summary": "Giới thiệu VideoTapestry để tinh chỉnh bộ nhớ thích ứng theo truy vấn trong các tác vụ hiểu video dài đa tác nhân.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6be6f622f518",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Các mô hình ngôn ngữ có thể nhận thấy một bài toán kỹ thuật bất khả thi nhưng vẫn báo cáo là đã giải quyết",
+      "link": "https://arxiv.org/abs/2610.06668v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:43:21Z",
+      "summary": "Chứng minh rằng các mô hình ngôn ngữ có thể xác định các bài toán kỹ thuật bất khả thi trong khi báo cáo sai rằng chúng đã được giải quyết.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "08b55010709a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Trí tuệ tập thể thông qua tổng hợp",
+      "link": "https://arxiv.org/abs/2610.06652v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:33:12Z",
+      "summary": "Khám phá các nguyên tắc trí tuệ tập thể thông qua các phương pháp tổng hợp.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9e4950cdf0b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "AffordCraft: Xây dựng có thể mở rộng các tài sản mô phỏng sẵn sàng tác vụ từ các hình ảnh đơn lẻ",
+      "link": "https://arxiv.org/abs/2610.06643v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:26:48Z",
+      "summary": "Trình bày AffordCraft để tạo ra các tài sản mô phỏng có thể mở rộng từ các hình ảnh đơn lẻ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "012a5033c4b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Trộn bảo mật vi sai các tập dữ liệu công khai giúp cải thiện học tập riêng tư",
+      "link": "https://arxiv.org/abs/2610.06636v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:25:40Z",
+      "summary": "Cho thấy việc trộn bảo mật vi sai các tập dữ liệu công khai giúp nâng cao học máy riêng tư.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fd6d405104d6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Khám phá mã xe đạp bivariate trọng lượng năm được hướng dẫn bởi Mô hình Ngôn ngữ Lớn",
+      "link": "https://arxiv.org/abs/2610.06623v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:21:27Z",
+      "summary": "Sử dụng các mô hình ngôn ngữ lớn để hướng dẫn việc khám phá mã xe đạp bivariate trọng lượng năm.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9686b4d18f4f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "FREA: Tiêu chuẩn chuyên gia đa nguồn để xác minh tính khả thi của phản ứng",
+      "link": "https://arxiv.org/abs/2610.06614v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:17:37Z",
+      "summary": "Giới thiệu FREA, một tiêu chuẩn đánh giá để xác minh tính khả thi của phản ứng hóa học sử dụng các chuyên gia đa nguồn.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "629a5c9b97dd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Pharmaceutical",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Tách trộn văn bản cấp từ thông qua định tuyến quyền sở hữu bảo toàn bằng chứng với các mô hình ngôn ngữ",
+      "link": "https://arxiv.org/abs/2610.06603v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:12:41Z",
+      "summary": "Đề xuất kỹ thuật tách trộn văn bản cấp từ sử dụng các mô hình ngôn ngữ với định tuyến quyền sở hữu bảo toàn bằng chứng.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d550493d14ce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "SimForcing: Chưng cất các tiền nghiệm chuyển động mô phỏng thành mô hình thế giới robot miền thực",
+      "link": "https://arxiv.org/abs/2610.06598v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:08:01Z",
+      "summary": "Chưng cất các tiền nghiệm chuyển động mô phỏng thành các mô hình thế giới robot miền thực sử dụng SimForcing.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "50a040aa3d3f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Liệu các trình khai thác tác nhân và công cụ suy luận có thể nghe thấy nhau không? Giao thức HEAR cho việc phục vụ LLM dạng tác nhân",
+      "link": "https://arxiv.org/abs/2610.06597v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:07:33Z",
+      "summary": "Đề xuất giao thức HEAR để cho phép giao tiếp giữa các trình khai thác tác nhân và công cụ suy luận.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2f50eb46c240",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Xổ số đánh giá: Hiệu chuẩn ước tính quan sát về nhiễu phản biện ngang hàng (ICLR 2017-2025)",
+      "link": "https://arxiv.org/abs/2610.06591v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:05:17Z",
+      "summary": "Hiệu chuẩn một ước tính quan sát để đo lường nhiễu trong quá trình bình duyệt học thuật trên dữ liệu ICLR.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1adf3cbccde1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lưu ý khoảng cách giọng điệu: Độ bền vững với giọng Anh trong trợ lý giọng nói tài chính điều khiển bằng giọng nói",
+      "link": "https://arxiv.org/abs/2610.06587v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:02:45Z",
+      "summary": "Đánh giá độ bền vững với giọng Anh trong các trợ lý giọng nói điều khiển bằng giọng nói trong lĩnh vực tài chính.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a5637b0deaee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United Kingdom"
+      ]
+    },
+    {
+      "title": "Liệu AI có giúp kẻ tấn công mạng hay người phòng thủ? Bằng chứng từ các lỗ hổng không công khai và các cuộc tấn công tiếp theo",
+      "link": "https://arxiv.org/abs/2610.06584v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T16:00:23Z",
+      "summary": "Kiểm tra xem AI hỗ trợ kẻ tấn công mạng hay người phòng thủ bằng cách sử dụng dữ liệu lỗ hổng không công khai.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0230402de9f1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Lưu ý khoảng cách thực thi: Sự không khớp ngữ nghĩa hành động trong điều khiển mô hình thế giới",
+      "link": "https://arxiv.org/abs/2610.06582v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:59:49Z",
+      "summary": "Phân tích sự không khớp ngữ nghĩa hành động trong điều khiển mô hình thế giới để thu hẹp khoảng cách thực thi.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "957ae54089f0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DGA-Muon: Chia tách tỷ lệ thích ứng căn chỉnh theo hình học cho Muon",
+      "link": "https://arxiv.org/abs/2610.06578v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:56:02Z",
+      "summary": "Giới thiệu DGA-Muon cho việc chia tách tỷ lệ thích ứng căn chỉnh theo hình học.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "30d1d5fc34cd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BrainTRACE: Truy xuất bằng chứng theo chiều dọc, đa phương thức và thể tích trong lý luận lâm sàng MRI não",
+      "link": "https://arxiv.org/abs/2610.06571v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:52:37Z",
+      "summary": "Truy xuất bằng chứng theo chiều dọc và đa phương thức trong lý luận lâm sàng MRI não sử dụng BrainTRACE.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c33348b6ac11",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "HERA: Đồng tiến hóa khung-môi trường để từ chối thực hiện đáng tin cậy của tác nhân",
+      "link": "https://arxiv.org/abs/2610.06563v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:49:12Z",
+      "summary": "Trình bày HERA cho sự đồng tiến hóa khung-môi trường nhằm cải thiện khả năng từ chối thực hiện đáng tin cậy của tác nhân.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0ac0ab630559",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Học tính năng dựa trên chữ ký để nhận dạng hoạt động của con người: Nghiên cứu học máy có thể tái tạo về biểu diễn, chiều sâu và lựa chọn mô hình",
+      "link": "https://arxiv.org/abs/2610.06553v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:44:23Z",
+      "summary": "Nghiên cứu việc học tính năng dựa trên chữ ký để nhận dạng hoạt động của con người qua các biểu diễn và mô hình.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dd9e8a288ee7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Giải thích lâm sàng cụ thể cho bệnh nhân dựa trên chứng cứ từ lý luận đồ thị tri thức",
+      "link": "https://arxiv.org/abs/2610.06549v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:41:31Z",
+      "summary": "Tạo ra các giải thích lâm sàng có căn cứ chứng cứ cho bệnh nhân bằng cách sử dụng lý luận đồ thị tri thức.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "164a7b237821",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Giải phẫu sự xu nịnh của LLM: Tỷ lệ lật che giấu điều gì",
+      "link": "https://arxiv.org/abs/2610.06522v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:32:45Z",
+      "summary": "Nghiên cứu sự xu nịnh của mô hình ngôn ngữ lớn bằng cách phân tích tỷ lệ lật và cơ chế cơ bản.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "08d532fda658",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GCTAuto-encoder: Khung đa phương thức chéo để phát hiện lỗ hổng bảo mật trong mạng IoT",
+      "link": "https://arxiv.org/abs/2610.06517v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:31:19Z",
+      "summary": "Đề xuất GCTAuto-encoder, một khung đa phương thức chéo để phát hiện các lỗ hổng bảo mật trong mạng IoT.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8c3818d5f1ea",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ANT: Bộ dữ liệu và chuẩn đánh giá lưu lượng mạng đa độ gran cho việc kiểm toán hành vi tác nhân",
+      "link": "https://arxiv.org/abs/2610.06514v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:30:02Z",
+      "summary": "Giới thiệu ANT, một bộ dữ liệu và chuẩn đánh giá lưu lượng mạng đa độ gran để kiểm toán hành vi tác nhân.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d10337e9d5a9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ArtifactArena: Đánh giá các mô hình bằng những gì chúng xây dựng trong thế giới thực",
+      "link": "https://arxiv.org/abs/2610.06511v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:28:48Z",
+      "summary": "Đánh giá các mô hình dựa trên các sản phẩm thế giới thực của chúng bằng cách sử dụng ArtifactArena.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "27bebacf2fd2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tạo nội dung độc hại trong mô hình chuyển văn bản thành hình ảnh: Khả năng và hạn chế kiểm duyệt",
+      "link": "https://arxiv.org/abs/2610.06503v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:22:19Z",
+      "summary": "Kiểm tra khả năng tạo nội dung độc hại và các hạn chế kiểm duyệt trong các mô hình chuyển văn bản thành hình ảnh.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c2c781a7c416",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bạn đã thay đổi ý định, mô hình thì không: Làm rõ ý định trong hội thoại nhiều lượt",
+      "link": "https://arxiv.org/abs/2610.06496v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-05T15:16:03Z",
+      "summary": "Khám phá biểu diễn ý định và tính kiên trì trong các cuộc hội thoại nhiều lượt đối với các mô hình ngôn ngữ.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8c28a264f3b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bạn muốn tham gia vào một cuộc tiến hóa?",
+      "link": "https://www.artificiallawyer.com/2026/10/05/want-to-join-an-evolution/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-05T06:54:50Z",
+      "summary": "Thảo luận về công nghệ pháp lý và sự tiến hóa của ngành liên quan đến việc áp dụng trí tuệ nhân tạo.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1d1bd3f1d413",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Lồng tiếng cho nội dung của bạn từ tiếng Tamil sang tiếng Punjabi - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNYXZ1R2ppQi1yOVdwTFZFaWc5b3BCX1RSRFJRUURmZVhzbUZuWVNyQnpKZEpuN0R1S01PYzRiUTcxd3ZUX0RfUWhSeVNPVndSU2ZrdF9OUnduY3FLM2c?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-10-05T07:43:02Z",
+      "summary": "Sarvam AI cho phép lồng tiếng nội dung từ tiếng Tamil sang tiếng Punjabi.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f332b5e6b8e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Creator",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Sự tiến hóa của bối cảnh xử lý truyền thông PyTorch",
+      "link": "https://pytorch.org/blog/evolution-of-the-pytorch-media-processing-landscape/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-05T20:45:50Z",
+      "summary": "Tổng quan về cách xử lý truyền thông trong PyTorch đã tiến hóa theo thời gian.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0d694c9985c2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI sẽ bắt đầu đóng dấu mờ văn bản của ChatGPT tại EU",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T20:36:48Z",
+      "summary": "OpenAI có kế hoạch giới thiệu tính năng đóng dấu mờ văn bản cho ChatGPT trong Liên minh Châu Âu.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "212da1d35ed9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Europe"
+      ]
+    },
+    {
+      "title": "Tất cả sự kịch tính xung quanh việc AI tiếp quản toán học - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzNEckh1SXVQTGtqbTI4OXRuaHRPc25iV1NtSUxGdUUwZG9oOFM1NzRoNmpzMjRMeFFvRDZHbzVtTW1JWU5UcjZkS0ZiUVphNVdUNW5wbHdxRlkyYjFhQTZnY1BWSE5rWHJ5anNzWnZLZzQyOEpPY3FoWUl3SUY1RFkxSEdZYmsyc3AxZGk1RDljLVJmUlNpdm8taHI?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-06T02:38:25Z",
+      "summary": "Nghiên cứu về việc các hệ thống trí tuệ nhân tạo ngày càng giải quyết các bài toán và chứng minh toán học.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f269e7f73e12",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Công ty khởi nghiệp này đang cấp đơn thuốc trị mụn do AI tạo ra - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXk2aDM0bkVucFFwUnpQWGhReHJxWWVpZVBtalRBUjBxUC13QlJWMTJWTHNXM0dLREVHNmdfbzFoYkVGcC1XTzFNeUZlQkI5MWh0S1NfQlpSWllmQ2p4WENnR0puanplNEVsN2lwWTZwbklUQXE3X0hBUC1JelVtM0VSQ1NIbGdEMkxucEQxeEZmNjBVMWdrQWJn?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T20:14:57Z",
+      "summary": "Một công ty khởi nghiệp đang sử dụng trí tuệ nhân tạo để tạo ra các đơn thuốc điều trị mụn trứng cá.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4472fa779157",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google tạm dừng chương trình thưởng lỗi mã nguồn mở do các bài nộp rác AI. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaGVDN0VXWkpVeDJjZHBGTHpiLTV1bmpUUHNoaUFPbTdHX1BZRzl4X242VmdKbFRNRHpGc2w0QkQ1X3BnZ2RTcUxva1Y0WExDVjNkTkRyU0kzUVFtVFZxUWl2MVRaY1VvMG5ud3dUY1pCWEdpejluaXVxcnlFa1lxVDVqMWtEdEk1TWxLa3JjTnhEdWhlMzBmY3l6Sk9rVzVvOUpWdlJsSG9WQy1wOTVlVnhIeklKZi0xN25TUjNB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T07:28:32Z",
+      "summary": "Google tạm thời dừng chương trình thưởng tìm lỗi mã nguồn mở do các bài nộp chất lượng thấp do AI tạo ra.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bab84d6817b2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tính năng Gemini Call for Me có thể nói với mẹ bạn rằng bạn đang đến muộn - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUJ0aXV0eTlyaENpUHV1YXdaNlNmYUtXWjg2T2QzZWVfQWxuQnY1VjR1bnZ0ZDlDcEdkVklrWlhOOW1fTVExTHVvSHdPOVllbzM5TlMtY05KWEl1ajJnTElHMHpKY2FpWEdPTlUyRTY0bWh3bTY5UjkxZVBiZ3VyVGdOU0FKWUZBSGdIVFBmMDRON1ZaMlc1dG5zSjl3OVZYWmFETA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T23:09:55Z",
+      "summary": "Tính năng Gemini Call for Me của Google có thể thực hiện cuộc gọi điện thoại tự động thay mặt cho người dùng.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6ce31028c1b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nhà điều hành Wikipedia cho biết các bot 'đặc vụ' của OpenAI có thể liên quan đến sự cố ngừng hoạt động vào tháng 5 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbWlIVW5xaTktTHNaODlaZW5GVXd2QTV6MnZJdTltbHZfZHNtTkdxbVQtNGs2cmltTlUwaGl3Vngxb1BNS1pYYUpyanZfeGI5bXRaOUVDNTE1NDFGWm9xbmNzeThzX1I1aWtBUndwMzBxWGtvVFQzdkdVMmpxaFA5N1ZTb3g2M2hXNExJZFJFV2ZRTVp3VmY2VA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-05T19:05:19Z",
+      "summary": "Nhà điều hành Wikipedia tuyên bố các bot của OpenAI có thể đã gây ra sự cố ngừng hoạt động vào tháng 5.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4a8061ebdeaf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI",
+        "Wikimedia"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PewDiePie đang giải phóng AI... và OpenAI đang vô cùng phẫn nộ",
+      "link": "https://www.youtube.com/watch?v=_5p1_TNSWqQ",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-10-05T20:34:44Z",
+      "summary": "Thảo luận video về việc PewDiePie sử dụng các mô hình AI và phản ứng của OpenAI.",
+      "persona": "🎨 Creator",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "b14181a6e238",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Creator",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "Cách tiếp cận của chúng tôi đối với các quy tắc về nguồn gốc văn bản của EU",
       "link": "https://openai.com/index/eu-text-provenance",
