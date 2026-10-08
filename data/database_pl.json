@@ -1,6 +1,955 @@
 {
-  "refreshed_at": "2026-10-08 04:52 UTC",
+  "refreshed_at": "2026-10-08 18:52 UTC",
   "items": [
+    {
+      "title": "Jak Oracle skraca dni pracy do minut dzięki ChatGPT i Codex",
+      "link": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T16:00:00Z",
+      "summary": "Oracle wykorzystuje modele OpenAI do automatyzacji przepływów pracy, znacznie skracając czas przetwarzania złożonych zadań.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dfc39b54c1a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI",
+        "Oracle"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Pollo AI zamienia kreatywne pomysły w kampanie dzięki OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T12:00:00Z",
+      "summary": "Pollo AI integruje technologię OpenAI w celu usprawnienia generowania kampanii marketingowych i procesów kreatywnego przepływu pracy.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "183b50766386",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI",
+        "Pollo AI"
+      ],
+      "job_titles": [
+        "Creative Director",
+        "Marketing Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Budowanie na fundamencie naszego zaangażowania w amerykańskie odkrycia naukowe - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T13:00:00Z",
+      "summary": "Anthropic rozszerza działania na rzecz wspierania badań i postępu naukowego w Stanach Zjednoczonych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2dd28f381a93",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "NVIDIA przeznacza 1 miliard dolarów na rozwój amerykańskiej nauki w ciągu najbliższych pięciu lat",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T14:31:00Z",
+      "summary": "NVIDIA deklaruje znaczne fundusze na przyspieszenie rozwoju infrastruktury badań naukowych i innowacji w USA.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "afacedbf9bb5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Płatność za wnioskowanie (pay-per-inference) dla agentów AI: Jak BlockRun i Incarna korzystają z płatności Amazon Bedrock AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T18:33:29Z",
+      "summary": "Amazon szczegółowo opisuje nowy model rozliczeniowy dla agentów AI korzystających z usług Amazon Bedrock.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "60e2df69e317",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "BlockRun",
+        "Incarna"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Udostępniaj klastry GPU między zespołami z zachowaniem izolacji i sprawiedliwego podziału dzięki Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T16:20:04Z",
+      "summary": "Nowe funkcje Amazon SageMaker HyperPod umożliwiają wydajne udostępnianie klastrów GPU i izolację obciążeń.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "92c38211c9db",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Normalizacja modeli trajektorii",
+      "link": "https://machinelearning.apple.com/research/normalizing-trajectory-models",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T00:00:00Z",
+      "summary": "Techniczny artykuł badawczy szczegółowo opisujący nowe metody normalizacji modelowania trajektorii w uczeniu maszynowym.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5e0467a070a9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "STAT+: AI do prognozowania ryzyka raka piersi trafia bezpośrednio do konsumentów (DTC), chmury regulacyjne nad piaskownicą w Utah i psychoza AI",
+      "link": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-10-08T15:43:59Z",
+      "summary": "Prognozowanie raka piersi oparte na AI rozszerza się bezpośrednio na konsumentów w obliczu aktualizacji regulacyjnych i klinicznych.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7e0075f20c4e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: Dlaczego ten startup kieruje swoją AI do prognozowania ryzyka raka piersi bezpośrednio do pacjentów",
+      "link": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-10-08T08:30:00Z",
+      "summary": "Startup medyczny oferuje swoje oparte na AI prognozowanie ryzyka raka piersi bezpośrednio pacjentom.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8704b4ab664c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Clairity"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Zfragmentowane stanowe przepisy dotyczące AI mogą opóźnić dostęp pacjentów - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0Q5LUxaWms1Tm0yU09Sbk1qaVdJd2wzN19JaVZRamwyb2Nvb3lDa0FUdjZnMDJtV2JuVkRRYmlUbEpPOFhwRHhwZWlzdVZOejV5aTdwUUItS1dzT09VdmdmUWdsUEwxQjhCajcwMkFESjUwa21tNzBZb1dhSWVmQTJFSVZfaXVKeUNyRGZSaElhS1k?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-08T14:57:44Z",
+      "summary": "Niespójne regulacje stanowe dotyczące sztucznej inteligencji mogą opóźnić dostęp pacjentów do technologii medycznych.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ca9f51ff132b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Multiply Labs pozyskuje 75 milionów dolarów na robotykę produkcyjną - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVRoSG9mTmp4UnJNaS1rYXQtRWc3SElNNEdPT0d4LXFTdm9SQVk1U09ZY1RYcFQ5UXNtOWRXMGlPOU1EZkdwSF9KcGk0R0NzdzM5SFdKWWV6MUExUjFCQUQ2c2Y4aDNQTk1ORnJucExKTXNwWDJnUGVxSExRUmlhbzhVV2tCLVJhRjJv?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-08T15:09:54Z",
+      "summary": "Multiply Labs pozyskało siedemdziesiąt pięć milionów dolarów na rozwój swojej technologii robotyki produkcyjnej.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c0d9e4b1f075",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Multiply Labs"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Natywna dla AI platforma Artera uzupełnia luki w opiece i wydajności świadczeniodawców",
+      "link": "https://www.healthcareittoday.com/2026/10/08/ai-native-artera-fills-gaps-in-care-and-provider-performance/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-08T15:00:30Z",
+      "summary": "Artera wykorzystuje natywną technologię AI do eliminowania luk w opiece nad pacjentem i poprawy wydajności świadczeniodawców medycznych.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cc2a066fe2e8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Artera"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Od diagnozy do odkrycia: Jak AI transformuje współczesną medycynę",
+      "link": "https://www.healthcareittoday.com/2026/10/08/from-diagnosis-to-discovery-how-ai-is-transforming-modern-medicine/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-08T14:00:02Z",
+      "summary": "Przegląd tego, jak sztuczna inteligencja reformuje diagnostykę kliniczną i procesy odkrywania leków.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "075efbaee9f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GenHealth.ai pozyskuje 16,5 miliona dolarów w rundzie Serii A na budowę agentów AI do obsługi administracji medycznej",
+      "link": "https://www.healthcareittoday.com/2026/10/08/genhealth-ai-raises-16-5-million-series-a-to-build-ai-agents-that-run-the-medical-back-office/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-08T13:00:42Z",
+      "summary": "GenHealth.ai zabezpieczyło szesnaście i pół miliona dolarów na rozwój administracyjnych agentów AI w opiece zdrowotnej.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "132e0cd04926",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "GenHealth.ai"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AT&T + OpenAI łączą siły w zakresie przepływów pracy AI dla branży prawnej",
+      "link": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-08T16:36:31Z",
+      "summary": "AT&T i OpenAI nawiązały współpracę w celu stworzenia wyspecjalizowanych przepływów pracy AI do zadań prawnych.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f205a1b3a69c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "AT&T",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Platforma prawna Coheso uruchamia Memory + AL Interview",
+      "link": "https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-08T13:50:32Z",
+      "summary": "Coheso wydało nową funkcję platformy łączącą pamięć i wywiady oparte na aktywnym uczeniu się (active learning) dla branży prawnej.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9f261d42d0ee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Coheso"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAI Decisions – Tańsza analiza masowa dla prawników",
+      "link": "https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-08T09:30:27Z",
+      "summary": "OpenAI wprowadza opłacalne narzędzia do masowego przeglądu i analizy dokumentów prawnych.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c99a452916e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "System sądowniczy Arizony dotknięty cyberatakiem",
+      "link": "https://www.abajournal.com/news/article/arizonas-court-system-hit-by-cyberattack/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-10-08T18:43:33.190403+00:00Z",
+      "summary": "Infrastruktura sądowa Arizony doświadczyła poważnego cyberataku, który wpłynął na jej funkcjonowanie.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9f47f24d0746",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Wnioskowanie agentowe uwzględniające sesje z NVIDIA Dynamo",
+      "link": "https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-08T18:13:46Z",
+      "summary": "NVIDIA Dynamo wprowadza dla programistów przepływy pracy wnioskowania agentowego uwzględniające sesje.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4b99526d043d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Budowanie Spyre jako natywnego urządzenia PyTorch",
+      "link": "https://pytorch.org/blog/building-spyre-as-a-native-pytorch-device/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-08T12:45:49Z",
+      "summary": "Spyre jest szczegółowo opisane jako natywna integracja urządzenia sprzętowego PyTorch.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f836e3e936bd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ben Affleck jest pasjonatem AI, a internet jest pod wrażeniem",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:20:32Z",
+      "summary": "Aktor Ben Affleck wyraził głębokie zainteresowanie sztuczną inteligencją.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d20ef6d9bc50",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Popularny ranking AI Arena niemal podwaja swoją wycenę do 3,1 miliarda dolarów w 10 miesięcy",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:19:45Z",
+      "summary": "Ranking oceny AI Arena niemal podwoił swoją wycenę do 3,1 miliarda dolarów.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "494307aa9111",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Przychody OpenAI są rzekomo o 20 miliardów dolarów niższe niż wcześniej prognozowano",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:19:42Z",
+      "summary": "Zgłoszone przychody OpenAI są o 20 miliardów dolarów niższe od wcześniejszych prognoz.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c48d7960551d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CFO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google wprowadza agentowe AI do Gemini, zaczynając od firm",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:18:00Z",
+      "summary": "Google wprowadziło funkcje agentowego AI do Gemini dla klientów biznesowych.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ceca2e2c1a06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic zmienia politykę użytkowania, aby zakazać nadużywania modeli i ingerencji w wybory",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:16:24Z",
+      "summary": "Anthropic aktualizuje polityki bezpieczeństwa, aby zabronić niewłaściwego użycia AI, w tym złośliwego wpływania na procesy wyborcze.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "80297d65bd41",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Compliance Officer",
+        "Policy Maker"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Rozwiązania matematyczne OpenAI nie spełniają jeszcze standardów tej dziedziny",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:10:55Z",
+      "summary": "Ocena pokazuje, że modele OpenAI wciąż mają trudności ze spełnieniem profesjonalnych standardów w zakresie zaawansowanego rozwiązywania problemów matematycznych.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "81c67bededb8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Inteligentny pierścień Natura za 99 dolarów umieszcza agentów AI na Twoim palcu",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T16:00:00Z",
+      "summary": "Natura wypuszcza przystępne cenowo urządzenie ubieralne z zintegrowanymi funkcjami agenta AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "02f01addd62e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Natura"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Goodfire twierdzi, że jego nowe monitory „inside-out” wychwytują niesubordynowanych agentów AI za ułamek kosztów",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T16:00:00Z",
+      "summary": "Goodfire wprowadza opłacalne narzędzia monitorujące zaprojektowane do wykrywania i powstrzymywania autonomicznych, niesubordynowanych agentów AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7db2500e1227",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Goodfire"
+      ],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "19-letni założyciel Cal AI właśnie pozyskał 10 milionów dolarów na swój nowy startup AI",
+      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T14:00:00Z",
+      "summary": "19-letni założyciel zabezpiecza 10 milionów dolarów finansowania venture na swoje nowe przedsięwzięcie AI.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "87922315e033",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking"
+      ],
+      "companies": [
+        "Cal"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google wydaje nowego, działającego lokalnie konkurenta dla Granola",
+      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T13:28:39Z",
+      "summary": "Google wprowadza działające lokalnie, oparte na AI narzędzie do robienia notatek, aby konkurować z Granola.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "49a73efd5324",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Chiński Manus pozyskuje ponad 500 milionów dolarów w pierwszej rundzie finansowania od czasu rozstania z Meta",
+      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T13:20:32Z",
+      "summary": "Manus zabezpiecza ponad 500 milionów dolarów finansowania po odejściu z ekosystemu Meta.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b1d93fd5f45c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking",
+        "Tech"
+      ],
+      "companies": [
+        "Manus",
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "China"
+      ]
+    },
+    {
+      "title": "Jak Meta wyprzedziła OpenAI w wyścigu agentów AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYW5BUV93UHpJcndUc3NSWDZrNHN2Y0lLamtmODNrdWJjUEJxLUJCdkdENFBrQzFiT2hoSFlqRllaa3JQZ1BxZ0t5aTh2T080aUhULXMtUm80VzQ3Nnk4SEpQTElUOExEMkhnMnB0TE9jSkxnNTRzMFVyU2dEc0VNV0tHbVhVQ1BFdE5ETDhCemRzMUU?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T14:00:00Z",
+      "summary": "Analiza strategicznych zmian, które umożliwiły Meta objęcie prowadzenia w rozwoju agentów AI.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8b2de5abef67",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Aplikacja Google oparta na AI do robienia notatek transkrybuje Twoje spotkania całkowicie offline - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQl9YaUJmUkRLMi0tblctdVh2RzkweUxsQnVHNnZBZEJEQVE1NzhWeFlnMU9xcXd5aE1PZlNjWHd5eERvWXpkdzhxSzN4bEFIN1JGSkwxSm9xeDhnbnlfYmxKNG91YUZBbS1vMjlDN1JNNHVOQnhZZld2dGtzSmMtbWJDUHZtczFi?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T15:27:30Z",
+      "summary": "Google wprowadza narzędzie do transkrypcji AI offline, stawiające na prywatność użytkownika i lokalne przetwarzanie.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b3b57c112c65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic zakazuje „obelżywego lub okrutnego zachowania” wobec Claude - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T17:00:00Z",
+      "summary": "Anthropic aktualizuje wytyczne dotyczące bezpieczeństwa, aby ograniczyć obelżywe interakcje skierowane przeciwko modelowi Claude.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7548d5991f9b",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Google uruchamia wszechstronnego agenta Gemini do zadań zawodowych - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12UTlXY3U3c0V2R3V6VzlxUnBIaC0xQmota1VQVUctOGJPclhmMnZpYW1aSTVQOVJsRTdxdWdPTjhqM2lBVnUwV3JUa091YV9vS3MyUWhHRVJoY2lBYjUxZ2NxcXUyNGw3UnVCckxxWER1N0RXZm8wLWtMQQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T14:28:03Z",
+      "summary": "Google integruje Gemini jako ujednoliconego agenta AI do zarządzania kompleksowymi zadaniami związanymi z produktywnością w miejscu pracy.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "65d80881b13d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Alexa Plus lepiej radzi sobie z prowadzeniem mojego domu, ale nie jest gotowa na kierowanie moim życiem - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFpsOXltRzNmMVUxX2JqMW9DZGI0QW1OWDRsbXdCS2l3X0FYc2stcnBnMzhKVDJBVG5iT3R6TWVyZlk4TzNNMGU0Q3NxY0JPazJXMW5VUXZRUDV0bnhUak9UX3gyTE1NNk40R2FKTHVPMkxEUURhNTdDX0NYRXZqcG40M21IcFdOYmxtUUEzWF9Hb1U?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T14:00:22Z",
+      "summary": "Recenzja oceniająca rozszerzone możliwości automatyki domowej i AI asystenta Alexa Plus od Amazon.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "491335e121d9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "NVIDIA i Microsoft rozpoczynają nowy rozdział dla komputerów Windows PC z RTX Spark i agentami AI",
       "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",

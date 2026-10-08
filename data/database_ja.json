@@ -1,6 +1,955 @@
 {
-  "refreshed_at": "2026-10-08 04:52 UTC",
+  "refreshed_at": "2026-10-08 18:52 UTC",
   "items": [
+    {
+      "title": "OracleがChatGPTとCodexで何日もの作業を数分に短縮する方法",
+      "link": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T16:00:00Z",
+      "summary": "OracleはOpenAIのモデルを活用してワークフローを自動化し、複雑なタスクの処理時間を大幅に削減しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "dfc39b54c1a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI",
+        "Oracle"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Pollo AIがOpenAIを活用してクリエイティブなアイデアをキャンペーンに変える",
+      "link": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T12:00:00Z",
+      "summary": "Pollo AIはOpenAIの技術を統合し、マーケティングキャンペーンの生成やクリエイティブなワークフロープロセスを効率化しています。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "183b50766386",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "OpenAI",
+        "Pollo AI"
+      ],
+      "job_titles": [
+        "Creative Director",
+        "Marketing Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "アメリカの科学的発見に対する取り組みの強化 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T13:00:00Z",
+      "summary": "Anthropicは、米国国内における研究と科学の進歩を支援する取り組みを拡大しています。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2dd28f381a93",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "NVIDIA、今後5年間で米国の科学技術発展のために10億ドルを拠出",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T14:31:00Z",
+      "summary": "NVIDIAは、米国の科学研究インフラとイノベーションを加速させるための多額の資金提供を約束しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "afacedbf9bb5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "AIエージェント向けペーパー・パー・インファレンス：BlockRunとIncarnaがAmazon Bedrock AgentCoreの決済を利用する方法",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T18:33:29Z",
+      "summary": "Amazonは、Amazon Bedrockサービスを利用するAIエージェント向けの新しい課金モデルについて詳述しています。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "60e2df69e317",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "BlockRun",
+        "Incarna"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker HyperPodを使用して、隔離性と公平性を保ちながらチーム間でGPUクラスターを共有する",
+      "link": "https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T16:20:04Z",
+      "summary": "Amazon SageMaker HyperPodの新機能により、効率的なGPUクラスターの共有とワークロードの隔離が可能になります。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "92c38211c9db",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "軌跡モデルの正規化",
+      "link": "https://machinelearning.apple.com/research/normalizing-trajectory-models",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-08T00:00:00Z",
+      "summary": "機械学習における軌跡モデリングの正規化のための新しい手法を詳述した技術研究論文。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5e0467a070a9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "STAT+: 乳がんリスク予測AIがDTCに移行、ユタ州のサンドボックスをめぐる規制の暗雲、およびAI精神病",
+      "link": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-10-08T15:43:59Z",
+      "summary": "乳がんのAI予測は、規制や臨床のアップデートの最中、直接消費者向け（DTC）に拡大しています。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7e0075f20c4e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "STAT+: このスタートアップが乳がんリスク予測AIを患者に直接提供している理由",
+      "link": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-10-08T08:30:00Z",
+      "summary": "あるヘルスケア系スタートアップが、AIによる乳がんリスク予測を患者に直接提供しています。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8704b4ab664c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Clairity"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "断片化した州のAI規制が患者のアクセスを遅らせる可能性 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0Q5LUxaWms1Tm0yU09Sbk1qaVdJd2wzN19JaVZRamwyb2Nvb3lDa0FUdjZnMDJtV2JuVkRRYmlUbEpPOFhwRHhwZWlzdVZOejV5aTdwUUItS1dzT09VdmdmUWdsUEwxQjhCajcwMkFESjUwa21tNzBZb1dhSWVmQTJFSVZfaXVKeUNyRGZSaElhS1k?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-08T14:57:44Z",
+      "summary": "人工知能に関する一貫性のない州の規制は、患者が医療技術にアクセスするのを遅らせる可能性があります。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ca9f51ff132b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Multiply Labs、製造ロボットのために7500万ドルを調達 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVRoSG9mTmp4UnJNaS1rYXQtRWc3SElNNEdPT0d4LXFTdm9SQVk1U09ZY1RYcFQ5UXNtOWRXMGlPOU1EZkdwSF9KcGk0R0NzdzM5SFdKWWV6MUExUjFCQUQ2c2Y4aDNQTk1ORnJucExKTXNwWDJnUGVxSExRUmlhbzhVV2tCLVJhRjJv?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-08T15:09:54Z",
+      "summary": "Multiply Labsは、ロボット製造技術を進展させるために7500万ドルを調達しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c0d9e4b1f075",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Multiply Labs"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AIネイティブのArteraがケアとプロバイダーのパフォーマンスにおけるギャップを埋める",
+      "link": "https://www.healthcareittoday.com/2026/10/08/ai-native-artera-fills-gaps-in-care-and-provider-performance/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-08T15:00:30Z",
+      "summary": "ArteraはAIネイティブ技術を使用して、患者ケアのギャップと医療提供者のパフォーマンスを向上させます。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cc2a066fe2e8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Artera"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "診断から発見へ：AIが現代医学をどのように変革しているか",
+      "link": "https://www.healthcareittoday.com/2026/10/08/from-diagnosis-to-discovery-how-ai-is-transforming-modern-medicine/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-08T14:00:02Z",
+      "summary": "人工知能が臨床診断や創薬のプロセスをどのように刷新しているかの概要。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "075efbaee9f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GenHealth.ai、医療バックオフィスを運営するAIエージェントを構築するためにシリーズAで1650万ドルを調達",
+      "link": "https://www.healthcareittoday.com/2026/10/08/genhealth-ai-raises-16-5-million-series-a-to-build-ai-agents-that-run-the-medical-back-office/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-08T13:00:42Z",
+      "summary": "GenHealth.aiは、管理業務を行うAIヘルスケアエージェントを開発するために1650万ドルを確保しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "132e0cd04926",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "GenHealth.ai"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AT&TとOpenAIが法的AIワークフローのために提携",
+      "link": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-08T16:36:31Z",
+      "summary": "AT&TとOpenAIは、法務業務向けの特化型AIワークフローを共同で構築するため提携しました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f205a1b3a69c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [
+        "AT&T",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "法務の玄関口Cohesoが「Memory + AL Interview」をローンチ",
+      "link": "https://www.artificiallawyer.com/2026/10/08/legal-front-door-coheso-launches-memory-al-interview/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-08T13:50:32Z",
+      "summary": "Cohesoは、法務向けにメモリと能動学習（アクティブラーニング）のインタビューを組み合わせた新しいプラットフォーム機能をリリースしました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9f261d42d0ee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Coheso"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAIの決定事項 – 弁護士向けのより安価な一括レビュー",
+      "link": "https://www.artificiallawyer.com/2026/10/08/openai-decisions-cheaper-bulk-review-for-lawyers/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-08T09:30:27Z",
+      "summary": "OpenAIは、法務文書の一括レビューと分析のための費用対効果の高いツールを導入します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c99a452916e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "アリゾナ州の裁判所システムがサイバー攻撃を受ける",
+      "link": "https://www.abajournal.com/news/article/arizonas-court-system-hit-by-cyberattack/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-10-08T18:43:33.190403+00:00Z",
+      "summary": "アリゾナ州の裁判所インフラストラクチャは、業務に影響を与える深刻なサイバー攻撃を受けました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9f47f24d0746",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA Dynamoによるセッションアウェアなエージェント型推論",
+      "link": "https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-08T18:13:46Z",
+      "summary": "NVIDIA Dynamoは、開発者向けにセッションアウェアなエージェント型推論ワークフローを導入します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4b99526d043d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ネイティブなPyTorchデバイスとしてのSpyreの構築",
+      "link": "https://pytorch.org/blog/building-spyre-as-a-native-pytorch-device/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-08T12:45:49Z",
+      "summary": "SpyreがネイティブなPyTorchハードウェアデバイスの統合として詳細に説明されています。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f836e3e936bd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ベン・アフレックはAIオタクであり、インターネットは感銘を受けている",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:20:32Z",
+      "summary": "俳優のベン・アフレックが人工知能に対して深い関心を表明しました。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d20ef6d9bc50",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "人気のAIリーダーボードArena、10ヶ月で評価額がほぼ倍の31億ドルに",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:19:45Z",
+      "summary": "AI評価リーダーボードのArenaは、その評価額を31億ドルへとほぼ倍増させました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "494307aa9111",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "Founder"
+      ],
+      "locations": []
+    },
+    {
+      "title": "OpenAIの収益は以前の予測より200億ドル低いと報じられる",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:19:42Z",
+      "summary": "OpenAIの報じられた収益は、事前の予測を200億ドル下回っています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c48d7960551d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CFO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google、企業を皮切りにGeminiにエージェント型AIを導入",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:18:00Z",
+      "summary": "Googleは、ビジネス顧客向けにGeminiへエージェント型AI機能を導入しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ceca2e2c1a06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic、モデルの悪用や選挙干渉を禁止するため利用規約を変更",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:16:24Z",
+      "summary": "Anthropicは、選挙プロセスにおける悪意のある影響力行使を含む、AIの不正利用を禁止する安全ポリシーを更新します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "80297d65bd41",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Compliance Officer",
+        "Policy Maker"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "OpenAIの数学的解決策は、まだその分野の基準を満たしていない",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T18:10:55Z",
+      "summary": "評価によると、OpenAIのモデルは高度な数学的問題解決におけるプロの基準を満たすのにまだ苦戦しています。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "81c67bededb8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Naturaの99ドルのスマートリング、指先にAIエージェントを搭載",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T16:00:00Z",
+      "summary": "Naturaは、統合されたAIエージェント機能を備えた手頃な価格のウェアラブルデバイスをリリースします。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "02f01addd62e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Natura"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Goodfire、新しい「インサイド・アウト」モニターが不正なAIエージェントをごくわずかな費用で検知すると主張",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T16:00:00Z",
+      "summary": "Goodfireは、自律的に暴走するAIエージェントを検知して封じ込めるために設計された、費用対効果の高い監視ツールを立ち上げました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7db2500e1227",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Goodfire"
+      ],
+      "job_titles": [
+        "Developer",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cal AIの19歳の創業者、新しいAIスタートアップのために1000万ドルを調達",
+      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T14:00:00Z",
+      "summary": "19歳の創業者が、自身の新しいAIベンチャーのために1000万ドルのベンチャー資金を確保しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "87922315e033",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking"
+      ],
+      "companies": [
+        "Cal"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google、Granolaのローカルファーストな競合製品を新たにリリース",
+      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T13:28:39Z",
+      "summary": "Googleは、Granolaに対抗するためのローカルファーストのAI搭載メモ作成ツールを導入します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "49a73efd5324",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "中国のManus、Metaからの分離後初の資金調達ラウンドで5億ドル以上を調達",
+      "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T13:20:32Z",
+      "summary": "ManusはMetaのエコシステムからの離脱に続き、5億ドル以上の資金調達を確保しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b1d93fd5f45c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking",
+        "Tech"
+      ],
+      "companies": [
+        "Manus",
+        "Meta"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "China"
+      ]
+    },
+    {
+      "title": "MetaがAIエージェントの競争でOpenAIの一歩先を行くことができた理由 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYW5BUV93UHpJcndUc3NSWDZrNHN2Y0lLamtmODNrdWJjUEJxLUJCdkdENFBrQzFiT2hoSFlqRllaa3JQZ1BxZ0t5aTh2T080aUhULXMtUm80VzQ3Nnk4SEpQTElUOExEMkhnMnB0TE9jSkxnNTRzMFVyU2dEc0VNV0tHbVhVQ1BFdE5ETDhCemRzMUU?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T14:00:00Z",
+      "summary": "MetaがAIエージェントの開発で主導権を握ることを可能にした戦略的シフトの分析。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8b2de5abef67",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GoogleのAIメモアプリ、完全にオフラインで会議を文字起こし - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQl9YaUJmUkRLMi0tblctdVh2RzkweUxsQnVHNnZBZEJEQVE1NzhWeFlnMU9xcXd5aE1PZlNjWHd5eERvWXpkdzhxSzN4bEFIN1JGSkwxSm9xeDhnbnlfYmxKNG91YUZBbS1vMjlDN1JNNHVOQnhZZld2dGtzSmMtbWJDUHZtczFi?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T15:27:30Z",
+      "summary": "Googleは、ユーザーのプライバシーとローカル処理を優先するオフラインのAI文字起こしツールを導入します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b3b57c112c65",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic、Claudeに対する「暴力的または残酷な行動」を禁止 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T17:00:00Z",
+      "summary": "Anthropicは、Claudeモデルに向けられた攻撃的なインタラクションを制限する安全ガイドラインを更新します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7548d5991f9b",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Google、仕事のタスク向けの一元化されたGeminiエージェントをローンチへ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12UTlXY3U3c0V2R3V6VzlxUnBIaC0xQmota1VQVUctOGJPclhmMnZpYW1aSTVQOVJsRTdxdWdPTjhqM2lBVnUwV3JUa091YV9vS3MyUWhHRVJoY2lBYjUxZ2NxcXUyNGw3UnVCckxxWER1N0RXZm8wLWtMQQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T14:28:03Z",
+      "summary": "Googleは、包括的な職場の生産性タスクを管理するための統合AIエージェントとしてGeminiを組み込んでいます。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "65d80881b13d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Alexa Plusは筆者の家を管理するのは得意だが、人生を管理する準備はまだできていない - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFpsOXltRzNmMVUxX2JqMW9DZGI0QW1OWDRsbXdCS2l3X0FYc2stcnBnMzhKVDJBVG5iT3R6TWVyZlk4TzNNMGU0Q3NxY0JPazJXMW5VUXZRUDV0bnhUak9UX3gyTE1NNk40R2FKTHVPMkxEUURhNTdDX0NYRXZqcG40M21IcFdOYmxtUUEzWF9Hb1U?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-08T14:00:22Z",
+      "summary": "AmazonのAlexa Plusの拡張されたホームオートメーションおよびAI機能を評価するレビュー。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "491335e121d9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "NVIDIAとMicrosoft、RTX SparkとAIエージェントでWindows PCの新たな幕開けを切る",
       "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
