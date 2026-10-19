@@ -1,6 +1,580 @@
 {
-  "refreshed_at": "2026-10-19 03:40 UTC",
+  "refreshed_at": "2026-10-19 18:38 UTC",
   "items": [
+    {
+      "title": "NVIDIA تجري محاكاة قياسية للحوسبة الكمومية المتحملة للأخطاء في مركز يوليش للحوسبة الفائقة",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T18:00:00Z",
+      "summary": "قامت NVIDIA بمحاكاة الحوسبة الكمومية المتحملة للأخطاء في مركز يوليش للحوسبة الفائقة.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1b9a0ec2478a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Jülich Supercomputing Centre",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA تتقدم بالأمان القائم على العوامل (Agentic Security) للإعلام، من البث العام الأوروبي إلى إنتاج المحتوى العالمي",
+      "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T15:00:31Z",
+      "summary": "تطور NVIDIA حلول أمان قائمة على العوامل لصناعات الإعلام والبث.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "24e68d333e05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Europe"
+      ]
+    },
+    {
+      "title": "نموذج Pegasus 1.5 من TwelveLabs متوفر الآن في Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:49:19Z",
+      "summary": "نموذج Pegasus 1.5 من TwelveLabs أصبح قابلاً للوصول عبر Amazon Bedrock.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a53086551132",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "TwelveLabs"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "كيف قامت Deepgram بتحسين الذكاء الاصطناعي الصوتي على نطاق واسع باستخدام AWS Trainium",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:23:22Z",
+      "summary": "استخدمت Deepgram شريحة AWS Trainium لتحسين مهام الذكاء الاصطناعي الصوتي على نطاق واسع.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fa6de697a0d2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Deepgram"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "نقل ذاكرة المفتاح-القيمة (KV) القائم على الدفع لتحسين TTFT و TPOT للاستدلال المفكك في vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:05:17Z",
+      "summary": "يعمل نقل KV القائم على الدفع على تحسين مقاييس TTFT و TPOT للاستدلال المفكك في vLLM.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "be74fb174db1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "vLLM"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تحسين TTFT لأحمال العمل ذات العوامل متعددة الدورات باستخدام نقل KV ثنائي الاتجاه في vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:03:23Z",
+      "summary": "يعمل نقل KV ثنائي الاتجاه في vLLM على تحسين TTFT لأحمال العمل ذات العوامل متعددة الدورات.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a202244cc0f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "vLLM"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "لماذا يمكن لتعليم الذكاء الاصطناعي حول التناظر أن يجعل التشخيص قبل الولادة أكثر موثوقية",
+      "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-10-19T18:20:00Z",
+      "summary": "يمكن أن يؤدي دمج التناظر في نماذج الذكاء الاصطناعي إلى تحسين موثوقية تشخيصات ما قبل الولادة.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "cceb7725b0f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "بروتوكول سياق النموذج (MCP) قد يجعل سياقك الصحي قابلاً للنقل إلى الذكاء الاصطناعي الذي تختاره",
+      "link": "https://www.healthcareittoday.com/2026/10/19/mcp-could-make-your-health-context-portable-to-the-ai-you-choose/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-19T14:00:28Z",
+      "summary": "يمكن لـ Model Context Protocol أن يتيح سياقاً صحياً قابلاً للنقل لأنظمة الذكاء الاصطناعي التي يختارها المستخدم.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "75de4cbeead4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "شركة Midpage المنافسة في البحث القانوني توجّه البيانات إلى Harvey",
+      "link": "https://www.artificiallawyer.com/2026/10/19/legal-research-challenger-midpage-channels-data-into-harvey/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T16:00:04Z",
+      "summary": "شركة Midpage الناشئة في مجال البحث القانوني تدمج منصة بياناتها مع مزود الذكاء الاصطناعي القانوني Harvey.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e8c7edfe756e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey",
+        "Midpage"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Legora تعقد صفقة بيانات ضريبية مع Blue J",
+      "link": "https://www.artificiallawyer.com/2026/10/19/legora-does-tax-data-deal-with-blue-j/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T12:00:14Z",
+      "summary": "تتعاون Legora مع Blue J لاتفاقية تكامل البيانات القانونية والضريبية.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3e4f627cd155",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Accounting"
+      ],
+      "companies": [
+        "Blue J",
+        "Legora"
+      ],
+      "job_titles": [
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ندوة Harvey الإلكترونية - العوامل في المجال القانوني: دليل عملي",
+      "link": "https://www.artificiallawyer.com/2026/10/19/harvey-webinar-agents-in-legal-a-practical-guide/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T10:17:49Z",
+      "summary": "تستضيف Harvey ندنوة إلكترونية لدليل عملي تفصل عوامل الذكاء الاصطناعي في القطاع القانوني.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "48aa9b744765",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "نائب مدعي عام ولاية سابق متهم بإنشاء مواد إباحية للأطفال مولدة بالذكاء الاصطناعي",
+      "link": "https://www.abajournal.com/news/article/ex-new-jersey-deputy-ag-accused-of-making-ai-generated-child-porn/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T18:33:27.650396+00:00Z",
+      "summary": "يواجه نائب مدعي عام ولاية سابق تهمًا بإنشاء مواد محظورة مولدة بالذكاء الاصطناعي.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e96070b987f1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Attorney"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "بحث واحد، طبقتان: ضوابط المترجم داخل PyTorch Helion باستخدام NVIDIA CompileIQ",
+      "link": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-19T15:45:05Z",
+      "summary": "تدمج PyTorch Helion تقنية NVIDIA CompileIQ لتمكين ضوابط المترجم ثنائية الطبقة.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7f198d8da466",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA",
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "تقديم TorchNeuron: الواجهة الخلفية الأصلية لـ PyTorch لنظام AWS Trainium",
+      "link": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-19T12:45:23Z",
+      "summary": "تقدم AWS نظام TorchNeuron، وهي واجهة خلفية أصلية لـ PyTorch مصممة لشِقح AWS Trainium.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "205bdae323f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "الناس يستخدمون الذكاء الاصطناعي لجعل أجهزة التلفزيون الذكية غبية مرة أخرى",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T16:13:22Z",
+      "summary": "يستخدم المستهلكون أدوات الذكاء الاصطناعي لتعديل ميزات برمجيات التلفزيون الذكي.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "10e42c60f68d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Nvidia تطلق نماذج مفتوحة جديدة لتشغيل العوامل في المؤسسات وعلى أجهزة الكمبيوتر الشخصية",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T15:37:09Z",
+      "summary": "أصدرت Nvidia نماذج مفتوحة جديدة مصممة لتنفيذ عوامل الذكاء الاصطناعي على أجهزة الكمبيوتر الشخصية الأنظمة المؤسسية.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "938df27abbad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "متسلل يخترق John Deere و SharkNinja بجيش من عوامل الذكاء الاصطناعي - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkNWRTVWdGFyYWYyb1YzZndSN1NTTEZLaXhvRVc3bjFJX2UxTU5YUFpuRUFVWElVemJFNHB4TGsyRWF2QzRseDRhd2NES2VRRjh1WkY0X3pvcElTdzRMVWZNeERpX1FnbVM5aVZuZ3V3NXM4VG5oWlItaEFJZ0pRQTNJLTEtZmpGS2c0NFh5c3I3cFg2Szk5bDFlVmZVUGhmaEkyd2tFLTg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T13:58:41Z",
+      "summary": "استخدم متسلل جيشاً من عوامل الذكاء الاصطناعي لاختراق John Deere و SharkNinja.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "93bf7a1e2716",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "SharkNinja"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "JB Pritzker يتحدث عن محاسن ومساوئ الذكاء الاصطناعي - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFVGam0yOHROcy0wRDZGRExLUVRjTG5nQmJ4NE1KUVBwNm1raFdZS01URTllTmNYZ0JwTEZlX0N3NF9Bb0t0eHRiMlBDTXlBSDlNalhOUGhNX0tvR0JQeGE5dV9Td2EtYnNkQVhfSHFPSXNlYWdSWHE0RjQ0V0t3QnByZ3l4VDhSQ0xmeExlVDl0bkJsT2FXag?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T14:30:00Z",
+      "summary": "يوقش JB Pritzker فوائد ومخاطر تقنية الذكاء الاصطناعي.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f448cca3ce2b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "الديمقراطيون يعتقدون أن اتخاذ إجراءات صارمة ضد الذكاء الاصطناعي قد يمنحهم ميزة - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeHRpaWxpZmhLWWhEaHVzQWhIQ2Q3Ml9qN2ZHaXNka2Z2R015RzlxdkVGd2FiQWo5VkJaUEtfbEIzdDBCeDl1Tjg5bi1oaVFlRTR3TTl1dFY1a3ViSzRic0lXU2tHTnB1dHhSRFlB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T12:00:00Z",
+      "summary": "يعتقد السياسيون الديمقراطيون أن اللوائح الأكثر صارمة بشأن الذكاء الاصطناعي قد توفر ميزة سياسية.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "44007cf9277c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Anthropic تخصص 5 بالمائة من أسهمها لصالح «صندوق المنفعة العامة» - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUtLS0NnbFVEQmVVU19jUC05aU9YMmpaWlpIQnI5ZV8zaGp2dzk5YVNoRmpaSC1fUjE5R3R6YkxDb0Zzc3d0VUFMV0dOczRZUkxMRktGYVczdXVmTVZuWENMM1ZLbEY4TWNaWk5HX1NPd3VVbXE2T2lMOGFyUllZNzJpMGV1UWM0dkw5XzBOSGxDVHpJYkNWRWhUVTR2QVJ2d19kMWZUUXc1R2Vhc3BaNWxJTGpxaE1xc1BlZDNqbDZkZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-18T19:56:31Z",
+      "summary": "خصصت Anthropic خمسة بالمائة من أسهم شركتها لصالح صندوق منفعة عامة جديد.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0ab759c64f9d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "البرمجة بالأجواء (Vibe coding) تنقلب بعالم معدات الموسيقى رأساً على عقب - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWlZHRklCWlNUaE45U1FHb3c2ZzRHSkowYV9acVVrNmU1Umx4VURCeThBQk5MRzRxcWI2TjF5ZnhYV21oek83RlQ1akdGSW5MYXdVU2swZUxabU5NSjVYaEsxTHpqOWRueFplZzBpUGxiYmhrQ2JkNVgteUJWejZUR09XWGc4SHdjUzNhLVV1VmwxRTMw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T12:30:00Z",
+      "summary": "تغير منهجيات البرمجة بالأجواء ممارسات التطوير داخل صناعة أجهزة وعتاد الموسيقى.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9cbef179ee28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "نموذج Gemini 4 Argon أدهشني حقاً",
+      "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-10-19T08:49:21Z",
+      "summary": "يشارك المراجع انطباعات شخصية غير متوقعة ورؤى حول أداء Gemini 4 Argon.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d6826a6fbcad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "الاستثمار في المنفعة العامة - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",

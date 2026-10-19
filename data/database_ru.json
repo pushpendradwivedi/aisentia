@@ -1,6 +1,580 @@
 {
-  "refreshed_at": "2026-10-19 03:40 UTC",
+  "refreshed_at": "2026-10-19 18:38 UTC",
   "items": [
+    {
+      "title": "NVIDIA провела рекордное моделирование отказоустойчивых квантовых вычислений в Суперкомпьютерном центре Юлиха",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T18:00:00Z",
+      "summary": "NVIDIA смоделировала отказоустойчивые квантовые вычисления в Суперкомпьютерном центре Юлиха.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1b9a0ec2478a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Jülich Supercomputing Centre",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA развивает агентную безопасность для медиаиндустрии: от европейского общественного вещания до глобального производства контента",
+      "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T15:00:31Z",
+      "summary": "NVIDIA совершенствует решения для агентной безопасности в сфере медиа и вещания.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "24e68d333e05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Europe"
+      ]
+    },
+    {
+      "title": "Pegasus 1.5 от TwelveLabs теперь доступен в Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:49:19Z",
+      "summary": "Модель Pegasus 1.5 от TwelveLabs теперь доступна через Amazon Bedrock.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a53086551132",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "TwelveLabs"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Как Deepgram оптимизировала голосовой ИИ в больших масштабах с помощью AWS Trainium",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:23:22Z",
+      "summary": "Deepgram использовала AWS Trainium для масштабной оптимизации рабочих нагрузок голосового ИИ.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fa6de697a0d2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Deepgram"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Перенос KV на основе push для улучшения TTFT и TPOT при дезагрегированном инференсе в vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:05:17Z",
+      "summary": "Перенос KV на основе push улучшает метрики TTFT и TPOT для дезагрегированного инференса в vLLM.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "be74fb174db1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "vLLM"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Улучшение TTFT для многошаговых агентных рабочих нагрузок с помощью двунаправленного переноса KV в vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:03:23Z",
+      "summary": "Двунаправленный перенос KV в vLLM улучшает TTFT для многошаговых агентных рабочих нагрузок.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a202244cc0f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "vLLM"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Почему обучение ИИ симметрии может сделать пренатальную диагностику более надежной",
+      "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-10-19T18:20:00Z",
+      "summary": "Внедрение симметрии в модели ИИ может повысить надежность пренатальной диагностики.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "cceb7725b0f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MCP может сделать ваш контекст здоровья переносимым для выбранного вами ИИ",
+      "link": "https://www.healthcareittoday.com/2026/10/19/mcp-could-make-your-health-context-portable-to-the-ai-you-choose/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-19T14:00:28Z",
+      "summary": "Model Context Protocol может обеспечить переносимость контекста здоровья для выбранных пользователем ИИ-систем.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "75de4cbeead4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Конкурент в сфере юридических исследований Midpage передает данные в Harvey",
+      "link": "https://www.artificiallawyer.com/2026/10/19/legal-research-challenger-midpage-channels-data-into-harvey/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T16:00:04Z",
+      "summary": "Стартап в области юридических исследований Midpage интегрирует свою платформу данных с поставщиком юридического ИИ Harvey.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e8c7edfe756e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey",
+        "Midpage"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Legora заключает сделку по налоговым данным с Blue J",
+      "link": "https://www.artificiallawyer.com/2026/10/19/legora-does-tax-data-deal-with-blue-j/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T12:00:14Z",
+      "summary": "Legora заключает партнерское соглашение с Blue J об интеграции юридических и налоговых данных.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3e4f627cd155",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Accounting"
+      ],
+      "companies": [
+        "Blue J",
+        "Legora"
+      ],
+      "job_titles": [
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Вебинар Harvey — Агенты в юриспруденции: практическое руководство",
+      "link": "https://www.artificiallawyer.com/2026/10/19/harvey-webinar-agents-in-legal-a-practical-guide/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T10:17:49Z",
+      "summary": "Harvey проводит практический вебинар-руководство, посвященный агентам искусственного интеллекта в юридическом секторе.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "48aa9b744765",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Бывшего заместителя генерального прокурора штата обвинили в создании порнографии с детьми с помощью ИИ",
+      "link": "https://www.abajournal.com/news/article/ex-new-jersey-deputy-ag-accused-of-making-ai-generated-child-porn/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T18:33:27.650396+00:00Z",
+      "summary": "Бывший заместитель генерального прокурора штата столкнулся с обвинениями в создании запрещенных материалов с помощью ИИ.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e96070b987f1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Attorney"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Один поиск, два слоя: элементы управления компилятором внутри PyTorch Helion с использованием NVIDIA CompileIQ",
+      "link": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-19T15:45:05Z",
+      "summary": "PyTorch Helion интегрирует NVIDIA CompileIQ для реализации двухуровневого управления компилятором.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7f198d8da466",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA",
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Представляем TorchNeuron: собственный бэкенд PyTorch для AWS Trainium",
+      "link": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-19T12:45:23Z",
+      "summary": "AWS представляет TorchNeuron, собственный бэкенд PyTorch, разработанный для чипов AWS Trainium.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "205bdae323f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Люди используют ИИ, чтобы снова сделать свои умные телевизоры «глупыми»",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T16:13:22Z",
+      "summary": "Потребители используют инструменты искусственного интеллекта для изменения программных функций умных телевизоров.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "10e42c60f68d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Nvidia выпускает новые открытые модели для запуска агентов на ПК и в корпоративном секторе",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T15:37:09Z",
+      "summary": "Nvidia выпустила новые открытые модели, предназначенные для выполнения ИИ-агентов на ПК и корпоративных системах.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "938df27abbad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Хакер взломал John Deere и SharkNinja с помощью армии ИИ-агентов — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkNWRTVWdGFyYWYyb1YzZndSN1NTTEZLaXhvRVc3bjFJX2UxTU5YUFpuRUFVWElVemJFNHB4TGsyRWF2QzRseDRhd2NES2VRRjh1WkY0X3pvcElTdzRMVWZNeERpX1FnbVM5aVZuZ3V3NXM4VG5oWlItaEFJZ0pRQTNJLTEtZmpGS2c0NFh5c3I3cFg2Szk5bDFlVmZVUGhmaEkyd2tFLTg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T13:58:41Z",
+      "summary": "Хакер использовал армию ИИ-агентов для взлома систем John Deere и SharkNinja.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "93bf7a1e2716",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "SharkNinja"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Джей Би Прицкер о плюсах и минусах ИИ — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFVGam0yOHROcy0wRDZGRExLUVRjTG5nQmJ4NE1KUVBwNm1raFdZS01URTllTmNYZ0JwTEZlX0N3NF9Bb0t0eHRiMlBDTXlBSDlNalhOUGhNX0tvR0JQeGE5dV9Td2EtYnNkQVhfSHFPSXNlYWdSWHE0RjQ0V0t3QnByZ3l4VDhSQ0xmeExlVDl0bkJsT2FXag?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T14:30:00Z",
+      "summary": "Джей Би Прицкер обсуждает преимущества и недостатки технологии искусственного интеллекта.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f448cca3ce2b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Демократы считают, что борьба с ИИ может дать им преимущество — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeHRpaWxpZmhLWWhEaHVzQWhIQ2Q3Ml9qN2ZHaXNka2Z2R015RzlxdkVGd2FiQWo5VkJaUEtfbEIzdDBCeDl1Tjg5bi1oaVFlRTR3TTl1dFY1a3ViSzRic0lXU2tHTnB1dHhSRFlB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T12:00:00Z",
+      "summary": "Демократические политики считают, что более жесткое регулирование искусственного интеллекта может обеспечить политическое преимущество.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "44007cf9277c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Anthropic направляет 5 процентов своих акций в «Фонд общественной пользы» — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUtLS0NnbFVEQmVVU19jUC05aU9YMmpaWlpIQnI5ZV8zaGp2dzk5YVNoRmpaSC1fUjE5R3R6YkxDb0Zzc3d0VUFMV0dOczRZUkxMRktGYVczdXVmTVZuWENMM1ZLbEY4TWNaWk5HX1NPd3VVbXE2T2lMOGFyUllZNzJpMGV1UWM0dkw5XzBOSGxDVHpJYkNWRWhUVTR2QVJ2d19kMWZUUXc1R2Vhc3BaNWxJTGpxaE1xc1BlZDNqbDZkZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-18T19:56:31Z",
+      "summary": "Anthropic выделила пять процентов своих корпоративных акций в новый фонд Public Benefit Fund.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0ab759c64f9d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Вайб-кодинг переворачивает мир музыкального оборудования с ног на голову — The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWlZHRklCWlNUaE45U1FHb3c2ZzRHSkowYV9acVVrNmU1Umx4VURCeThBQk5MRzRxcWI2TjF5ZnhYV21oek83RlQ1akdGSW5MYXdVU2swZUxabU5NSjVYaEsxTHpqOWRueFplZzBpUGxiYmhrQ2JkNVgteUJWejZUR09XWGc4SHdjUzNhLVV1VmwxRTMw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T12:30:00Z",
+      "summary": "Методологии вайб-кодинга меняют практику разработки в индустрии музыкального оборудования и аппаратуры.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9cbef179ee28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gemini 4 Argon меня действительно удивил",
+      "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-10-19T08:49:21Z",
+      "summary": "Автор делится неожиданными личными впечатлениями и информацией о производительности Gemini 4 Argon.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d6826a6fbcad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Инвестиции в общественное благо — Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",

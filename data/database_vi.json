@@ -1,6 +1,580 @@
 {
-  "refreshed_at": "2026-10-19 03:40 UTC",
+  "refreshed_at": "2026-10-19 18:38 UTC",
   "items": [
+    {
+      "title": "NVIDIA chạy mô phỏng kỷ lục về tính toán lượng tử chịu lỗi tại Jülich Supercomputing Centre",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T18:00:00Z",
+      "summary": "NVIDIA đã mô phỏng tính toán lượng tử chịu lỗi tại Jülich Supercomputing Centre.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1b9a0ec2478a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Jülich Supercomputing Centre",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA thúc đẩy bảo mật agentic cho truyền thông, từ Phát thanh Truyền hình Dịch vụ Công Châu Âu đến Sản xuất Nội dung Toàn cầu",
+      "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T15:00:31Z",
+      "summary": "NVIDIA đang phát triển các giải pháp bảo mật agentic cho ngành truyền thông và phát thanh truyền hình.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "24e68d333e05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Europe"
+      ]
+    },
+    {
+      "title": "Pegasus 1.5 từ TwelveLabs hiện đã có sẵn trên Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:49:19Z",
+      "summary": "Mô hình Pegasus 1.5 của TwelveLabs hiện có thể truy cập thông qua Amazon Bedrock.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a53086551132",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "TwelveLabs"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cách Deepgram tối ưu hóa AI giọng nói ở quy mô lớn với AWS Trainium",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:23:22Z",
+      "summary": "Deepgram đã sử dụng AWS Trainium để tối ưu hóa khối lượng công việc AI giọng nói ở quy mô lớn.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fa6de697a0d2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Deepgram"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Truyền KV dựa trên Push để cải thiện TTFT và TPOT cho suy luận phân tách trong vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:05:17Z",
+      "summary": "Truyền KV dựa trên Push giúp cải thiện các chỉ số TTFT và TPOT cho suy luận phân tách trong vLLM.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "be74fb174db1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "vLLM"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cải thiện TTFT cho khối lượng công việc agentic nhiều lượt với truyền KV hai chiều trong vLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:03:23Z",
+      "summary": "Truyền KV hai chiều trong vLLM giúp cải thiện TTFT cho các khối lượng công việc agentic nhiều lượt.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a202244cc0f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "vLLM"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tại sao dạy AI về tính đối xứng có thể giúp chẩn đoán trước sinh đáng tin cậy hơn",
+      "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-10-19T18:20:00Z",
+      "summary": "Việc tích hợp tính đối xứng vào các mô hình AI có thể nâng cao độ tin cậy của các chẩn đoán trước sinh.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "cceb7725b0f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MCP có thể giúp ngữ cảnh sức khỏe của bạn linh hoạt chuyển sang AI mà bạn chọn",
+      "link": "https://www.healthcareittoday.com/2026/10/19/mcp-could-make-your-health-context-portable-to-the-ai-you-choose/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-19T14:00:28Z",
+      "summary": "Model Context Protocol có thể cho phép ngữ cảnh sức khỏe linh hoạt di chuyển dành cho các hệ thống AI do người dùng lựa chọn.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "75de4cbeead4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Đối thủ nghiên cứu pháp lý Midpage truyền dữ liệu vào Harvey",
+      "link": "https://www.artificiallawyer.com/2026/10/19/legal-research-challenger-midpage-channels-data-into-harvey/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T16:00:04Z",
+      "summary": "Công ty khởi nghiệp nghiên cứu pháp lý Midpage tích hợp nền tảng dữ liệu của mình với nhà cung cấp AI pháp lý Harvey.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e8c7edfe756e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey",
+        "Midpage"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Legora thực hiện thỏa thuận dữ liệu thuế với Blue J",
+      "link": "https://www.artificiallawyer.com/2026/10/19/legora-does-tax-data-deal-with-blue-j/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T12:00:14Z",
+      "summary": "Legora hợp tác với Blue J về thỏa thuận tích hợp dữ liệu pháp lý và thuế.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3e4f627cd155",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Accounting"
+      ],
+      "companies": [
+        "Blue J",
+        "Legora"
+      ],
+      "job_titles": [
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Webinar của Harvey – Agent trong ngành pháp lý: Hướng dẫn thực tế",
+      "link": "https://www.artificiallawyer.com/2026/10/19/harvey-webinar-agents-in-legal-a-practical-guide/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T10:17:49Z",
+      "summary": "Harvey tổ chức một buổi webinar hướng dẫn thực tế chi tiết về các agent trí tuệ nhân tạo trong lĩnh vực pháp lý.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "48aa9b744765",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cựu phó công tố viên tiểu bang bị cáo buộc tạo khiêu dâm trẻ em do AI tạo ra",
+      "link": "https://www.abajournal.com/news/article/ex-new-jersey-deputy-ag-accused-of-making-ai-generated-child-porn/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T18:33:27.650396+00:00Z",
+      "summary": "Cựu phó công tố viên tiểu bang đối mặt với các cáo buộc vì tạo ra tài liệu bất hợp pháp do AI tạo ra.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e96070b987f1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Attorney"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Một lần tìm kiếm, Hai lớp: Các trình điều khiển trình biên dịch bên trong PyTorch Helion sử dụng NVIDIA CompileIQ",
+      "link": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-19T15:45:05Z",
+      "summary": "PyTorch Helion tích hợp NVIDIA CompileIQ để cho phép các trình điều khiển trình biên dịch hai lớp.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7f198d8da466",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA",
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Giới thiệu TorchNeuron: Backend PyTorch gốc dành cho AWS Trainium",
+      "link": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-19T12:45:23Z",
+      "summary": "AWS giới thiệu TorchNeuron, một backend PyTorch gốc được thiết kế cho các chip AWS Trainium.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "205bdae323f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mọi người đang dùng AI để biến smart TV của họ trở lại thành TV thường",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T16:13:22Z",
+      "summary": "Người tiêu dùng sử dụng các công cụ trí tuệ nhân tạo để sửa đổi các tính năng phần mềm của smart TV.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "10e42c60f68d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Nvidia ra mắt các mô hình mở mới để chạy các agent trong doanh nghiệp và trên PC",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T15:37:09Z",
+      "summary": "Nvidia đã phát hành các mô hình mở mới được thiết kế để thực thi các agent AI trên PC và các hệ thống doanh nghiệp.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "938df27abbad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Một hacker đã đột nhập vào John Deere và SharkNinja bằng một đội quân agent AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkNWRTVWdGFyYWYyb1YzZndSN1NTTEZLaXhvRVc3bjFJX2UxTU5YUFpuRUFVWElVemJFNHB4TGsyRWF2QzRseDRhd2NES2VRRjh1WkY0X3pvcElTdzRMVWZNeERpX1FnbVM5aVZuZ3V3NXM4VG5oWlItaEFJZ0pRQTNJLTEtZmpGS2c0NFh5c3I3cFg2Szk5bDFlVmZVUGhmaEkyd2tFLTg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T13:58:41Z",
+      "summary": "Một hacker đã sử dụng một đội quân agent AI để xâm nhập vào John Deere và SharkNinja.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "93bf7a1e2716",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "SharkNinja"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "JB Pritzker nói về mặt tốt và mặt xấu của AI - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFVGam0yOHROcy0wRDZGRExLUVRjTG5nQmJ4NE1KUVBwNm1raFdZS01URTllTmNYZ0JwTEZlX0N3NF9Bb0t0eHRiMlBDTXlBSDlNalhOUGhNX0tvR0JQeGE5dV9Td2EtYnNkQVhfSHFPSXNlYWdSWHE0RjQ0V0t3QnByZ3l4VDhSQ0xmeExlVDl0bkJsT2FXag?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T14:30:00Z",
+      "summary": "JB Pritzker thảo luận về những lợi ích và hạn chế của công nghệ trí tuệ nhân tạo.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f448cca3ce2b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Đảng Dân chủ tin rằng việc siết chặt quản lý AI có thể mang lại lợi thế cho họ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeHRpaWxpZmhLWWhEaHVzQWhIQ2Q3Ml9qN2ZHaXNka2Z2R015RzlxdkVGd2FiQWo5VkJaUEtfbEIzdDBCeDl1Tjg5bi1oaVFlRTR3TTl1dFY1a3ViSzRic0lXU2tHTnB1dHhSRFlB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T12:00:00Z",
+      "summary": "Các chính trị gia Đảng Dân chủ tin rằng các quy định nghiêm ngặt hơn đối với trí tuệ nhân tạo có thể tạo ra lợi thế chính trị.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "44007cf9277c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Anthropic cam kết trích 5 phần trăm cổ phần cho 'Quỹ Lợi ích Công cộng' - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUtLS0NnbFVEQmVVU19jUC05aU9YMmpaWlpIQnI5ZV8zaGp2dzk5YVNoRmpaSC1fUjE5R3R6YkxDb0Zzc3d0VUFMV0dOczRZUkxMRktGYVczdXVmTVZuWENMM1ZLbEY4TWNaWk5HX1NPd3VVbXE2T2lMOGFyUllZNzJpMGV1UWM0dkw5XzBOSGxDVHpJYkNWRWhUVTR2QVJ2d19kMWZUUXc1R2Vhc3BaNWxJTGpxaE1xc1BlZDNqbDZkZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-18T19:56:31Z",
+      "summary": "Anthropic đã phân bổ 5 phần trăm cổ phần công ty cho một Quỹ Lợi ích Công cộng mới.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0ab759c64f9d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Vibe coding đang làm đảo lộn thế giới thiết bị âm nhạc - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWlZHRklCWlNUaE45U1FHb3c2ZzRHSkowYV9acVVrNmU1Umx4VURCeThBQk5MRzRxcWI2TjF5ZnhYV21oek83RlQ1akdGSW5MYXdVU2swZUxabU5NSjVYaEsxTHpqOWRueFplZzBpUGxiYmhrQ2JkNVgteUJWejZUR09XWGc4SHdjUzNhLVV1VmwxRTMw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T12:30:00Z",
+      "summary": "Các phương pháp vibe coding đang làm thay đổi các thực hành phát triển trong ngành thiết bị và phần cứng âm nhạc.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9cbef179ee28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gemini 4 Argon thực sự khiến tôi ngạc nhiên",
+      "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-10-19T08:49:21Z",
+      "summary": "Người đánh giá chia sẻ những ấn tượng cá nhân bất ngờ và thông tin chi tiết về hiệu suất của Gemini 4 Argon.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d6826a6fbcad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "Đầu tư vào lợi ích công cộng - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",

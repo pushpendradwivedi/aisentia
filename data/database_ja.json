@@ -1,6 +1,580 @@
 {
-  "refreshed_at": "2026-10-19 03:40 UTC",
+  "refreshed_at": "2026-10-19 18:38 UTC",
   "items": [
+    {
+      "title": "NVIDIA、ユーリッヒ・スーパーコンピューティング・センターで耐故障性量子コンピューティングの記録的シミュレーションを実行",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T18:00:00Z",
+      "summary": "NVIDIAは、ユーリッヒ・スーパーコンピューティング・センターで耐故障性量子コンピューティングのシミュレーションを実行しました。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1b9a0ec2478a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Jülich Supercomputing Centre",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NVIDIA、欧州公共放送からグローバルコンテンツ制作まで、メディア向けエージェンティックセキュリティを推進",
+      "link": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T15:00:31Z",
+      "summary": "NVIDIAは、メディアおよび放送業界向けのエージェンティックセキュリティソリューションを推進しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "24e68d333e05",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Europe"
+      ]
+    },
+    {
+      "title": "TwelveLabsのPegasus 1.5がAmazon Bedrockで利用可能に",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:49:19Z",
+      "summary": "TwelveLabsのPegasus 1.5モデルがAmazon Bedrock経由でアクセス可能になりました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a53086551132",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "TwelveLabs"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepgramはAWS Trainiumで音声AIを大規模に最適化した方法",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-deepgram-optimized-voice-ai-at-scale-with-aws-trainium/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:23:22Z",
+      "summary": "Deepgramは、AWS Trainiumを活用して音声AIワークロードを大規模に最適化しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fa6de697a0d2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Deepgram"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "vLLMにおける分散推論のTTFTとTPOTを改善するプッシュベースKV転送",
+      "link": "https://aws.amazon.com/blogs/machine-learning/push-based-kv-transfer-to-improve-ttft-and-tpot-for-disaggregated-inference-in-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:05:17Z",
+      "summary": "プッシュベースKV転送は、vLLMにおける分散推論のTTFTとTPOTメトリクスを改善します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "be74fb174db1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "vLLM"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "vLLMにおける双方向KV転送でマルチターンエージェンティックワークロードのTTFTを改善",
+      "link": "https://aws.amazon.com/blogs/machine-learning/improve-ttft-for-multi-turn-agentic-workloads-with-bi-directional-kv-transfer-in-vllm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-19T16:03:23Z",
+      "summary": "vLLMにおける双方向KV転送は、マルチターンエージェンティックワークロードのTTFTを改善します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a202244cc0f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "vLLM"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AIに対称性を教えることが出生前診断の信頼性を高める理由",
+      "link": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-10-19T18:20:00Z",
+      "summary": "AIモデルに対称性を組み込むことで、出生前診断の信頼性を向上させることができます。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "cceb7725b0f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MCPはあなたの健康コンテキストを選択したAIにポータブルにできる",
+      "link": "https://www.healthcareittoday.com/2026/10/19/mcp-could-make-your-health-context-portable-to-the-ai-you-choose/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-19T14:00:28Z",
+      "summary": "Model Context Protocolは、ユーザーが選択したAIシステムに対してポータブルな健康コンテキストを可能にします。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "75de4cbeead4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "リーガルリサーチチャレンジャーMidpage、データをHarveyにチャネル化",
+      "link": "https://www.artificiallawyer.com/2026/10/19/legal-research-challenger-midpage-channels-data-into-harvey/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T16:00:04Z",
+      "summary": "リーガルリサーチスタートアップのMidpageは、データプラットフォームをリーガルAIプロバイダーのHarveyと統合します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e8c7edfe756e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey",
+        "Midpage"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Legora、Blue Jと税務データ契約を締結",
+      "link": "https://www.artificiallawyer.com/2026/10/19/legora-does-tax-data-deal-with-blue-j/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T12:00:14Z",
+      "summary": "Legoraは、リーガルおよび税務データ統合契約のため、Blue Jと提携します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3e4f627cd155",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Accounting"
+      ],
+      "companies": [
+        "Blue J",
+        "Legora"
+      ],
+      "job_titles": [
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Harveyウェビナー – リーガルにおけるエージェント：実践ガイド",
+      "link": "https://www.artificiallawyer.com/2026/10/19/harvey-webinar-agents-in-legal-a-practical-guide/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T10:17:49Z",
+      "summary": "Harveyは、リーガル分野における人工知能エージェントを詳述する実践ガイドウェビナーを開催します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "48aa9b744765",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Tech"
+      ],
+      "companies": [
+        "Harvey"
+      ],
+      "job_titles": [
+        "CTO",
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "元州副検事がAI生成児童ポルノ作成で告発される",
+      "link": "https://www.abajournal.com/news/article/ex-new-jersey-deputy-ag-accused-of-making-ai-generated-child-porn/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-10-19T18:33:27.650396+00:00Z",
+      "summary": "元州副検事がAI生成違法コンテンツ作成の容疑に直面しています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e96070b987f1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Attorney"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "1つの検索、2つのレイヤー：NVIDIA CompileIQを使用したPyTorch Helion内のコンパイラ制御",
+      "link": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-19T15:45:05Z",
+      "summary": "PyTorch Helionは、NVIDIA CompileIQを統合して2層コンパイラ制御を可能にします。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7f198d8da466",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "NVIDIA",
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TorchNeuronの紹介：AWS TrainiumネイティブPyTorchバックエンド",
+      "link": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-19T12:45:23Z",
+      "summary": "AWSは、AWS Trainiumチップ用に設計されたネイティブPyTorchバックエンドであるTorchNeuronを発表します。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "205bdae323f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "PyTorch"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "人々はAIを使ってスマートテレビを再び「ダム」にしている",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T16:13:22Z",
+      "summary": "消費者は人工知能ツールを使用して、スマートテレビのソフトウェア機能を変更しています。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "10e42c60f68d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Nvidia、エンタープライズおよびPCでエージェントを実行するための新しいオープンモデルをローンチ",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T15:37:09Z",
+      "summary": "Nvidiaは、PCおよびエンタープライズシステムでAIエージェントを実行するために設計された新しいオープンモデルをリリースしました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "938df27abbad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ハッカーがAIエージェント軍団でJohn DeereとSharkNinjaに侵入 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZkNWRTVWdGFyYWYyb1YzZndSN1NTTEZLaXhvRVc3bjFJX2UxTU5YUFpuRUFVWElVemJFNHB4TGsyRWF2QzRseDRhd2NES2VRRjh1WkY0X3pvcElTdzRMVWZNeERpX1FnbVM5aVZuZ3V3NXM4VG5oWlItaEFJZ0pRQTNJLTEtZmpGS2c0NFh5c3I3cFg2Szk5bDFlVmZVUGhmaEkyd2tFLTg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T13:58:41Z",
+      "summary": "ハッカーはAIエージェント軍団を利用して、John DeereとSharkNinjaに侵入しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "93bf7a1e2716",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "SharkNinja"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "JB Pritzker、AIの光と影について語る - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRFVGam0yOHROcy0wRDZGRExLUVRjTG5nQmJ4NE1KUVBwNm1raFdZS01URTllTmNYZ0JwTEZlX0N3NF9Bb0t0eHRiMlBDTXlBSDlNalhOUGhNX0tvR0JQeGE5dV9Td2EtYnNkQVhfSHFPSXNlYWdSWHE0RjQ0V0t3QnByZ3l4VDhSQ0xmeExlVDl0bkJsT2FXag?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T14:30:00Z",
+      "summary": "JB Pritzkerは、人工知能技術の利点と欠点について議論しています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f448cca3ce2b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "民主党はAIの取り締まりが優位に立つと考えている - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeHRpaWxpZmhLWWhEaHVzQWhIQ2Q3Ml9qN2ZHaXNka2Z2R015RzlxdkVGd2FiQWo5VkJaUEtfbEIzdDBCeDl1Tjg5bi1oaVFlRTR3TTl1dFY1a3ViSzRic0lXU2tHTnB1dHhSRFlB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T12:00:00Z",
+      "summary": "民主党の政治家は、人工知能に対するより厳しい規制が政治的優位性をもたらす可能性があると考えています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "44007cf9277c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Anthropicは株式の5％を「公共利益基金」にコミット - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUtLS0NnbFVEQmVVU19jUC05aU9YMmpaWlpIQnI5ZV8zaGp2dzk5YVNoRmpaSC1fUjE5R3R6YkxDb0Zzc3d0VUFMV0dOczRZUkxMRktGYVczdXVmTVZuWENMM1ZLbEY4TWNaWk5HX1NPd3VVbXE2T2lMOGFyUllZNzJpMGV1UWM0dkw5XzBOSGxDVHpJYkNWRWhUVTR2QVJ2d19kMWZUUXc1R2Vhc3BaNWxJTGpxaE1xc1BlZDNqbDZkZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-18T19:56:31Z",
+      "summary": "Anthropicは、企業株式の5％を新しい公共利益基金に割り当てました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0ab759c64f9d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Vibeコーディングが音楽機器の世界をひっくり返している - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWlZHRklCWlNUaE45U1FHb3c2ZzRHSkowYV9acVVrNmU1Umx4VURCeThBQk5MRzRxcWI2TjF5ZnhYV21oek83RlQ1akdGSW5MYXdVU2swZUxabU5NSjVYaEsxTHpqOWRueFplZzBpUGxiYmhrQ2JkNVgteUJWejZUR09XWGc4SHdjUzNhLVV1VmwxRTMw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-19T12:30:00Z",
+      "summary": "Vibeコーディング手法は、音楽ハードウェアおよび機器業界の開発プラクティスを変えています。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9cbef179ee28",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gemini 4 Argonは本当に私を驚かせた",
+      "link": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-10-19T08:49:21Z",
+      "summary": "レビュアーは、Gemini 4 Argonに関する予期せぬ個人的な印象とパフォーマンスの洞察を共有しています。",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "d6826a6fbcad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "公益への投資 - Anthropic",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWMUFBangwVDdnUXBLeEFmOEtSVFYzN3NSU1lVdVduQl9iNFVTN0hfdEVkNS1yakJCLWFtdkVqTXlLM1VhblU5empsdmVKTVNDVy1PZ1JoUW1HYUlLb0FV?oc=5",
