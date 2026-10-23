@@ -1,6 +1,2099 @@
 {
-  "refreshed_at": "2026-10-22 17:04 UTC",
+  "refreshed_at": "2026-10-23 03:54 UTC",
   "items": [
+    {
+      "title": "Decisions API-এর সাহায্যে আরও রেসপনসিভ অ্যাপ তৈরি করুন",
+      "link": "https://openai.com/index/decisions-api",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T19:00:00Z",
+      "summary": "ডেভেলপারদের আরও রেসপনসিভ অ্যাপ্লিকেশন তৈরি করতে সহায়তা করার জন্য OpenAI Decisions API নিয়ে এসেছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "139683c4cb22",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "LLM-এর কারণে অনেক বড় পরিসরে ফর্মাল সফটওয়্যার ভেরিফিকেশন এখন সম্ভব হচ্ছে - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ba1lXTGVFWUJQTVA5UUJMdDJfRVNyU0E1cmlUMXJLSkV2X3RaUnFtbmhpT1IzOUxsNlh1LTA3SGxXd2E5MEM0TnFxZ1B1T1drRUNvQXhodk9nVkFSbUlORXRNNXQ?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T21:58:06Z",
+      "summary": "Anthropic জানিয়েছে যে LLM-গুলি অনেক বড় পরিসরে ফর্মাল সফটওয়্যার ভেরিফিকেশন সম্ভব করে তুলছে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b555cd600ecd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Agentic AI Foundation-কে Agent Skills দান করছে Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T18:25:44Z",
+      "summary": "Anthropic Agentic AI Foundation-কে Agent Skills দান করছে।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9e447d82a2bd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Agentic AI Foundation",
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কৃত্রিম বুদ্ধিমত্তার ভবিষ্যতের জন্য কম্পিউট ক্ষমতা বাড়াচ্ছে কাজাখস্তান",
+      "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-23T02:00:13Z",
+      "summary": "Nvidia হাইলাইট করেছে যে কাজাখস্তান কৃত্রিম বুদ্ধিমত্তা উন্নয়নের জন্য তাদের কম্পিউট ক্ষমতা প্রসারিত করছে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "51462f7e3cc5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "মধ্যম-পাল্লার আবহাওয়া পূর্বাভাসে একটি বড় ফারাক দূর করছে নতুন AI ফ্রেমওয়ার্ক - Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5",
+      "source": "Microsoft Research",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-23T00:54:04Z",
+      "summary": "মধ্যম-পাল্লার আবহাওয়া পূর্বাভাসে ঘাটতি দূর করতে Microsoft একটি নতুন AI ফ্রেমওয়ার্ক নিয়ে এসেছে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "495a09e8f84b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Polly-এর জেনারেটিভ ইঞ্জিনে এল বড় ধরনের আপডেট",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-delivers-a-major-upgrade-to-its-generative-engine/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T18:06:35Z",
+      "summary": "Amazon Polly তাদের জেনারেটিভ স্পিচ ইঞ্জিনের জন্য একটি বড় আপডেট প্রকাশ করেছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d808cfad36df",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock Managed Knowledge Bases ব্যবহার করে যেভাবে করপোরেট নলেজ একীভূত করেছে IskayPet",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-iskaypet-unified-corporate-knowledge-with-amazon-bedrock-managed-knowledge-bases/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T18:01:53Z",
+      "summary": "IskayPet Amazon Bedrock Managed Knowledge Bases ব্যবহার করে করপোরেট নলেজ একীভূত করেছে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ff7e42416d6b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Amazon",
+        "IskayPet"
+      ],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GPU ম্যানেজ না করেই SageMaker AI-এর সাহায্যে মডেল কাস্টমাইজ করার নতুন উপায় ঘোষণা করা হলো",
+      "link": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T18:00:04Z",
+      "summary": "Amazon SageMaker AI এখন GPU ম্যানেজ করা ছাড়াই মডেল কাস্টমাইজেশন সমর্থন করে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "27f84a9ff447",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker training session API ব্যবহার করে GPU ম্যানেজ না করেই নিজের ট্রেনিং লুপ লিখুন",
+      "link": "https://aws.amazon.com/blogs/machine-learning/write-your-own-training-loop-without-managing-gpus-with-amazon-sagemaker-training-sessions/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T18:00:01Z",
+      "summary": "GPU ম্যানেজ না করেই ট্রেনিং লুপ লেখার জন্য Amazon SageMaker ট্রেনিং সেশন API নিয়ে এসেছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6df5bc83ae40",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Quick-এর সাথে একটি HIPAA-উপযুক্ত পরিবেশে AI স্থাপন করুন",
+      "link": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-in-a-hipaa-eligible-environment-with-amazon-quick/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T17:48:22Z",
+      "summary": "Amazon Quick HIPAA-উপযুক্ত পরিবেশের মধ্যে AI স্থাপনের সুবিধা দেয়।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "acaa3508b015",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker AI-তে Kokoro TTS ব্যবহার করে AI এজেন্ট থেকে লো-ল্যাটেন্সি স্পিচ স্ট্রিম করুন",
+      "link": "https://aws.amazon.com/blogs/machine-learning/stream-low-latency-speech-from-ai-agents-using-kokoro-tts-on-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-10-22T17:45:58Z",
+      "summary": "Amazon SageMaker AI-তে Kokoro TTS ব্যবহার করে AI এজেন্ট থেকে লো-ল্যাটেন্সি স্পিচ স্ট্রিম করুন।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3835bfa96fa5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ভিন্ন কাজ, ভিন্ন টাইমস্টেপ: ডিফিউশন ল্যাঙ্গুয়েজ মডেলের জন্য টেম্পোরাল টাস্ক-অ্যাওয়ার কোয়ান্টাইজেশন",
+      "link": "https://arxiv.org/abs/2610.31198v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T12:45:17Z",
+      "summary": "গবেষকরা ডিফিউশন ল্যাঙ্গুয়েজ মডেলের জন্য টেম্পোরাল টাস্ক-অ্যাওয়ার কোয়ান্টাইজেশন পদ্ধতি প্রস্তাব করেছেন।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b13d25e5da45",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "যখন মেটাডেটা বিভ্রান্ত করে: LLM-জেনারেটেড মিউজিয়াম বর্ণনায় ফিল্ড-লেভেল গ্রাউন্ডিং প্রোবিং",
+      "link": "https://arxiv.org/abs/2610.31193v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T12:41:12Z",
+      "summary": "অধ্যয়নটি পরীক্ষা করে দেখেছে যে মেটাডেটা বাড়লে LLM-জেনারেটেড মিউজিয়াম বর্ণনায় ফিল্ড-লেভেল গ্রাউন্ডিং সমস্যা কীভাবে দেখা দেয়।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "151f1b6121e2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "প্রম্পটিং স্ট্র্যাটেজির প্রভাব জাজের ওপর নির্ভর করে: LLM-অ্যাজ-এ-জাজ রোবাস্টনেসের একটি বহভাষিক গবেষণা",
+      "link": "https://arxiv.org/abs/2610.31172v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T12:27:05Z",
+      "summary": "বহুভাষিক গবেষণায় মূল্যায়ন করা হয়েছে প্রম্পটিং কৌশলগুলি কীভাবে LLM-অ্যাজ-এ-জাজ রোবাস্টনেসকে প্রভাবিত করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9b16d9b8ddb2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "নেটওয়ার্ক টপোলজি LLM পপুলেশনে ঐকমত্য এবং দুর্বলতা তৈরি করে",
+      "link": "https://arxiv.org/abs/2610.31165v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T12:22:40Z",
+      "summary": "অধ্যয়নটি পরীক্ষা করে দেখেছে কীভাবে নেটওয়ার্ক টপোলজি লার্জ ল্যাঙ্গুয়েজ মডেল পপুলেশনে ঐকমত্য এবং দুর্বলতাকে প্রভাবিত করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bddac7071aa1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "টুল-অগমেন্টেড মডেল তুলনার ক্ষেত্রে প্রম্পট সেনসিটিভিটি",
+      "link": "https://arxiv.org/abs/2610.31148v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T12:07:01Z",
+      "summary": "টুল-অগমেন্টেড ল্যাঙ্গুয়েজ মডেলের তুলনার সময় প্রম্পট সেনসিটিভিটির প্রভাব নিয়ে গবেষণা বিশ্লেষণ করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3eae397c0c26",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PriMa-Causa: কজওয়াল প্রিসক্রিপ্টিভ মেইনটেন্যান্স",
+      "link": "https://arxiv.org/abs/2610.31147v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T12:06:59Z",
+      "summary": "কজওয়াল প্রিসক্রিপ্টিভ মেইনটেন্যান্স পদ্ধতির ওপর ফোকাস করা একটি ফ্রেমওয়ার্ক PriMa-Causa পেশ করা হয়েছে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "37c51e294cbd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "স্কেলেবল সিন রিট্রিভ্যালে সেকেন্ড-অর্ডার মাল্টি-স্কেল ডিপ ফিচার অ্যাগ্রিগেশনের জন্য ফিশার ভেক্টর রিথিংকিং",
+      "link": "https://arxiv.org/abs/2610.31146v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T12:06:01Z",
+      "summary": "সিন রিট্রিভ্যালে সেকেন্ড-অর্ডার মাল্টি-স্কেল ডিপ ফিচার অ্যাগ্রিগেশনের জন্য ফিশার ভেক্টর বর্ধিতকরণের প্রস্তাব করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6ee90b66a3b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "মিক্সিং ম্যাটার্স: দীর্ঘ-প্রসঙ্গ প্রশ্নোত্তরে সিকোয়েন্স মিক্সার জুড়ে এভিডেন্স পজিশন বায়াস",
+      "link": "https://arxiv.org/abs/2610.31135v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:54:30Z",
+      "summary": "দীর্ঘ-প্রসঙ্গ প্রশ্নোত্তরের কাজগুলিতে বিভিন্ন সিকোয়েন্স মিক্সার জুড়ে এভিডেন্স পজিশন বায়াস তদন্ত করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "434840ea4de3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "পোস্ট-অডিট মিরাজ: অফলাইন এজেন্ট ভেরিফিকেশনের আইডেন্টিফাইবিলিটি লিমিটস",
+      "link": "https://arxiv.org/abs/2610.31130v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:50:38Z",
+      "summary": "নিবন্ধটি অফলাইন AI এজেন্ট অডিটে আইডেন্টিফাইবিলিটি লিমিটস এবং ভেরিফিকেশন চ্যালেঞ্জগুলি বিশ্লেষণ করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ab91bd86d70b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "সেটকমিট: ফিউ-স্টেপ ডিফিউশন ল্যাঙ্গুয়েজ মডেল ডিকোডিংয়ের জন্য সমন্বিত টোকেন প্রতিশ্রুতি",
+      "link": "https://arxiv.org/abs/2610.31120v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:33:49Z",
+      "summary": "ফিউ-স্টেপ ডিফিউশন ল্যাঙ্গুয়েজ মডেল ডিকোডিংয়ে সমন্বিত টোকেন প্রতিশ্রুতির জন্য SetCommit উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "219c87743889",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কনস্ট্রেইন্ট রিজনিং এবং লার্জ ল্যাঙ্গুয়েজ মডেল একসাথে কাজ করে: বাস্তবসম্মত অপ্টিমাইজেশান-ভিত্তিক অ্যাপ্লিকেশনের জন্য কনট্রাস্টভ ব্যাখ্যা প্রদান",
+      "link": "https://arxiv.org/abs/2610.31119v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:33:26Z",
+      "summary": "অপ্টিমাইজেশান অ্যাপ্লিকেশনের জন্য কনট্রাস্টভ ব্যাখ্যা তৈরি করতে লার্জ ল্যাঙ্গুয়েজ মডেলের সাথে কনস্ট্রেইন্ট রিজনিং একত্রিত করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d90d84f9a4fa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "প্রোডাক্টওয়েবব্যাঞ্চ: টাস্ক সমাপ্তির বাইরে ওয়েবসাইট কন্টিনিউটি মূল্যায়ন",
+      "link": "https://arxiv.org/abs/2610.31118v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:33:00Z",
+      "summary": "স্ট্যান্ডার্ড টাস্ক সমাপ্তির মেট্রিক্সের বাইরে ওয়েবসাইট কন্টিনিউটি মূল্যায়ন করার জন্য ProductWebBench উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cadb74bc9b8e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ফ্রেঞ্চ সিভিল ক্যাশেশনের একটি ব্যাকরণ: একটি গ্রাউন্ড-লেভেল ডেটাসেট এবং টুল",
+      "link": "https://arxiv.org/abs/2610.31116v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:30:50Z",
+      "summary": "ফ্রেঞ্চ সিভিল ক্যাশেশনের ব্যাকরণ বিশ্লেষণ করে এমন একটি গ্রাউন্ড-লেভেল ডেটাসেট এবং টুল প্রদান করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "65ca2a25dd45",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI কি স্ট্রাকচার কো-ডিজাইন করতে পারে? প্রাথমিক পর্যায়ের স্ট্রাকচারাল ডিজাইনের জন্য একটি AI এজেন্ট",
+      "link": "https://arxiv.org/abs/2610.31113v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:27:22Z",
+      "summary": "প্রাথমিক পর্যায়ের স্ট্রাকচারাল ডিজাইন কো-ক্রিয়েশনে সহায়তা করার জন্য তৈরি একটি AI এজেন্ট অন্বেষণ করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "89aa84a86e84",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কে প্রভাবশালী? মাল্টি-এজেন্ট সিস্টেমে কনসেনসাস ডাইনামিক্স",
+      "link": "https://arxiv.org/abs/2610.31105v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:15:49Z",
+      "summary": "কনসেনসাস ডাইনামিক্স বিশ্লেষণ করে এবং মাল্টি-এজেন্ট সিস্টেমের মধ্যে প্রভাবশালী এজেন্টদের শনাক্ত করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "69b13d6fa551",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ডিপওপেন: BANKING77 এবং CLINC150-এর ওপর ডিসিশন-ওরিয়েন্টেড ইন্টেন্ট ক্লাসিফিকেশন",
+      "link": "https://arxiv.org/abs/2610.31104v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:15:47Z",
+      "summary": "BANKING77 এবং CLINC150 ডেটাসেটে মূল্যায়ন করা ডিসিশন-ওরিয়েন্টেড ইন্টেন্ট ক্লাসিফিকেশনের জন্য DeepOpen উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "35cb283bec51",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ফ্লাড-ইট পাজল সমাধান করা: ডিক্লারেটিভ সলভার পদ্ধতির সাথে টেইলর্ড A* সার্চের তুলনা",
+      "link": "https://arxiv.org/abs/2610.31100v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:13:21Z",
+      "summary": "ফ্লাড-ইট পাজলের জন্য ডিক্লারেটিভ সলভার পদ্ধতির বিপরীতে টেইলর্ড A* সার্চ অ্যালগরিদম তুলনা করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "afcd16b70472",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কো-রিক্যুসিভ সিমেটিক সেলফ-এক্সটেনশন: ওপেন-এন্ডেড ইন্টেলিজেন্সের একটি গাণিতিক ভিত্তি",
+      "link": "https://arxiv.org/abs/2610.31097v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:12:17Z",
+      "summary": "কো-রিক্যুসিভ সিমেটিক সেলফ-এক্সটেনশন ব্যবহার করে ওপেন-এন্ডেড ইন্টেলিজেন্সের জন্য একটি গাণিতিক ভিত্তি প্রস্তাব করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "31df4b26ac60",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "পেয়ারওয়াইজ মূল্যায়নে যা বাদ পড়ে: প্রম্পট জুড়ে রিওয়ার্ড স্কোর",
+      "link": "https://arxiv.org/abs/2610.31090v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T11:00:10Z",
+      "summary": "প্রম্পট জুড়ে রিওয়ার্ড স্কোরের তারতম্য বিশ্লেষণ করে পেয়ারওয়াইজ মূল্যায়নের সীমাবদ্ধতা পরীক্ষা করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6887e135bf3e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MQAScore: লার্জ অডিও ল্যাঙ্গুয়েজ মডেলের মাধ্যমে ফাইন-গ্রেইনড টেক্সট-মিউজিক অ্যালাইনমেন্ট মূল্যায়ন",
+      "link": "https://arxiv.org/abs/2610.31083v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:56:25Z",
+      "summary": "লার্জ অডিও ল্যাঙ্গুয়েজ মডেল ব্যবহার করে ফাইন-গ্রেইনড টেক্সট-মিউজিক অ্যালাইনমেন্ট মূল্যায়নের জন্য MQAScore উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "264cb7e479eb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ডুয়াল এক্সাম: মাল্টিমোডাল এজেন্ট এবং ওয়ার্ল্ড মডেলের নিয়ন্ত্রিত মূল্যায়ন",
+      "link": "https://arxiv.org/abs/2610.31066v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:44:35Z",
+      "summary": "মাল্টিমোডাল এজেন্ট এবং ওয়ার্ল্ড মডেলের নিয়ন্ত্রিত মূল্যায়নের জন্য ডুয়াল এক্সাম উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c8c700cab31e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "স্কোপ: প্রাকৃতিক ভাষার নীতিগুলিকে নিউরোসিম্বলিক প্রেডিকেট প্রোগ্রামে সংকলন করা",
+      "link": "https://arxiv.org/abs/2610.31062v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:41:13Z",
+      "summary": "প্রাকৃতিক ভাষার নীতিগুলিকে নিউরোসিম্বলিক প্রেডিকেট প্রোগ্রামে সংকলন করার একটি পদ্ধতি SCOPE উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "04445de508b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM-এ এক্সপ্লিসিট-টু-অ্যাপ্লায়েড থিওরি অফ মাইন্ড গ্যাপ নির্ণয় করা",
+      "link": "https://arxiv.org/abs/2610.31060v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:39:50Z",
+      "summary": "লার্জ ল্যাঙ্গুয়েজ মডেলে এক্সপ্লিসিট এবং অ্যাপ্লায়েড থিওরি অফ মাইন্ড ক্ষমতার মধ্যকার ব্যবধান তদন্ত করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0df73916cf9f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ডাইভার্সিফাই করার জন্য নির্দেশ দেওয়া: স্বয়ংক্রিয় হিউরিস্টিক ডিজাইনের জন্য মাল্টি-ডিরেকশনাল সার্চ",
+      "link": "https://arxiv.org/abs/2610.31048v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:24:56Z",
+      "summary": "নিবন্ধটি স্বয়ংক্রিয় হিউরিস্টিক ডিজাইনের বৈচিত্র্য উন্নত করতে একটি মাল্টি-ডিরেকশনাল সার্চ পদ্ধতি উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0b03693d65e5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ক্ষতি হল আচরণগত, মডারেশন হল আভিধানিক: ভাষা এবং সংস্কৃতি কীভাবে সিদ্ধান্ত নেয় স্বয়ংক্রিয় সুরক্ষা ব্যবস্থা কাকে রক্ষা করবে এবং কাকে চুপ করাবে",
+      "link": "https://arxiv.org/abs/2610.31047v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:24:17Z",
+      "summary": "অধ্যয়নটি স্বয়ংক্রিয় সুরক্ষা এবং বিষয়বস্তু মডারেশন সিস্টেমে ভাষাগত এবং সাংস্কৃতিক পক্ষপাতিত্ব পরীক্ষা করে।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9a0ebf6fbd62",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ইউটিলিটি-প্রিজার্ভিং অ্যান্টি-ডিস্টিলেশনের জন্য কনফ্লিক্ট-অ্যাওয়ার লগিট অ্যাডাপ্টার",
+      "link": "https://arxiv.org/abs/2610.31046v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:22:46Z",
+      "summary": "ইউটিলিটি সংরক্ষণ করার সাথে সাথে মডেল ডিস্টিলেশন রোধ করতে কনফ্লিক্ট-অ্যাওয়ার লগিট অ্যাডাপ্টারের প্রস্তাব করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1c952e12365d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "জেনারেটিভ অ্যাডাপ্টিভ লার্নিংয়ে অ্যালগরিদমিক ড্রিফট",
+      "link": "https://arxiv.org/abs/2610.31041v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:19:03Z",
+      "summary": "জেনারেটিভ অ্যাডাপ্টিভ লার্নিং পরিবেশে ঘটে যাওয়া অ্যালগরিদমিক ড্রিফটের ঘটনা বিশ্লেষণ করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dbbf10bc14a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "মাল্টিচয়েস মডেলিং: অনিশ্চয়তার অধীনে ডিসিশন কনফিগারেশন স্পেস অন্বেষণ",
+      "link": "https://arxiv.org/abs/2610.31038v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:16:34Z",
+      "summary": "একটি মাল্টিচয়েস মডেলিং পদ্ধতি ব্যবহার করে অনিশ্চয়তার অধীনে ডিসিশন কনফিগারেশন স্পেস অন্বেষণ করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cc9de825ed8c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CANNBot-CAKE: অ্যাসেন্ট NPU-এর জন্য কোলাবোরেটিভ এজেন্টিক কার্নেল ইভোলিউশন",
+      "link": "https://arxiv.org/abs/2610.31034v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T10:12:45Z",
+      "summary": "অ্যাসেন্ট NPU-তে কোলাবোরেটিভ কার্নেল ইভোলিউশন অপ্টিমাইজ করার জন্য একটি এজেন্টিক ফ্রেমওয়ার্ক উপস্থাপন করে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dcd24021623a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "বেশিরভাগ পঠন: ডকুমেন্ট-লেভেল LoRA অ্যাডাপ্টারে ওপেন-বুক স্কোর কী পরিমাপ করে",
+      "link": "https://arxiv.org/abs/2610.31017v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:52:29Z",
+      "summary": "ডকুমেন্ট-লেভেল LoRA অ্যাডাপ্টারে ওপেন-বুক ইভালুয়েশন মেট্রিক্স এবং পারফরম্যান্স মূল্যায়ন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8b1cb55f865e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "রোবটিক সিস্টেমের জন্য মাল্টি-টুল নির্বাচন: সিমেটিক রিট্রিভাল এবং LLM-এর তুলনা",
+      "link": "https://arxiv.org/abs/2610.31013v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:48:18Z",
+      "summary": "রোবটিক মাল্টি-টুল নির্বাচন কাজের জন্য সিমেটিক রিট্রিভাল পদ্ধতি এবং LLM-এর তুলনা করে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "96a3f925644a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কৃত্রিম প্রজ্ঞা (AW) মূল্যায়ন: কনটেক্সট-সেনসিটিভ ডিসিশন রেগুলেশনের জন্য একটি ট্র্যাজেক্টরি-বেসড ফ্রেমওয়ার্ক",
+      "link": "https://arxiv.org/abs/2610.31012v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:47:42Z",
+      "summary": "কৃত্রিম প্রজ্ঞা সিস্টেমের জন্য কনটেক্সট-সেনসিটিভ ডিসিশন রেগুলেশন মূল্যায়ন করার একটি ফ্রেমওয়ার্ক উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "899efe75e9a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "সালিয়েন্সি কোলাপস প্রশমিত করা: রোবাস্ট সালিয়েন্সি-অ্যাওয়ার লং-টেক্সট ইমেজ-টেক্সট অ্যালাইনমেন্ট",
+      "link": "https://arxiv.org/abs/2610.31005v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:44:57Z",
+      "summary": "লং-টেক্সট ইমেজ-টেক্সট মাল্টিমোডাল অ্যালাইনমেন্টে সালিয়েন্সি কোলাপস রোধ করার একটি পদ্ধতি প্রস্তাব করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5d45e09b8dee",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "এগ্রি-স্কলার: LLM-বাউন্ডেড অপ্টিমাইজেশান ব্যবহার করে কৃষি ফসলের জন্য সিমুলেশন-গ্রাউন্ডেড ইন-সিজন রোলিং অ্যাডভাইজরি",
+      "link": "https://arxiv.org/abs/2610.31003v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:43:19Z",
+      "summary": "কৃষি ফসলের পরামর্শ তৈরি করতে LLM-বাউন্ডেড অপ্টিমাইজেশান এবং সিমুলেশন ব্যবহার করে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f19cf62367e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SecLog-Bench: স্ক্যাফোল্ডেড এভিডেন্স সহ সাইবার সিকিউরিটি লগ রিজনিংয়ের জন্য একটি স্কেলেবল বেঞ্চমার্ক",
+      "link": "https://arxiv.org/abs/2610.31000v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:41:16Z",
+      "summary": "নিরাপত্তা লগ রিজনিং এবং AI এভিডেন্স বিশ্লেষণ মূল্যায়নের জন্য একটি বেঞ্চমার্ক উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bfc57b455cab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "বর্জন দ্বারা সত্যবাদী: LLM-নেটিভ বিজ্ঞাপনের জন্য ক্লিক থিনিং",
+      "link": "https://arxiv.org/abs/2610.30999v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:40:16Z",
+      "summary": "LLM-নেটিভ বিজ্ঞাপন প্ল্যাটফর্মগুলিতে সত্যতা উন্নত করতে ক্লিক থিনিং কৌশল উপস্থাপন করে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "559d72e10961",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কোলাব্যাঞ্চ: পার্সোনাল এজেন্টে মেমোরি-গাইডেড নলেজ অ্যাকুইজিশন মূল্যায়ন",
+      "link": "https://arxiv.org/abs/2610.30989v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:34:52Z",
+      "summary": "পার্সোনাল এজেন্টে মেমোরি-গাইডেড নলেজ অ্যাকুইজিশন ক্ষমতা মূল্যায়ন করার জন্য একটি বেঞ্চমার্ক প্রস্তাব করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f79806a660b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LAST-V2X: V2X সেফটি অ্যাপ্লিকেশনে কমিউনিকেশন-ইনডিউসড ফেইলিওরের জন্য ল্যাঙ্গুয়েজ-ড্রাইভেন অ্যাডাপ্টিভ সিনারিও সিন্থেসিস অ্যান্ড টেস্টিং",
+      "link": "https://arxiv.org/abs/2610.30979v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:24:29Z",
+      "summary": "V2X সিস্টেমে যোগাযোগের ত্রুটিগুলির অ্যাডাপ্টিভ সিনারিও পরীক্ষার জন্য ভাষা মডেল ব্যবহার করে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0432e212043d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "টাইম-সিরিজ ফাউন্ডেশন মডেলের সাথে ইন-সিটু মাটির আর্দ্রতা এবং তাপমাত্রার জিরো-শট ফোরকাস্টিং",
+      "link": "https://arxiv.org/abs/2610.30971v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:16:31Z",
+      "summary": "টাইম-সিরিজ ফাউন্ডেশন মডেল ব্যবহার করে জিরো-শট মাটির আর্দ্রতা এবং তাপমাত্রা পূর্বাভাস প্রদর্শন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bf61e73441de",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কাউন্টারফ্যাকচুয়ালের মাধ্যমে ড্রাইভিং ভিশন-ল্যাঙ্গুয়েজ-অ্যাকশন মডেলে রিজনিং-অ্যাকশন কাপলিং পরিমাপ করা",
+      "link": "https://arxiv.org/abs/2610.30953v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:04:06Z",
+      "summary": "কাউন্টারফ্যাকচুয়াল ব্যবহার করে স্বয়ংক্রিয় ড্রাইভিং ভিশন-ল্যাঙ্গুয়েজ-অ্যাকশন মডেলে রিজনিং-অ্যাকশন কাপলিং মূল্যায়ন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dd8768d8f9ae",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ওপেনঅ্যাটেনশন: টেইল প্রক্সি সহ এক শতাংশই যথেষ্ট",
+      "link": "https://arxiv.org/abs/2610.30951v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T09:03:08Z",
+      "summary": "টেইল প্রক্সি ব্যবহার করে অ্যাটেনশন মেকানিজম দক্ষতা অপ্টিমাইজ করে OpenAttention উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f41625062bae",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "রেটিজেভ: দ্রুত এবং সোর্স-গ্রাউন্ডেড অপথ্যালমিক ডিসিশন মডেল",
+      "link": "https://arxiv.org/abs/2610.30947v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:59:47Z",
+      "summary": "অপথ্যালমিক চিকিৎসার কাজের জন্য দ্রুত এবং সোর্স-গ্রাউন্ডেড ডিসিশন মডেল RetiJev প্রস্তাব করে।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6f953ecb281e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "মেটাকগনিটিভ স্ক্যাফোল্ডগুলি AI-সহায়তাযুক্ত নলেজ ওয়ার্কের জন্য প্রোডাক্টিভ ফ্রিকশন তৈরি করে",
+      "link": "https://arxiv.org/abs/2610.30945v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:59:24Z",
+      "summary": "মেটাকগনিটিভ স্ক্যাফোল্ডিং কীভাবে মানব AI-সহায়তাযুক্ত নলেজ ওয়ার্কফ্লোতে উপকারী ফ্রিকশন তৈরি করে তা অন্বেষণ করে।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e4fdd656eced",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "গেটফরমার: আকাশ বাণীর চিত্র থেকে ইন্ট্রা-আওয়ার সৌর বিকিরণ পূর্বাভাসের জন্য ফোরকাস্ট-স্পেস ডিকম্পোজিশন",
+      "link": "https://arxiv.org/abs/2610.30942v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:58:18Z",
+      "summary": "আকাশ বাণীর চিত্র থেকে ইন্ট্রা-আওয়ার সৌর বিকিরণ পূর্বাভাসের জন্য ফোরকাস্ট-স্পেস ডিকম্পোজিশন ব্যবহার করে GateFormer প্রস্তাব করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "334d390c6706",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ডেটা স্কোর্স স্কাই ইমেজ ব্যবহার করে ইরেডিয়েন্স অনুমান করার জন্য ভিশন ট্রান্সফরমার",
+      "link": "https://arxiv.org/abs/2610.30940v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:57:55Z",
+      "summary": "ডেটা-স্কোর্স স্কাই ইমেজ ব্যবহার করে ইরেডিয়েন্স অনুমান করতে ভিশন ট্রান্সফরমার প্রয়োগ করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d09fafa5906b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "নিউরাল ম্যানিফোল্ডে অর্থের জ্যামিতি",
+      "link": "https://arxiv.org/abs/2610.30938v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:56:55Z",
+      "summary": "নিউরাল ম্যানিফোল্ডের মধ্যে অর্থের জ্যামিতিক গঠন অন্বেষণ করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e131dd856dda",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "স্পেস ডেটা সেন্টারে লো-ল্যাটেন্সি MoE ইনফারেন্স: একটি ওয়্যারলেস-পাওয়ার-ট্রান্সফার পারস্পেক্টিভ",
+      "link": "https://arxiv.org/abs/2610.30923v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:42:28Z",
+      "summary": "ওয়্যারলেস পাওয়ার ট্রান্সফার ব্যবহার করে স্পেস ডেটা সেন্টারে লো-ল্যাটেন্সি মিক্সচার-অফ-এক্সপার্টস ইনফারেন্স তদন্ত করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4065feb10678",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DConstrain: ডিফিউশন ল্যাঙ্গুয়েজ মডেল কনস্ট্রেইন্ড ডিকোডিংয়ের জন্য কনটেক্সট-প্যারামিটারাইজড ট্রানজিশন সংকলন করা",
+      "link": "https://arxiv.org/abs/2610.30920v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:40:11Z",
+      "summary": "ডিফিউশন ল্যাঙ্গুয়েজ মডেল কনস্ট্রেইন্ড ডিকোডিংয়ে কনটেক্সট-প্যারামিটারাইজড ট্রানজিশন সংকলনের জন্য DConstrain উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6dc49717b9f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "অপ্টিমাইজেশান মডেলিং এজেন্ট হিসেবে ল্যাঙ্গুয়েজ মডেলের ব্যবহার",
+      "link": "https://arxiv.org/abs/2610.30917v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:36:27Z",
+      "summary": "অপ্টিমাইজেশান মডেলিং এজেন্ট হিসেবে কাজ করার জন্য ল্যাঙ্গুয়েজ মডেলের ব্যবহার পরীক্ষা করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e1b3b609374",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MIG-COW: গ্রেডিয়েন্ট ডিকম্পোজিশনের মাধ্যমে ডিপফেক ডিটেক্টরের ওপর ট্রান্সফারেবল অ্যাডভারসারিয়াল অ্যাটাক",
+      "link": "https://arxiv.org/abs/2610.30914v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-10-22T08:34:47Z",
+      "summary": "গ্রেডিয়েন্ট ডিকম্পোজিশন ব্যবহার করে ডিপফেক ডিটেক্টরের ওপর ট্রান্সফারেবল অ্যাডভারসারিয়াল অ্যাটাকের জন্য MIG-COW উপস্থাপন করে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e139bc1afe71",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "এই ডিজাইন সফটওয়্যারটি দৈনন্দিন বস্তুকে সেলফ-অ্যাওয়ার ডিভাইস হিসেবে নতুনভাবে কল্পনা করে",
+      "link": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-10-22T20:45:00Z",
+      "summary": "ডিজাইন সফটওয়্যার এম্বেডেড ইন্টেলিজেন্স ব্যবহার করে সাধারণ বস্তুকে সেলফ-অ্যাওয়ার ডিভাইসে রূপান্তরিত করে।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9f986a6c42ed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "ইভেন্ট: HIMSS AI ফোরামে স্বাস্থ্যসেবা AI অংশগ্রহণকারীরা, অংশ ১ - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2RndWZZQldqOEVPcWl4MWNiN2pRN2YwUnE4RVo0VnctZXUwOGhxcEhPNGxKVEJHbjl0QWF2NHlVckZjQ0N6RTEwYUxMUnNqN213OUZaNW9COE5CNDZfNWhJa2M2NC1sYUhRRzFqelFab1FPNUVBV2NmekRnSTM0TGhMbEdLMmRsYzJzczE4bGE?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-22T19:17:21Z",
+      "summary": "HIMSS AI ফোরামে অংশগ্রহণকারীরা স্বাস্থ্যসেবা কৃত্রিম বুদ্ধিমত্তা বাস্তবায়ন এবং চ্যালেঞ্জ নিয়ে আলোচনা করেন।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8c52eef825ab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "HIMSS"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ইভেন্ট: স্বাস্থ্যসেবা AI উদ্ভাবন এবং সাইবার নিরাপত্তার মধ্যে ভারসাম্য বজায় রাখা - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVQydEJvaVVKTlI0dWpwa1lKal9iRDJHUXVmeEtXQ0o1MDI1WmJqTzlFWDNiUlhSdURBd2Y1R1Zjb3ZqOTFyM01CdEo4WG5LOWJmQkFHMnVCVEt2Nmd2bmVPdTc2d2R6a2VNSjBiLW84ckxFQ2hLQUczWWs3ZmotaDRCRXFjM3FaRnFRNGRHS2ZtWXpRNmxoWllR?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-22T23:25:02Z",
+      "summary": "শিল্প ইভেন্টগুলিতে আলোচনা সাইবার হুমকির বিরুদ্ধে স্বাস্থ্যসেবা কৃত্রিম বুদ্ধিমত্তা সিস্টেম সুরক্ষিত করার ওপর ফোকাস করে।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ca5bc3d8d7f1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI-সক্ষম স্টেথোস্কোপ লঞ্চ করল Eko Health - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2xrOUdJNXdUdjhFMEtXZXhPVWNMcEhaQkFjYzcxalR4S0hXUkZVcFVyaG55N1pGeFo1cGpxV081S011U2s1b1VkWWNaUWltLTBtcENSOVlzTVRxSjFRS012NXhjdjRwQ0RpLTlKSDNFa3JUQ2VEMVVvc1lRemRUZGJJUGI?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-10-22T18:42:50Z",
+      "summary": "Eko Health কৃত্রিম বুদ্ধিমত্তা ক্ষমতার সাথে একত্রিত একটি নতুন মেডিকেল স্টেথোস্কোপ নিয়ে এসেছে।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e100f091304b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices",
+        "Tech"
+      ],
+      "companies": [
+        "Eko Health"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Zenzap AI এজেন্টরা স্বাস্থ্যসেবার যোগাযোগের ব্যবধান দূর করে",
+      "link": "https://www.healthcareittoday.com/2026/10/22/zenzap-ai-agents-eliminate-healthcare-communication-gaps/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-10-22T16:00:19Z",
+      "summary": "Zenzap স্বাস্থ্যসেবা সংস্থাগুলির মধ্যে যোগাযোগের ব্যবধান দূর করার জন্য ডিজাইন করা AI এজেন্ট চালু করেছে।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "11f637375732",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Zenzap"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ডেটাবেস গ্রেডিংকে RL রিওয়ার্ডে রূপান্তর করা: ThinkingBox দিয়ে পোস্ট-ট্রেনিং এজেন্ট",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-10-22T22:24:34Z",
+      "summary": "পোস্ট-ট্রেনিং এজেন্টের জন্য ডেটাবেস গ্রেডিংকে রেইনফোর্সমেন্ট লার্নিং রিওয়ার্ডে রূপান্তর করতে Microsoft ThinkingBox নিয়ে এসেছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2ff716135a10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "Microsoft"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "২০২৬ সালের PyTorch ফাউন্ডেশন অ্যাম্বাসেডরদের সাথে পরিচিত হন",
+      "link": "https://pytorch.org/blog/meet-the-2026-pytorch-foundation-ambassadors/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-10-22T17:44:52Z",
+      "summary": "PyTorch ফাউন্ডেশন তাদের ২০২৬ সালের অ্যাম্বাসেডরদের দল ঘোষণা করেছে।",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "91791dd4c175",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "PyTorch"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "কোনো কাজ ছাড়াই একা ছেড়ে দেওয়া হলে, AI এজেন্টরা খেলা শুরু করে",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-23T00:45:37Z",
+      "summary": "অলস ফেলে রাখা AI এজেন্টরা স্বতঃস্ফূর্ত খেলার আচরণ প্রদর্শন করেছে।",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "02cf9a7a48f9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "IPO-এর আগে ১.২৫ ট্রিলিয়ন ডলার মূল্যায়নে নতুন ৩০ বিলিয়ন ডলার ফান্ড তোলার কাজ করছে OpenAI",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T22:08:24Z",
+      "summary": "OpenAI খবর অনুযায়ী ১.২৫ ট্রিলিয়ন ডলার মূল্যায়নে ৩০ বিলিয়ন ডলারের ফান্ডিং রাউন্ডের প্রস্তুতি নিচ্ছে।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c4c762c6b747",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "CFO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "পাসওয়ার্ড না দেখেই আপনার পক্ষে AI এজেন্টদের লগইন করার উপায় নিয়ে এল 1Password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T19:07:09Z",
+      "summary": "1Password একটি নিরাপদ লগইন পদ্ধতি নিয়ে এসেছে যা AI এজেন্টদের পাসওয়ার্ড না দেখেই প্রমাণীকরণ করতে দেয়।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c1230fd4012b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "1Password"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "এর প্রথম ইমেজ জেনারেশন মডেল প্রকাশ করল Canva",
+      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T19:00:00Z",
+      "summary": "Canva এর প্রথম স্বত্বাধিকারী ইমেজ জেনারেশন মডেল লঞ্চ করেছে।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "591876a8e3e0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Canva"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ডিসিশন মডেলের প্রতিযোগিতা বাড়ার সাথে সাথে এর জেভ প্রতিদ্বন্দ্বীকে ব্যাপকভাবে উপলব্ধ করল OpenAI",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T19:00:00Z",
+      "summary": "জেভের সাথে প্রতিদ্বন্দ্বিতাকারী এর ডিসিশন মডেলে প্রবেশাধিকার প্রসারিত করেছে OpenAI।",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8e6cfc22204f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "মাইক্রোসফটের মোস্তফা সোলেমান বলেছেন যে এর AI কঠিন ক্ষেত্রে ডাক্তারদের ছাড়িয়ে গেছে কারণ তিনি ‘মেডিকেল সুপারইন্টেলিজেন্স’-এর পিছনে ছুটছেন",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T18:43:53Z",
+      "summary": "মাইক্রোসফট এক্সিকিউটিভ মোস্তফা সোলেমান দাবি করেছেন যে জটিল চিকিৎসা নির্ণয়ে AI ডাক্তারদের ছাড়িয়ে গেছে।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "bc91e34a2351",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "শুধুমাত্র আপনার কথা শোনে এমন একটি পেন্ডেন্টের জন্য ৩৩ মিলিয়ন ডলার তুলল Nirva",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T13:26:52Z",
+      "summary": "Nirva একটি ভয়েস-রেকর্ডিং পার্সোনাল হার্ডওয়্যার পেন্ডেন্ট তৈরি করতে ৩৩ মিলিয়ন ডলার ফান্ডিং সুরক্ষিত করেছে।",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b1c3b0ce40d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Nirva"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ক্যানভাস-এর প্রথম AI ইমেজ মডেল জেনারেট করার আগে ডিজাইন প্ল্যান করে - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05XNUt3S2l1QkotOUJTMG1HZlpaeWFTXzFFbXZHOFpIa25pODdkTXdvd2VTS2tZb1pKY05ieHB6YUtPLW5DNUpPTzlPc3BDd0dFY3VDSVc3U05VcEV2LVAxVjNfaF9aZGk3bEVCVTlxQ0ZFUExzMWxjUHFTcVpPa1BseW5rdFl1dmN6REd2TkxVWjA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T21:51:25Z",
+      "summary": "Canva-এর নতুন AI ইমেজ মডেল জেনারেট করার আগে লেআউট পরিকল্পনা করে।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2244da81224f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Canva"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "মাইক্রোসফট বলছে এর AI টুল অবস্থা নির্ণয়ে ডাক্তারদের চেয়ে ভালো - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOamtUNVg3S1hZVlF1RGZ4akg3NThwTERFbWpQaUcyMmQ1LVdXM21CYU1mbUhEd28tS2ZicXp1TTBwUlB5Q0xtZllvdkl3WW5sdFZrUXdYRHV4Sk10X3pMWXpBYWhsT1ljQ3BRLUZ3ZXpXeElFX2VqWXRjcm9NYV9vU3hTb1NZM0tCNTJLNnBNaW5XVTJTd2ZyNkxpYlQ4aFpUZDc3MXBmUzZySkdRa0drQnZVdDBqcmc0aUl4QnpaUkRGYUE0UnQzMHdZMVpGRmRuWmc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T18:00:00Z",
+      "summary": "মাইক্রোসফট জানিয়েছে যে তাদের AI টুল ক্লিনিক্যাল Diagnoses-এ চিকিৎসকদের ছাড়িয়ে গেছে।",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ee5ce4a3fd86",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "AI স্লপ লিস্টিংয়ের বিরুদ্ধে কঠোর ব্যবস্থা নিচ্ছে Etsy - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWJjQlZ3U1MwUDVKUUpvbWdsYUx1MktZUVpqeTNkU1JHQ3VFa0NqMEhPSDBvN29fdUE2Vm5xbTgyYncydU5QN25PSGJTbjQxa0d4YTRXcTB0SFdlRmNyc0Fna3FUR2xnMk5DRGVYR0VVNFhwOFdRRDBUMms3TjNvVFgtcWo0Ulhn?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-23T00:09:00Z",
+      "summary": "Etsy কম মানের AI-জেনারেটেড পণ্য তালিকার বিরুদ্ধে ব্যবস্থা নিচ্ছে।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "723bf96ae2de",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Tech"
+      ],
+      "companies": [
+        "Etsy"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "আইনি বিশেষজ্ঞরা বলছেন, মেটার AI এখনও নিউজ সাইট স্ক্র্যাপ করতে পারে - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMjEwVHJwV0FYSGtBT2ZtSGVQbW5CdkRvaGRLR25YRXdHNDFmZno0STkxU2FTQnlya1E0a0Z3OVNzWTZpVExveDloQnJfRndwUnRQdEZHWFpkT0IycURhVV9YamZwNk54R3daZ0s1WXZUVkxjVE9HSkFMV2NUMGNZWFlB?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T20:32:05Z",
+      "summary": "আইনি বিশেষজ্ঞরা বলছেন মেটার AI-এর কাছে নিউজ পাবলিশারদের স্ক্র্যাপ করার পথ এখনও থাকতে পারে।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cfc60ff1d358",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ওয়াইল্ডউডের পরিচালক বলেছেন AI হলো 'আমাদের স্টুডিওতে যা আছে তার সবকিছুর পরিপন্থী' - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUJXcnZMZkd6Tmt1ZGFIcTNkU2x0ZjI2bGM3eE9EUHMwd19JYndlOWsza1RaQ1ZkNm4yZGp0RWhaUk1jcTlTQmNvWW1lZ3VHWUV3RzJMd1dEbkpkWTl6Wk5xN2JRdUVjZUIxQU5ndy1XQlpkMlNEMW9WWFRyS0hkQTQ2ZG1rYktkX2hCUk9oUFlXaVpOY1ZqbFpJYjRiR3RiMWc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T16:16:15Z",
+      "summary": "স্টুডিও পরিচালক কৃত্রিম বুদ্ধিমত্তাকে তাদের সৃজনশীল কাজের পরিপন্থী বলে সমালোচনা করেছেন।",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5de4bd9c8d64",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "মেটার ভবিষ্যতের সংস্করণে, আমার মিউজ আপনার মিউজকে কল করবে - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aanZGZUZFUEg5MDZ0amszdFUwcEVCSTdyQVVCdFdlZ1NSM0VWeFI2MEJXdm9ITEdxZUtnbnlKMWJ3RHZlWlJNeFBMbWRwa1dSN21GX3lCVkctXy1idDdQVEVOU1hraXNfc203OTcwWnVVVGJmZVBfNUQ3TEtMQnM?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T18:15:00Z",
+      "summary": "মেটা ব্যক্তিগতকৃত AI সহকারীর একসাথে যোগাযোগের ভবিষ্যৎ দৃষ্টিভঙ্গি তুলে ধরেছে।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0e136f47c9dc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "OpenAI, Anthropic এবং Nvidia রেকর্ড লবিং কোয়ার্টার পার করেছে - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0hxeEo0VVdfWjZ2Mkh6QTJWZU05RU9rY3lUamNCVkprTGRHak9XR3hkSEIwSnRSVWRFZHpkS3ZxNWpPTURvOTA4amZGdjIzcXFpN1N6QlhZbG8tb0J0ZXk5OXJ4MGdrbGUzblowaHVPUVpQZXZSb1pBeG9BSlhkX1FnbjZuTTg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T15:50:30Z",
+      "summary": "OpenAI, Anthropic এবং Nvidia সাম্প্রতিক কোয়ার্টারে রেকর্ড পরিমাণ লবিং খরচের কথা জানিয়েছে।",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6c9e3ece38f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Anthropic",
+        "Nvidia",
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "পুরোনো গেম এবং AI ব্যবহার করে কেউ সুইচ ২ হ্যাক করেছে - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UTTVoYWZoS2lQUkRSNEk2UkRHd29VX2p3Y1N2SDZVQ29KQ0dGRnBfZ000RV9fZWpWU1hCWVFUVVF5X0pkNlVVSFBUVzlpOERXamhKSkQ3RkVLUE4xVF9FZGRFRjh3LVBybmVyTWRfY0dmT1F5N1F3QQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-10-22T17:21:31Z",
+      "summary": "একজন হ্যাকার সুইচ ২ হ্যাক করতে একটি পুরোনো গেম এবং AI ব্যবহার করেছিলেন।",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c8911bec4095",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "শেষ বাস্তব প্রোগ্রামাররা মারা যাচ্ছে...",
+      "link": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-10-22T15:09:31Z",
+      "summary": "প্রযুক্তির পরিবর্তনের মাঝে সফটওয়্যার ডেভেলপমেন্টের বিবর্তন নিয়ে আলোচনা।",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "2affa4d39e61",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "OpenAI-তে FDE মানে কী",
       "link": "https://openai.com/index/forward-deployed-engineering-means",
