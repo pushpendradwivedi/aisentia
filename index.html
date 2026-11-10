@@ -400,6 +400,7 @@ html[data-theme="dark"] #ai-sentia-theme-toggle { background:#21262d; border-col
            class="flex items-center gap-1.5 text-xs font-bold text-gray-500 hover:text-g-blue transition whitespace-nowrap">
             💡 Request Feature
         </a>
+        <button id="ai-sentia-theme-toggle" type="button" aria-label="Switch to dark mode">Dark mode</button>
         <a href="https://aiforanalyticsandads.substack.com/s/ai-daily-signal" target="_blank" rel="noopener noreferrer"
           class="flex items-center gap-2 bg-[#FF6719] hover:bg-orange-600 text-white px-4 py-2 rounded-full text-xs font-bold transition shadow-sm whitespace-nowrap">
             <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24"><path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24L12 18.11 22.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z"/></svg>
@@ -1448,12 +1449,46 @@ function app() {
 
 
 <script id="ai-sentia-safe-theme-script">
-(function(){
-  const K='ai-sentia-theme', r=document.documentElement;
-  function theme(){try{return localStorage.getItem(K)||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch(e){return 'light'}}
-  function apply(x){r.setAttribute('data-theme',x);r.style.colorScheme=x;const b=document.getElementById('ai-sentia-theme-toggle');if(b){b.textContent=x==='dark'?'Light mode':'Dark mode';b.setAttribute('aria-label',x==='dark'?'Switch to light mode':'Switch to dark mode')}}
-  function install(){if(document.getElementById('ai-sentia-theme-toggle'))return;const c=[...document.querySelectorAll('a')].find(a=>(a.textContent||'').includes('Get Daily AI News'));if(!c)return;const b=document.createElement('button');b.id='ai-sentia-theme-toggle';b.type='button';b.onclick=()=>{const x=r.getAttribute('data-theme')==='dark'?'light':'dark';try{localStorage.setItem(K,x)}catch(e){}apply(x)};const w=document.createElement('div');w.style.cssText='display:inline-flex;align-items:center;gap:.5rem';w.appendChild(b);c.parentElement.insertBefore(w,c);apply(theme())}
-  apply(theme()); if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',install,{once:true});else install();
+(function () {
+  const KEY = 'ai-sentia-theme';
+  const root = document.documentElement;
+  const button = document.getElementById('ai-sentia-theme-toggle');
+  function systemTheme() {
+    return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  }
+  function savedTheme() {
+    try { return localStorage.getItem(KEY) || systemTheme(); }
+    catch (error) { return systemTheme(); }
+  }
+  function applyTheme(theme) {
+    root.setAttribute('data-theme', theme);
+    root.style.colorScheme = theme;
+    if (button) {
+      button.textContent = theme === 'dark' ? 'Light mode' : 'Dark mode';
+      button.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+      button.setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
+    }
+  }
+  applyTheme(savedTheme());
+  if (button) {
+    button.addEventListener('click', function () {
+      const next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      try { localStorage.setItem(KEY, next); } catch (error) {}
+      applyTheme(next);
+    });
+  }
+  if (window.matchMedia) {
+    const preference = window.matchMedia('(prefers-color-scheme: dark)');
+    const onPreferenceChange = function () {
+      try {
+        if (!localStorage.getItem(KEY)) applyTheme(systemTheme());
+      } catch (error) {
+        applyTheme(systemTheme());
+      }
+    };
+    if (preference.addEventListener) preference.addEventListener('change', onPreferenceChange);
+    else if (preference.addListener) preference.addListener(onPreferenceChange);
+  }
 })();
 </script>
 </body>
