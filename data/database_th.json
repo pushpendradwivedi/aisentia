@@ -1,6 +1,984 @@
 {
-  "refreshed_at": "2026-11-10 08:31 UTC",
+  "refreshed_at": "2026-11-10 11:20 UTC",
   "items": [
+    {
+      "title": "การปิดช่องว่างด้านคำแนะนำเกี่ยวกับ AI ในการศึกษา",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-10T09:00:00Z",
+      "summary": "OpenAI จัดการกับความต้องการคำแนะนำด้าน AI ในสภาพแวดล้อมทางการศึกษา",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7f83c7f8edca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "HiVe-Mem: การสลับการขยายหน่วยความจำแนวนอนและการรวบรวมหลักฐานแนวตั้งสำหรับเอเจนต์แบบหลายรูปแบบ (Multimodal Agents)",
+      "link": "https://arxiv.org/abs/2611.12872v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:57:00Z",
+      "summary": "นำเสนอ HiVe-Mem เพื่อปรับปรุงการขยายหน่วยความจำและการรวบรวมหลักฐานของเอเจนต์แบบหลายรูปแบบ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "04e61b34ee6f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ทางลัดและขอบเขต: การไม่สอดคล้องกันของ RL ที่ตรวจสอบได้และการเรียนรู้ความปลอดภัยตามบริบท",
+      "link": "https://arxiv.org/abs/2611.12865v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:52:20Z",
+      "summary": "สำรวจกรอบการทำงานของการไม่สอดคล้องกันของการเรียนรู้แบบเสริมกำลัง (Reinforcement Learning) ที่ตรวจสอบได้ และการเรียนรู้ความปลอดภัยตามบริบท",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "57055fa59d2a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การเขียนโปรแกรมเพื่อการคาดการณ์ล่วงหน้า: ปัญหาในการสร้างบอทพยากรณ์โดยมนุษย์",
+      "link": "https://arxiv.org/abs/2611.12834v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:33:13Z",
+      "summary": "วิเคราะห์ปัญหาที่พบระหว่างการสร้างบอทพยากรณ์ AI โดยมนุษย์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "164aa66e551b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MaxIM: การสรุปความแบบเพิ่มหน่วยที่ให้ข้อมูลสูงสุดผ่านการเรียนรู้แบบเสริมกำลัง",
+      "link": "https://arxiv.org/abs/2611.12825v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:25:42Z",
+      "summary": "แนะนำ MaxIM สำหรับการสรุปข้อความแบบเพิ่มหน่วยที่ให้ข้อมูลสูงสุดโดยใช้การเรียนรู้แบบเสริมกำลัง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bc43195fbe8c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LUCQUE: ชุดข้อมูลการตรวจคัดกรองมะเร็งปอดจากรัฐเกแบ็กเพื่อการประเมิน AI ที่เชื่อถือได้",
+      "link": "https://arxiv.org/abs/2611.12817v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:21:18Z",
+      "summary": "เปิดตัว LUCQUE ซึ่งเป็นชุดข้อมูลการตรวจคัดกรองมะเร็งปอดจากรัฐเกแบ็กสำหรับการประเมิน AI ที่เชื่อถือได้",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eee1346395b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Canada"
+      ]
+    },
+    {
+      "title": "กระบวนการจัดหาความรู้แบบอัตโนมัติสำหรับคำแนะนำในการถอดชิ้นส่วน: การเปรียบเทียบระหว่าง NLP และกรอบการทำงาน Generative AI",
+      "link": "https://arxiv.org/abs/2611.12816v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:19:57Z",
+      "summary": "เปรียบเทียบ NLP และกรอบการทำงาน Generative AI สำหรับการจัดหาความรู้ตามคำแนะนำในการถอดชิ้นส่วนโดยอัตโนมัติ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7508ec299fe9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "2D Gum-Net: การลงทะเบียนภาพแบบยืดหยุ่นหนาแน่นแบบไม่มีผู้สอนผ่านความสัมพันธ์แบบสมมาตรและการรวมสเปกตรัม",
+      "link": "https://arxiv.org/abs/2611.12805v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:11:45Z",
+      "summary": "นำเสนอ 2D Gum-Net สำหรับการลงทะเบียนภาพแบบยืดหยุ่นหนาแน่นแบบไม่มีผู้สอนโดยใช้ความสัมพันธ์แบบสมมาตรและการรวมสเปกตรัม",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "00feda87adbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Agentic-OPD: การกู้คืนความสามารถของเอเจนต์ที่ถูกลืมผ่าน On-Policy Distillation สำหรับงานของเอเจนต์",
+      "link": "https://arxiv.org/abs/2611.12799v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:07:42Z",
+      "summary": "นำเสนอ Agentic-OPD เพื่อกู้คืนความสามารถที่ถูกลืมในเอเจนต์ AI โดยใช้ On-Policy Distillation",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7d518a5286b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LogCDM: การตรวจจับความผิดปกติของบันทึกที่ตีความได้ผ่านการเบี่ยงเบนของกราฟพฤติกรรมและการรวมสัญญาณแบบปรับตัว",
+      "link": "https://arxiv.org/abs/2611.12775v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:48:31Z",
+      "summary": "แนะนำ LogCDM สำหรับการตรวจจับความผิดปกติของบันทึกที่ตีความได้ โดยรวมการเบี่ยงเบนของกราฟพฤติกรรมและการรวมสัญญาณแบบปรับตัวเข้าด้วยกัน",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a1e2edeb5959",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PORT: การเพิ่มประสิทธิภาพความชอบผ่านการปรับน้ำหนักระดับโทเค็นที่แข็งแกร่ง",
+      "link": "https://arxiv.org/abs/2611.12763v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:38:16Z",
+      "summary": "แนะนำ PORT สำหรับการเพิ่มประสิทธิภาพความชอบโดยใช้กลยุทธ์การปรับน้ำหนักระดับโทเค็นที่แข็งแกร่ง",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b1d7eff64a55",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sage-Taiyi: สถาปัตยกรรมอภิปัญญาสำหรับการค้นพบทางวิทยาศาสตร์",
+      "link": "https://arxiv.org/abs/2611.12762v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:38:05Z",
+      "summary": "นำเสนอสถาปัตยกรรม AI เชิงอภิปัญญาที่ออกแบบมาเพื่ออำนวยความสะดวกในกระบวนการค้นพบทางวิทยาศาสตร์แบบอัตโนมัติ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "61703a91ee2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepChronos: การใช้เหตุผลเชิงสัญลักษณ์ประสาทชั่วคราวสำหรับการตรวจจับการโจมตีแบบหลายขั้นตอน",
+      "link": "https://arxiv.org/abs/2611.12760v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:37:36Z",
+      "summary": "นำเสนอแนวทางการใช้เหตุผลเชิงสัญลักษณ์ประสาทชั่วคราวสำหรับการตรวจจับการโจมตีทางความปลอดภัยแบบหลายขั้นตอน",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f35a6511d8b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ช่องว่างทางเรื่องเล่า: LLMs ช่วยให้เรานำทางผ่านเรื่องเล่าที่หลากหลายในภาษาต่างๆ ได้หรือไม่?",
+      "link": "https://arxiv.org/abs/2611.12750v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:31:47Z",
+      "summary": "ประเมินว่าโมเดลภาษาขนาดใหญ่ (LLMs) จัดการกับเรื่องเล่าที่หลากหลายในหลายภาษาอย่างไร",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f0e0a78ffabb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "$Σ$-LeWM: การเรียนรู้โมเดลโลกผ่าน S-Information สำหรับการควบคุมหุ่นยนต์",
+      "link": "https://arxiv.org/abs/2611.12732v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:18:27Z",
+      "summary": "แนะนำเทคนิคการเรียนรู้โมเดลโลกโดยใช้ S-information เพื่อปรับปรุงการควบคุมหุ่นยนต์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "635c62045881",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การเรียนรู้แบบเสริมกำลังที่ปลอดภัยสำหรับเอเจนต์ทางคลินิกแบบหลายรอบ: เมื่อรางวัลแบบหนาแน่นเอาชนะรางวัลผลลัพธ์",
+      "link": "https://arxiv.org/abs/2611.12728v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:14:40Z",
+      "summary": "สำรวจวิธีการเรียนรู้แบบเสริมกำลังที่ปลอดภัยโดยเปรียบเทียบรางวัลแบบหนาแน่นและรางวัลผลลัพธ์สำหรับเอเจนต์ทางคลินิก",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9d406670a303",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การคัดกรองแบบหลายเอเจนต์: สิ่งที่ข้อตกลงและการยอมรับบอกคุณไม่ได้",
+      "link": "https://arxiv.org/abs/2611.12705v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:00:16Z",
+      "summary": "วิเคราะห์ข้อจำกัดของตัวชี้วัดข้อตกลงและการยอมรับในกรอบการทำงานการคัดกรองแบบหลายเอเจนต์",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c08f8e02955f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GeoScope: การดำเนินการโปรแกรมแบบไม่ต้องฝึกฝนเกินขอบเขตการนับสำหรับการตอบคำถามการรับรู้ระยะไกลที่มีความละเอียดสูงพิเศษ",
+      "link": "https://arxiv.org/abs/2611.12699v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:57:25Z",
+      "summary": "นำเสนอกรอบการทำงานการดำเนินการโปรแกรมแบบไม่ต้องฝึกฝนสำหรับการตอบคำถามเชิงภาพจากการรับรู้ระยะไกลที่มีความละเอียดสูงพิเศษ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fd6e102a18bc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Computer Vision Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "reComposer: การวางแผนที่แก้ไขได้สำหรับการสร้างภาพที่ควบคุมได้",
+      "link": "https://arxiv.org/abs/2611.12687v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:49:45Z",
+      "summary": "แนะนำแนวทางการวางแผนที่แก้ไขได้เพื่อเพิ่มการควบคุมในงานสร้างภาพเชิงกำเนิด",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "38d533c6b811",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Artist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Library of Hands: แก้ไขที่มือ ไม่ใช่ที่โมเดลโลก",
+      "link": "https://arxiv.org/abs/2611.12678v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:45:11Z",
+      "summary": "เสนอให้แก้ไขโมเดลมือหุ่นยนต์แทนที่จะแก้ไขโมเดลโลกทั้งหมดเพื่อการจัดการที่ดีขึ้น",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b5a630e3b289",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ความสามารถในการตีความไม่ได้จำกัดอยู่แค่เฉพาะโมเดล",
+      "link": "https://arxiv.org/abs/2611.12675v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:43:26Z",
+      "summary": "อภิปรายว่าเทคนิคความสามารถในการตีความไม่ควรจำกัดอยู่เพียงสถาปัตยกรรมโมเดลเฉพาะ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eb9148c23195",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "รับรอง รายงาน หรือปฏิเสธ: การทำนายแบบคอนฟอร์มัลที่มีข้อจำกัดด้านอันตรายสำหรับการดำเนินการทางคลินิก",
+      "link": "https://arxiv.org/abs/2611.12662v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:30:44Z",
+      "summary": "ประยุกต์ใช้การทำนายแบบคอนฟอร์มัลที่มีข้อจำกัดด้านอันตรายเพื่อให้มั่นใจในความปลอดภัยในการตัดสินใจทางคลินิก",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "32bb1a1c0413",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TrialDesignBench: การเปรียบเทียบโมเดลภาษาสำหรับการออกแบบการทดลองระยะที่ 1 เทียบกับความรู้ทางคลินิก",
+      "link": "https://arxiv.org/abs/2611.12640v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:15:57Z",
+      "summary": "แนะนำเกณฑ์มาตรฐานในการประเมินโมเดลภาษาเกี่ยวกับความสามารถในการออกแบบการทดลองทางคลินิกระยะที่ 1",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fab9ba6daad6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "นอกเหนือจากท้องฟ้าแจ่มใส: การใช้โมเดลภาษาขนาดใหญ่เพื่อทำนายการจราจรในเมืองในสภาพอากาศที่ไม่เอื้ออำนวย",
+      "link": "https://arxiv.org/abs/2611.12635v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:12:51Z",
+      "summary": "ประเมินการใช้โมเดลภาษาขนาดใหญ่เพื่อทำนายการจราจรในเมืองภายใต้สภาพอากาศที่ไม่เอื้ออำนวย",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1cd79affbd62",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การปรับโมเดลภาษาขนาดเล็กให้เข้ากับภาษาเนปาลแบบโรมัน: ความอุดมสมบูรณ์ของโทเค็น ความน่าจะเป็นอ้างอิง และตัวชี้วัดการสร้าง",
+      "link": "https://arxiv.org/abs/2611.12628v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:10:12Z",
+      "summary": "ตรวจสอบตัวชี้วัดและกลยุทธ์การปรับตัวสำหรับการฝึกโมเดลภาษาขนาดเล็กด้วยภาษาเนปาลแบบโรมัน",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c3873d90cf2c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "การประเมินแบบ Double Blind: การแก้ไขภาวะกลืนไม่เข้าคายไม่ออกด้านความลับคู่ในการตรวจสอบความปลอดภัยของ AI",
+      "link": "https://arxiv.org/abs/2611.12604v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T15:48:07Z",
+      "summary": "เสนอการประเมินแบบ Double Blind เพื่อจัดการกับปัญหาความลับระหว่างการตรวจสอบความปลอดภัยของ AI",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "78571c3e9bd4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "เปิดโปงปัญหา Knapsack สี่ประการในเกณฑ์มาตรฐาน Traveling Thief",
+      "link": "https://arxiv.org/abs/2611.12597v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T15:45:46Z",
+      "summary": "ระบุและวิเคราะห์รูปแบบปัญหา Knapsack สี่ประการภายในเกณฑ์มาตรฐาน Traveling Thief",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "63533e1eaaf2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AgentOPSD: การกำหนดเครดิตระดับรอบผ่านการแก้ไขความเชื่อแบบเรียกซ้ำ",
+      "link": "https://arxiv.org/abs/2611.12587v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T15:40:43Z",
+      "summary": "นำเสนอวิธีการกำหนดเครดิตระดับรอบสำหรับเอเจนต์โดยใช้การแก้ไขความเชื่อแบบเรียกซ้ำ",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6089c636c2c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ความคิดเห็น: คำแนะนำด้านสุขภาพของ AI อาจแม่นยำแต่ยังคงทำให้เราป่วยหนักขึ้นได้",
+      "link": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-11-10T09:30:00Z",
+      "summary": "คำแนะนำด้านสุขภาพจาก AI ที่แม่นยำอาจส่งผลเสียต่อพฤติกรรมของผู้ป่วยและผลลัพธ์ทางสุขภาพ",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2f8bc71f0a97",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Crosby รับประกันเอเจนต์ผู้ช่วยทนายความ – บทสัมภาษณ์",
+      "link": "https://www.artificiallawyer.com/2026/11/10/crosby-insures-paralegal-agents-interview/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-10T09:51:18Z",
+      "summary": "บทสัมภาษณ์ที่อภิปรายถึงข้อเสนอการประกันภัยของ Crosby สำหรับเอเจนต์ผู้ช่วยทนายความ AI",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "da0fb343918f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Insurance"
+      ],
+      "companies": [
+        "Crosby"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ทนายความประดิษฐ์ในการสนทนากับ Axiom",
+      "link": "https://www.artificiallawyer.com/2026/11/10/artificial-lawyer-in-conversation-with-axiom/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-10T08:18:54Z",
+      "summary": "บทสัมภาษณ์กับ Axiom เกี่ยวกับเทคโนโลยีกฎหมายและภาคส่วนกฎหมาย",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5ba2d1e8de26",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Axiom"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "มีรายงานว่า Jensen Huang ได้ว่าจ้างบริษัท PR ที่มีประวัติจัดการเรื่องอื้อฉาวทางเพศระดับสูงเมื่อปีที่แล้ว",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T23:28:37Z",
+      "summary": "รายงานระบุว่า Jensen Huang ได้ว่าจ้างบริษัทประชาสัมพันธ์ที่มีส่วนเกี่ยวข้องกับเรื่องอื้อฉาวระดับสูงมาก่อน",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a418baa2661a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "นักขายชอร์ต (Short seller) ได้แจ้งเตือนความสัมพันธ์ของ CEO Nvidia กับสายลับจีนที่น่าสงสัยหกเดือนก่อนเกิดเรื่องอื้อฉาว",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T22:46:09Z",
+      "summary": "นักขายชอร์ตแจ้งเตือนความสัมพันธ์ของ CEO Nvidia กับสายลับที่น่าสงสัยหลายเดือนก่อนเกิดเรื่องอื้อฉาว",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "67a80703c5c3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "การแข่งขันเพื่อฟ้องร้อง Nvidia เริ่มขึ้นแล้ว",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T22:23:42Z",
+      "summary": "การฟ้องร้อง Nvidia เกิดขึ้นตามมาหลังจากความขัดแย้งของผู้บริหารเมื่อเร็วๆ นี้",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e7ff3531a33d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Legal"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Jensen Huang ถอนตัวจาก ElevenLabs Summit ท่ามกลางความขัดแย้งของ Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T20:09:06Z",
+      "summary": "Jensen Huang ซีอีโอของ Nvidia ถอนตัวจากการประชุม ElevenLabs Summit ท่ามกลางความขัดแย้งที่กำลังดำเนินอยู่",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cd02f18399f3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "ElevenLabs",
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "อนาคตของ AI ขึ้นอยู่กับ... ชีวิตทางเพศของ Jensen Huang? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTdxeEZ4QkhUaHBQbWFMa01iYk1JQ08yWE9nT0c2dWhHYlozNUpmX05kcWd3dkdqOHJROHFUbGg1Y2FEWkxRdmFqamY3OTluLVJGMG1vNjVCeTNYbTMzM0o1YzBjc1ZYTVpUM1lsaUx3amJSb1BLZ2RiMXBmbWpibkxMUk9SN0pTcWJnVDVjWWhJYVhBVl9KMQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T17:36:08Z",
+      "summary": "บทความแสดงความคิดเห็นที่อภิปรายเกี่ยวกับ Jensen Huang ซีอีโอของ Nvidia ท่ามกลางความขัดแย้งในปัจจุบัน",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4213fa942158",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ทุกสิ่งที่เรารู้จนถึงตอนนี้เกี่ยวกับเรื่องอื้อฉาวสายลับ Nvidia ที่พุ่งเป้าไปที่ซีอีโอ Jensen Huang - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2llVFEzTzBjQ2VGVjBFbTFScmR1NjVfbFY1MHc3eHFEc3NMWHIySnZZVEUtb2xKc0p5UmRoYkFSbWpuVldIMHNRVFJhc2tlaHUzVDNfZ3p6MkprcDZ4MTI5V2JrTDhXSG9Ja211enlHd201SmFxemZvbHF5ZTVMNHpYTmlRVDZMQmR1dG1fWGhXWnFqU1NLcy11WENrV3haVWc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T23:08:03Z",
+      "summary": "ภาพรวมของข้อเท็จจริงเกี่ยวกับเรื่องอื้อฉาวการจารกรรมที่เกี่ยวข้องกับซีอีโอของ Nvidia",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "deef23d9bfb3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "พรรครีพับลิกันแชร์คำขอสำหรับการ 'บรรยายสรุปแบบปิด' กับ Jensen Huang ในสัปดาห์หน้าอีกครั้ง - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNFN0Vm1yaUpFSUY3M0VGdlMwS0h4RDV0dGw3NVFMZjQ4dmVjck5LVzhPUkxobFVINlFadWJRRXZEblRBZlUtYlBwalZsM3BscjloN0lNM3pBcldNYUFZZEp5R0xGTzhOV3VsVjVGbklLSjlzWEd2T3V4cGFNYzFQXy1wQlNuX2xVa0dqUmdFSjFQbXRlUjVWdWJkQjlaUjRTZ1NHZ3dmSkZEc2JYNlh1THBOUE1IZ0RMaE4xV1pyZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T20:21:15Z",
+      "summary": "พรรครีพับลิกันเรียกร้องอีกครั้งสำหรับการบรรยายสรุปในรัฐสภาแบบปิดกับซีอีโอของ Nvidia",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "01405d40ad06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Government"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "ซอฟต์แวร์จบสิ้นแล้วหรือ?",
+      "link": "https://www.youtube.com/watch?v=vug73goPJaM",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-11-10T10:15:57Z",
+      "summary": "การอภิปรายตรวจสอบอนาคตของการพัฒนาซอฟต์แวร์ในยุคของ AI ขั้นสูง",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "41992b3879b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "ChatGPT Enterprise วางจำหน่ายแล้วใน AWS Marketplace",
       "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",

@@ -1,6 +1,984 @@
 {
-  "refreshed_at": "2026-11-10 08:31 UTC",
+  "refreshed_at": "2026-11-10 11:20 UTC",
   "items": [
+    {
+      "title": "Устранение разрыва в руководствах по ИИ в сфере образования",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-10T09:00:00Z",
+      "summary": "OpenAI решает проблему нехватки руководств по использованию ИИ в образовательных учреждениях.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7f83c7f8edca",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "HiVe-Mem: чередование горизонтального расширения памяти и вертикальной композиции доказательств для мультимодальных агентов",
+      "link": "https://arxiv.org/abs/2611.12872v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:57:00Z",
+      "summary": "Представлен HiVe-Mem для улучшения расширения памяти и композиции доказательств у мультимодальных агентов.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "04e61b34ee6f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ярлыки и границы: проверяемое несоответствие целей в обучении с подкреплением и контекстное обучение безопасности",
+      "link": "https://arxiv.org/abs/2611.12865v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:52:20Z",
+      "summary": "Исследуются проверяемые методы несоответствия целей в обучении с подкреплением и фреймворки контекстного обучения безопасности.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "57055fa59d2a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Программирование предвидения: проблемы при создании человеком ботов для прогнозирования",
+      "link": "https://arxiv.org/abs/2611.12834v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:33:13Z",
+      "summary": "Анализируются проблемы, возникающие при создании человеком ИИ-ботов для прогнозирования.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "164aa66e551b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MaxIM: максимально информативное инкрементальное суммаризирование с помощью обучения с подкреплением",
+      "link": "https://arxiv.org/abs/2611.12825v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:25:42Z",
+      "summary": "Представлен MaxIM для максимально информативного инкрементального суммаризирования текста с использованием обучения с подкреплением.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "bc43195fbe8c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LUCQUE: набор данных для скрининга рака легких из Квебека для надежной оценки ИИ",
+      "link": "https://arxiv.org/abs/2611.12817v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:21:18Z",
+      "summary": "Выпущен LUCQUE, набор данных для скрининга рака легких из Квебека для надежной оценки ИИ.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eee1346395b0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Canada"
+      ]
+    },
+    {
+      "title": "Автоматизированный конвейер сбора знаний для инструкций по разборке: сравнение NLP и фреймворков генеративного ИИ",
+      "link": "https://arxiv.org/abs/2611.12816v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:19:57Z",
+      "summary": "Сравниваются NLP и фреймворки генеративного ИИ для автоматизированного сбора знаний из инструкций по разборке.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7508ec299fe9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "2D Gum-Net: неконтролируемая плотная эластичная регистрация изображений с помощью симметричной корреляции и спектрального пулинга",
+      "link": "https://arxiv.org/abs/2611.12805v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:11:45Z",
+      "summary": "Предложен 2D Gum-Net для неконтролируемой плотной эластичной регистрации изображений с использованием симметричной корреляции и спектрального пулинга.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "00feda87adbe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Agentic-OPD: восстановление забытых способностей агентов через дистилляцию на основе политики для агентных задач",
+      "link": "https://arxiv.org/abs/2611.12799v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T18:07:42Z",
+      "summary": "Представлен Agentic-OPD для восстановления забытых способностей ИИ-агентов с помощью дистилляции на основе политики.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7d518a5286b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LogCDM: интерпретируемое обнаружение аномалий в логах через дрейф поведенческого графа и адаптивное слияние сигналов",
+      "link": "https://arxiv.org/abs/2611.12775v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:48:31Z",
+      "summary": "Представлен LogCDM для интерпретируемого обнаружения аномалий в логах, сочетающий дрейф поведенческого графа и адаптивное слияние сигналов.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a1e2edeb5959",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PORT: оптимизация предпочтений через надежное перевзвешивание на уровне токенов",
+      "link": "https://arxiv.org/abs/2611.12763v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:38:16Z",
+      "summary": "Представлен PORT для оптимизации предпочтений с использованием стратегий надежного перевзвешивания на уровне токенов.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b1d7eff64a55",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sage-Taiyi: метакогнитивная архитектура для научных открытий",
+      "link": "https://arxiv.org/abs/2611.12762v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:38:05Z",
+      "summary": "Предложена метакогнитивная архитектура ИИ, предназначенная для содействия процессам автоматизированных научных открытий.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "61703a91ee2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "DeepChronos: временные нейросимволические рассуждения для обнаружения многошаговых атак",
+      "link": "https://arxiv.org/abs/2611.12760v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:37:36Z",
+      "summary": "Представлен подход временных нейросимволических рассуждений для обнаружения многошаговых атак в сфере безопасности.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f35a6511d8b8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Нарративный разрыв: могут ли LLM помочь нам ориентироваться в разнообразных нарративах на разных языках?",
+      "link": "https://arxiv.org/abs/2611.12750v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:31:47Z",
+      "summary": "Оценивается, как большие языковые модели справляются с разнообразными нарративами на разных языках.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f0e0a78ffabb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "$Σ$-LeWM: обучение моделей мира через S-информацию для управления роботами",
+      "link": "https://arxiv.org/abs/2611.12732v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:18:27Z",
+      "summary": "Представлен метод обучения моделей мира с использованием S-информации для улучшения управления роботами.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "635c62045881",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Безопасное обучение с подкреплением для многоходовых клинических агентов: когда плотные вознаграждения лучше вознаграждений за результат",
+      "link": "https://arxiv.org/abs/2611.12728v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:14:40Z",
+      "summary": "Исследуются методы безопасного обучения с подкреплением, сравнивающие плотные вознаграждения и вознаграждения за результат для клинических агентов.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9d406670a303",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Мультиагентный скрининг: о чем не могут сказать согласие и принятие",
+      "link": "https://arxiv.org/abs/2611.12705v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T17:00:16Z",
+      "summary": "Анализируются ограничения метрик согласия и принятия во фреймворках мультиагентного скрининга.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c08f8e02955f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GeoScope: выполнение программ без обучения за пределами горизонта подсчета для ответов на вопросы по дистанционному зондированию сверхвысокого разрешения",
+      "link": "https://arxiv.org/abs/2611.12699v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:57:25Z",
+      "summary": "Представлен фреймворк выполнения программ без обучения для ответов на визуальные вопросы по дистанционному зондированию сверхвысокого разрешения.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fd6e102a18bc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Computer Vision Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "reComposer: редактируемое планирование для управляемой генерации изображений",
+      "link": "https://arxiv.org/abs/2611.12687v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:49:45Z",
+      "summary": "Представлен подход редактируемого планирования для улучшения контроля в задачах генерации изображений.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "38d533c6b811",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Artist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Библиотека рук: исправляйте руки, а не модель мира",
+      "link": "https://arxiv.org/abs/2611.12678v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:45:11Z",
+      "summary": "Предложено исправлять модели роботизированных рук вместо всей модели мира для улучшения манипуляций.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b5a630e3b289",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Интерпретируемость не зависит от модели",
+      "link": "https://arxiv.org/abs/2611.12675v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:43:26Z",
+      "summary": "Обсуждается, почему методы интерпретируемости не должны ограничиваться конкретными архитектурами моделей.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "eb9148c23195",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Сертифицировать, сообщить или отказаться: конформное прогнозирование с ограничением вреда для клинических действий",
+      "link": "https://arxiv.org/abs/2611.12662v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:30:44Z",
+      "summary": "Применяется конформное прогнозирование с ограничением вреда для обеспечения безопасности при принятии клинических решений.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "32bb1a1c0413",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "TrialDesignBench: бенчмаркинг языковых моделей для дизайна клинических испытаний I фазы на основе клинических знаний",
+      "link": "https://arxiv.org/abs/2611.12640v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:15:57Z",
+      "summary": "Представлен бенчмарк для оценки способностей языковых моделей в дизайне клинических испытаний I фазы.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fab9ba6daad6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology",
+        "Pharmaceutical"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "За пределами солнечной погоды: использование больших языковых моделей для прогнозирования городского трафика в неблагоприятных погодных условиях",
+      "link": "https://arxiv.org/abs/2611.12635v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:12:51Z",
+      "summary": "Оценивается использование больших языковых моделей для прогнозирования городского трафика в неблагоприятных погодных условиях.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1cd79affbd62",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Адаптация малых языковых моделей к романизированному непальскому языку: продуктивность токенизатора, вероятность ссылок и метрики генерации",
+      "link": "https://arxiv.org/abs/2611.12628v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T16:10:12Z",
+      "summary": "Изучаются метрики и стратегии адаптации для обучения малых языковых моделей на романизированном непальском языке.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c3873d90cf2c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Двойные слепые оценки: разрешение дилеммы двойной конфиденциальности при аудите безопасности ИИ",
+      "link": "https://arxiv.org/abs/2611.12604v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T15:48:07Z",
+      "summary": "Предложены двойные слепые оценки для решения проблем конфиденциальности во время аудита безопасности ИИ.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "78571c3e9bd4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Разоблачение четырех задач о рюкзаке в бенчмарке «путешествующего вора»",
+      "link": "https://arxiv.org/abs/2611.12597v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T15:45:46Z",
+      "summary": "Идентифицируются и анализируются четыре вариации задачи о рюкзаке в рамках бенчмарка «путешествующего вора».",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "63533e1eaaf2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AgentOPSD: распределение кредита на уровне хода через рекурсивный пересмотр убеждений",
+      "link": "https://arxiv.org/abs/2611.12587v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-09T15:40:43Z",
+      "summary": "Представлен метод распределения кредита на уровне хода для агентов с использованием рекурсивного пересмотра убеждений.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6089c636c2c0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Мнение: советы ИИ по здоровью могут быть точными, но все равно делать нас больнее",
+      "link": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-11-10T09:30:00Z",
+      "summary": "Точные советы ИИ по здоровью могут негативно влиять на поведение пациентов и результаты лечения.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2f8bc71f0a97",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Crosby страхует агентов-паралегалов — интервью",
+      "link": "https://www.artificiallawyer.com/2026/11/10/crosby-insures-paralegal-agents-interview/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-10T09:51:18Z",
+      "summary": "Интервью, посвященное страховым предложениям Crosby для ИИ-агентов в сфере юридической поддержки.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "da0fb343918f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Insurance"
+      ],
+      "companies": [
+        "Crosby"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Artificial Lawyer в беседе с Axiom",
+      "link": "https://www.artificiallawyer.com/2026/11/10/artificial-lawyer-in-conversation-with-axiom/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-10T08:18:54Z",
+      "summary": "Интервью с Axiom о юридических технологиях и юридическом секторе.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5ba2d1e8de26",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Axiom"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Дженсен Хуанг, как сообщается, нанял PR-фирму с историей работы с громкими секс-скандалами год назад",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T23:28:37Z",
+      "summary": "Отчеты указывают, что Дженсен Хуанг нанял PR-фирму, ранее замешанную в громких скандалах.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a418baa2661a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Продавец коротких позиций указал на связи генерального директора Nvidia с подозреваемым в шпионаже в пользу Китая за шесть месяцев до скандала",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T22:46:09Z",
+      "summary": "Продавец коротких позиций указал на связи генерального директора Nvidia с подозреваемым в шпионаже за несколько месяцев до скандала.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "67a80703c5c3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "Началась гонка по подаче исков против Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T22:23:42Z",
+      "summary": "Иски против Nvidia появляются после недавнего скандала с руководством.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e7ff3531a33d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Legal"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Дженсен Хуанг выходит из состава участников саммита ElevenLabs на фоне скандала с Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T20:09:06Z",
+      "summary": "Генеральный директор Nvidia Дженсен Хуанг отказывается от участия в саммите ElevenLabs на фоне продолжающегося скандала.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cd02f18399f3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "ElevenLabs",
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Будущее ИИ зависит от… секс-жизни Дженсена Хуанга? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSTdxeEZ4QkhUaHBQbWFMa01iYk1JQ08yWE9nT0c2dWhHYlozNUpmX05kcWd3dkdqOHJROHFUbGg1Y2FEWkxRdmFqamY3OTluLVJGMG1vNjVCeTNYbTMzM0o1YzBjc1ZYTVpUM1lsaUx3amJSb1BLZ2RiMXBmbWpibkxMUk9SN0pTcWJnVDVjWWhJYVhBVl9KMQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T17:36:08Z",
+      "summary": "Мнение о генеральном директоре Nvidia Дженсене Хуанге на фоне текущих скандалов.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4213fa942158",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Все, что мы знаем на данный момент о шпионском скандале в Nvidia, направленном против генерального директора Дженсена Хуанга - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2llVFEzTzBjQ2VGVjBFbTFScmR1NjVfbFY1MHc3eHFEc3NMWHIySnZZVEUtb2xKc0p5UmRoYkFSbWpuVldIMHNRVFJhc2tlaHUzVDNfZ3p6MkprcDZ4MTI5V2JrTDhXSG9Ja211enlHd201SmFxemZvbHF5ZTVMNHpYTmlRVDZMQmR1dG1fWGhXWnFqU1NLcy11WENrV3haVWc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T23:08:03Z",
+      "summary": "Обзор фактов, окружающих шпионский скандал с участием генерального директора Nvidia.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "deef23d9bfb3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Республиканцы повторно направляют запрос на «закрытый брифинг» с Дженсеном Хуангом на следующей неделе. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNFN0Vm1yaUpFSUY3M0VGdlMwS0h4RDV0dGw3NVFMZjQ4dmVjck5LVzhPUkxobFVINlFadWJRRXZEblRBZlUtYlBwalZsM3BscjloN0lNM3pBcldNYUFZZEp5R0xGTzhOV3VsVjVGbklLSjlzWEd2T3V4cGFNYzFQXy1wQlNuX2xVa0dqUmdFSjFQbXRlUjVWdWJkQjlaUjRTZ1NHZ3dmSkZEc2JYNlh1THBOUE1IZ0RMaE4xV1pyZw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-09T20:21:15Z",
+      "summary": "Республиканцы возобновляют призывы к проведению закрытого брифинга в Конгрессе с генеральным директором Nvidia.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "01405d40ad06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Government"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Программному обеспечению конец?",
+      "link": "https://www.youtube.com/watch?v=vug73goPJaM",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-11-10T10:15:57Z",
+      "summary": "Дискуссия о будущем разработки программного обеспечения в эпоху продвинутого ИИ.",
+      "persona": "💻 Developer",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "41992b3879b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
     {
       "title": "ChatGPT Enterprise теперь доступен в AWS Marketplace",
       "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
