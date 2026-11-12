@@ -1,6 +1,930 @@
 {
-  "refreshed_at": "2026-11-12 06:08 UTC",
+  "refreshed_at": "2026-11-12 19:53 UTC",
   "items": [
+    {
+      "title": "Holiday Extras está repensando lo que puede construir con Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T09:30:00Z",
+      "summary": "Holiday Extras utiliza OpenAI Codex para acelerar el desarrollo e innovar en las ofertas digitales de servicios de viaje.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d8a1aef3d91b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Holiday Extras",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Apoyo a la investigación sobre IA y seguridad infantil",
+      "link": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T00:00:00Z",
+      "summary": "OpenAI anuncia su apoyo a iniciativas de investigación centradas en la seguridad infantil en el desarrollo de la IA.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "34c6d4acf53a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Government"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Google Search recibe una actualización importante con Gemini 4 Hydrogen",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T18:00:00Z",
+      "summary": "Google integra el modelo Gemini 4 Hydrogen en Search para mejorar el rendimiento de las consultas de los usuarios.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3987a8727774",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Presentamos Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T18:00:50Z",
+      "summary": "DeepMind lanza Gemini 4 Hydrogen, un modelo de IA de próxima generación con capacidades avanzadas.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "454af483986c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Tokenomics a escala: rastree y limite el gasto en Amazon Bedrock por principal de IAM con CUR 2.0 y AWS Budgets",
+      "link": "https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-track-and-cap-amazon-bedrock-spend-per-iam-principal-with-cur-2-0-and-aws-budgets/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T19:29:55Z",
+      "summary": "Las nuevas funciones de AWS permiten un seguimiento granular y la limitación de costes para el uso de la API de Amazon Bedrock.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "54e8d8e0fa64",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Optimización del coste por tarea y demostración del ROI de los agentes en Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-per-task-and-proving-agent-roi-on-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T18:43:19Z",
+      "summary": "Guía sobre cómo medir y reducir los costes operativos para despliegues de agentes de IA en AWS.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9dd6f471badf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Management Consulting"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Construcción de una puerta de enlace LLM de autoservicio con Amazon Bedrock y LiteLLM",
+      "link": "https://aws.amazon.com/blogs/machine-learning/building-a-self-service-llm-gateway-with-amazon-bedrock-and-litellm/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T18:41:12Z",
+      "summary": "Tutorial sobre la creación de una puerta de enlace de acceso centralizada a LLM utilizando Amazon Bedrock y LiteLLM.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "395bed14dd32",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ejecute agentes de forma segura y eficiente con el tiempo de ejecución de próxima generación AgentCore",
+      "link": "https://aws.amazon.com/blogs/machine-learning/run-agents-securely-and-efficiently-with-the-next-generation-agentcore-runtime/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T17:59:59Z",
+      "summary": "AWS presenta el tiempo de ejecución AgentCore para mejorar la seguridad y la eficiencia en la ejecución de agentes.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6468853509dd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Migre a Amazon Bedrock Managed Knowledge Base con su agente de codificación",
+      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-to-amazon-bedrock-managed-knowledge-base-with-your-coding-agent/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T16:16:45Z",
+      "summary": "Pasos técnicos de migración para conectar agentes de codificación a Amazon Bedrock Knowledge Bases.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fce5fd73d0f7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Construya sistemas multi-agente componibles e interoperables con A2A en AWS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-composable-interoperable-multi-agent-systems-with-a2a-on-aws/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T15:42:21Z",
+      "summary": "Introducción al marco A2A para desarrollar arquitecturas multi-agente interoperables en la infraestructura de AWS.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "70e70bb27a52",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Control de acceso detallado para las herramientas de Amazon Bedrock Managed Knowledge Base",
+      "link": "https://aws.amazon.com/blogs/machine-learning/fine-grained-access-control-for-amazon-bedrock-managed-knowledge-base-tools/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T15:40:24Z",
+      "summary": "Nuevos controles de permisos granulares para acceder a herramientas dentro de Amazon Bedrock Knowledge Bases.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7986dccffbdd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Del prototipo a la producción: ingeniería de agentes con Agent DLC",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-prototype-to-production-engineering-agents-with-agent-dlc/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T15:38:47Z",
+      "summary": "Mejores prácticas para llevar aplicaciones de agentes de IA a producción utilizando Agent DLC.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f44d543c6793",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Límites teóricos de la alineación de modelos de lenguaje",
+      "link": "https://machinelearning.apple.com/research/theoretical-limits-alignment",
+      "source": "Apple ML",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-12T00:00:00Z",
+      "summary": "Documento de investigación que analiza las restricciones matemáticas fundamentales sobre las técnicas y resultados de alineación de LLM.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0ec0016fd9a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+: Nuevos documentos plantean más preguntas sobre el experimento de autorización previa de IA de Medicare",
+      "link": "https://www.statnews.com/2026/11/12/new-documents-raise-more-questions-about-medicares-ai-prior-authorization-experiment/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-11-12T14:49:02Z",
+      "summary": "Las discrepancias en la documentación alimentan el escepticismo sobre el programa piloto en curso de Medicare para procedimientos de autorización previa impulsados por IA.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c827247d8407",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Government"
+      ],
+      "companies": [
+        "Medicare"
+      ],
+      "job_titles": [
+        "Healthcare Administrator"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Mejores datos conducen a mejores resultados quirúrgicos - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDd1REhYcVJDNmNSZG5pZV95ckJxNVBvRTRVOWtNU1R2eVA1a1JvZUdmNjBrLVFlU0pudHVXSkJwckwzMlpuYXFKcm54Yl9pTmxkcEQ2M2ZDcWFzUDdRajI4X0pqZUtCRmVfUVJrUlItMmY3QzVoYjROSUxGSGRpRUdRSmwxQQ?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-12T14:57:29Z",
+      "summary": "El análisis avanzado de datos y la integración de la IA se identifican como impulsores clave para mejorar el éxito quirúrgico.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6b5e6ef62731",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "athenahealth Thrive 2026: conectando athenaOne con Epic y llevando la IA de Claude al portal del paciente",
+      "link": "https://www.healthcareittoday.com/2026/11/12/athenahealth-thrive-2026-connecting-athenaone-to-epic-and-bringing-claude-ai-to-the-patient-portal/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-12T17:00:57Z",
+      "summary": "athenahealth anuncia la interoperabilidad con Epic y la integración de la IA Claude de Anthropic en los portales del paciente.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9cf3ec54ea22",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic",
+        "Epic Systems",
+        "athenahealth"
+      ],
+      "job_titles": [
+        "CTO",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Cómo Unity Health está mejorando la atención rural con tecnología y nueva financiación",
+      "link": "https://www.healthcareittoday.com/2026/11/12/how-unity-health-is-improving-rural-care-with-technology-and-new-funding/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-12T16:00:25Z",
+      "summary": "Unity Health utiliza nueva financiación para implementar soluciones tecnológicas destinadas a mejorar la prestación de atención a pacientes rurales.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "85b1d87d85e9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [
+        "Unity Health"
+      ],
+      "job_titles": [
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "La guía ejecutiva para escalar la IA agéntica en la atención médica",
+      "link": "https://www.healthcareittoday.com/2026/11/12/the-executive-guide-to-scaling-agentic-ai-in-healthcare/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-12T15:00:23Z",
+      "summary": "Guía estratégica centrada en el despliegue operativo y el escalado de la IA agéntica dentro de entornos clínicos.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9b5905bd49ac",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Healthcare Administrator"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VisiQuate adquiere Artiva HCx | LeanTaaS lleva la inteligencia ambiental a iQueue",
+      "link": "https://www.healthcareittoday.com/2026/11/12/visiquate-acquires-artiva-hcx-leantaas-brings-ambient-intelligence-to-iqueue/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-12T14:00:33Z",
+      "summary": "VisiQuate adquiere Artiva HCx, mientras que LeanTaaS integra inteligencia ambiental en su plataforma iQueue.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a9259405cdad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Artiva HCx",
+        "LeanTaaS",
+        "VisiQuate"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "¿Nos está haciendo 'gaslighting' la IA en los grandes bufetes de abogados?",
+      "link": "https://www.artificiallawyer.com/2026/11/12/is-big-law-ai-gaslighting-us/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-12T08:46:39Z",
+      "summary": "Examen de la posible exageración de marketing con respecto a las capacidades de IA dentro de las principales firmas de abogados corporativos.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4ea9c6464bea",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Manteniendo la IA legal conectada: por qué sus datos y su caso deben trabajar juntos",
+      "link": "https://www.artificiallawyer.com/2026/11/12/keeping-legal-ai-connected-why-your-data-and-case-should-work-together/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-12T07:47:31Z",
+      "summary": "Analiza la necesidad de integración de datos para una utilización eficaz de la IA dentro de los flujos de trabajo de la práctica legal.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "83ee4b5efb10",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Data Scientist",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Latham & Watkins destina 1 millón de dólares a un programa de IA para asociados",
+      "link": "https://www.abajournal.com/news/article/latham-watkins-devotes-1m-to-associate-ai-program/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-11-12T19:42:55.178824+00:00Z",
+      "summary": "El bufete de abogados Latham & Watkins asigna 1 millón de dólares para lanzar un programa interno de formación en IA.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3dae7ccb78e2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Latham & Watkins"
+      ],
+      "job_titles": [
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLMON: Un lenguaje de marcado nativo para LLM, ahora en Granite 4.1 3B y 8B",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-12T19:07:35Z",
+      "summary": "Última inteligencia de Hugging Face.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "f052c6845a6e"
+    },
+    {
+      "title": "La guía definitiva de ajuste fino para modelos de generación 3D",
+      "link": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-12T00:00:00Z",
+      "summary": "Última inteligencia de Hugging Face.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d3916f44cf9c"
+    },
+    {
+      "title": "Rápido por defecto: heurísticas en tiempo de compilación para núcleos Helion",
+      "link": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-11-12T16:45:26Z",
+      "summary": "Última inteligencia del blog de PyTorch.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "80d8468647a4"
+    },
+    {
+      "title": "Integrando SGLang en Spyre en menos de una semana con IA",
+      "link": "https://pytorch.org/blog/integrating-sglang-into-spyre-in-under-a-week-with-ai/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-11-12T14:45:25Z",
+      "summary": "Última inteligencia del blog de PyTorch.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "196e4e5a5fb6"
+    },
+    {
+      "title": "Entrenando un MoE de 1T de parámetros en infraestructura pública de la UE con PyTorch y TorchTitan",
+      "link": "https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-11-12T12:00:19Z",
+      "summary": "Última inteligencia del blog de PyTorch.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0e94479423fd"
+    },
+    {
+      "title": "La última actualización de búsqueda de Google promete mejores respuestas a sus preguntas más complicadas",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T19:27:45Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ff1cec4cf32f"
+    },
+    {
+      "title": "Nectar lanza un agente de IA para automatizar el descubrimiento y la captación de creadores para marcas",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T19:11:00Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0a010acdd07c"
+    },
+    {
+      "title": "La salida de Jensen Huang pone en duda el apoyo de Nvidia al código abierto",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T18:39:23Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d56c2fc89bca"
+    },
+    {
+      "title": "El CEO de Hugging Face promete seguir luchando por la IA de código abierto tras la salida de Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T17:36:40Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "cf0abceb6aec"
+    },
+    {
+      "title": "United Airlines bloquea a los agentes de IA para reservar vuelos, citando riesgos de ciberseguridad",
+      "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T17:17:58Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0deb78fa341d"
+    },
+    {
+      "title": "La pérdida de mil millones de dólares de SoftBank puede haber puesto un límite a las ambiciones de gas natural de la IA",
+      "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T17:00:52Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "55bf40a54c79"
+    },
+    {
+      "title": "Phota Labs utiliza IA para convertir fotos cotidianas en tomas de aspecto profesional",
+      "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T17:00:00Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6c6681e03d76"
+    },
+    {
+      "title": "Jensen Huang acepta testificar ante el Congreso",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T16:36:37Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "d574a06fc6d0"
+    },
+    {
+      "title": "Cinco formas en que la destitución de Jensen Huang de Nvidia podría dañar la industria de la IA",
+      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T16:32:33Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4eeb3832c09f"
+    },
+    {
+      "title": "Trump propone al presidente de Apple, Tim Cook, como sucesor de Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T16:12:44Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "5ffe73d3f248"
+    },
+    {
+      "title": "Jensen Huang está fuera de Nvidia: ¿quién es Colette Kress, su reemplazo interino?",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T15:37:29Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1466abfe66cd"
+    },
+    {
+      "title": "Norwest profundiza en la IA con un nuevo fondo de 4.000 millones de dólares",
+      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T15:18:14Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a8b4ef01f1e0"
+    },
+    {
+      "title": "El ciberataque a Fireworks AI permitió a los hackers acceder a las transcripciones de chat de los clientes de Notion",
+      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T15:02:28Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2843d5b0f258"
+    },
+    {
+      "title": "Nueve startups coreanas compiten por un lugar en la competencia Startup Battlefield 200 de Disrupt 2027",
+      "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T13:26:25Z",
+      "summary": "Última inteligencia de TechCrunch AI.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "31f20ed94fca"
+    },
+    {
+      "title": "Más desarrolladores de juegos están empezando a usar IA generativa - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTUZfa0JfcllfZ2Voem5BS0c0aUNINHlwaWRmTWg4WGl6QnplOTYzTjA1TldGS2N1OXBLcFZUZ1p2THhNSER1RlNka0NGVGhFdG55OXBWbi1VdjlmenNMaXdJLXU4ckE5M25Ka1pKdHpDcmtwX2VzUW5OQkpkUGdqanNKdW5DMTRtYlF6SXZtRQ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T17:00:00Z",
+      "summary": "Los desarrolladores de juegos están adoptando cada vez más la inteligencia artificial generativa en sus flujos de trabajo.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e067e4440fb8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Probé las gafas de IA de Google y Meta finalmente tiene competencia real - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaWY2bS1iWjBpaThyc1hBeHc1UWdETUk0UDlDRnQyMTh4cXVwSVpMRUhhMWE2bFpOLV9mRFNlMUtmWTdNUlZYNnIxdngtczh2N19CNzkxLWwyVFBMcm81WU1wdzRwM2RVcU41U1plWXdSNTVxUkFEQmRqSDd2YmFlc3FmbjNfcVBpOEE1VFRtdFBqeUxoMEM4?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-12T14:00:00Z",
+      "summary": "Experiencia práctica con las nuevas gafas inteligentes de IA de Google que compiten contra Meta.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e8015932e9d0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google",
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "La IA de DeepMind acaba de hacer lo imposible",
+      "link": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-11-12T13:41:41Z",
+      "summary": "Video que detalla los recientes logros de investigación en inteligencia artificial de Google DeepMind.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "f8fb8dad9488",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
     {
       "title": "Pruebe Tabletop: Espacios personalizables y colaborativos para que los grupos planifiquen, jueguen y hagan más juntos.",
       "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
