@@ -1,6 +1,415 @@
 {
-  "refreshed_at": "2026-11-13 05:32 UTC",
+  "refreshed_at": "2026-11-13 19:38 UTC",
   "items": [
+    {
+      "title": "推出 ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-13T15:00:00Z",
+      "summary": "OpenAI 推出 ChatGPT Wallet，用于在 ChatGPT 内部管理支付和数字凭证。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "79d13e040f6e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI 如何帮助医疗团队更早为患者提供合适护理",
+      "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-13T13:00:42Z",
+      "summary": "NVIDIA 详细介绍了人工智能解决方案如何协助医疗护理团队加快患者治疗进程。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "19847bef1f46",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock 上 AI 开发者与生产力工具的成本归因和控制",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-13T18:44:02Z",
+      "summary": "AWS 详细介绍了用于跟踪和控制 Amazon Bedrock 上 AI 工具运营成本的机制。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "50da416c2ea7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "利用 Amazon SageMaker HyperPod Data Capture 构建模型持续改进飞轮",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-13T18:01:15Z",
+      "summary": "AWS 概述了如何使用 SageMaker HyperPod Data Capture 构建持续的模型改进飞轮。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4312152c50af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dyania Health 与 NVIDIA 合作进行患者病历的 AI 分析 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWndIUmdCNDZQR19Cc24yaHE5MVJQUWxZeFM3YnlwdVE0T3p2RVcxNU5IMVJBX3hGcDFjeXRQQWtNNUZjN2dLUEN5dkREWXgzZF9VWnh4TmhRbktZb3VBYk1rTVMwN2lIb3JBaW1KcWZEZWVGZW9jb01yUDB6Q3hkcTlheC1lR1RFZ091SzlDVW80X2E1MEk0?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-13T18:29:41Z",
+      "summary": "Dyania Health 和 NVIDIA 合作利用 AI 分析患者医疗记录。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a7e99c5af897",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Dyania Health",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "加拿大单一支付方医疗卫生系统使 AI 的应用复杂化 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWZKQlBFUk5uTGhZZXVmSC1wMXo4dXZFOHk2cEhYb0M5TXU5dVlObGtfMWpBUllEcWw1V2ctM1BpVGFJLUVyd2V5WnVyRDBFQ2k4MTZKcUxWakxWMkNmd1pPRlJJblIyZmpwZ2EtZWV4N01MRWx0dU0zU1ZXNC1TelVXM0hDWnZYbnNyTV91eEl1Qkg2eEdaNzZRSUhfb04z?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-13T14:54:06Z",
+      "summary": "加拿大的单一支付方医疗体系为人工智能的应用带来了独特的挑战。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "804c946512dc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Canada"
+      ]
+    },
+    {
+      "title": "如何使用 Sarvam Voice Agents MCP 进行开发 - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tQVl5eHl0d0h4Q0RQcEo4M2pIMGdqVjlmU0pxa2RVSXdrb25sdlJ5RFlMa3VxekJnUnl2SGo0UXN1Zk53a1lKVDBEaklFa2RwZVJ3eEhuMnRRY3lMY1p3bUpWMA?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-11-13T09:24:13Z",
+      "summary": "详细说明如何使用 Sarvam AI 的 Voice Agents MCP 开发应用程序的技术教程。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f504203d7bdc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "使用 SimReady 资产构建机器人抓放仿真",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-13T18:00:39Z",
+      "summary": "介绍如何在 Hugging Face 上使用 NVIDIA SimReady 资产构建机器人仿真指南。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9c47793813e0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Hugging Face",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "XYBench：帮助解决问题背后的深层需求",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-13T17:02:35Z",
+      "summary": "AllenAI 推出 XYBench，用于评估模型在理解用户潜在意图方面的能力。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e9d93e607b69",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "llama.cpp v1.0.0：为本地 AI 生态系统奠定更坚实的基础",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-13T14:05:22Z",
+      "summary": "llama.cpp v1.0.0 的发布为在本地运行 AI 带来了重大基础设施改进。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1f76189be1ea",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "被禁止出口的 Nvidia 芯片撑起了中国最强大的 AI 模型——糟糕了，Jensen！",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T18:40:30Z",
+      "summary": "据报道，中国的高级 AI 模型依赖于被禁止出口的 Nvidia 硬件。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3bcb8ca81cba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Government"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Policy Analyst"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "ChatGPT 的新 Wallet 功能允许 AI 代理为您购物和结账",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T16:00:12Z",
+      "summary": "ChatGPT 推出了一项全新的 Wallet 功能，允许 AI 代理进行在线购物。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a89e40511448",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail",
+        "Finance"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ElevenLabs 为团队推出的新应用集成了会议笔记与听写功能",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T14:44:48Z",
+      "summary": "ElevenLabs 推出了一款面向团队的应用程序，结合了听写和自动会议笔记记录功能。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c6494705d362",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "ElevenLabs"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "以色列的风投机构认为在 Nvidia 的动荡中挑战者迎来了机遇",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T12:52:19Z",
+      "summary": "以色列风险投资人认为，在 Nvidia 陷入动荡之后，半导体领域的竞争对手迎来了商业机遇。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "eac079c142ed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Israel"
+      ]
+    },
+    {
+      "title": "Claude 的 Duet 代理有点神经质但出奇地有用 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOS03UmIwQTlJSjd1Ty1HQ1RoNVpyYW9VVGJHaW9pZ0h5SUsxOFJCZEZWRDJVNkx0MHpfRHhpV29wbTI2aXQ1UFZ1YkNaRG16VEV3SEF1RHlMN0tfb0N3YUYwTmxXVm83ZDlPeWN0ampyRDlfb0FVMHI5eF9KZmdxU1hKQ0J0S3NldTh3SWtibnhRbjA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T14:00:00Z",
+      "summary": "一篇测评详细介绍了全新的 Claude Duet AI 代理的性能特点和实用性。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "46e55451544f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
     {
       "title": "Amplitude 如何借助 OpenAI 在 1–2 天内交付产品改进",
       "link": "https://openai.com/business/customer-stories/amplitude",

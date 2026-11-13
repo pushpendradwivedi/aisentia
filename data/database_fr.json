@@ -1,6 +1,415 @@
 {
-  "refreshed_at": "2026-11-13 05:32 UTC",
+  "refreshed_at": "2026-11-13 19:38 UTC",
   "items": [
+    {
+      "title": "Présentation de ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-13T15:00:00Z",
+      "summary": "OpenAI présente ChatGPT Wallet pour gérer les paiements et les identifiants numériques au sein de ChatGPT.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "79d13e040f6e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Comment l'IA aide les équipes soignantes à offrir les bons soins aux patients, plus rapidement",
+      "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-13T13:00:42Z",
+      "summary": "NVIDIA détaille la façon dont les solutions d'intelligence artificielle aident les équipes médicales à accélérer le traitement des patients.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "19847bef1f46",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Attribution des coûts et contrôles pour les outils de développement et de productivité d'IA sur Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-13T18:44:02Z",
+      "summary": "AWS détaille les mécanismes de suivi et de contrôle des coûts opérationnels des outils d'IA sur Amazon Bedrock.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "50da416c2ea7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Construire un flywheel d'amélioration des modèles avec Amazon SageMaker HyperPod Data Capture",
+      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-13T18:01:15Z",
+      "summary": "AWS explique comment créer des flywheels d'amélioration continue des modèles à l'aide de SageMaker HyperPod Data Capture.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4312152c50af",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dyania Health et NVIDIA s'associent sur l'analyse par IA des dossiers de patients - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWndIUmdCNDZQR19Cc24yaHE5MVJQUWxZeFM3YnlwdVE0T3p2RVcxNU5IMVJBX3hGcDFjeXRQQWtNNUZjN2dLUEN5dkREWXgzZF9VWnh4TmhRbktZb3VBYk1rTVMwN2lIb3JBaW1KcWZEZWVGZW9jb01yUDB6Q3hkcTlheC1lR1RFZ091SzlDVW80X2E1MEk0?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-13T18:29:41Z",
+      "summary": "Dyania Health et NVIDIA s'associent pour utiliser l'IA afin d'analyser les dossiers médicaux des patients.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a7e99c5af897",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Dyania Health",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Le système de santé canadien à payeur unique complique l'adoption de l'IA - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWZKQlBFUk5uTGhZZXVmSC1wMXo4dXZFOHk2cEhYb0M5TXU5dVlObGtfMWpBUllEcWw1V2ctM1BpVGFJLUVyd2V5WnVyRDBFQ2k4MTZKcUxWakxWMkNmd1pPRlJJblIyZmpwZ2EtZWV4N01MRWx0dU0zU1ZXNC1TelVXM0hDWnZYbnNyTV91eEl1Qkg2eEdaNzZRSUhfb04z?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-13T14:54:06Z",
+      "summary": "Le cadre de soins de santé à payeur unique du Canada présente des défis uniques pour l'adoption de l'intelligence artificielle.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "804c946512dc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Canada"
+      ]
+    },
+    {
+      "title": "Comment concevoir avec Sarvam Voice Agents MCP - Sarvam AI",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tQVl5eHl0d0h4Q0RQcEo4M2pIMGdqVjlmU0pxa2RVSXdrb25sdlJ5RFlMa3VxekJnUnl2SGo0UXN1Zk53a1lKVDBEaklFa2RwZVJ3eEhuMnRRY3lMY1p3bUpWMA?oc=5",
+      "source": "Sarvam AI",
+      "region": "🇮🇳",
+      "pub_date": "2026-11-13T09:24:13Z",
+      "summary": "Tutoriel technique détaillant comment développer des applications avec Sarvam Voice Agents MCP de Sarvam AI.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f504203d7bdc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Sarvam AI"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Créer une simulation robotique de Pick-and-Place avec les assets SimReady",
+      "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-13T18:00:39Z",
+      "summary": "Guide expliquant la création d'une simulation robotique à l'aide des assets NVIDIA SimReady sur Hugging Face.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "9c47793813e0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "Hugging Face",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "XYBench : Aider à résoudre le problème derrière la question",
+      "link": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-13T17:02:35Z",
+      "summary": "AllenAI présente XYBench pour évaluer la capacité des modèles à comprendre l'intention sous-jacente de l'utilisateur.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e9d93e607b69",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "llama.cpp v1.0.0 : Une fondation plus solide pour l'écosystème d'IA local",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-13T14:05:22Z",
+      "summary": "La version v1.0.0 de llama.cpp apporte des améliorations majeures de l'infrastructure pour exécuter l'IA en local.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1f76189be1ea",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Des puces Nvidia interdites d'exportation se trouvent derrière les modèles d'IA les plus puissants de Chine — oh oh, Jensen !",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T18:40:30Z",
+      "summary": "Selon des rapports, les modèles d'IA avancés de la Chine reposent sur du matériel Nvidia interdit d'exportation.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3bcb8ca81cba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Government"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CTO",
+        "Policy Analyst"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "Le nouveau Wallet de ChatGPT permet aux agents d'IA de faire des achats et de payer pour vous",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T16:00:12Z",
+      "summary": "ChatGPT a introduit une nouvelle fonctionnalité Wallet permettant aux agents d'IA d'effectuer des achats en ligne.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "a89e40511448",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail",
+        "Finance"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "La nouvelle application d'ElevenLabs combine prise de notes de réunion et dictée pour les équipes",
+      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T14:44:48Z",
+      "summary": "ElevenLabs a lancé une application d'équipe combinant des fonctions de dictée et de prise de notes de réunion automatisée.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c6494705d362",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "ElevenLabs"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Les VC d'Israël voient une opportunité pour les concurrents face aux turbulences de Nvidia",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T12:52:19Z",
+      "summary": "Les capital-risqueurs israéliens voient des opportunités commerciales pour les concurrents des semi-conducteurs à la suite des turbulences de Nvidia.",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "eac079c142ed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Israel"
+      ]
+    },
+    {
+      "title": "L'agent Duet de Claude est un peu névrosé et étonnamment utile - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOS03UmIwQTlJSjd1Ty1HQ1RoNVpyYW9VVGJHaW9pZ0h5SUsxOFJCZEZWRDJVNkx0MHpfRHhpV29wbTI2aXQ1UFZ1YkNaRG16VEV3SEF1RHlMN0tfb0N3YUYwTmxXVm83ZDlPeWN0ampyRDlfb0FVMHI5eF9KZmdxU1hKQ0J0S3NldTh3SWtibnhRbjA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-13T14:00:00Z",
+      "summary": "Une revue détaille les caractéristiques de performance et l'utilité du nouvel agent IA Claude Duet.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "46e55451544f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
     {
       "title": "Comment Amplitude livre des améliorations produit en 1 à 2 jours avec OpenAI",
       "link": "https://openai.com/business/customer-stories/amplitude",
