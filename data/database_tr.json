@@ -1,6 +1,1804 @@
 {
-  "refreshed_at": "2026-11-17 20:52 UTC",
+  "refreshed_at": "2026-11-18 06:18 UTC",
   "items": [
+    {
+      "title": "Satışlar İçin ChatGPT Tanıtılıyor",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T08:00:00Z",
+      "summary": "OpenAI, özellikle satış kullanım senaryoları için tasarlanmış yeni bir ChatGPT aracını piyasaya sürüyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1632816037b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager",
+        "Sales Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "NVIDIA, Yapay Zeka Altyapısı Kurulumunu Desteklemek İçin Tedarik Zinciri Ortaklıklarını Genişletiyor",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T22:18:00Z",
+      "summary": "NVIDIA, büyüyen yapay zeka altyapısı taleplerini desteklemek amacıyla tedarik zinciri ortaklıklarını artırıyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "94bc4ec01522",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Supply Chain Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker HyperPod Inference Üzerinde Yönetilen NVIDIA Dynamo",
+      "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T23:33:26Z",
+      "summary": "AWS, Amazon SageMaker HyperPod Inference üzerinde yönetilen NVIDIA Dynamo desteğini duyuruyor.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d906312f7e57",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Amazon",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Bedrock AgentCore JSON İş Yüklerinde Token Maliyetlerini ve Gecikmeyi Azaltma",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T22:44:51Z",
+      "summary": "AWS, Bedrock AgentCore JSON iş yükleri için token maliyetlerini ve gecikmeyi azaltma yöntemlerini ayrıntılı olarak açıklıyor.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d6dc10d36490",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Üretken Yapay Zeka Maliyetlerini Azaltın: Kurallar İçin Kod, Yargı İçin Modeller",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T21:14:55Z",
+      "summary": "AWS, kuralları ve yargıyı ayırarak üretken yapay zeka masraflarını düşürmeye yönelik bir strateji sunuyor.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aa2a2e69b8d8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AI Gerçek Zamanlı Uç Noktaları Artık KV Önbellek Duyarlı Yönlendirmeyi Destekliyor",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T21:11:51Z",
+      "summary": "Amazon SageMaker AI gerçek zamanlı uç noktaları, KV önbellek duyarlı yönlendirme desteğini kullanıma sunuyor.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2ac642af7039",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Ortam LLM'leri: Sıcaklık Eşleştirme Yoluyla Veri Verimli Denetimli İnce Ayar",
+      "link": "https://arxiv.org/abs/2611.23229v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:59:37Z",
+      "summary": "Bir makale, ortam LLM'lerinin veri verimli denetimli ince ayarı için sıcaklık eşleştirmeyi önermektedir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f88cf07aba1f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "StringQFT: Yapay Zeka Destekli Teorik Fizik İçin Çok Amaçlı Bir Ders Kitabı Kaynağı",
+      "link": "https://arxiv.org/abs/2611.23225v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:58:40Z",
+      "summary": "StringQFT, yapay zeka destekli teorik fizik araştırmaları için çok amaçlı bir ders kitabı kaynağı sağlar.",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f71c3d161dfd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "LLM Ajanlarının Hâlâ Nasıl Kendi Kendilerini Geliştireceklerinin Söylenmesine İhtiyacı Var mı?",
+      "link": "https://arxiv.org/abs/2611.23219v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:57:10Z",
+      "summary": "Araştırma, LLM ajanlarının kendini geliştirmek için açık talimatlara ihtiyacı olup olmadığını inceliyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "abe0bf4fb62e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Daha Yüksek Puan Alan Kodlama Modelleri Daha Fazla İş Bitirmedi",
+      "link": "https://arxiv.org/abs/2611.23216v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:56:42Z",
+      "summary": "Çalışma, daha yüksek puan alan kodlama modellerinin daha fazla tamamlanmış iş görevi gerçekleştirmediğini ortaya koyuyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ad20d8cd249b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sahne Durumlarını Okumak: Görme-Dil Modellerindeki Güvenlik Hatalarını Ortaya Çıkarmak",
+      "link": "https://arxiv.org/abs/2611.23206v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:48:02Z",
+      "summary": "Araştırma, görme-dil modellerindeki güvenlik hatalarını ortaya çıkarmak için sahne durumlarını analiz ediyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f1dcf8464374",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dizüstü Bilgisayar iGPU'sunda SFT ve QLoRA Kullanarak MATLAB Sinyal İşleme Kodu İçin Gemma 4 Edge Modellerine İnce Ayar Yapma",
+      "link": "https://arxiv.org/abs/2611.23205v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:47:37Z",
+      "summary": "Makale, dizüstü bilgisayar iGPU'larında SFT ve QLoRA kullanarak MATLAB için Gemma 4 edge modellerine ince ayar yapmayı göstermektedir.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0d52eeab323",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ajan Güven Altyapısı (ATI): Kuruluşlar Arası Otonom Yapay Zeka Ajanları İçin Birleşik Kimlik, Güven, Tasdik ve Sorumluluk Mimarisi",
+      "link": "https://arxiv.org/abs/2611.23202v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:44:25Z",
+      "summary": "ATI, kuruluşlar arası otonom yapay zeka ajanları için birleşik bir kimlik ve güven mimarisi önermektedir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6b19d6d5f71d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dil Modeli Ön Eğitimi İçin Yapı-Artık Tümevarımsal Önyargılar",
+      "link": "https://arxiv.org/abs/2611.23197v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:38:27Z",
+      "summary": "Çalışma, dil modeli ön eğitimini geliştirmek için yapı-artık tümevarımsal önyargıları araştırıyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6c4be6d41c71",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "WoRD: Çevrimiçi Hedef Tanıma İçin Difüzyon Tabanlı Artçı Çıkarım",
+      "link": "https://arxiv.org/abs/2611.23192v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:35:53Z",
+      "summary": "WoRD, çevrimiçi hedef tanıma için difüzyon tabanlı artçı çıkarım yöntemlerini tanıtmaktadır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "65c1f76b1848",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Genelci Tıbbi Görüntü Segmentasyonu İçin Geri Getirme Destekli Düzeltme",
+      "link": "https://arxiv.org/abs/2611.23189v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:33:42Z",
+      "summary": "Makale, genelci tıbbi görüntü segmentasyon görevleri için geri getirme destekli bir düzeltme yaklaşımı sunmaktadır.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0722149eb142",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Daha Az Söyle, Daha Az Halüsinasyon Gör? Tercih Optimize Edilmiş Görme-Dil Modellerinde Nesne Kapsamını Teşhis Etme ve Eski Haline Getirme",
+      "link": "https://arxiv.org/abs/2611.23179v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:24:58Z",
+      "summary": "Araştırma, tercih optimize edilmiş görme-dil modellerinde halüsinasyonları azaltmak için nesne kapsamını teşhis eder ve eski haline getirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2520122e3bdb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kodlama ajanlarından sonra çıkarım",
+      "link": "https://arxiv.org/abs/2611.23174v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:22:01Z",
+      "summary": "Yapay zeka kodlama ajanları tarafından üretilen kodu takip eden istatistiksel çıkarımı ve geçerli güven garantilerini inceler.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3a37e0724381",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kod Çözücü Yoluyla Atıf: Yapılandırılmış Çıktılar İçin Tahmin Uzayı Açıklamaları",
+      "link": "https://arxiv.org/abs/2611.23161v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:13:50Z",
+      "summary": "Derin öğrenme modellerinde karmaşık tahmin uzayı yapılandırılmış çıktılarını açıklamak için kod çözücü odaklı atıf yöntemleri sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3aa3301c255b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Çıkarım Zamanı Hedefleri İçin Katmanlı Politikalar Öğrenme",
+      "link": "https://arxiv.org/abs/2611.23154v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:06:12Z",
+      "summary": "Model çıkarım zamanında hedefleri dinamik olarak optimize etmek için uyarlanmış katmanlı pekiştirmeli öğrenme politikaları önerir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "210bebf7a87b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Boşluğu Doldurun: Belge Bakımı İçin Dağıtılmış Çok Ajanlı Bir Sistem",
+      "link": "https://arxiv.org/abs/2611.23142v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:59:13Z",
+      "summary": "Yazılım belgelerini otomatik olarak korumak ve senkronize etmek için tasarlanmış gerçek dünyada dağıtılmış çok ajanlı bir sistemi inceler.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "31e8db53729a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RSI-Prime: Modelleri Eğitmek İçin Modeller Eğitmek",
+      "link": "https://arxiv.org/abs/2611.23138v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:55:30Z",
+      "summary": "Makine öğrenimi modellerini diğer modelleri eğitmek üzere eğiten yinelemeli bir kendi kendine gelişim çerçevesi olan RSI-Prime'ı sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b9887113aa7e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Doğal Dil Programlama: Üretken Yapay Zeka Çağında Dili, Belleği ve Bilişi Yeniden Düşünmek",
+      "link": "https://arxiv.org/abs/2611.23106v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:27:01Z",
+      "summary": "Doğal dil programlama, bilişsel mimariler ve üretken yapay zeka sistemlerinin yakınleşimini analiz eder.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f61954229bf7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Gizli Durum Benzerliği, Aşı İsteminden Sonra Yeniden Ortaya Çıkışı Öngörür",
+      "link": "https://arxiv.org/abs/2611.23096v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:20:33Z",
+      "summary": "Gizli durum temsillerinin, güvenlik aşı istemlerinden sonra LLM'lerde istenmeyen davranışların ne zaman yeniden ortaya çıkacağını öngördüğünü gösterir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "49a52d0f955a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ağaçta Ne Var? Dilin Kontrollü Yaklaşımları Olarak Hiyerarşik $n$-gram Modelleri",
+      "link": "https://arxiv.org/abs/2611.23093v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:14:01Z",
+      "summary": "Modern dil modelleme için hiyerarşik n-gram modellerini matematiksel olarak kontrollü taban çizgileri ve yaklaşımlar olarak araştırır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c5ca2f83a98b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BugGen 2.0: Ölçeklenebilir RTL Hata Sentezi İçin LLM'lerin Rollerini Yeniden Düşünmek",
+      "link": "https://arxiv.org/abs/2611.23091v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:11:54Z",
+      "summary": "Sağlam RTL doğrulaması için sentetik donanım hatası enjeksiyonunu ölçeklendirmek üzere büyük dil modellerini kullanır.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6358f4255b13",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Geri Almayı Öğrenmek: Durum Uzayı Dönüşümleri Altında Aktarımlı Pekiştirmeli Öğrenme",
+      "link": "https://arxiv.org/abs/2611.23081v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:06:51Z",
+      "summary": "Farklı durum uzayları arasında ters dönüşümleri öğrenen bir aktarımlı pekiştirmeli öğrenme yöntemi geliştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e49e88943cf1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Colombo: Kehanet Tabanlı Optimizasyon İçin Bir Sınır-Sınır Otonom Araştırma Sistemi",
+      "link": "https://arxiv.org/abs/2611.23080v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:06:23Z",
+      "summary": "Kehanet yönlendirmeli bilimsel ve algoritmik optimizasyon için tasarlanmış otonom bir araştırma ajanı sistemi olan Colombo'yu tanıtır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2652245acad0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Ajan Yönetimi İçin Çoklu Doğal Dil Kriterinin Çalışma Zamanı Doğrulaması",
+      "link": "https://arxiv.org/abs/2611.23074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:01:00Z",
+      "summary": "Otonom yapay zeka ajanları için çalışma zamanında karmaşık doğal dil kısıtlamalarını doğrulayan bir yönetim çerçevesi sunar.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "63b5629c19a2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Compliance Officer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Çözünürlük Hipotezi: Ajan Evriminin Anahtarı İyileştirmeleri Belirlemektir",
+      "link": "https://arxiv.org/abs/2611.23068v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:57:03Z",
+      "summary": "Yüksek çözünürlüklü değerlendirmenin otonom ajanların kendi kendine evrimi için esansiyel olduğunu savunan Çözünürlük Hipotezi'ni formüle eder.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2d64164c3ebe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Değerler Kendi Kendini Geliştiren Kodlama Ajanlarının Ne İnşa Ettiğini Şekillendirir",
+      "link": "https://arxiv.org/abs/2611.23067v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:56:46Z",
+      "summary": "Gömülü hedef değerlerin, kendi kendini geliştiren kodlama ajanlarının çıktılarını ve geliştirme yörüngesini nasıl yönlendirdiğini analiz eder.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8a9b372e8440",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Isı Pompası ve Yerden Isıtma Kontrolü İçin Derin Pekiştirmeli Öğrenme: Uçtan Uca Bir Vaka Çalışması",
+      "link": "https://arxiv.org/abs/2611.23063v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:54:25Z",
+      "summary": "Isı pompası ve yerden ısıtma verimliliğini optimize eden uçtan uca derin pekiştirmeli öğrenme denetleyicisini gösterir.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9026a36f078b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "FrameRouter: Video-MME-v2 ve Ötesinde Uzun Video Anlayışı İçin Kare Bütçesi Yönlendirmesi",
+      "link": "https://arxiv.org/abs/2611.23055v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:49:21Z",
+      "summary": "Çok modlu modellerde uzun video anlayışını geliştiren uyarlanabilir bir kare bütçesi tahsis sistemi olan FrameRouter'ı sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4d524501bb83",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReTouchGS: 3D Gaussian Splatting İçin Ultra Hafif Render Gerektirmeyen Estetik Renk İyileştirme ve Aktarımı",
+      "link": "https://arxiv.org/abs/2611.23054v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:47:43Z",
+      "summary": "3D Gaussian Splatting'de hızlı, render gerektirmeyen renk düzenleme ve estetik stil aktarımı için ReTouchGS'i tanıtır.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "527301dd8413",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Graphic Designer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ForecastGym: Tahmin Ajanları İçin Canlı, Kontrollü ve Tekrarlanabilir Bir Kıyaslama",
+      "link": "https://arxiv.org/abs/2611.23045v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:44:38Z",
+      "summary": "Otonom LLM ajanlarını gerçek dünyadaki tahminler üzerinde değerlendiren, tekrarlanabilir canlı bir kıyaslama ortamı olan ForecastGym'i yayınlar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b4a3a5608634",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Kör Noktalarınızı Kontrol Edin: Varsayımsal Nesnelerle Planlayıcıyı Yoklayarak Karar Rehberliğinde Algılama",
+      "link": "https://arxiv.org/abs/2611.23030v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:33:15Z",
+      "summary": "Kör noktaları ortaya çıkarmak için aşağı akış planlayıcılarını sentetik varsayımsal nesnelerle yoklayarak otonom algılamayı geliştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5dbd34505df5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Autonomous Vehicle Engineer",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PeriaTrace: Periapikal Radyografilerden Diş Düzeyinde Temellendirme Teşhisi ve Hastaya Yönelik Açıklamalar",
+      "link": "https://arxiv.org/abs/2611.23012v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:23:34Z",
+      "summary": "Radyografilerden diş düzeyinde diş patolojisi temellendirmesi ve hasta açıklamaları sağlayan bir yapay zeka sistemi olan PeriaTrace'i geliştirir.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e2461b8867a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer",
+        "Radiologist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PhysScope: Temellendirilmiş Görsel Belleğe Sahip Ajan Tabanlı Çok Modlu Fizik Akıl Yürütme",
+      "link": "https://arxiv.org/abs/2611.23010v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:22:21Z",
+      "summary": "Makale, temellendirilmiş görsel bellek tekniklerini kullanan ajan tabanlı çok modlu fizik akıl yürütmesi için PhysScope'u tanıtmaktadır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a7bf313ff463",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dondurulmuş Dünya Modeli ile Risk Duyarlı Yörünge Seçimi İçin Artık Rehberli Hafif Pekiştirmeli Öğrenme",
+      "link": "https://arxiv.org/abs/2611.22998v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:12:55Z",
+      "summary": "Dondurulmuş dünya modellerini kullanarak risk duyarlı yörünge seçimi için artık rehberli bir pekiştirmeli öğrenme çerçevesi sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "81f168a3751c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RagHarnessDebugger: Sözleşme Çıkarımı Onarım Denetiminde Jev Rehberliğinde Ajan Tabanlı RAG",
+      "link": "https://arxiv.org/abs/2611.22991v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:07:17Z",
+      "summary": "Sözleşme çıkarımı onarımı ve denetim görevlerinde ajan tabanlı geri getirme destekli üretim için RagHarnessDebugger'ı sunar.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f68ca9a82884",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Web Araştırma Ajanları Kullanıcı Önceliklerini Nasıl Yorumlar",
+      "link": "https://arxiv.org/abs/2611.22989v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:07:00Z",
+      "summary": "Otonom web araştırma ajanlarının belirli kullanıcı önceliklerini nasıl yorumladığını, değerlendirdiğini ve yönettiğini inceler.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "59f7b009021b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yapılandırılmış Yapay Zeka Fikir Üretimi Epitel Bariyer Onarımı İçin Fiziksel Stratejiler Sağlar",
+      "link": "https://arxiv.org/abs/2611.22988v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:05:22Z",
+      "summary": "Yapılandırılmış yapay zeka fikir üretiminin epitel doku bariyeri onarımı için hedeflenmiş fiziksel stratejiler sağladığını gösterir.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1859d42dc30b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Büyük Dil Modelleri Henüz Bilimi Dönüştürmedi",
+      "link": "https://arxiv.org/abs/2611.22975v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:57:22Z",
+      "summary": "LLM'lerin bilimsel ilerleme üzerindeki gerçek dünya etkisine ilişkin mevcut ampirik kanıtları analiz eder.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4b5038b0d605",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VITAL: İlaç Geliştirme ve Klinik Araştırma Operasyonlarında Ajan Tabanlı Yapay Zekayı Doğrulamak İçin Bir Çerçeve",
+      "link": "https://arxiv.org/abs/2611.22973v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:55:13Z",
+      "summary": "İlaç ve klinik araştırmalar genelinde ajan tabanlı yapay zeka sistemlerini doğrulayan bir değerlendirme çerçevesi olan VITAL'ı önerir.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e09b4c89187",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SEAM: Bilgisayar Kullanım Ajanları Ekranlar Arasındaki Zararı Biliyor ve Yine de Yapıyor",
+      "link": "https://arxiv.org/abs/2611.22971v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:53:58Z",
+      "summary": "Bilgisayar kullanım ajanlarının birden fazla ekran üzerinde zararlı eylemler gerçekleştirdiği güvenlik açıklarını ortaya çıkarır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ab811eceb6b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CodeReel: Tam Kare Yeniden Kullanımı ve Blokaj Duyarlı Zamanlama ile Koddan Videoya Ajanlarını Hızlandırma",
+      "link": "https://arxiv.org/abs/2611.22967v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:52:15Z",
+      "summary": "Kare yeniden kullanımı ve blokaj duyarlı zamanlama teknikleri aracılığıyla koddan videoya ajanlarını hızlandırmak için CodeReel'i sunar.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c44fdb9180e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Difüzyon Modellerinin Rehberli Örneklemesi Yoluyla Yüksek Boyutlu Kara Kutu Optimizasyonu",
+      "link": "https://arxiv.org/abs/2611.22965v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:51:29Z",
+      "summary": "Yüksek boyutlu kara kutu optimizasyon zorluklarının üstesinden gelmek için difüzyon modellerinin rehberli örneklemesini önerir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a541e21882d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Uçtan Uca Görüntü Üretimi İçin Hiyerarşik Difüzyon Transformatörü",
+      "link": "https://arxiv.org/abs/2611.22962v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:47:56Z",
+      "summary": "Ölçeklenebilir uçtan uca görüntü üretimi için hiyerarşik bir difüzyon transformatör mimarisi sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "651b91eb0d71",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "İletişim Verimli, Bizans'a Dayanıklı Federatif Öğrenme İçin Projeksiyonlu Ceza-Gradyan Takibi",
+      "link": "https://arxiv.org/abs/2611.22929v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:28:03Z",
+      "summary": "İletişim açısından verimli, Bizans'a dayanıklı federatif öğrenmeyi sağlamak için projeksiyonlu ceza-gradyan takibini geliştirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d4153027726",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Tiplendirilmiş Karar Modelleri Ulaşımda Ne Zaman Çalışır? Seyahat Seçimi ve Trafik Sinyali Kontrolünden Kanıtlar",
+      "link": "https://arxiv.org/abs/2611.22926v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:24:40Z",
+      "summary": "Seyahat seçimleri ve sinyal kontrolü dahil olmak üzere ulaşım alanlarında tiplendirilmiş karar modellerini değerlendirir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9fd2ab182b7d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Bitti, Ama Hâlâ Çalışıyor: Kodlama Ajanlarının Ne Zaman Durması Gerektiğinin Her An Değerlendirilmesi",
+      "link": "https://arxiv.org/abs/2611.22901v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:07:35Z",
+      "summary": "Kodlama ajanlarının çalışmalarını ne zaman sonlandırması gerektiğini belirlemek için her an değerlendirme tekniklerini inceler.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d85ce750009d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Görev İçin Doğmuş: Öngörülü Ajan Tabanlı Bilişim ile Kuantum Kimyasını Yeniden Düşünmek",
+      "link": "https://arxiv.org/abs/2611.22897v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:05:38Z",
+      "summary": "Kuantum kimyasındaki simülasyonları ve hesaplamaları ilerletmek için tasarlanmış ajan tabanlı bilişim mimarilerini araştırır.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "678776616e0e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Durmak Sınır Değildir: Uzun Vadeli Güvenlik Açığı İstismarında Ajan Yeteneğini Anlamak ve Ortaya Çıkarmak",
+      "link": "https://arxiv.org/abs/2611.22888v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T14:58:46Z",
+      "summary": "Uzun vadeli siber güvenlik açığı istismarı görevleri sırasında ajan yeteneklerini ve sınırlarını inceler.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9cb94a4fe1c4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Otonom Sürüş İçin Ajan Odaklı Görme-Dil-Eylem Dünya Modelleri Öğrenme",
+      "link": "https://arxiv.org/abs/2611.22880v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T14:53:49Z",
+      "summary": "Otonom araç karar verme süreci için uyarlanmış ajan odaklı görme-dil-eylem dünya modellerini sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2a82e5469efc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Akış Tabanlı VLA Politikaları İçin Sonuç Dengeli PPO ve Politika Kaynaklı Akış Düzeltmesi",
+      "link": "https://arxiv.org/abs/2611.22878v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T14:52:57Z",
+      "summary": "Akış tabanlı görme-dil-eylem politikaları için sonuç dengeli PPO ve akış düzeltmesini sunar.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "62f2d0a6cc3b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Zorlamaya Karşı: Sentetik Bir Sosyal Sözleşme Olarak Yapay Zeka Hizalaması",
+      "link": "https://arxiv.org/abs/2611.22868v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T14:45:51Z",
+      "summary": "Yapay zeka hizalamasını zorlayıcı kısıtlamalar yerine sentetik bir sosyal sözleşme aracılığıyla çerçevelemeyi önerir.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "03c04a447d04",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Yapay zeka metin dedektörlerinin değişen koşullara ayak uydurmasına yardımcı olmak",
+      "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-11-18T05:00:00Z",
+      "summary": "MIT araştırmacıları, yapay zeka metin dedektörlerinin değişen veriler arasında uyum sağlamasına olanak tanıyan bir yöntem tasarlıyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e9525da4094d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Yapay zekaya, topluma ve insanlığa ışık tutmak",
+      "link": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-11-17T20:40:00Z",
+      "summary": "MIT, yapay zekanın toplum ve insani değerler üzerindeki derin etkisini inceleyen girişimleri öne çıkarıyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d95ecc200efa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Academic"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia’nın girişim yatırımları 65 milyar dolara yükseldi, ancak Huang’ın ayrılması gelecekteki anlaşmaları şüpheye düşürüyor",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T01:44:21Z",
+      "summary": "Nvidia devasa girişim yatırımları biriktirdi, ancak üst düzey değişiklikler gelecekteki ortaklık anlaşmaları hakkında şüphe uyandırıyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0b08a5d2f5b9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Finance"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Investor"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia, gelirlerin artmaya devam edeceğine söz veriyor — şimdilik",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T00:16:50Z",
+      "summary": "Nvidia, son kurumsal çalkantılara rağmen yapay zeka çipi gelir büyümesinin güçlü kalmaya devam ettiğini yatırımcılara güvence altına aldı.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1bbe22dae05f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Finance"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CFO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia, Jensen Huang’ın görevden uzaklaştırılmasının ardından Çin'den ayrılıyor",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T23:37:48Z",
+      "summary": "Nvidia, üst düzey liderliğindeki büyük değişimlerin ardından Çin pazarından çıkmayı planlıyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a91e4c81d566",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia, Jensen Huang’ın ayrılışından sonra açık kaynaklı yapay zeka stratejisinin geçerliliğini koruduğunu söylüyor",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T23:04:35Z",
+      "summary": "Nvidia, açık kaynaklı yapay zeka geliştirme taahhütlerinin değişmeden devam edeceğini doğruladı.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "74fa1f5e6e2f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia, Jensen Huang’ı yeniden CEO olarak atamayı planlamadığını söylüyor",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T22:42:27Z",
+      "summary": "Nvidia, yönetim kurulunun eski yönetici Jensen Huang'ı icra kurulu başkanı olarak yeniden göreve getirmeyeceğini netleştirdi.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fcd1652eaf88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "Board Member",
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Amazon ve Google, halka arzının ardından Anthropic'in yaklaşık %30'una birlikte sahip olacak",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T22:29:05Z",
+      "summary": "Amazon ve Google, halka arz sonrası Anthropic'te önemli bir ortak hisseye sahip olmaya hazırlanıyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fc1294d53116",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Amazon",
+        "Anthropic",
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Bildirildiğine göre SEC, Huang'ın ayrılışının ardından Nvidia'yı soruşturuyor",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T21:48:07Z",
+      "summary": "Düzenleyiciler, liderliğin ayrılışının ardından Nvidia hakkında bir inceleme başlattı.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "50f33a0b8068",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Legal",
+        "Government"
+      ],
+      "companies": [
+        "Nvidia",
+        "Securities and Exchange Commission"
+      ],
+      "job_titles": [
+        "CEO",
+        "Chief Medical Officer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Instagram'da yapay zeka deepfake'lerinden Sam Altman bile güvende değil - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXVTV044VDhvSkx0SXBpY3dtSVNOYVRHYXN3U1NVTEgwTUU1dW9oc1BPRlJ2akx4bldKSmVyeFN2NVNhZzg2VEo3Y3d0RzFLMlUwWjdDbGEtcTRNMVJkY3F1X3FvWG5vc080eXFLNjVPZHNqendEc3BIQjRnS1EtOTU0Z3VsaDMxb1hnTnhhOFF3OTg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T21:00:55Z",
+      "summary": "OpenAI CEO'su Sam Altman'ı taklit eden yapay zeka üretimi deepfake'ler Instagram'da boy gösterdi.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0691c7ff5c29",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Instagram",
+        "Meta",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Satya Nadella artık AGI bağımlısı olduğunu söylüyor - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekpkWW1DdTdKZVdGdWpSQndwV09wTWpONUpZNTlnZVdvYkxtaFpDM3YtdEY1a2FiN0FwTndBeEFPclRyYkw0dUdBcnJlV09GbGF4Uk5CZVVhLTg1XzRkMElVOFlObGZ1U3AtYlpqMG5UbWVjZlc4VVBid0tzS1Vubw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T23:41:18Z",
+      "summary": "Microsoft CEO'su Satya Nadella, yapay genel zeka hakkındaki gelişen bakış açısını halka açık bir şekilde tartışıyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "adaf676d2710",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "OpenAI, güncellenmiş GPT-6.2 Astra modelini yayınladı. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV25RSG42aGpTMVZ6VVdFMmZqTjNJbnJpdGJMMjZiNVpFM3Ezc2RkYVU0b1FiTHdWSTNyZndteVBwN3hHRU5teGc1QzZzbVh4NzZ4MEo4LTI4a2llZ1cxVVpQeTY5bmg2NTQteE55ZzdGZ3Y5Uk1DWUpZNjlCSm91YmlveTdnTnBFSDlpMXJ3?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T17:45:00Z",
+      "summary": "OpenAI, GPT-6.2 Astra adında güncellenmiş bir GPT modelinin piyasaya sürüldüğünü duyuruyor.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "78475f5aeeb2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Nvidia’nın 3. çeyrek kazançları, tüm o Jensen Huang meselesinden bahsetmeden hedefini tutturdu - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tNlZYUmY4Nlg5cXNiN0E3UHZSZHUtd0dxd1ppWldTNUlxc1VycUpvOWUxbmpQQnpPVXlnT2FSb3dObzFGLWdwT09fVmhvbm82RHJXYjlIN1JtUGVtQjFySUw4RDJFeEtPMjd1QlI3MGhmM00?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T21:40:59Z",
+      "summary": "Nvidia, CEO Jensen Huang hakkındaki sektör ilgisinin ortasında beklentileri karşılayan üçüncü çeyrek finansal sonuçlarını bildiriyor.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "87293b65aaab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "Financial Analyst"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "GPT-6.2 Astra ve Sol Sunuluyor",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",

@@ -1,6 +1,1804 @@
 {
-  "refreshed_at": "2026-11-17 20:52 UTC",
+  "refreshed_at": "2026-11-18 06:18 UTC",
   "items": [
+    {
+      "title": "ChatGPT for Sales کا تعارف",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T08:00:00Z",
+      "summary": "OpenAI نے ایک نیا ChatGPT ٹول لانچ کیا ہے جو خاص طور پر sales کے استعمال کے لیے تیار کیا گیا ہے۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1632816037b3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager",
+        "Sales Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "NVIDIA نے AI Infrastructure کی تعمیر میں معاونت کے لیے Supply Chain پارٹنرز کے ساتھ اپنے وعدوں کو وسعت دی",
+      "link": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "source": "NVIDIA",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T22:18:00Z",
+      "summary": "NVIDIA نے AI infrastructure کی بڑھتی ہوئی ضروریات کو پورا کرنے کے لیے supply chain کی شراکت داریوں میں اضافہ کیا ہے۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "94bc4ec01522",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech",
+        "Manufacturing"
+      ],
+      "companies": [
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Supply Chain Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker HyperPod Inference پر Managed NVIDIA Dynamo",
+      "link": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T23:33:26Z",
+      "summary": "AWS نے Amazon SageMaker HyperPod Inference پر managed NVIDIA Dynamo سپورٹ متعارف کرائی ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d906312f7e57",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Amazon",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Bedrock AgentCore JSON ورک لوڈز میں ٹوکن لاگت اور latency میں کمی",
+      "link": "https://aws.amazon.com/blogs/machine-learning/reducing-token-costs-and-latency-in-amazon-bedrock-agentcore-json-workloads/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T22:44:51Z",
+      "summary": "AWS نے Bedrock AgentCore JSON ورک لوڈز کے لیے ٹوکن کے اخراجات اور latency کو کم کرنے کے طریقے تفصیل سے بتائے ہیں۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d6dc10d36490",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Generative AI کے اخراجات کم کریں: قواعد کے لیے کوڈ، فیصلے کے لیے ماڈلز",
+      "link": "https://aws.amazon.com/blogs/machine-learning/cut-generative-ai-costs-code-for-rules-models-for-judgment/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T21:14:55Z",
+      "summary": "AWS نے قواعد اور فیصلے کو الگ کر کے generative AI کے اخراجات کم کرنے کی حکمت عملی بیان کی ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aa2a2e69b8d8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon SageMaker AI ریئل ٹائم اینڈ پوائنٹس اب KV cache aware routing کو سپورٹ کرتے ہیں",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-real-time-endpoints-now-support-kv-cache-aware-routing/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-17T21:11:51Z",
+      "summary": "Amazon SageMaker AI ریئل ٹائم اینڈ پوائنٹس نے KV cache aware routing کے لیے سپورٹ متعارف کرا دی ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "2ac642af7039",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Ambient LLMs: Temperature Matching کے ذریعے Data-Efficient Supervised Fine-tuning",
+      "link": "https://arxiv.org/abs/2611.23229v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:59:37Z",
+      "summary": "ایک تحقیقی مقالہ ambient LLMs کی data-efficient supervised fine-tuning کے لیے temperature matching کی تجویز پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f88cf07aba1f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "StringQFT: AI کی مدد سے نظریاتی طبیعیات کے لیے ایک کثیر المقاصد نصابی کتاب کا وسیلہ",
+      "link": "https://arxiv.org/abs/2611.23225v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:58:40Z",
+      "summary": "StringQFT نظریاتی طبیعیات کی تحقیق میں AI کی معاونت کے لیے ایک کثیر المقاصد نصابی کتاب کا وسیلہ فراہم کرتا ہے۔",
+      "persona": "📚 Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f71c3d161dfd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کیا LLM Agents کو اب بھی یہ بتانے کی ضرورت ہے کہ خود کو کیسے بہتر بنایا جائے؟",
+      "link": "https://arxiv.org/abs/2611.23219v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:57:10Z",
+      "summary": "تحقیق اس بات کا جائزہ لیتی ہے کہ آیا LLM agents کو خود کو بہتر بنانے کے لیے واضح ہدایات کی ضرورت ہوتی ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "abe0bf4fb62e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "زیادہ اسکور کرنے والے کوڈنگ ماڈلز زیادہ کام مکمل نہیں کر سکے",
+      "link": "https://arxiv.org/abs/2611.23216v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:56:42Z",
+      "summary": "مطالعے سے معلوم ہوا ہے کہ زیادہ اسکور کرنے والے کوڈنگ ماڈلز نے زیادہ مکمل کام انجام نہیں دیے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ad20d8cd249b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Reading Scene States: Vision-Language ماڈلز میں حفاظتی خامیوں کو بے نقاب کرنا",
+      "link": "https://arxiv.org/abs/2611.23206v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:48:02Z",
+      "summary": "تحقیق vision-language ماڈلز کے اندر حفاظتی خامیوں کو بے نقاب کرنے کے لیے scene states کا تجزیہ کرتی ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f1dcf8464374",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "لیپ ٹاپ iGPU پر SFT اور QLoRA کے ساتھ MATLAB سگنل پروسیسنگ کوڈ کے لیے Gemma 4 Edge ماڈلز کی Fine-Tuning",
+      "link": "https://arxiv.org/abs/2611.23205v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:47:37Z",
+      "summary": "مقالہ لیپ ٹاپ iGPUs پر SFT اور QLoRA کا استعمال کرتے ہوئے MATLAB کے لیے Gemma 4 edge ماڈلز کی fine-tuning کا مظاہرہ کرتا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e0d52eeab323",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Agent Trust Infrastructure (ATI): کراس آرگنائزیشن خود مختار AI ایجنٹوں کے لیے ایک فیڈریٹڈ شناخت، اعتماد، تصدیق اور احتساب کا آرکیٹیکچر",
+      "link": "https://arxiv.org/abs/2611.23202v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:44:25Z",
+      "summary": "ATI کراس آرگنائزیشن خود مختار AI agents کے لیے ایک فیڈریٹڈ شناخت اور اعتماد کا آرکیٹیکچر تجویز کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6b19d6d5f71d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CTO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Language Model Pretraining کے لیے Structure--Residual Inductive Biases",
+      "link": "https://arxiv.org/abs/2611.23197v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:38:27Z",
+      "summary": "تحقیق language model pretraining کو بہتر بنانے کے لیے structure-residual inductive biases کا جائزہ لیتی ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6c4be6d41c71",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "WoRD: آن لائن ہدف کی شناخت کے لیے Diffusion-Based Posterior Inference",
+      "link": "https://arxiv.org/abs/2611.23192v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:35:53Z",
+      "summary": "WoRD آن لائن ہدف کی شناخت کے لیے diffusion-based posterior inference کے طریقے متعارف کراتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "65c1f76b1848",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "عمومی میڈیکل امیج سیگمنٹیشن کے لیے Retrieval-Augmented Correction",
+      "link": "https://arxiv.org/abs/2611.23189v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:33:42Z",
+      "summary": "مقالہ عمومی میڈیکل امیج سیگمنٹیشن کے کاموں کے لیے retrieval-augmented correction کا ایک طریقہ متعارف کراتا ہے۔",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "0722149eb142",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کم بولیں، کم فریب نظر؟ Preference-Optimized Vision-Language ماڈلز میں Object Coverage کی تشخیص اور بحالی",
+      "link": "https://arxiv.org/abs/2611.23179v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:24:58Z",
+      "summary": "تحقیق preference-optimized vision-language ماڈلز میں hallucinations کو کم کرنے کے لیے object coverage کی تشخیص اور اسے بحال کرتی ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2520122e3bdb",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Coding Agents کے بعد شماریاتی استخراج (Inference)",
+      "link": "https://arxiv.org/abs/2611.23174v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:22:01Z",
+      "summary": "AI coding agents کے تیار کردہ کوڈ کے بعد شماریاتی استخراج اور درست اعتماد کی ضمانتوں کا جائزہ لیتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3a37e0724381",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Attribution Through the Decoder: سٹرکچرڈ آؤٹ پٹس کے لیے Prediction-Space وضاحتیں",
+      "link": "https://arxiv.org/abs/2611.23161v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:13:50Z",
+      "summary": "ڈیپ لرننگ ماڈلز میں پیچیدہ prediction-space سٹرکچرڈ آؤٹ پٹس کی وضاحت کے لیے decoder پر مرکوز attribution کے طریقے پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3aa3301c255b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Inference-Time کے مقاصد کے لیے Stratified Policies سیکھنا",
+      "link": "https://arxiv.org/abs/2611.23154v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T18:06:12Z",
+      "summary": "ماڈل کے inference ٹائم پر اہداف کو متحرک طور پر بہتر بنانے کے لیے مخصوص stratified reinforcement learning پالیسیوں کی تجویز پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "210bebf7a87b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mind the Gap: دستاویزات کی دیکھ بھال کے لیے ایک تعینات کردہ Multi-Agent سسٹم",
+      "link": "https://arxiv.org/abs/2611.23142v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:59:13Z",
+      "summary": "ایک حقیقی دنیا میں تعینات کردہ multi-agent سسٹم کا جائزہ لیتا ہے جو سافٹ ویئر کی دستاویزات کو خودکار طریقے سے برقرار رکھنے اور ہم آہنگ کرنے کے لیے بنایا گیا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "31e8db53729a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RSI-Prime: ماڈلز کی تربیت کے لیے ماڈلز کو تربیت دینا",
+      "link": "https://arxiv.org/abs/2611.23138v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:55:30Z",
+      "summary": "RSI-Prime کو متعارف کراتا ہے، جو کہ ایک recursive self-improvement فریم ورک ہے جو دوسرے ماڈلز کو تربیت دینے کے لیے مشین لرننگ ماڈلز کو تربیت دیتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b9887113aa7e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Natural Language Programming: Generative AI کے دور میں زبان، یادداشت اور ادراک پر دوبارہ غور",
+      "link": "https://arxiv.org/abs/2611.23106v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:27:01Z",
+      "summary": "Natural language programming، ادراکی آرکیٹیکچرز اور generative AI سسٹمز کے باہمی ملاپ کا تجزیہ کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f61954229bf7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Inoculation Prompting کے بعد Hidden-State کی مشابہت دوبارہ ابھرنے کی پیش گوئی کرتی ہے",
+      "link": "https://arxiv.org/abs/2611.23096v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:20:33Z",
+      "summary": "ظاہر کرتا ہے کہ کس طرح hidden-state نمائندگی پیش گوئی کرتی ہے کہ حفاظتی inoculation پرامپٹس کے بعد LLMs میں ناپسندیدہ رویے دوبارہ کب سامنے آتے ہیں۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "49a52d0f955a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "درخت میں کیا ہے؟ زبان کے کنٹرول شدہ تخمینہ کاروں کے طور پر Hierarchical n-gram ماڈلز",
+      "link": "https://arxiv.org/abs/2611.23093v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:14:01Z",
+      "summary": "جدید لینگویج ماڈلنگ کے لیے ریاضیاتی طور پر کنٹرول شدہ بنیادی خطوط اور تخمینہ کاروں کے طور پر hierarchical n-gram ماڈلز کا جائزہ لیتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c5ca2f83a98b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BugGen 2.0: بڑے پیمانے پر RTL بگ سنتھیسس کے لیے LLMs کے کردار پر دوبارہ غور",
+      "link": "https://arxiv.org/abs/2611.23091v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:11:54Z",
+      "summary": "مضبوط RTL تصدیق کے لیے مصنوعی ہارڈویئر بگ انجیکشن کو وسعت دینے کے لیے بڑے لینگویج ماڈلز کا استعمال کرتا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6358f4255b13",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "Software Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Learning to Undo: State Space Transformations کے تحت Transfer Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2611.23081v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:06:51Z",
+      "summary": "ایک transfer reinforcement learning کا طریقہ تیار کرتا ہے جو مختلف state spaces میں معکوس تبدیلیوں کو سیکھتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e49e88943cf1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Colombo: Oracle پر مبنی اصلاح کے لیے ایک Frontier-to-Frontier Autoresearch سسٹم",
+      "link": "https://arxiv.org/abs/2611.23080v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:06:23Z",
+      "summary": "Colombo کو متعارف کراتا ہے، جو oracle کی رہنمائی میں سائنسی اور الگورتھمک اصلاح کے لیے بنایا گیا ایک خود مختار ریسرچ ایجنٹ سسٹم ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2652245acad0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ایجنٹ گورننس کے لیے متعدد قدرتی زبان کے معیارات کی Runtime Verification",
+      "link": "https://arxiv.org/abs/2611.23074v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T17:01:00Z",
+      "summary": "خود مختار AI agents کے لیے runtime پر پیچیدہ قدرتی زبان کی پابندیوں کی توثیق کرنے والا گورننس فریم ورک پیش کرتا ہے۔",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "63b5629c19a2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Compliance Officer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "The Resolution Hypothesis: ایجنٹ کے ارتقا کی کلید بہتریوں کی نشاندہی کرنا ہے",
+      "link": "https://arxiv.org/abs/2611.23068v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:57:03Z",
+      "summary": "Resolution Hypothesis تشکیل دیتا ہے، جس میں یہ دلیل دی گئی ہے کہ خود مختار ایجنٹ کے خود ارتقا کے لیے high-resolution تشخیص ضروری ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2d64164c3ebe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "اقدار طے کرتی ہیں کہ خود کو بہتر بنانے والے کوڈنگ ایجنٹس کیا بناتے ہیں",
+      "link": "https://arxiv.org/abs/2611.23067v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:56:46Z",
+      "summary": "اس بات کا تجزیہ کرتا ہے کہ کس طرح شامل کردہ مقاصد کی اقدار خود کو بہتر بنانے والے کوڈنگ ایجنٹس کے آؤٹ پٹس اور ترقی کے راستے کی رہنمائی کرتی ہیں۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8a9b372e8440",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ہیٹ پمپ اور انڈر فلور ہیٹنگ کنٹرول کے لیے Deep Reinforcement Learning: ایک اینڈ ٹو اینڈ کیس اسٹڈی",
+      "link": "https://arxiv.org/abs/2611.23063v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:54:25Z",
+      "summary": "ہیٹ پمپ اور انڈر فلور ہیٹنگ کی کارکردگی کو بہترین بنانے والے ایک اینڈ ٹو اینڈ deep reinforcement learning کنٹرولر کا مظاہرہ کرتا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9026a36f078b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "FrameRouter: Video-MME-v2 اور اس سے آگے طویل ویڈیوز کو سمجھنے کے لیے Frame Budget Routing",
+      "link": "https://arxiv.org/abs/2611.23055v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:49:21Z",
+      "summary": "FrameRouter پیش کرتا ہے، جو ملٹی موڈل ماڈلز میں طویل ویڈیوز کو سمجھنے کی صلاحیت کو بڑھانے والا ایک adaptive frame budget allocation سسٹم ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4d524501bb83",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ReTouchGS: 3D Gaussian Splatting کے لیے انتہائی ہلکا رینڈر فری جمالیاتی رنگوں کا اضافہ اور منتقلی",
+      "link": "https://arxiv.org/abs/2611.23054v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:47:43Z",
+      "summary": "3D Gaussian Splatting میں تیز رفتار، رینڈر فری کلر ایڈیٹنگ اور جمالیاتی انداز کی منتقلی کے لیے ReTouchGS کو متعارف کراتا ہے۔",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "527301dd8413",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Gaming",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Graphic Designer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ForecastGym: پیش گوئی کرنے والے ایجنٹوں کے لیے ایک لائیو، کنٹرول شدہ اور ری پلے کے قابل بینچ مارک",
+      "link": "https://arxiv.org/abs/2611.23045v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:44:38Z",
+      "summary": "ForecastGym جاری کرتا ہے، جو حقیقی دنیا کی پیش گوئی پر خود مختار LLM agents کی جانچ کے لیے دوبارہ قابلِ تخلیق لائیو بینچ مارک ماحول ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b4a3a5608634",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "اپنے بلائنڈ اسپاٹس کو چیک کریں: فرضی اشیاء کے ساتھ پلانر کی جانچ کر کے فیصلے پر مبنی ادراک",
+      "link": "https://arxiv.org/abs/2611.23030v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:33:15Z",
+      "summary": "بلائنڈ اسپاٹس کو بے نقاب کرنے کے لیے مصنوعی فرضی اشیاء کے ساتھ ڈاؤن اسٹریم پلانرز کی جانچ کر کے خود مختار ادراک کو بہتر بناتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5dbd34505df5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Autonomous Vehicle Engineer",
+        "Robotics Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PeriaTrace: پیری اپائیکل ریڈیوگرافس سے دانتوں کی سطح پر تشخیص اور مریضوں کے لیے وضاحتیں",
+      "link": "https://arxiv.org/abs/2611.23012v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:23:34Z",
+      "summary": "PeriaTrace تیار کرتا ہے، جو کہ دانتوں کی پیتھالوجی کی سطح پر گراؤنڈنگ اور ریڈیوگرافس سے مریض کے لیے وضاحتیں فراہم کرنے والا ایک AI نظام ہے۔",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "e2461b8867a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer",
+        "Radiologist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "PhysScope: گراؤنڈڈ بصری یادداشت کے ساتھ ایجنٹک ملٹی موڈل فزکس ریزننگ",
+      "link": "https://arxiv.org/abs/2611.23010v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:22:21Z",
+      "summary": "مقالہ گراؤنڈڈ بصری یادداشت کی تکنیکوں کا استعمال کرتے ہوئے ایجنٹک ملٹی موڈل فزکس کی تفہیم کے لیے PhysScope متعارف کراتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a7bf313ff463",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ایک منجمد ورلڈ ماڈل کے ساتھ خطرے سے آگاہ ٹریجیکٹری سلیکشن کے لیے Residual-Guided Lightweight Reinforcement Learning",
+      "link": "https://arxiv.org/abs/2611.22998v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:12:55Z",
+      "summary": "منجمد ورلڈ ماڈلز کا استعمال کرتے ہوئے خطرے سے آگاہ راستے کے انتخاب کے لیے ایک residual-guided reinforcement learning فریم ورک پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "81f168a3751c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RagHarnessDebugger: معاہدے کے استخراج کی مرمت کے آڈٹ میں Jev-Guided ایجنٹک RAG",
+      "link": "https://arxiv.org/abs/2611.22991v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:07:17Z",
+      "summary": "معاہدے کے استخراج کی مرمت اور آڈٹ کے کاموں میں ایجنٹک retrieval-augmented generation کے لیے RagHarnessDebugger پیش کرتا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f68ca9a82884",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ویب ریسرچ ایجنٹس صارف کی ترجیحات کی تشریح کیسے کرتے ہیں",
+      "link": "https://arxiv.org/abs/2611.22989v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:07:00Z",
+      "summary": "اس بات کا جائزہ لیتا ہے کہ خود مختار ویب ریسرچ ایجنٹس صارف کی مخصوص ترجیحات کی کس طرح تشریح، جانچ اور ان پر عمل کرتے ہیں۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "59f7b009021b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "منظم AI آئیڈیشن اپیتھیلیل رکاوٹ کی مرمت کے لیے جسمانی حکمت عملیاں پیش کرتی ہے",
+      "link": "https://arxiv.org/abs/2611.22988v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T16:05:22Z",
+      "summary": "ظاہر کرتا ہے کہ منظم AI آئیڈیشن اپیتھیلیل ٹشو کی رکاوٹ کی مرمت کے لیے ہدف بنائی گئی جسمانی حکمت عملیاں کیسے فراہم کرتی ہے۔",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1859d42dc30b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "بڑے لینگویج ماڈلز نے ابھی تک سائنس کو تبدیل نہیں کیا ہے",
+      "link": "https://arxiv.org/abs/2611.22975v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:57:22Z",
+      "summary": "سائنسی ترقی پر LLMs کے حقیقی دنیا کے اثرات کے حوالے سے موجودہ تجرباتی شواہد کا تجزیہ کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4b5038b0d605",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "VITAL: دواسازی کی ادویات کی تیاری اور کلینیکل ٹرائل آپریشنز میں ایجنٹک AI کی تصدیق کے لیے ایک فریم ورک",
+      "link": "https://arxiv.org/abs/2611.22973v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:55:13Z",
+      "summary": "VITAL تجویز کرتا ہے، جو فارماسیوٹیکل اور کلینیکل ٹرائلز میں ایجنٹک AI سسٹمز کی توثیق کرنے والا ایک تشخیصی فریم ورک ہے۔",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e09b4c89187",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Pharmaceutical",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SEAM: کمپیوٹر استعمال کرنے والے ایجنٹس اسکرینوں کے درمیان نقصان کو جانتے ہیں، اور پھر بھی اسے انجام دیتے ہیں",
+      "link": "https://arxiv.org/abs/2611.22971v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:53:58Z",
+      "summary": "ان حفاظتی خامیوں کو بے نقاب کرتا ہے جہاں کمپیوٹر استعمال کرنے والے ایجنٹس متعدد اسکرینوں پر نقصان دہ کارروائیاں کرتے ہیں۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ab811eceb6b5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CodeReel: فریم کے عین مطابق دوبارہ استعمال اور بلاکنگ سے آگاہ شیڈولنگ کے ساتھ کوڈ سے ویڈیو ایجنٹس کو تیز کرنا",
+      "link": "https://arxiv.org/abs/2611.22967v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:52:15Z",
+      "summary": "فریم کے دوبارہ استعمال اور بلاکنگ سے آگاہ شیڈولنگ تکنیکوں کے ذریعے کوڈ سے ویڈیو ایجنٹس کی رفتار تیز کرنے کے لیے CodeReel پیش کرتا ہے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c44fdb9180e4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ڈیفیوژن ماڈلز کے گائیڈنس سیمپلنگ کے ذریعے High-Dimensional Black-Box Optimization",
+      "link": "https://arxiv.org/abs/2611.22965v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:51:29Z",
+      "summary": "ہائی ڈائمینشنل بلیک باکس آپٹیمائزیشن کے چیلنجز سے نمٹنے کے لیے ڈیفیوژن ماڈلز کے گائیڈنس سیمپلنگ کی تجویز پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a541e21882d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "اینڈ ٹو اینڈ امیج جنریشن کے لیے Hierarchical Diffusion Transformer",
+      "link": "https://arxiv.org/abs/2611.22962v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:47:56Z",
+      "summary": "قابلِ وسعت اینڈ ٹو اینڈ امیج جنریشن کے لیے ایک hierarchical diffusion transformer آرکیٹیکچر متعارف کراتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "651b91eb0d71",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کمیونیکیشن کے لحاظ سے کارآمد بازنطینی لچکدار فیڈریٹڈ لرننگ کے لیے Projected Penalty-Gradient Tracking",
+      "link": "https://arxiv.org/abs/2611.22929v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:28:03Z",
+      "summary": "کمیونیکیشن کے لحاظ سے کارآمد، بازنطینی لچکدار فیڈریٹڈ لرننگ کو فعال کرنے کے لیے projected penalty-gradient tracking تیار کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8d4153027726",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ٹرانسپورٹیشن میں ٹائپ شدہ فیصلے کے ماڈلز کب کام کرتے ہیں؟ سفری انتخاب اور ٹریفک سگنل کنٹرول سے شواہد",
+      "link": "https://arxiv.org/abs/2611.22926v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:24:40Z",
+      "summary": "ٹرانسپورٹیشن کے شعبوں بشمول سفری انتخاب اور سگنل کنٹرول میں ٹائپ شدہ فیصلے کے ماڈلز کا جائزہ لیتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9fd2ab182b7d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ہو گیا، لیکن اب بھی کام جاری ہے: کوڈنگ ایجنٹس کو کب رکنا چاہیے اس کی Anytime تشخیص",
+      "link": "https://arxiv.org/abs/2611.22901v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:07:35Z",
+      "summary": "یہ تعین کرنے کے لیے anytime تشخیصی تکنیکوں کا جائزہ لیتا ہے کہ کوڈنگ ایجنٹس کو اپنا کام کب ختم کرنا چاہیے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d85ce750009d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "کام کے لیے پیدا کیا گیا: پیش بین ایجنٹک کمپیوٹنگ کے ساتھ کوانٹم کیمسٹری پر دوبارہ غور",
+      "link": "https://arxiv.org/abs/2611.22897v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T15:05:38Z",
+      "summary": "کوانٹم کیمسٹری میں سمیولیشنز اور حسابات کو آگے بڑھانے کے لیے ڈیزائن کیے گئے ایجنٹک کمپیوٹنگ آرکیٹیکچرز کا جائزہ لیتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "678776616e0e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "رکنا کوئی حد نہیں ہے: طویل مدتی کمزوریوں کے استحصالی کاموں میں ایجنٹ کی صلاحیت کو سمجھنا اور اجاگر کرنا",
+      "link": "https://arxiv.org/abs/2611.22888v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T14:58:46Z",
+      "summary": "طویل افق کے سائبر سیکیورٹی کمزوریوں کے استحصال کے کاموں کے دوران ایجنٹ کی صلاحیتوں اور حدود کا مطالعہ کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9cb94a4fe1c4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Security Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "خود مختار ڈرائیونگ کے لیے ایجنٹ پر مرکوز Vision-Language-Action ورلڈ ماڈلز سیکھنا",
+      "link": "https://arxiv.org/abs/2611.22880v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T14:53:49Z",
+      "summary": "خود مختار گاڑیوں کے فیصلے سازی کے لیے تیار کردہ ایجنٹ پر مرکوز vision-language-action ورلڈ ماڈلز پیش کرتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2a82e5469efc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Automotive"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "فلو پر مبنی VLA پالیسیوں کے لیے Outcome-Balanced PPO اور Policy-Induced Flow Rectification",
+      "link": "https://arxiv.org/abs/2611.22878v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T14:52:57Z",
+      "summary": "فلو پر مبنی vision-language-action پالیسیوں کے لیے outcome-balanced PPO اور فلو ریکٹیفکیشن متعارف کراتا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "62f2d0a6cc3b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "جبر کے خلاف: ایک مصنوعی سماجی معاہدے کے طور پر AI الائنمنٹ",
+      "link": "https://arxiv.org/abs/2611.22868v1",
+      "source": "ArXiv AI",
+      "region": "🔬",
+      "pub_date": "2026-11-17T14:45:51Z",
+      "summary": "جبری پابندیوں کے بجائے ایک مصنوعی سماجی معاہدے کے ذریعے AI الائنمنٹ کی تشکیل کی تجویز پیش کرتا ہے۔",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "03c04a447d04",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Policy Analyst"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AI ٹیکسٹ ڈٹیکٹرز کو بدلتے ہوئے حالات کے ساتھ ہم آہنگ رکھنے میں مدد کرنا",
+      "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-11-18T05:00:00Z",
+      "summary": "MIT کے محققین نے ایک ایسا طریقہ تیار کیا ہے جس کی مدد سے AI ٹیکسٹ ڈٹیکٹرز بدلتے ہوئے ڈیٹا کے مطابق خود کو ڈھال سکتے ہیں۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e9525da4094d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "AI، معاشرے اور انسانیت پر توجہ مرکوز کرنا",
+      "link": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "source": "MIT AI News",
+      "region": "📚",
+      "pub_date": "2026-11-17T20:40:00Z",
+      "summary": "MIT ایسے اقدامات کو اجاگر کرتا ہے جو معاشرے اور انسانی اقدار پر مصنوعی ذہانت کے گہرے اثرات کا جائزہ لیتے ہیں۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d95ecc200efa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [
+        "MIT"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Academic"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia کے اسٹارٹ اپ حصص بڑھ کر $65B تک پہنچ گئے، لیکن Huang کے جانے سے مستقبل کے معاہدے شکوک و شبہات میں گھر گئے",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T01:44:21Z",
+      "summary": "Nvidia نے اسٹارٹ اپس میں بڑے پیمانے پر سرمایہ کاری جمع کی، لیکن قیادت کی تبدیلیوں نے مستقبل کے وینچر سودوں پر شکوک و شبہات پیدا کر دیے ہیں۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0b08a5d2f5b9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Finance"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Investor"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia کا وعدہ ہے کہ آمدنی میں تیزی سے اضافہ جاری رہے گا — فی الحال",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T00:16:50Z",
+      "summary": "Nvidia نے سرمایہ کاروں کو یقین دلایا ہے کہ حالیہ کارپوریٹ اتار چڑھاؤ کے باوجود AI چپ کی آمدنی میں اضافہ بدستور مضبوط ہے۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1bbe22dae05f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Finance"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CFO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Jensen Huang کی برطرفی کے بعد Nvidia چین چھوڑ رہا ہے",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T23:37:48Z",
+      "summary": "Nvidia اپنی اعلیٰ قیادت میں بڑی تبدیلیوں کے بعد چینی مارکیٹ سے نکلنے کا ارادہ رکھتا ہے۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a91e4c81d566",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia کا کہنا ہے کہ Jensen Huang کے اخراج کے بعد بھی اس کی اوپن سورس AI حکمت عملی برقرار ہے",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T23:04:35Z",
+      "summary": "Nvidia نے تصدیق کی کہ اوپن سورس مصنوعی ذہانت کی ترقی کے لیے اس کے وعدے بغیر کسی تبدیلی کے جاری رہیں گے۔",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "74fa1f5e6e2f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia کا کہنا ہے کہ اس کا Jensen Huang کو دوبارہ CEO مقرر کرنے کا کوئی ارادہ نہیں ہے",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T22:42:27Z",
+      "summary": "Nvidia نے واضح کیا کہ اس کا بورڈ سابق سربراہ Jensen Huang کو دوبارہ چیف ایگزیکٹو کے عہدے پر بحال نہیں کرے گا۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fcd1652eaf88",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "Board Member",
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Amazon اور Google کے پاس IPO کے بعد مل کر Anthropic کا تقریباً 30% حصہ ہوگا",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T22:29:05Z",
+      "summary": "Amazon اور Google مشترکہ طور پر IPO کے بعد Anthropic میں نمایاں حصص حاصل کرنے کے لیے تیار ہیں۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fc1294d53116",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Amazon",
+        "Anthropic",
+        "Google"
+      ],
+      "job_titles": [
+        "CEO",
+        "Investor"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "اطلاعات کے مطابق SEC نے Huang کے اخراج کے بعد Nvidia کی تحقیقات شروع کر دی ہیں",
+      "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T21:48:07Z",
+      "summary": "ریگولیٹرز نے قیادت کی روانگی کے بعد Nvidia کے خلاف تحقیقات کا آغاز کر دیا ہے۔",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "50f33a0b8068",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors",
+        "Legal",
+        "Government"
+      ],
+      "companies": [
+        "Nvidia",
+        "Securities and Exchange Commission"
+      ],
+      "job_titles": [
+        "CEO",
+        "Chief Medical Officer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Instagram پر Sam Altman بھی AI ڈیپ فیکس سے محفوظ نہیں ہیں - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTXVTV044VDhvSkx0SXBpY3dtSVNOYVRHYXN3U1NVTEgwTUU1dW9oc1BPRlJ2akx4bldKSmVyeFN2NVNhZzg2VEo3Y3d0RzFLMlUwWjdDbGEtcTRNMVJkY3F1X3FvWG5vc080eXFLNjVPZHNqendEc3BIQjRnS1EtOTU0Z3VsaDMxb1hnTnhhOFF3OTg?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T21:00:55Z",
+      "summary": "OpenAI کے CEO Sam Altman کی نقل اتارنے والے AI سے تیار کردہ ڈیپ فیکس Instagram پر سامنے آئے ہیں۔",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0691c7ff5c29",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Instagram",
+        "Meta",
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Satya Nadella کا کہنا ہے کہ وہ اب AGI کے حامی بن چکے ہیں - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOekpkWW1DdTdKZVdGdWpSQndwV09wTWpONUpZNTlnZVdvYkxtaFpDM3YtdEY1a2FiN0FwTndBeEFPclRyYkw0dUdBcnJlV09GbGF4Uk5CZVVhLTg1XzRkMElVOFlObGZ1U3AtYlpqMG5UbWVjZlc4VVBid0tzS1Vubw?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T23:41:18Z",
+      "summary": "Microsoft کے CEO Satya Nadella نے مصنوعی عمومی ذہانت (AGI) کے بارے میں اپنے بدلتے ہوئے نقطہ نظر پر عوامی طور پر بات کی۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "adaf676d2710",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "OpenAI نے اپنا اپ ڈیٹ شدہ GPT-6.2 Astra ماڈل جاری کیا - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV25RSG42aGpTMVZ6VVdFMmZqTjNJbnJpdGJMMjZiNVpFM3Ezc2RkYVU0b1FiTHdWSTNyZndteVBwN3hHRU5teGc1QzZzbVh4NzZ4MEo4LTI4a2llZ1cxVVpQeTY5bmg2NTQteE55ZzdGZ3Y5Uk1DWUpZNjlCSm91YmlveTdnTnBFSDlpMXJ3?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T17:45:00Z",
+      "summary": "OpenAI نے GPT-6.2 Astra نامی ایک اپ ڈیٹ شدہ GPT ماڈل کے اجراء کا اعلان کیا ہے۔",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "78475f5aeeb2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Nvidia کی تیسری سہ ماہی کی آمدنی توقعات پر پوری اتری، بغیر Jensen Huang کے پورے معاملے کا ذکر کیے - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tNlZYUmY4Nlg5cXNiN0E3UHZSZHUtd0dxd1ppWldTNUlxc1VycUpvOWUxbmpQQnpPVXlnT2FSb3dObzFGLWdwT09fVmhvbm82RHJXYjlIN1JtUGVtQjFySUw4RDJFeEtPMjd1QlI3MGhmM00?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-17T21:40:59Z",
+      "summary": "Nvidia نے CEO Jensen Huang پر صنعت کی توجہ کے درمیان توقعات کے مطابق تیسری سہ ماہی کے مالیاتی نتائج کی اطلاع دی ہے۔",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "87293b65aaab",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "Financial Analyst"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
     {
       "title": "GPT-6.2 Astra اور Sol کا تعارف",
       "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
