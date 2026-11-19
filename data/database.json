@@ -1,6 +1,2520 @@
 {
-  "refreshed_at": "2026-11-19 06:16 UTC",
+  "refreshed_at": "2026-11-19 20:28 UTC",
   "items": [
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T18:00:00Z",
+      "summary": "Gemini API now supports tool retrieval to improve performance and integration with external tools.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4c3ac0becb9b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T17:00:00Z",
+      "summary": "Walter Isaacson discusses the relationship between human curiosity, creativity, and emerging artificial intelligence.",
+      "persona": "\ud83d\udcda Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "c1fbfa1ad327",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-adds-strands-harness-defaults-built-in-tools-and-lifecycle-hooks/",
+      "source": "AWS AI Blog",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T20:01:06Z",
+      "summary": "Amazon Bedrock updates include new lifecycle hooks and defaults for AgentCore harness development.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "162cf3f36e42",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Amazon Polly launches voice cloning: A unique voice for your brand",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-voice-cloning-a-unique-voice-for-your-brand/",
+      "source": "AWS AI Blog",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T19:53:32Z",
+      "summary": "Amazon Polly introduces new voice cloning technology for personalized brand audio experiences.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "497064254805",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Optimize AI economics on Amazon Bedrock with Accenture\u2019s sequenced approach",
+      "link": "https://aws.amazon.com/blogs/machine-learning/optimize-ai-economics-on-amazon-bedrock-with-accentures-sequenced-approach/",
+      "source": "AWS AI Blog",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T18:48:55Z",
+      "summary": "Accenture provides a framework for optimizing AI cost-efficiency on Amazon Bedrock platform.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "3cba03cd53d1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Management Consulting",
+        "Tech"
+      ],
+      "companies": [
+        "Accenture",
+        "Amazon"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "From learning to leaderboard: How Cisco upskilled 1,200 engineers in agentic AI with AWS AI League",
+      "link": "https://aws.amazon.com/blogs/machine-learning/from-learning-to-leaderboard-how-cisco-upskilled-1200-engineers-in-agentic-ai-with-aws-ai-league/",
+      "source": "AWS AI Blog",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T18:26:22Z",
+      "summary": "Cisco trained 1,200 engineers on agentic AI using the AWS AI League program.",
+      "persona": "\ud83d\udcda Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fdd81919d0e3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Amazon",
+        "Cisco"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Keep inference running through regional capacity shortfalls with cross-Region inference routing in Amazon SageMaker AI",
+      "link": "https://aws.amazon.com/blogs/machine-learning/keep-inference-running-through-regional-capacity-shortfalls-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T18:20:54Z",
+      "summary": "Amazon SageMaker AI introduces cross-region routing to ensure inference continuity during capacity issues.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ce8a489f9d85",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Protect agent tool calls with Skyflow and Amazon Bedrock AgentCore Gateway",
+      "link": "https://aws.amazon.com/blogs/machine-learning/protect-agent-tool-calls-with-skyflow-and-amazon-bedrock-agentcore-gateway/",
+      "source": "AWS AI Blog",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T18:14:36Z",
+      "summary": "Integration between Skyflow and Amazon Bedrock secures agent tool calls with data privacy.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "0463689e738a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Skyflow"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
+      "link": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/",
+      "source": "AWS AI Blog",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T17:28:47Z",
+      "summary": "PolyAI's Dialog-RSN-1 model is now available via Amazon SageMaker JumpStart for deployment.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "2b014af1e5a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "PolyAI"
+      ],
+      "job_titles": [
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Using NVIDIA Run:ai GPU Fractioning on Amazon EKS",
+      "link": "https://aws.amazon.com/blogs/machine-learning/using-nvidia-runai-gpu-fractioning-on-amazon-eks/",
+      "source": "AWS AI Blog",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-19T16:13:51Z",
+      "summary": "Guide on utilizing NVIDIA Run:ai GPU fractioning to optimize resource allocation on Amazon EKS.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "671f8a414558",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "NVIDIA"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Complexity of Differentially Private Selection via Federated APIs",
+      "link": "https://machinelearning.apple.com/research/differentially-private-selection",
+      "source": "Apple ML",
+      "region": "\ud83c\uddfa\ud83c\uddf8",
+      "pub_date": "2026-11-10T00:00:00Z",
+      "summary": "Researchers analyze the complexity of differential privacy in federated learning API environments.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d64ebd3fa13c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "link": "https://arxiv.org/abs/2611.24932v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:55:07Z",
+      "summary": "Theoretical study exploring reviewer value in collaborative human-AI cognitive systems.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "923f1be3f06b",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "link": "https://arxiv.org/abs/2611.24927v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:53:58Z",
+      "summary": "Comprehensive analysis of AI supply chain dependencies, vulnerabilities, and market industry concentration.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5f22b585439b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+      "link": "https://arxiv.org/abs/2611.24924v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:52:13Z",
+      "summary": "Introduces a requirements-centered framework for evolving agentic AI testing harnesses.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a7f9caca46b9",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Who are you? The Personal Imitation Game",
+      "link": "https://arxiv.org/abs/2611.24888v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:32:14Z",
+      "summary": "Investigation into models' ability to imitate human personality traits and identity.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "cc019c23bfaa",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+      "link": "https://arxiv.org/abs/2611.24880v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:27:40Z",
+      "summary": "Evaluates the deployment, metrics, and costs of running local AI agents for electronics simulation.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "4eb7e3400848",
+      "is_ai_relevant": true,
+      "industries": [
+        "Manufacturing"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+      "link": "https://arxiv.org/abs/2611.24877v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:24:54Z",
+      "summary": "LLMs used to audit black-box clinical models by identifying planted flaws via queries.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5b152108dea0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Medical Devices"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+      "link": "https://arxiv.org/abs/2611.24869v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:20:39Z",
+      "summary": "Introduces WorldRuler for building interactive world models based on user-defined constraints.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "8cccc0955b0f",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+      "link": "https://arxiv.org/abs/2611.24867v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:20:12Z",
+      "summary": "Proposes a budget-paired counterfactual method to evaluate visual agents for better audit credibility.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1f9abf573405",
+      "is_ai_relevant": true,
+      "industries": [],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Vibe-Trading: Towards Agent-Native Trading",
+      "link": "https://arxiv.org/abs/2611.24845v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:07:57Z",
+      "summary": "Explores agent-native trading frameworks designed for automated financial market operations.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "70830584d7e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Finance",
+        "Investment Banking",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "General progress substitutes for specific training data in language models",
+      "link": "https://arxiv.org/abs/2611.24844v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:07:55Z",
+      "summary": "Analyzes how general capability progress replaces specific training data in language models.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "2f99b2323d3c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+      "link": "https://arxiv.org/abs/2611.24840v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T18:06:20Z",
+      "summary": "Probes action-conditioned semantic forecasting as a world model for autonomous driving systems.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "f7b1a93b3518",
+      "is_ai_relevant": true,
+      "industries": [
+        "Automotive",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "A Foundation Model to Measure and Predict Human Behaviour",
+      "link": "https://arxiv.org/abs/2611.24830v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:59:08Z",
+      "summary": "Presents a foundation model developed to measure and predict human behavior.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "313e9a81ee97",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "LAaDT-DSS: decision support for non-experts on rooftop PV, incentive and grid simulations under Turkish tariff rules",
+      "link": "https://arxiv.org/abs/2611.24810v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:45:52Z",
+      "summary": "Introduces a decision support system for rooftop PV and grid simulations under Turkish tariffs.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ad3383d50f87",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Turkey"
+      ]
+    },
+    {
+      "title": "Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning",
+      "link": "https://arxiv.org/abs/2611.24798v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:41:45Z",
+      "summary": "Proposes a soft mixture of quantum experts for hybrid quantum-classical machine learning architectures.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3e00614b21ac",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Bias-Only Training Dynamics in ReLU Networks",
+      "link": "https://arxiv.org/abs/2611.24797v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:41:18Z",
+      "summary": "Examines the training dynamics of bias parameters in ReLU neural networks.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "fed51d8e911e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving",
+      "link": "https://arxiv.org/abs/2611.24788v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:35:47Z",
+      "summary": "Describes a pooled verification service supporting automated theorem prover training and multi-agent systems.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "abd745fbe8f4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations",
+      "link": "https://arxiv.org/abs/2611.24782v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:27:55Z",
+      "summary": "Shows that learning trajectories leave decodable traces in weight spaces and internal representations.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3c6621412005",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Counterfactual World Models: JEPAs That Reason About \"What If\"",
+      "link": "https://arxiv.org/abs/2611.24778v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:24:00Z",
+      "summary": "Introduces joint-embedding predictive architectures capable of counterfactual reasoning.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "9548971c384b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "LLM-Guided Cyber-Physical Attack Path Identification in Smart Grids",
+      "link": "https://arxiv.org/abs/2611.24765v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:16:56Z",
+      "summary": "Utilizes large language models to identify cyber-physical attack paths in smart grid networks.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b05b7f072d2e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics",
+      "link": "https://arxiv.org/abs/2611.24764v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:16:53Z",
+      "summary": "Presents horizontal flow matching methods for modeling single-cell spatiotemporal dynamics.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "294bf9775852",
+      "is_ai_relevant": true,
+      "industries": [
+        "Biotechnology",
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Elysium: Simulation-Free Unbalanced Schr\u00f6dinger Bridges",
+      "link": "https://arxiv.org/abs/2611.24763v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T17:16:41Z",
+      "summary": "Introduces a simulation-free approach for solving unbalanced Schr\u00f6dinger bridges in generative modeling.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "31e20b90edd7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "How Generative Models Generate: A Concise Guide to the Generative AI Landscape",
+      "link": "https://arxiv.org/abs/2611.24728v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T16:45:19Z",
+      "summary": "Provides a concise guide outlining the mechanisms and landscape of generative AI models.",
+      "persona": "\ud83d\udcda Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "dd82fbd9ae7d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Openhagen Worlds: Calibrated Environments for Measuring and Training Scientific Discovery Agents",
+      "link": "https://arxiv.org/abs/2611.24711v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T16:36:18Z",
+      "summary": "Establishes calibrated environments for evaluating and training AI agents focused on scientific discovery.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1b27d127a223",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "F$^3$: What Makes Good Experience in World-Action Models?",
+      "link": "https://arxiv.org/abs/2611.24708v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T16:33:15Z",
+      "summary": "Investigates the factors that constitute high-quality experience data in world-action models.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "043ec495087d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "When Does Continual Pre-Training Help? A Controlled Study of Dialectal Adaptation for Qu\u00e9bec French",
+      "link": "https://arxiv.org/abs/2611.24699v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T16:26:03Z",
+      "summary": "Evaluates continual pre-training strategies for dialectal adaptation using Qu\u00e9bec French data.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "7f2df8686ab6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Canada"
+      ]
+    },
+    {
+      "title": "Depth Before Breadth: Reverse-to-Forward Curriculum with Advantage Decomposition for LLM Agent",
+      "link": "https://arxiv.org/abs/2611.24697v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T16:25:14Z",
+      "summary": "Proposes a reverse-to-forward curriculum training method with advantage decomposition for LLM agents.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ae119325d09d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
+      "link": "https://arxiv.org/abs/2611.24651v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:53:39Z",
+      "summary": "Presents a recursive self-improvement framework for co-evolving decision models and datasets.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c5d24e440329",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Self-Rewarded Reinforcement Learning for Better-Structured Medical Explanations in Small Language Models",
+      "link": "https://arxiv.org/abs/2611.24650v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:52:24Z",
+      "summary": "Applies self-rewarded reinforcement learning to improve medical explanations generated by small language models.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "ab972850aad1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Choosing the Right Representations: Task-Aware Fusion for Multimodal Materials Language Models",
+      "link": "https://arxiv.org/abs/2611.24641v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:48:25Z",
+      "summary": "Proposes a task-aware fusion method for multimodal materials language models.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "a137fbdcc048",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Biotechnology"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Hypnos: A Dual-Phase End-to-End Platform for Scalable Continual Learning at the Edge",
+      "link": "https://arxiv.org/abs/2611.24637v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:46:58Z",
+      "summary": "Introduces Hypnos, a platform enabling scalable continual learning at the edge.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "6306edee6132",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Clover-35B-A3B-Preview Technical Report",
+      "link": "https://arxiv.org/abs/2611.24636v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:46:14Z",
+      "summary": "Presents the technical report for the Clover-35B-A3B-Preview model.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b778859d70c5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "H3Remover: Reinforcing Video Object Removal without Paired Data",
+      "link": "https://arxiv.org/abs/2611.24633v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:45:18Z",
+      "summary": "Presents H3Remover for video object removal without requiring paired training data.",
+      "persona": "\ud83c\udfa8 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d8edcffa68e5",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits",
+      "link": "https://arxiv.org/abs/2611.24619v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:37:04Z",
+      "summary": "Introduces GateWatch, a low-overhead monitoring method for large language models using Boolean circuits.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5b05abcf3bce",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Negotiating Control and Accountability among Stakeholders in High-Risk AI Use Cases: Development and Evaluation of the Method ALIGN",
+      "link": "https://arxiv.org/abs/2611.24609v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:30:54Z",
+      "summary": "Evaluates ALIGN, a method for managing control and accountability in high-risk AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "d6de226976e6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Government",
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Chain-of-Thought Hidden States Reveal Task-Solving Directions for Direct Answers",
+      "link": "https://arxiv.org/abs/2611.24598v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:25:14Z",
+      "summary": "Examines how chain-of-thought hidden states reveal task-solving directions in AI models.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "834133a51460",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Think Offline, Act in Real Time: Self-Improving Visual Game Agents through Code",
+      "link": "https://arxiv.org/abs/2611.24590v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:18:22Z",
+      "summary": "Demonstrates self-improving visual game agents that use code to act in real time.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "67e958f16468",
+      "is_ai_relevant": true,
+      "industries": [
+        "Gaming",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "BaseRSI: Recursive Self-Improvement of a Base Vision-Language Model via Training-Free Harness Internalization",
+      "link": "https://arxiv.org/abs/2611.24578v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:10:11Z",
+      "summary": "Proposes BaseRSI for recursive self-improvement of base vision-language models without retraining.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "097312e1b1d9",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AGAMOTTO: An AI-Enabled Framework for Time-Critical Tactical Course-of-Action Evaluation and Generation",
+      "link": "https://arxiv.org/abs/2611.24568v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T15:04:02Z",
+      "summary": "Introduces AGAMOTTO, an AI framework for generating and evaluating time-critical tactical courses of action.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "547a44f5714d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Defense",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NaviGATE: Noise-Aware Dual-View Generation for Multimodal Knowledge Graph Reasoning",
+      "link": "https://arxiv.org/abs/2611.24552v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:53:42Z",
+      "summary": "Presents NaviGATE, a noise-aware dual-view generation approach for multimodal knowledge graph reasoning.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "5649cc811877",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "MECI: Multi-Element Collaborative Interaction for Multimodal Entity Linking",
+      "link": "https://arxiv.org/abs/2611.24522v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:39:07Z",
+      "summary": "Introduces MECI for improving multimodal entity linking through multi-element collaborative interaction.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "96cd7efd12f2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "ABSClaw: From Invented Worlds to Reality-Grounded Social Simulation",
+      "link": "https://arxiv.org/abs/2611.24517v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:37:48Z",
+      "summary": "Presents ABSClaw for conducting reality-grounded social simulations from invented worlds.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "b52e497d09b2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "The Largest Tractable Subclass of Multi-Scale Allen Temporal Reasoning",
+      "link": "https://arxiv.org/abs/2611.24498v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:26:04Z",
+      "summary": "Identifies a tractable subclass for multi-scale Allen temporal reasoning in AI.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "1dd4cefa33e2",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Harvesting Expert-Parallel Bubbles for Fine-Tuning",
+      "link": "https://arxiv.org/abs/2611.24496v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:24:23Z",
+      "summary": "Proposes harvesting expert-parallel bubbles to optimize model fine-tuning efficiency.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "c758a9d0fa97",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Probing agent overeagerness in realistic settings with continuation audits",
+      "link": "https://arxiv.org/abs/2611.24491v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:23:10Z",
+      "summary": "Examines agent overeagerness in realistic environments using continuation audits.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "99782c619252",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Mitigating fix reversal: Counterfactual constraints for function-level vulnerability detection",
+      "link": "https://arxiv.org/abs/2611.24489v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:21:12Z",
+      "summary": "Uses counterfactual constraints to mitigate fix reversal in function-level vulnerability detection.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "01a7039b16b4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Study and Improvement of Search Algorithms in Stochastic Perfect-Information",
+      "link": "https://arxiv.org/abs/2611.24486v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:20:11Z",
+      "summary": "Studies and improves search algorithms for stochastic perfect-information settings.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "03f83d76656c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nothing to Declare: Steering a single neuron increases concealment in AI teams",
+      "link": "https://arxiv.org/abs/2611.24475v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:11:15Z",
+      "summary": "Shows that steering a single neuron increases concealment behaviors in multi-agent AI teams.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "88fdd839e043",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Harmonic Circuit: Chord Progression Lies in a Sparse Principal Information Flow in Symbolic Music Models",
+      "link": "https://arxiv.org/abs/2611.24453v1",
+      "source": "ArXiv AI",
+      "region": "\ud83d\udd2c",
+      "pub_date": "2026-11-18T14:01:33Z",
+      "summary": "Analyzes sparse principal information flows underlying chord progressions in symbolic music models.",
+      "persona": "\ud83c\udfa8 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Paper",
+      "item_id": "3d62f97ab43b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Media & Entertainment",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Study reveals data centers\u2019 long-distance damage to air quality",
+      "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+      "source": "MIT AI News",
+      "region": "\ud83d\udcda",
+      "pub_date": "2026-11-19T14:00:00Z",
+      "summary": "MIT study reveals data centers cause long-distance air quality damage.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "adaad87a5600",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Artificial Intelligence (AI) Education for Teachers - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNGFkYjNzZkNyMHB3bGNlWi1xdkQ5UHVSRG1vU0gtSzlPLXhhcVlhWno4b2hvQTh3VmJmZWZnUzEtVUo4bmZLVnBzM1VSd0Z4ejdxTUF1c1ptODNDTFVMbFNDN1ppdWl0SU9FWGFZSUg2dnMwdGo5cmJKb3hpOWRpU3lUNA?oc=5",
+      "source": "Coursera AI",
+      "region": "\ud83d\udcda",
+      "pub_date": "2020-09-15T10:50:48Z",
+      "summary": "Coursera provides artificial intelligence education courses for teachers.",
+      "persona": "\ud83d\udcda Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d42daa5fafad",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "DeepLearning.AI Online Courses - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VMmhWOVdtd3MtbmJGYUNoOVBtR2RmdjducEZRNUtIdnktNHl4bUZIbWdJdUZSX1hwc185XzctNThrVFJtYmR5QnhaZWliQXRubjNROTZtc1dOWW1IalE?oc=5",
+      "source": "Coursera AI",
+      "region": "\ud83d\udcda",
+      "pub_date": "2024-07-25T18:22:54Z",
+      "summary": "DeepLearning.AI offers online courses through Coursera.",
+      "persona": "\ud83d\udcda Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a735f98dc03e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Best of Machine Learning & AI - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqVHFLcHJDZnQtYzhsWFhqTTllT2s2Uk1vWGpENVpyY1BQS1dkS3dOTU0ybXptQnNBOU9TRHhRcGYzOC1xMnNnalR3aVpyQjZSa3lOLWZ3eWlSRnp4QWV1ZGQ5X2NyNWY4bUkyTzlB?oc=5",
+      "source": "Coursera AI",
+      "region": "\ud83d\udcda",
+      "pub_date": "2018-11-28T14:57:09Z",
+      "summary": "Coursera features a collection of machine learning and AI courses.",
+      "persona": "\ud83d\udcda Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d6a6da8ac547",
+      "is_ai_relevant": true,
+      "industries": [
+        "Education",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Tennr, OpenAI to test AI agents for prior authorization - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGVHSkRUSWNwMTBxUVhkZHNIYkYyYlk5b3FoSW15V1B2LUdPMlFxSnlnUTRaYkpid25aQUdvNDlRUDlvOFdXdkVENWw5Q0RPWEZwLTVxRTFzbTRNQnprTHhJZDNDTjI5Q1p6OGdDdVNKV240RDIwS0xfUGxwZ19vMGlHU1pmUlVMWHZ3?oc=5",
+      "source": "MobiHealthNews",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-11-19T17:35:50Z",
+      "summary": "Tennr and OpenAI partner to test AI agents for prior authorization.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4f9cd470214e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI",
+        "Tennr"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "How Carroll County Memorial is Using AI to Reduce Staff Burden, Help Patients, and Protect Margins",
+      "link": "https://www.healthcareittoday.com/2026/11/19/how-carroll-county-memorial-is-using-ai-to-reduce-staff-burden-help-patients-and-protect-margins/",
+      "source": "Healthcare IT",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-11-19T16:00:31Z",
+      "summary": "Carroll County Memorial uses AI to reduce staff burden and protect margins.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "e08f14555941",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Why Human Review Must Remain a Designed Step in AI-Assisted Healthcare Documentation",
+      "link": "https://www.healthcareittoday.com/2026/11/19/why-human-review-must-remain-a-designed-step-in-ai-assisted-healthcare-documentation/",
+      "source": "Healthcare IT",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-11-19T15:00:31Z",
+      "summary": "Human review must remain an integrated step in AI-assisted healthcare documentation.",
+      "persona": "\ud83c\udfe5 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "220a8314927a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Sleep.ai Raises $5.3M | Proximal Ventures Announces $27.5 Million Debut Fund",
+      "link": "https://www.healthcareittoday.com/2026/11/19/sleep-ai-raises-5-3m-proximal-ventures-announces-27-5-million-debut-fund/",
+      "source": "Healthcare IT",
+      "region": "\ud83c\udfe5",
+      "pub_date": "2026-11-19T14:00:02Z",
+      "summary": "Sleep.ai secures $5.3M in funding while Proximal Ventures announces a debut fund.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "efcdcbe1733d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Investment Banking",
+        "Healthcare",
+        "Tech"
+      ],
+      "companies": [
+        "Proximal Ventures"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "How a Matter Is Staffed Decides AI\u2019s Commercial Value",
+      "link": "https://www.artificiallawyer.com/2026/11/18/how-a-matter-is-staffed-decides-ais-commercial-value/",
+      "source": "Artificial Lawyer",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-18T11:54:35Z",
+      "summary": "Matter staffing strategies determine the commercial value of AI implementation.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "8bb20158e04a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Management Consulting"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "2 DOJ lawyers face potential discipline over AI use",
+      "link": "https://www.abajournal.com/news/article/two-doj-lawyers-face-potential-discipline-over-ai-use/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471813+00:00Z",
+      "summary": "Two DOJ lawyers face potential disciplinary action concerning artificial intelligence use.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dfd451cddc84",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Who supervises the system? Agentic AI and the future of lawyer oversight",
+      "link": "https://www.abajournal.com/columns/article/who-supervises-the-system-agentic-ai-and-the-future-of-lawyer-oversight/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471818+00:00Z",
+      "summary": "Agentic AI raises questions regarding the future oversight responsibilities of lawyers.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1bad1295257",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Beauty company asks court to dismiss David Beckham fragrance lawsuit",
+      "link": "https://www.abajournal.com/news/article/german-fragrance-company-asks-ny-court-to-dismiss-david-beckham-lawsuit/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471830+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d1acac321f63"
+    },
+    {
+      "title": "Lawyer sentenced to 87 months in prison for defrauding Motley Rice",
+      "link": "https://www.abajournal.com/news/article/former-motley-rice-lawyer-sentenced-to-87-months-in-prison-for-defrauding-firm/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471836+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0fb8f917ff7f"
+    },
+    {
+      "title": "Penn Law professor\u2019s lawsuit is free speech case, not employment discrimination, 3rd Circuit says",
+      "link": "https://www.abajournal.com/news/article/penn-law-professors-suit-is-a-free-speech-case-3rd-circuit-says/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471841+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "ab1d65b3b3bb"
+    },
+    {
+      "title": "LeBron James sues sports betting startup over unauthorized use of \u2018Bron\u2019 nickname",
+      "link": "https://www.abajournal.com/news/article/lebron-james-sues-sports-betting-startup-over-use-of-bron-nickname/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471846+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d2c0577bbdfd"
+    },
+    {
+      "title": "Tech company Huawei built its business on repeated crimes, prosecutors tell jurors",
+      "link": "https://www.abajournal.com/news/article/prosecutors-tell-huawei-jurors-company-built-its-business-on-repeated-crimes/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471851+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "680ba75bc5c5"
+    },
+    {
+      "title": "California coalitions sue to block Gov. Newsom\u2019s commutation of over 500 death row sentences",
+      "link": "https://www.abajournal.com/news/article/california-coalitions-sue-to-block-newsoms-commutation-of-549-death-row-sentences/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471856+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "13ae42e3d592"
+    },
+    {
+      "title": "Former Cravath employee considers plea deal after insider trading charges",
+      "link": "https://www.abajournal.com/news/article/former-cravath-employee-considers-a-plea-deal-after-insider-trading-charges/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471860+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "cc371f293977"
+    },
+    {
+      "title": "Immigration agents\u2019 seizure of lawyer\u2019s phone at airport appears retaliatory, judge finds",
+      "link": "https://www.abajournal.com/news/article/judge-finds-that-agents-seizure-of-lawyers-phone-at-airport-appears-retaliatory/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471865+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dd76fae47b8e"
+    },
+    {
+      "title": "Harvard Law School suspends students\u2019 access to library after \u2018study-in\u2019",
+      "link": "https://www.abajournal.com/news/article/harvard-law-school-suspends-students-access-to-library-after-study-in/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471880+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3863ad20f90e"
+    },
+    {
+      "title": "Former Cravath employee charged with insider trading",
+      "link": "https://www.abajournal.com/news/article/former-cravath-employee-charged-with-insider-trading/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471895+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "943b59be5e61"
+    },
+    {
+      "title": "Russell Brand judge lauded for dispelling rape myths during sentencing comments",
+      "link": "https://www.abajournal.com/news/article/russell-brand-judge-lauded-for-dispelling-rape-myths/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471900+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d094e2d83346"
+    },
+    {
+      "title": "Former Trump lawyer Alina Habba Mildon faces state ethics complaint",
+      "link": "https://www.abajournal.com/news/article/former-trump-lawyer-alina-habba-mildon-faces-ethics-complaint-in-new-jersey/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471904+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "af7e14775cc0"
+    },
+    {
+      "title": "Calling judge vulgar name doesn\u2019t amount to criminal contempt, state supreme court says",
+      "link": "https://www.abajournal.com/news/article/calling-judge-a-vulgar-name-doesnt-amount-to-criminal-contempt-says-pennsylvania-supreme-court/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471909+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a38c875aa547"
+    },
+    {
+      "title": "Justice Thomas will teach seminar on race, equality at University of Texas at Austin",
+      "link": "https://www.abajournal.com/news/article/justice-thomas-to-teach-seminar-on-race-and-equality-at-university-of-texas-at-austin/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471914+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fdd8e2896980"
+    },
+    {
+      "title": "Weil Gotshal partners vote to dissolve firm",
+      "link": "https://www.abajournal.com/news/article/weil-partners-vote-to-dissolve-firm/",
+      "source": "ABA Journal AI",
+      "region": "\u2696\ufe0f",
+      "pub_date": "2026-11-19T20:14:26.471924+00:00Z",
+      "summary": "Latest intelligence from ABA Journal AI.",
+      "persona": "\u2696\ufe0f Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3a0718b5578f"
+    },
+    {
+      "title": "How Max Friedlander became founding operations at Petrarch",
+      "link": "https://www.ycombinator.com/blog/how-max-friedlander-became-founding-operations-at-petrarch/",
+      "source": "Y Combinator AI",
+      "region": "\ud83d\ude80",
+      "pub_date": "2026-10-30T18:26:08Z",
+      "summary": "Latest intelligence from Y Combinator AI.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c91cbd93b339"
+    },
+    {
+      "title": "Anthropic\u2019s IPO could deliver $156 billion to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T19:10:45Z",
+      "summary": "Latest intelligence from TechCrunch AI.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "38cbde179199"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T18:09:11Z",
+      "summary": "Latest intelligence from TechCrunch AI.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "ffcfd7e32e09"
+    },
+    {
+      "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T17:38:40Z",
+      "summary": "Latest intelligence from TechCrunch AI.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "4e6c3fbd0dea"
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T16:59:23Z",
+      "summary": "Latest intelligence from TechCrunch AI.",
+      "persona": "\ud83d\udd2c Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "e73ee03b16d6"
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T16:19:41Z",
+      "summary": "Anthropic CEO recommits to pacing AI development at Nasdaq opening bell.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3beff62fefd8",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Anthropic",
+        "Nasdaq"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T14:54:39Z",
+      "summary": "Anthropic's IPO tests the sustainability of the AI circular financing boom.",
+      "persona": "\ud83d\ude80 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6dbad1140452",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO",
+        "CFO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T14:00:00Z",
+      "summary": "Superhuman expands the availability of its Go assistant across platforms.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "02881da1b9dc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Superhuman"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T00:42:56Z",
+      "summary": "Microsoft CEO Satya Nadella explains asking 60,000 employees to leave.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0f46293e3612",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+      "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-18T23:25:17Z",
+      "summary": "Elon Musk compares ousting Jensen Huang to removing Michael Jordan from a team.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "576b29b1a213",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia",
+        "Tesla"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Canva adds an AI \u2018off\u2019 button - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcE4xZV9mX2VDUGs5LVlMbWtKRjVocGl0NlJzaXhKTlJJLXdfeHlVQnN1MXBsRXdvZldTTnRwc0FCLUVfQ3Vra0ZGZ0hMbWRyQXdQY0JPdmk4N05hVTVZSmtaYkRSQm1LZnU1a0k0UVM4ZFBTN3JXSXY0NHBENXphaTdrWjE2U3lfeV9kQ0QzTXFyZw?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T12:30:00Z",
+      "summary": "Canva introduces a setting to disable AI features.",
+      "persona": "\ud83c\udfa8 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "47900e471c38",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Canva"
+      ],
+      "job_titles": [
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnBYaFdud1NGNUxLQUYxT3g4clppeGJhTDZyc2xjMkQ1UWpiNG5McUhVZTczZk1OdmJRZ3JGNEJMaDdGM25NU2NWelIwMWFBcEQ2WjNnWmZGN2xuY2JLQ0l4Yk1xMnFtX1Q1blFDeHBxQ2k3OG9pZE9Na0ZIZXVyZUNqazg4WE5salE?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T13:00:00Z",
+      "summary": "An author tests Apple's always-listening AI life summarization tool for two weeks.",
+      "persona": "\ud83c\udfa8 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "51b1e06d6ea7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "The nation\u2019s largest school districts consider ditching Google Search - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRUxmM2IwWE5VSTNCM2JwdTBDb2VEc1BOT2lJSlBpaEdVcGlmZEk1S2RzRWs0RFRfTHdHWjZlN2VFWWM5b0lLV2dlT1lMcTY0cjFjTHN2Xy10T2lfaHpZaTVYNUUtQlN0TFl5LVZ5TzN0R3pZSV9jYjhxM1hQUVdubWhuaVBabHFqYklvV2NiZFdmTGhad2Fj?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-18T23:18:35Z",
+      "summary": "Large school districts are considering moving away from Google Search.",
+      "persona": "\ud83d\udcda Education",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b6f06a824766",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Education"
+      ],
+      "companies": [
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1YySU5GRzQtc1o0elBJX3Y5SUU5bmtRQ3FEeFBlcXVPQmYyMWFZNWcxMGVtVUNpWkZ3bjA2ZEhvX1QtWGg5N3NTQWpnbEtsQU04dkZmbVlTbWRuNkZBRFA0VDFaOVdKUXAxc0FZR0FpRWdEcHJYcDA4ZWwtV3ZIME85MGwyQ013ejA5cC14Qk9FSjZ5Q0s1c014S3NwLWVQME9EbE5JcU1Yc3Bx?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T14:25:37Z",
+      "summary": "Anthropic's massive IPO challenges its reputation for safety-first AI development.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f8690e38a613",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Blue Origin will launch Google\u2019s AI server satellites in 2029 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLS10TmJzcGw2Si1YLWg3NXBCclRTcGVKUUJYVUx2UDI0TS05QkJxVVZrMV9LVEZ5WEhqQ3hOcElENndyZ3VzTlFFZDFMbS1nUkt3QTIxeHlhcTBxLW9PQkFncnN3WEUybk0xZm96ZFFDdTBiY3Q3ZkdNOHMxQmsxd2IzdXN0aVU?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T13:53:38Z",
+      "summary": "Blue Origin is scheduled to launch Google AI server satellites in 2029.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c77e23ae683e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Aerospace"
+      ],
+      "companies": [
+        "Blue Origin",
+        "Google"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOUQtVG5tdWhKOFZoTmRaQzNEVjBNYVA0ZzdKSjhJU2xoaERaa25DeTJhaUVXaWRrWTdRT1JaTHhvMnlscEJnWXo3YWxoV3lRVDdzTGF5UV94dmdqRW5pSlI2TWpreEJJcU5hTG85ZkNha3FvdDFJQkcyQXVpaXFMcnA3SWFLRWNpUFQzMHNseUdLdG8?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T15:16:45Z",
+      "summary": "ChatGPT adds a Live Dictation feature for real-time speech transcription.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "529334e0d5ba",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Google\u2019s AI Ultra plan now includes YouTube Premium Family. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1J4cWNkN25RZE9xTkZUSHFFeGZpSDlaX0Nqdk5jdVBlRU1JVkMtZ0RKWG1uYVJYQWNic3hfMjBqb3N0bW9YWHRVd2FoanI1Vi1waWZjUXRzZ1l2MGRVMUN3bHRwUnpneUdhMDJOVUxSR2tINUxWR1I1bkt4d0pxejBJNENLWERsZ2JBbWFYV2xzQ3lUektqRU9PNA?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T09:08:25Z",
+      "summary": "Google includes YouTube Premium Family in its AI Ultra subscription plan.",
+      "persona": "\ud83c\udfa8 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "56d3edecd6dc",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Google",
+        "YouTube"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Gemini on Mac can now use your computer - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WZTlKMThaUDVXWG5ZejNGT21CM1ZfYlVDamxjVlgtQTV3QzdWZjl6eFg3WGJRQ3hXQ2xBeWNtV3ZTUGNpT3lSU1hma29Fb040bF9VekVucm9zRDlQYTBNYjBfQzN5V0IxRm51VUpRME9XLWJ0RkFRNXVUTlIyUQ?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T18:21:13Z",
+      "summary": "Gemini on Mac gains computer-use capabilities.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "45d1743ef3e6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Apple",
+        "Google"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic starts trading on Wall Street - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLUZZVHMtaDg5cGpnZG9Tdzk5aXM3dmVRa2xuZ05sYzBPMk9CQTlvakxQeWFmVmZGRURwV0tfUzdyb2lxWGxZZS1wWFF4a2tLblNfbWI3dklVa25hZTI3bEY2ZXd5WTRzRzgxRVVUYXFiTjdPS0xvNmhSQk44OGlPODdfVnVLdmhTQzYyQXJVcDA2QQ?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-19T16:52:01Z",
+      "summary": "Anthropic stock begins trading on Wall Street.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "6e34037f0549",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella doesn\u2019t know when the rush to patch AI-discovered bugs will end. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYlRCSkZ3MDYwalJaUG5CM000OUxKcC1LSHcwWm5mb0ZGQXlHYmZCM0tSenhaNGxDWkFjdHFtdFhxZUVoRURIWHBiWGRSRHJZcWxPTHlpOXhrbXlwVjA5bjhxcnJ5SUtpTGVMZW5tczBGalZqMEZZMUNsUnJuY3JOM1dTMVQxb0Z4eERQLWt3QmM1NlF5emVTWTlhWDh1WEpUQzNOeW5BWDlWaTVqcFV1TkhJWDlzTHVVUmppSzlEX01tbW9sMF9Z?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-18T22:24:00Z",
+      "summary": "Microsoft CEO Satya Nadella discusses ongoing efforts to patch AI-discovered bugs.",
+      "persona": "\ud83d\udcbb Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "60131187ec04",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CEO",
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic priced its initial public offering at $83 per share. - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDEybHFXN05TS0k2aUFhc1VHamRoWEZwWDQzMzltU290emItZHNmbjh6VXU5ckFLRTV2RG5lNmR4Nk9takNZOE92YnVlalI4Y2VvU3k3Zk5jRlBJNHUwYl9nWlRSTU5MT25QRHlIWjVRLVZuSXE5b0hyNjhDSkRjbUlKZWFMSmY2czdkU04yeDRsZU02Vkp4dWd1TjBWbjVaX1FkZ3VNU2FwMm85eFpTNTZiVGtCY0VtU0Fieg?oc=5",
+      "source": "The Verge AI",
+      "region": "\ud83d\udcf0",
+      "pub_date": "2026-11-18T22:17:36Z",
+      "summary": "Anthropic sets its initial public offering price at $83 per share.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "15c11f4a7c18",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "DeepMind Just Released The Best Thing AI Ever Did",
+      "link": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+      "source": "Two Minute Papers",
+      "region": "\ud83d\udcfa",
+      "pub_date": "2026-11-19T09:26:19Z",
+      "summary": "DeepMind releases a significant new AI development.",
+      "persona": "\ud83d\udd2c Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "caa406f2c9d7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There\u2019s a Bigger Story",
+      "link": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "source": "AI Explained",
+      "region": "\ud83d\udcfa",
+      "pub_date": "2026-11-19T20:03:10Z",
+      "summary": "Discussion covering Anthropic's IPO, GPT release, and related industry developments.",
+      "persona": "\ud83d\udcbc Enterprise",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": true,
+      "cta_text": "Watch Video",
+      "item_id": "3dc9286f9878",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Finance"
+      ],
+      "companies": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
     {
       "title": "Research acceleration: The jagged frontier",
       "link": "https://openai.com/index/research-acceleration-jagged-frontier",
