@@ -1,6 +1,714 @@
 {
-  "refreshed_at": "2026-11-18 20:18 UTC",
+  "refreshed_at": "2026-11-19 06:16 UTC",
   "items": [
+    {
+      "title": "研究の加速：ぎざぎざのフロンティア",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T08:00:00Z",
+      "summary": "OpenAIは、AIが能力のぎざぎざのフロンティアに沿ってどのように研究タスクを加速させるかについて議論しています。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "32f46a407aa3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "住友生命のリーダーはいかにしてチームのChatGPT Enterprise導入を支援したか",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T08:00:00Z",
+      "summary": "住友生命のリーダーたちは、チーム全体でのChatGPT Enterpriseの社内導入を成功へと導きました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c4029f8d3d08",
+      "is_ai_relevant": true,
+      "industries": [
+        "Insurance",
+        "Finance"
+      ],
+      "companies": [
+        "OpenAI",
+        "Sumitomo Life"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Japan"
+      ]
+    },
+    {
+      "title": "Gemini 4 Neonの発表",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T21:35:43Z",
+      "summary": "Google DeepMindは、新しい人工知能モデル「Gemini 4 Neon」を発表しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "88e5a492fec0",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "DeepMind",
+        "Google"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropicが新規株式公開（IPO）の価格を設定 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wb1JNWEpudjJCR014ZnpEdkQ1MUFXOTZsRV9sU2wxclptYmRMVjY3d2R3bWJ2U2ZXdlktS1lNVE45b2NrVkY4aERJOXRJVkpRdy1kd2tRek52UG8wcXUwUEQwaUlEM0p1aE9YRlRvbnkyZVJUSmFLcWhFOA?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T23:35:59Z",
+      "summary": "Anthropicは金融市場における新規株式公開の価格を設定しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "9e1d87addeb4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO",
+        "CFO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SageMaker AIサーバーレスモデルカスタマイズにおけるフルファインチューニング（FFT）",
+      "link": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-19T00:15:58Z",
+      "summary": "AWSは、SageMaker AIサーバーレスモデルカスタマイズにおけるフルファインチューニングのサポートを発表しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7852cbf6f071",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Exa、AWS AIチップ上で数十億のドキュメントをインデックス化するため埋め込みスループットを50%向上",
+      "link": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T23:58:22Z",
+      "summary": "ExaはAWS AIチップを使用し、数十億のドキュメントをインデックス化するための埋め込みスループットを50%向上させました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "85642e489987",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Exa"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker HyperPodにおけるワークロードリカバリと拡張インフラストラクチャチェックの導入",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T23:03:29Z",
+      "summary": "AWSはAmazon SageMaker HyperPodにワークロードリカバリと拡張インフラストラクチャチェックを追加しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6549e4eddf5f",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon SageMaker JumpStartモデルリーダーボードの導入",
+      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-jumpstart-model-leaderboard/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T22:31:04Z",
+      "summary": "AWSはモデル評価のためのAmazon SageMaker JumpStartモデルリーダーボードを立ち上げました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1a84cd37466d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AirbnbがAmazon Bedrockでコーディングエージェントを運用するためにタスクあたりのコストをどのように活用しているか",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-airbnb-uses-cost-per-task-to-operate-coding-agents-on-amazon-bedrock/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T21:48:19Z",
+      "summary": "Airbnbは、Amazon Bedrockでコーディングエージェントを実行するためにタスクあたりのコスト指標を活用しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a7387a443937",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Airbnb",
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "CTO",
+        "Developer",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Aurora PostgreSQL向けの責任あるAIコントロールの設計",
+      "link": "https://aws.amazon.com/blogs/machine-learning/design-responsible-ai-controls-for-amazon-aurora-postgresql/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T21:38:22Z",
+      "summary": "AWSは、Amazon Aurora PostgreSQLデータベース向けの責任あるAIコントロールを設計する方法を詳しく説明しています。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "197ebba9bebf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Identityにおけるプライベート認証局のサポート",
+      "link": "https://aws.amazon.com/blogs/machine-learning/private-certificate-authority-support-in-amazon-bedrock-agentcore-identity/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T20:53:41Z",
+      "summary": "Amazon Bedrock AgentCore Identityがプライベート認証局をサポートするようになりました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "1b7ab90d11a3",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services"
+      ],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "SalesforceがAmazon SageMaker AIのクロスリージョン推論ルーティングでグローバル規模のモデルサービングをどのように進化させているか",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-salesforce-is-advancing-global-scale-model-serving-with-cross-region-inference-routing-in-amazon-sagemaker-ai/",
+      "source": "AWS AI Blog",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-18T20:13:18Z",
+      "summary": "Salesforceは、モデルサービングのためにAmazon SageMaker AIでクロスリージョン推論ルーティングを使用していることについて説明しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "73cc50bf7d9c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Amazon",
+        "Amazon Web Services",
+        "Salesforce"
+      ],
+      "job_titles": [
+        "CTO",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "STAT+：Epic Systems、競争的慣行を擁護し、AIに自社カルテへのアクセスを許可すると約束",
+      "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
+      "source": "STAT News AI",
+      "region": "🏥",
+      "pub_date": "2026-11-18T23:07:55Z",
+      "summary": "Epic Systemsは自社のビジネス慣行を擁護し、AIに医療カルテへのアクセスを許可することを約束しました。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "c2d1bad8741e",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Legal"
+      ],
+      "companies": [
+        "Epic Systems"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "臨床AIを手がけるAeviusが2,200万ドルでローンチ - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IVG9Cd0hob1dKa2daOVQ4c3RmX09lUjEyNUFLcVJzWFNGeXBWQ0tSbXA5My1TclgweHhXRXVzQVNWRUgyR2hIRlNMUHJ1Y3Q1Qi1DUUlDNlVuNWQ4UEVsTTRpNGZEU2tMbnpWazBHWmEySUo0T0E?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-18T21:06:27Z",
+      "summary": "臨床AIスタートアップのAeviusが2,200万ドルの資金調達とともにローンチしました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "45cae137a01d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Healthcare",
+        "Biotechnology"
+      ],
+      "companies": [
+        "Aevius"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "医療サイバーセキュリティにはリスクの優先順位付けと実践的なインシデントレスポンスが必要",
+      "link": "https://www.healthcareittoday.com/2026/11/18/healthcare-cybersecurity-requires-risk-prioritization-and-practical-incident-response/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-18T16:00:02Z",
+      "summary": "Healthcare ITからの最新のインテリジェンス。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3c4be5f8b99a"
+    },
+    {
+      "title": "成長の隠れたコスト：複数拠点の専門グループが収益オペレーションの規模拡大に苦戦する理由",
+      "link": "https://www.healthcareittoday.com/2026/11/18/the-hidden-cost-of-growth-why-multi-location-specialty-groups-struggle-to-scale-revenue-operations/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-18T15:00:27Z",
+      "summary": "Healthcare ITからの最新のインテリジェンス。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "149b0197f79f"
+    },
+    {
+      "title": "案件への人員配置がAIの商業的価値を決定する - Artificial Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWxhMnZZQ2E2eUVvVzRNM2tHWUY4eW03THhDNUNGVlF2cFFxc0E1MkNwNlBwTHJxT3R5VW9FY1NBdlVjTWQyZ1pySlN1RTBxME42bGZkckFFYW53aW1yVnl4NmJwMGRGcUJaY3h6NWx3MDBwQ1pNRkVWS1p6Vkg4ZnNsZWdsbW5VeEpzRlhGT0FWQ2hrTHk3WjVBb3ViUQ?oc=5",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-18T11:56:34Z",
+      "summary": "Artificial Lawyerからの最新のインテリジェンス。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5e4a3d7204a6"
+    },
+    {
+      "title": "AIサイバー攻撃への懸念の中、サティア・ナデラは多くの重要インフラが「修正不可能」であると述べる",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T23:45:00Z",
+      "summary": "サティア・ナデラは、AIによるサイバー攻撃の懸念が高まる中、多くの重要インフラが依然としてパッチ適用不可能であると述べました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5d67ac67da7b",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "マイクロソフトCEOのサティア・ナデラ、黄氏の退任後もNvidiaへの信頼を維持",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T23:17:28Z",
+      "summary": "サティア・ナデラは、ジェンスン・フアンの退任後もNvidiaに対する継続的な信頼を表明しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5ac4e453ed83",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Microsoft",
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "サティア・ナデラ、AIエージェントがウェブの経済性を塗り替えると予測",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T22:58:11Z",
+      "summary": "サティア・ナデラは、AIエージェントがウェブの経済構造を刷新するだろうと予測しました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "fac74cc95111",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Microsoft"
+      ],
+      "job_titles": [
+        "CEO",
+        "Product Manager"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "Anthropic、IPO価格を予想レンジを上回る1株83ドルに設定",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T22:11:15Z",
+      "summary": "Anthropicは、予想レンジを上回る1株あたり83ドルでIPOの価格を設定しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "dcfcb32bd475",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Investment Banking"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "CEO",
+        "CFO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidia、定例のSEC報告書の未提出により奇妙な憶測を呼ぶ",
+      "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T21:57:40Z",
+      "summary": "Nvidiaは、定例のSEC（証券取引委員会）報告書を提出しなかったことで憶測を呼びました。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "76d6931534fa",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Finance"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CFO"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "パーマー・ラッキー、AIを活用したサイバー攻撃が防御を上回っていると警告：「逃げ始める時だ」",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T21:34:13Z",
+      "summary": "パーマー・ラッキーは、AI駆動型のサイバー攻撃が現在のセキュリティ防御を上回っていると警告しました。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "33520312c7be",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Defense"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO",
+        "Developer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "パーマー・ラッキーは中国が「ジェンスンが去って大喜びしている」と考えており、解任されたNvidia CEOの復帰を望んでいる",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T21:31:21Z",
+      "summary": "パーマー・ラッキーは、中国が喜んでいると信じており、解任されたNvidiaのCEOであるジェンスン・フアンの復帰を求めています。",
+      "persona": "🚀 Startup",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f91436576411",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO"
+      ],
+      "locations": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "title": "トランプによる新たな土地買収はフィリピンのAIハブ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMnlZU2tTcmhScnlDNU5tdkljazQ3eDlRTGRGSWM3N1p0YUFjaERmX0o1anJrNlhFWEJlc0xDaTd0QWpQVk1zUzZNS2xUU0dkN0Y5anhqZzdCbXNkN0xwdmRQT0NEVHhFWG83dzBuY1VuNkVZLTkybVB1UFBHMHF5WWprRDhIRWQ4d0ZuMWtIb3R5Ul9UZEE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T19:40:36Z",
+      "summary": "フィリピンにAIハブが設立されつつあります。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d02c738b47a7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "Philippines",
+        "United States"
+      ]
+    },
+    {
+      "title": "Nvidiaの台頭を可視化 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVWk4N0ZCclk1WndkQTFWOXpDOTAwQTQycmJfS29tZm8tdHBkWmJ2bk9lbXNqVTNuSkxRVzRWMk5xcXk2MHRYRGNmdzhfWmFwcENibDI1SmhuUnN0YXFDeW9CZ0FHZFZ1cmtMR1JyRjVDLUMwUm1PbEw4TmVUSXRqSzlPUHh4ZjM5LTByTjBDU2NDZk9WVHc?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T19:30:00Z",
+      "summary": "Nvidiaの台頭を視覚化して詳細に伝えています。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "f7475f7e3c2c",
+      "is_ai_relevant": true,
+      "industries": [
+        "Semiconductors",
+        "Tech"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [],
+      "locations": [
+        "Global"
+      ]
+    },
+    {
+      "title": "従業員テストにおいて、MetaのMuseエージェントがメッセージを混同し、他のアプリから予期せぬチャットを引き出した - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcVAxbkpwSmRreEJsaG95Tm84YVgyVFNOYXJKZTZBakQ4MTgxaEdiUkF4TWVlOWFXM1JPUG1zZzFhR0hCN1BmbjE3TzhYVExacU8yX19XNklxZkU4am9kMHFYYVFJdVh4ZmNRU2k3S0ZtRGQ1VnMwcDBxanNpV1NUZnNRaEdLejNyTjRjNG9wVEtLT1NBQVBKeExVM3Q2bzNWQmpHb2I2cC11amNGX05fejk1SDhuemNVcVljY1YxUmJqcjkwMDl3SjZWeFFlVG1TWGpHM0NrRE5Cc21JRDFpZFQyYVN6OEI3ZldPTndwVThrRElZ?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-18T14:55:07Z",
+      "summary": "MetaのMuseエージェントは、従業員テスト中にメッセージを混同し、予期しないチャットを呼び出しました。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "adc4355f17e1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [
+        "Meta"
+      ],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Global"
+      ]
+    },
     {
       "title": "Codexサンドボックスの内側",
       "link": "https://openai.com/index/inside-the-codex-sandbox",
