@@ -1,6 +1,611 @@
 {
-  "refreshed_at": "2026-11-25 07:18 UTC",
+  "refreshed_at": "2026-11-25 21:25 UTC",
   "items": [
+    {
+      "title": "Messages APIのRustへの移行 - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-25T17:15:45Z",
+      "summary": "Anthropicからの最新情報。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d092675b087e"
+    },
+    {
+      "title": "医療AIには普遍的な安全基準が必要 - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUY4OVZBbVVySGpuVEExRVQ0NkVhX2NmSS02LWJWTXpFdFNtSXVtUEh0akdfTzlXV0hydWkzR0dtQ29fNC1RZ3oyU1g5cnQwc19Sb0ZxWEJhSlFIb3QwWkVkWk9UMUVUMEFNVUJLX20zNm1RTjY4cDZhSmZuaGllTFVteWxFQXk3ZHJZ?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-25T15:31:48Z",
+      "summary": "MobiHealthNewsからの最新情報。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3c525ce82ff7"
+    },
+    {
+      "title": "医療サービス・技術の収益は2030年までに5000億ドルを突破へ：マッキンゼー - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXAwWkRJSTR2dmZlaGQ0NkJWd0s5TmNCU1FkYWNJclBlY0JLSlg2UlJULUtLeEYtN0ZRVGNHWWhUSWVHZ1hDYXFBR2lsNmZDQm9yckdSRmNpQ2V5czZ5blpOOEJaR2M2dzJnRlI1czA2YVlDVUlteGJYSUZsNTFfWXhJWHRCYjFuYUF2bl9NUWF3Ym9KVUJKS2l1VVlrM3VqLTZFZA?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-25T18:05:30Z",
+      "summary": "MobiHealthNewsからの最新情報。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1b0284876982"
+    },
+    {
+      "title": "Q&A：デジタルヘルスの進化とEHRの未来について、ジョナサン・ブッシュ氏に聞く - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUFQbjI1clJzSW5pdGpldlIyLVZGRVUxRFFWZWV4d0kzY3dJZE9XM0tFcGNuR2dSSmxUaGtfNGI4X3k5RHY0bjVabE9sVkdDN3pINkFtNUE5VXJEdTA3VS10YXlTVXpXenJWN0hVdkphWjVzeXhEcWdHQmtoTkxvcmtCSVFPZFF2UUFyUmNaSEFuaDhxNE9PMA?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-25T20:19:08Z",
+      "summary": "MobiHealthNewsからの最新情報。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b8dbb5be7ae7"
+    },
+    {
+      "title": "迅速な意思決定を支援するための放射線科および画像データの統合",
+      "link": "https://www.healthcareittoday.com/2026/11/25/integrating-radiology-and-imaging-data-to-support-timely-decision-making/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-25T17:00:58Z",
+      "summary": "Healthcare ITからの最新情報。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0330e3ad3241"
+    },
+    {
+      "title": "TucuviがAIを活用して業務を自動化し、臨床能力を拡大",
+      "link": "https://www.healthcareittoday.com/2026/11/25/tucuvi-uses-ai-to-automate-work-and-expand-clinical-capacity/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-25T16:00:27Z",
+      "summary": "Healthcare ITからの最新情報。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6ec3fd49269a"
+    },
+    {
+      "title": "医療ITインフラは戦略的な意思決定へ：次なる技術投資の前にリーダーが考慮すべきこと",
+      "link": "https://www.healthcareittoday.com/2026/11/25/healthcare-it-infrastructure-is-becoming-a-strategic-decision-what-leaders-need-to-consider-before-the-next-technology-investment/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-25T15:00:46Z",
+      "summary": "Healthcare ITからの最新情報。",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4d1da44b4e79"
+    },
+    {
+      "title": "Waltonが「自律型」取引システムを立ち上げ",
+      "link": "https://www.artificiallawyer.com/2026/11/25/walton-launches-autonomous-transaction-system/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-25T12:14:10Z",
+      "summary": "Waltonが法務業務向けの新しい自律型取引システムを立ち上げました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "82906632eae6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Walton"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Simmons & Simmonsが法制分析ツール「Lex-Ray」をリリース",
+      "link": "https://www.artificiallawyer.com/2026/11/25/simmons-simmons-launches-lex-ray-legislation-tool/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-25T09:34:16Z",
+      "summary": "Simmons & Simmonsが、法制分析ツール「Lex-Ray」をリリースしました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "294f1ca2ad06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Simmons & Simmons"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Tech Specialist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Conclusiveが法務AIの誇大広告（Slop）をレビュー",
+      "link": "https://www.artificiallawyer.com/2026/11/25/conclusive-will-review-your-legal-ai-claims-slop/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-25T07:54:42Z",
+      "summary": "Conclusiveが、法務AIのマーケティング上の主張や出力結果に対するレビューサービスを提供します。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aaf7fc161458",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Conclusive"
+      ],
+      "job_titles": [
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "第10巡回区控訴裁判所がAIのハルシネーション対策として人間による事実確認ルールを導入",
+      "link": "https://www.abajournal.com/news/article/10th-circuit-addresses-ai-hallucinations-with-new-fact-check-rule/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-11-25T21:18:29.180700+00:00Z",
+      "summary": "第10巡回区控訴裁判所が、AIのハルシネーションに対処するため、人間による事実確認の新しいルールを導入しました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5e9eaa784b23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Judge",
+        "Lawyer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "科学者がAIエージェントの境界線を引く場所",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-25T18:52:55Z",
+      "summary": "科学者が自律型AIエージェントの運用上の境界と制限について議論します。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "085bba6f6fed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI",
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "CUGAを活用したインド諸言語対応の音声エージェント",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-25T10:22:09Z",
+      "summary": "IBM Researchが、地域言語サポートを目的としたインド諸言語対応の音声エージェント「CUGA」を発表しました。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7b1bdc5dda43",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "IBM"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "RTX PRO 6000 1基でのInkling 2 Mini山登り法推論",
+      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-25T00:00:00Z",
+      "summary": "RTX PRO 6000上で山登り法による最適化を用いたInkling 2 Miniの推論実行を実証。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5c4ab6468a58",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "vLLMシンガポールミートアップ：高速なプリフィル、エージェントが書いたカーネル、そしてVera Rubinへの道",
+      "link": "https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-11-25T18:03:15Z",
+      "summary": "vLLMシンガポールミートアップの要約。高速なプリフィル、エージェントが作成したカーネル、今後のハードウェアについて議論。",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7b432595f908",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Singapore"
+      ]
+    },
+    {
+      "title": "OpenAI、ChatとWorkの統合に伴いChatGPTのヘビーユーザーに制限がかかる可能性を示唆",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T20:03:27Z",
+      "summary": "OpenAIは、ChatとWork機能の統合により、ChatGPTのヘビーユーザーに対して利用制限がかかる可能性があると警告しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "68617ed988fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Anthropicのダリオ・アモデイ氏、AIへの人間による制御放棄という非難を「不条理」と一蹴",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T19:44:24Z",
+      "summary": "AnthropicのCEOダリオ・アモデイ氏が、AIシステムが人間による制御を放棄しているという主張を否定しました。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bac2d3e3f4a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "クリスマスに子供へAI玩具をプレゼントしたい？ニューヨークでは禁止",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T18:11:46Z",
+      "summary": "ニューヨーク州の規制が、ホリデーシーズンの子供向けAI玩具の販売に影響を与えています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fd530c75c77a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Character.AIのユーザーのプライベートチャットを競売にかける計画に州司法長官らが異議",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T17:35:58Z",
+      "summary": "各州の司法長官が、ユーザーのチャットデータを競売にかけるというCharacter.AIの提案に対して異議を唱えています。",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a07adeabc9e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [
+        "Character.AI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "AIデータセンターの構築が困難になり、ネオクラウド企業が影響を受ける",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T15:41:43Z",
+      "summary": "AIデータセンターやネオクラウドプロバイダーが直面している建設およびインフラの課題について議論します。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "45abf29e2969",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "AmazonとMeta、AIエージェント「Muse」のブロック解除に向け協議中と報じられる",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T14:10:18Z",
+      "summary": "AmazonとMetaが、AIエージェント「Muse」に対するブロックの解除に向けて交渉を行っています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0cb60670470d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Amazon",
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "ジェンスン・フアン氏とNvidiaがMegaspeedについて依然として答えなければならない疑問",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T13:00:00Z",
+      "summary": "Megaspeedに関して、NvidiaとCEOのジェンスン・フアン氏がまだ回答していない疑問点を検証します。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4621f767e4cf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "「バイブコーディング」はシンセサイザーのオープンソース化を標準にしたのか？ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczFzZ0lubUVmd2VXcW56UW15a0NJZ0VaOEhmQ1JPdkFjeWtFZndmN1pSdm1UYlRvcHVfeVRpckl2RUFraGVINml4d3c3WmI5MDhDaGhvcDhMU2dIU1NjLW1UdXY3VUZ2d0R4S3ItTGFmUWMtYXpaRmVXMGZwVjNnb0QwVTNZNHFOdXpMVFFjMmVES1hyWnItaC1jcDhZNkE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T13:00:00Z",
+      "summary": "バイブコーディングがソフトウェアシンセサイザーにおけるオープンソースを標準として確立したのかを探ります。",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d7ffb985e4bd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "NothingがAIイヤホンと充電ケースの全貌を公開 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEtjZU45eVl3cURKRjJmcHV6SXNVYVFjUldfS0tUZFB3LXJwOE55UVVXYkxWZVlXMjQ0di16ZlZ1cHZZekJPMC1MZE03RHZpMExIMjdJQXJZRkx1N0syYlVjQ25UYW41ejFWbVktU2Y0dTA0V1BncjFtWEFwZlVKZA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T16:00:59Z",
+      "summary": "Nothingが、新しいAI搭載イヤホンと対応する充電ケースを発表しました。",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5209208525c4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Amazon、Muse AIのショッピングブロック解除に向けて協議中と報じられる - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEl1X3IwdWxWdGJBMUg5NGN2YnNob3dxOXpkMURXTFdGYkVBOEYtUEJKRTN5SjVSczdoVUF5X2dUZEdWRVFMVFJ3X1ctZk1nRGhoN0RWSFRtRnM1ZnFDZnZiNVlFMWlIckQ3RllDaWM0MzExelJQQmdvWEM3U3lPajNabEo?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T14:12:33Z",
+      "summary": "AmazonがMuse AIのショッピング統合に対する制限の解除について協議しています。",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b5ad12a4e6b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Claude AIの最大の数学的ブレイクスルーには問題がある。",
+      "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-11-25T09:54:23Z",
+      "summary": "Claude AIの最近の数学的ブレイクスルーに見られる重大な制限を分析します。",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "c4eaed7aea86",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "1700万行のAI生成コード（Slop）が167年前の数学的難問を解決...",
+      "link": "https://www.youtube.com/watch?v=Jatwf_XOncE",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-11-25T17:19:51Z",
+      "summary": "AIが生成したコードが長年の数学的難問を解決したことについて議論します。",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "216f0fe8fff1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "OmniAct: One Policy, One Million Embodiments",
       "link": "https://arxiv.org/abs/2611.33158v1",

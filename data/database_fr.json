@@ -1,6 +1,611 @@
 {
-  "refreshed_at": "2026-11-25 07:18 UTC",
+  "refreshed_at": "2026-11-25 21:25 UTC",
   "items": [
+    {
+      "title": "Migration de notre API Messages vers Rust - Anthropic",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
+      "source": "Anthropic",
+      "region": "🇺🇸",
+      "pub_date": "2026-11-25T17:15:45Z",
+      "summary": "Dernières actualités d'Anthropic.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d092675b087e"
+    },
+    {
+      "title": "L'IA dans la santé a besoin de normes de sécurité universelles - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOUY4OVZBbVVySGpuVEExRVQ0NkVhX2NmSS02LWJWTXpFdFNtSXVtUEh0akdfTzlXV0hydWkzR0dtQ29fNC1RZ3oyU1g5cnQwc19Sb0ZxWEJhSlFIb3QwWkVkWk9UMUVUMEFNVUJLX20zNm1RTjY4cDZhSmZuaGllTFVteWxFQXk3ZHJZ?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-25T15:31:48Z",
+      "summary": "Dernières actualités de MobiHealthNews.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "3c525ce82ff7"
+    },
+    {
+      "title": "Les revenus des services de santé et de la technologie dépasseront les 500 milliards de dollars d'ici 2030 : McKinsey - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXAwWkRJSTR2dmZlaGQ0NkJWd0s5TmNCU1FkYWNJclBlY0JLSlg2UlJULUtLeEYtN0ZRVGNHWWhUSWVHZ1hDYXFBR2lsNmZDQm9yckdSRmNpQ2V5czZ5blpOOEJaR2M2dzJnRlI1czA2YVlDVUlteGJYSUZsNTFfWXhJWHRCYjFuYUF2bl9NUWF3Ym9KVUJKS2l1VVlrM3VqLTZFZA?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-25T18:05:30Z",
+      "summary": "Dernières actualités de MobiHealthNews.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "1b0284876982"
+    },
+    {
+      "title": "Q&A : Jonathan Bush sur l'évolution de la santé numérique et l'avenir des dossiers médicaux électroniques (DME) - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUFQbjI1clJzSW5pdGpldlIyLVZGRVUxRFFWZWV4d0kzY3dJZE9XM0tFcGNuR2dSSmxUaGtfNGI4X3k5RHY0bjVabE9sVkdDN3pINkFtNUE5VXJEdTA3VS10YXlTVXpXenJWN0hVdkphWjVzeXhEcWdHQmtoTkxvcmtCSVFPZFF2UUFyUmNaSEFuaDhxNE9PMA?oc=5",
+      "source": "MobiHealthNews",
+      "region": "🏥",
+      "pub_date": "2026-11-25T20:19:08Z",
+      "summary": "Dernières actualités de MobiHealthNews.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "b8dbb5be7ae7"
+    },
+    {
+      "title": "Intégration de la radiologie et des données d'imagerie pour faciliter la prise de décision en temps opportun",
+      "link": "https://www.healthcareittoday.com/2026/11/25/integrating-radiology-and-imaging-data-to-support-timely-decision-making/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-25T17:00:58Z",
+      "summary": "Dernières actualités de Healthcare IT.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0330e3ad3241"
+    },
+    {
+      "title": "Tucuvi utilise l'IA pour automatiser le travail et étendre la capacité clinique",
+      "link": "https://www.healthcareittoday.com/2026/11/25/tucuvi-uses-ai-to-automate-work-and-expand-clinical-capacity/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-25T16:00:27Z",
+      "summary": "Dernières actualités de Healthcare IT.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "6ec3fd49269a"
+    },
+    {
+      "title": "L'infrastructure informatique de santé devient une décision stratégique : ce que les dirigeants doivent considérer avant le prochain investissement technologique",
+      "link": "https://www.healthcareittoday.com/2026/11/25/healthcare-it-infrastructure-is-becoming-a-strategic-decision-what-leaders-need-to-consider-before-the-next-technology-investment/",
+      "source": "Healthcare IT",
+      "region": "🏥",
+      "pub_date": "2026-11-25T15:00:46Z",
+      "summary": "Dernières actualités de Healthcare IT.",
+      "persona": "🏥 Healthcare",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4d1da44b4e79"
+    },
+    {
+      "title": "Walton lance un système de transaction « autonome »",
+      "link": "https://www.artificiallawyer.com/2026/11/25/walton-launches-autonomous-transaction-system/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-25T12:14:10Z",
+      "summary": "Walton lance un nouveau système de transaction autonome pour les opérations juridiques.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "82906632eae6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Walton"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Counsel"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Simmons & Simmons lance l'outil de législation Lex-Ray",
+      "link": "https://www.artificiallawyer.com/2026/11/25/simmons-simmons-launches-lex-ray-legislation-tool/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-25T09:34:16Z",
+      "summary": "Simmons & Simmons lance Lex-Ray, un outil d'analyse de la législation.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "294f1ca2ad06",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Simmons & Simmons"
+      ],
+      "job_titles": [
+        "Lawyer",
+        "Legal Tech Specialist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Conclusive examinera vos « inepties » de déclarations marketing sur l'IA juridique",
+      "link": "https://www.artificiallawyer.com/2026/11/25/conclusive-will-review-your-legal-ai-claims-slop/",
+      "source": "Artificial Lawyer",
+      "region": "⚖️",
+      "pub_date": "2026-11-25T07:54:42Z",
+      "summary": "Conclusive propose des services de révision pour les déclarations marketing et les résultats de l'IA juridique.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "aaf7fc161458",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal"
+      ],
+      "companies": [
+        "Conclusive"
+      ],
+      "job_titles": [
+        "Lawyer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Le 10e circuit s'attaque aux hallucinations de l'IA avec une nouvelle règle de vérification humaine des faits",
+      "link": "https://www.abajournal.com/news/article/10th-circuit-addresses-ai-hallucinations-with-new-fact-check-rule/",
+      "source": "ABA Journal AI",
+      "region": "⚖️",
+      "pub_date": "2026-11-25T21:18:29.180700+00:00Z",
+      "summary": "Le 10e circuit met en place une nouvelle règle de vérification humaine pour faire face aux hallucinations de l'IA.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5e9eaa784b23",
+      "is_ai_relevant": true,
+      "industries": [
+        "Legal",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Judge",
+        "Lawyer"
+      ],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Où les scientifiques fixent-ils la limite des agents IA ?",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-25T18:52:55Z",
+      "summary": "Les scientifiques discutent des limites opérationnelles et des contraintes des agents IA autonomes.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "085bba6f6fed",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Allen Institute for AI",
+        "Hugging Face"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "Data Scientist"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Un agent vocal indic avec CUGA",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-25T10:22:09Z",
+      "summary": "IBM Research présente CUGA, un agent vocal indic conçu pour la prise en charge des langues régionales.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "7b1bdc5dda43",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Hugging Face",
+        "IBM"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Inférence d'Inkling 2 Mini par ascension de collines sur un seul RTX PRO 6000",
+      "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "region": "💻",
+      "pub_date": "2026-11-25T00:00:00Z",
+      "summary": "Démontre l'exécution de l'inférence Inkling 2 Mini avec une optimisation par ascension de collines sur un RTX PRO 6000.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5c4ab6468a58",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Rencontre vLLM à Singapour : pré-remplissage plus rapide, noyaux écrits par des agents et la route vers Vera Rubin",
+      "link": "https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin/",
+      "source": "PyTorch Blog",
+      "region": "💻",
+      "pub_date": "2026-11-25T18:03:15Z",
+      "summary": "Résumé de la rencontre vLLM à Singapour abordant le pré-remplissage plus rapide, les noyaux écrits par des agents et le matériel à venir.",
+      "persona": "🔬 Research",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "7b432595f908",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": [
+        "Singapore"
+      ]
+    },
+    {
+      "title": "OpenAI prévient que les utilisateurs intensifs de ChatGPT pourraient atteindre leurs limites plus tôt en fusionnant Chat et Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T20:03:27Z",
+      "summary": "OpenAI met en garde les utilisateurs intensifs de ChatGPT concernant les limites d'utilisation dues à la fusion des fonctionnalités Chat et Work.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "68617ed988fe",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "OpenAI"
+      ],
+      "job_titles": [
+        "CTO",
+        "Product Manager"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Dario Amodei d'Anthropic qualifie d'« absurdes » les accusations d'abandon du contrôle humain à l'IA",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T19:44:24Z",
+      "summary": "Le PDG d'Anthropic, Dario Amodei, rejette les affirmations selon lesquelles les systèmes d'IA privent l'humain de son contrôle.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "bac2d3e3f4a6",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "CEO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Envie d'acheter un jouet IA à votre enfant pour Noël ? Pas à New York",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T18:11:46Z",
+      "summary": "Les restrictions de l'État de New York impactent la vente de jouets IA pour enfants pendant les fêtes.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": true,
+      "cta_text": "Read Article",
+      "item_id": "fd530c75c77a",
+      "is_ai_relevant": true,
+      "industries": [
+        "Retail",
+        "Government"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Le projet de Character.AI de mettre aux enchères les chats privés des utilisateurs contesté par les procureurs généraux des États",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T17:35:58Z",
+      "summary": "Les procureurs généraux des États contestent la proposition de Character.AI de vendre aux enchères les données de chat des utilisateurs.",
+      "persona": "⚖️ Policy & Law",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "a07adeabc9e7",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Government",
+        "Legal"
+      ],
+      "companies": [
+        "Character.AI"
+      ],
+      "job_titles": [],
+      "locations": [
+        "United States"
+      ]
+    },
+    {
+      "title": "Il devient de plus en plus difficile de construire des centres de données pour l'IA, et les néonuages le ressentent",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T15:41:43Z",
+      "summary": "Aborde les défis de construction et d'infrastructure auxquels font face les centres de données d'IA et les fournisseurs de néonuages.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "45abf29e2969",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Amazon et Meta seraient en pourparlers pour lever le blocus sur l'agent IA Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T14:10:18Z",
+      "summary": "Amazon et Meta négocient la levée des blocages sur l'agent IA Muse.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "0cb60670470d",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Amazon",
+        "Meta"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Les questions auxquelles Jensen Huang et Nvidia devront encore répondre concernant Megaspeed",
+      "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T13:00:00Z",
+      "summary": "Examine les questions sans réponse pour Nvidia et son PDG Jensen Huang au sujet de Megaspeed.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "4621f767e4cf",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Semiconductors"
+      ],
+      "companies": [
+        "Nvidia"
+      ],
+      "job_titles": [
+        "CEO",
+        "CTO"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Le « vibe coding » a-t-il fait de l'open source la nouvelle norme pour les synthétiseurs ? - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczFzZ0lubUVmd2VXcW56UW15a0NJZ0VaOEhmQ1JPdkFjeWtFZndmN1pSdm1UYlRvcHVfeVRpckl2RUFraGVINml4d3c3WmI5MDhDaGhvcDhMU2dIU1NjLW1UdXY3VUZ2d0R4S3ItTGFmUWMtYXpaRmVXMGZwVjNnb0QwVTNZNHFOdXpMVFFjMmVES1hyWnItaC1jcDhZNkE?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T13:00:00Z",
+      "summary": "Explore si le codage intuitif a fait de l'open source la norme pour les synthétiseurs logiciels.",
+      "persona": "💻 Developer",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "d7ffb985e4bd",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Media & Entertainment"
+      ],
+      "companies": [],
+      "job_titles": [
+        "Developer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "Nothing offre un aperçu complet de ses écouteurs IA et de son boîtier de charge - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEtjZU45eVl3cURKRjJmcHV6SXNVYVFjUldfS0tUZFB3LXJwOE55UVVXYkxWZVlXMjQ0di16ZlZ1cHZZekJPMC1MZE03RHZpMExIMjdJQXJZRkx1N0syYlVjQ25UYW41ejFWbVktU2Y0dTA0V1BncjFtWEFwZlVKZA?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T16:00:59Z",
+      "summary": "Nothing dévoile ses nouveaux écouteurs compatibles avec l'IA et leur étui de chargement associé.",
+      "persona": "🎨 Creator",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "5209208525c4",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "Amazon serait en pourparlers pour mettre fin au blocage des achats de l'IA Muse - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEl1X3IwdWxWdGJBMUg5NGN2YnNob3dxOXpkMURXTFdGYkVBOEYtUEJKRTN5SjVSczdoVUF5X2dUZEdWRVFMVFJ3X1ctZk1nRGhoN0RWSFRtRnM1ZnFDZnZiNVlFMWlIckQ3RllDaWM0MzExelJQQmdvWEM3U3lPajNabEo?oc=5",
+      "source": "The Verge AI",
+      "region": "📰",
+      "pub_date": "2026-11-25T14:12:33Z",
+      "summary": "Amazon discute de la fin des restrictions sur l'intégration des achats de l'IA Muse.",
+      "persona": "💼 Enterprise",
+      "raw_entry": {},
+      "metrics": "",
+      "is_rising": false,
+      "cta_text": "Read Article",
+      "item_id": "b5ad12a4e6b1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech",
+        "Retail"
+      ],
+      "companies": [
+        "Amazon"
+      ],
+      "job_titles": [],
+      "locations": []
+    },
+    {
+      "title": "La plus grande avancée mathématique de Claude AI présente un problème.",
+      "link": "https://www.youtube.com/watch?v=hwWlEuI359w",
+      "source": "Two Minute Papers",
+      "region": "📺",
+      "pub_date": "2026-11-25T09:54:23Z",
+      "summary": "Analyse une limite importante découverte dans la récente avancée mathématique de Claude AI.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "c4eaed7aea86",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [
+        "Anthropic"
+      ],
+      "job_titles": [
+        "AI Researcher",
+        "ML Engineer"
+      ],
+      "locations": []
+    },
+    {
+      "title": "17 millions de lignes de déchets générés par l'IA viennent de résoudre un problème mathématique vieux de 167 ans...",
+      "link": "https://www.youtube.com/watch?v=Jatwf_XOncE",
+      "source": "Fireship AI",
+      "region": "📺",
+      "pub_date": "2026-11-25T17:19:51Z",
+      "summary": "Discute du code généré par l'IA qui résout un problème mathématique de longue date.",
+      "persona": "🔬 Research",
+      "metrics": "",
+      "raw_entry": {},
+      "is_rising": false,
+      "cta_text": "Watch Video",
+      "item_id": "216f0fe8fff1",
+      "is_ai_relevant": true,
+      "industries": [
+        "Tech"
+      ],
+      "companies": [],
+      "job_titles": [
+        "AI Researcher",
+        "Developer"
+      ],
+      "locations": []
+    },
     {
       "title": "OmniAct : une politique, un million d'incarnations",
       "link": "https://arxiv.org/abs/2611.33158v1",
